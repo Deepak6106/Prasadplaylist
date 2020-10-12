@@ -1,7 +1,6 @@
 
 #EXTM3U
 
-
 -v1a1/mono.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://www.tatasky.com/s3-api/v1/assets/channels/utv-hd.gif" group-title="IND. MOVIES", UTV HD
@@ -26,4 +25,3 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BANGLA ENT.", R Plus Gold [IN]
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
-
