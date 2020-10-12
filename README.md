@@ -22,7 +22,6 @@ https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TkRBcZX.jpg" group-title="IND. MOVIES", MANORANJAN TV
 https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="IND. MOVIES", MAHA MOVIE
-https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
+
 
 #
