@@ -2214,3 +2214,4 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad united states", United States: Beach TV (CSULB)
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+http://indtv.online/jiotv/jtv/Jio_Exclusive.m3u8
