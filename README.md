@@ -1,6 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 
+#EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.prasadiptv
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SET HD
 https://bit.ly/3fKTNU8seTHd
@@ -55,9 +56,6 @@ https://bit.ly/3j8sIx7sd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SIX HD
 https://bit.ly/3h6sIXHd#EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Marathi", Maiboli
 http://m-c08-j2apps.s.llnwi.net/hls/1759.Maiboli.in_480p/index.m3u8
@@ -188,14 +186,8 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodHD/247.m3u8/Level(3670016)?
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Housefull Movies
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Bollywood.in
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Hindi Movies
-http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", ABZY Dhakad
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in_480p/index.m3u8
@@ -440,11 +432,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Katyayani
 https://m-c08-j2apps.s.llnwi.net/hls/7009.KaatyaniTV.in_480p/index.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", ITN
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
 
@@ -553,9 +540,6 @@ http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Santhora TV (DE)
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 
@@ -606,9 +590,6 @@ http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTM3U
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", |IN| Star sports hindi FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7888
@@ -645,10 +626,6 @@ http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/8015
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", |IN| Star bharat FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/11308
-#EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", ITN
 http://cdncities.com/itndvr2/itndvr2/playlist.m3u8
@@ -704,9 +681,6 @@ http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Dhamaal
-http://linear06hun-lh.akamaihd.net/i/dhamaal_1@665243/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Ekta TV
 http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
 
@@ -758,9 +732,6 @@ http://livematrix.in:1935/live/sangamamtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Sanjha Punjab
 http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Santhora TV (DE)
-http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Sardari TV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 
@@ -811,9 +782,6 @@ http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Subrang TV (USA)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTM3U
-
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", |IN| Star sports hindi FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/7888
@@ -850,99 +818,21 @@ http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/8015
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", |IN| Star bharat FHD
 http://webo.asia:80/b3:d7:3b:f1:78:17/twrpIAsO4d/11308
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="BANGLA (प्रसाद)", Sangsad TV [BD]
-https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="BANGLA (प्रसाद)", BTV WORLD [BD]
-https://ott.bingebd.com:443/live/ngrp:btv_world_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/a17x59hbhvzf9it/atn_bangla.png" group-title="BANGLA (प्रसाद)", ATN BANGLA [BD]
-https://ott.bingebd.com:443/live/ngrp:atn_bangla_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png" group-title="BANGLA (प्रसाद)", CHANNEL I HD [BD]
-https://ott.bingebd.com:443/live/ngrp:channel_i_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7ftip0g8mwytt2r/ekushey_tv.png" group-title="BANGLA (प्रसाद)", EKUSHEY TV [BD]
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/2jqhua6a0wrtgz5/ntv_bd.png" group-title="BANGLA (प्रसाद)", NTV [BD]
-https://ott.bingebd.com:443/live/ngrp:ntv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png" group-title="BANGLA (प्रसाद)", RTV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:rtv_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png" group-title="BANGLA (प्रसाद)", BOISHAKHI TV [BD]
 https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qx0fxyv7rdx2uwi/bangla_vision.png" group-title="BANGLA (प्रसाद)", BANGLA VISION [BD]
-https://ott.bingebd.com:443/live/ngrp:bangla_vision_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png" group-title="BANGLA (प्रसाद)", DESH TV [BD]
-https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/jjr5835pbth49tm/my_tv_bd.png" group-title="BANGLA (प्रसाद)", MY TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:my_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/r93ricvdm6l3n7b/mohona_tv.png" group-title="BANGLA (प्रसाद)", MOHONA TV [BD]
-https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tnbtox1w21v8233/maasranga_tv_bd.png" group-title="BANGLA (प्रसाद)", MAASRANGA TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:maasranga_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png" group-title="BANGLA (प्रसाद)", CHANNEL 9 HD [BD]
-https://ott.bingebd.com:443/live/ngrp:channel_9_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bddi85vdtvfr785/gazi-tv-bd.png" group-title="BANGLA (प्रसाद)", GAZI TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png" group-title="BANGLA (प्रसाद)", ASIAN TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:asian_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/qpe0m526qc1tral/sa_tv_bd.png" group-title="BANGLA (प्रसाद)", SA TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:sa_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bbkr8ohjdj7yzsa/deepto_tv_bd.png" group-title="BANGLA (प्रसाद)", DEEPTO TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="BANGLA (प्रसाद)", BANGLA TV HD [BD]
 https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA (प्रसाद)", NAGORIK TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA (प्रसाद)", ATN NEWS [BD]
-https://ott.bingebd.com:443/live/ngrp:atn_news_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA (प्रसाद)", INDEPENDENT TV [BD]
-https://ott.bingebd.com:443/live/ngrp:independent_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="BANGLA (प्रसाद)", SOMOY TV [BD]
-https://ott.bingebd.com:443/live/ngrp:somoy_news_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png" group-title="BANGLA (प्रसाद)", CHANNEL 24 [BD]
 https://ott.bingebd.com:443/live/ngrp:channel_24_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA (प्रसाद)", EKATTOR TV HD [BD]
 https://ott.bingebd.com:443/live/ngrp:ekattor_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA (प्रसाद)", JAMUNA TV [BD]
-https://ott.bingebd.com:443/live/ngrp:jamuna_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLA (प्रसाद)", NEWS 24 HD [BD]
-https://ott.bingebd.com:443/live/ngrp:news_24_hd_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="BANGLA (प्रसाद)", DBC NEWS HD [BD]
-https://ott.bingebd.com:443/live/ngrp:dbc_news_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png" group-title="BANGLA (प्रसाद)", DURONTO TV [BD]
-https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/hsd251vq24vfr0j/bijoy_tv.png" group-title="BANGLA (प्रसाद)", BIJOY TV HD [BD]
-https://ott.bingebd.com:443/live/ngrp:bijoy_tv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/31k6q9ajx36he7i/ananda-tv-bd.png" group-title="BANGLA (प्रसाद)", ANANDA TV HD [BD]
 https://ott.bingebd.com:443/live/ngrp:probashibangla_all/playlist.m3u8
@@ -953,68 +843,44 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/atnbanglauk11.jpg?x91288" group-title="BANGLA (प्रसाद)", ATN BANGLA [UK]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/live-orgin/atnbanglauk-off.stream/chunks.m3u8?@prasadtv.live
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" group-title="BANGLA (प्रसाद)", Star Jalsha SD [IN]
-http://103.70.140.27:8080/hls/tcm_starjalsha_cm_ip.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA (प्रसाद)", Star Jalsha HD [IN] (1)
 https://ott.bingebd.com:443/live/ngrp:star_jalsha_hd_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA (प्रसाद)", Star Jalsha HD [IN] (2)
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA (प्रसाद)", Zee Bangla SD [IN]
-http://103.70.140.27:8080/hls/tcm_zeebangla_cm_ip.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA (प्रसाद)", Zee Bangla HD [IN] (2)
-https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA (प्रसाद)", Colors Bangla SD [IN] (1)
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA (प्रसाद)", Colors Bangla SD [IN] (2)
-https://ott.bingebd.com:443/live/ngrp:colors_bangla_all/chunklist_b1228000.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA (प्रसाद)", Colors Bangla HD [IN]
-https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA (प्रसाद)", Sony Aath [IN] (1)
-https://ott.bingebd.com:443/live/ngrp:sony_aath_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA (प्रसाद)", Sony Aath [IN] (2)
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA (प्रसाद)", Akash Aath [IN]
-https://ott.bingebd.com:443/live/ngrp:dillagi_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SAB HD
+https://bit.ly/3fBsABhd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BANGLA (प्रसाद)", DD Bangla [IN]
-https://load.airtel.tv/ddbangla/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY PAL
+https://bit.ly/30a3wsONyPal
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA (प्रसाद)", Ruposhi Bangla [IN]
-https://ott.bingebd.com:443/live/ngrp:ruposhi_bangla_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY MARATHI
+https://bit.ly/32JsoNYMaraTHi
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="BANGLA (प्रसाद)", Khusboo Bangla [IN]
-https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY AATH
+https://bit.ly/2ORsONyaAaTh
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA (प्रसाद)", Jalsha Movies [IN]
-https://ott.bingebd.com:443/live/ngrp:jalsha_movies_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY YAY HIN
+https://bit.ly/2WmsoNYYaY
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="BANGLA (प्रसाद)", Tollywood [IN]
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY MAX HD
+https://bit.ly/32bsOnymAXhd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2BPz1tU.jpg" group-title="BANGLA (प्रसाद)", Orange Bangla [IN]
-https://streamitv.multitvsolution.in/idvo/orangetv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BANGLA (प्रसाद)", R Plus Gold [IN]
-https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY MAX 2
+https://bit.ly/30dsoNYmaX2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="BANGLA (प्रसाद)", ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/bk055soezukgi45/71120680.png" group-title="BANGLA (प्रसाद)", Ekhon Kolkata [IN]
 http://cdn.live5.in:1935/live/sun6/chunklist_w1143835070.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/Kolkata_TV.svg/revision/latest/top-crop/width/220/height/220?cb=20200609063455" group-title="BANGLA (प्रसाद)", Kolkata TV
-https://load.airtel.tv/kolkatatv/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uPgH7dT.png" group-title="BANGLA (प्रसाद)", Bangla Time [IN]
 https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
@@ -1094,38 +960,8 @@ http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/proxy/O6EkkWUTkKnwbE2dNBDXUkAZnaZhMkmSlPqg8WrvcY9syshAXFoKSFvjvva8bOClrc0TObv_OEVZzZ4q91p1rwvWmcmTj4YRxkrCFIKU2Zf-aGdJGPtvDOQ7hw" group-title="BANGLA (प्रसाद)", Ktv bangla HD [BD]
 https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/StarPlus_logo.jpg" group-title="INDIAN (प्रसाद)", Star Plus
-https://ott.bingebd.com:443/live/ngrp:star_plus_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="INDIAN (प्रसाद)", Star Plus HD
-https://ott.bingebd.com:443/live/ngrp:star_plus_hd_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Star_Bharat_Official_Logo.jpg" group-title="INDIAN (प्रसाद)", Star Bharat
-https://ott.bingebd.com:443/live/ngrp:star_bharat_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg" group-title="INDIAN (प्रसाद)", Sony
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
-
-#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="INDIAN (प्रसाद)", Sony HD
-https://ott.bingebd.com:443/live/ngrp:sony_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sony_SAB_%28TV%29.png" group-title="INDIAN (प्रसाद)", Sony SAB
-https://ott.bingebd.com:443/live/ngrp:sab_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D9%84%D8%A9_%D8%A8%D8%B1%D8%B3.png/revision/latest?cb=20170604044941" group-title="INDIAN (प्रसाद)", Colors
-https://ott.bingebd.com:443/live/ngrp:colors_asia_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="INDIAN (प्रसाद)", Colors HD
-https://ott.bingebd.com:443/live/ngrp:colors_hd_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6d/ColorsRisthey.png/revision/latest/scale-to-width-down/340?cb=20190307235506" group-title="INDIAN (प्रसाद)", Colors Rishtey
-https://ott.bingebd.com:443/live/ngrp:rishtey_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="INDIAN (प्रसाद)", Zee TV
-https://ott.bingebd.com/live/ngrp:zee_tv_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="INDIAN (प्रसाद)", Zee TV HD
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeetvhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/vgwu01lpb7imo8l/Shemaroo.png" group-title="INDIAN (प्रसाद)", Shemaroo TV
 https://cdn.live.shemaroome.com/shemarootv/selshemarootv_1_701/chunklist.m3u8
@@ -1139,20 +975,11 @@ http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="INDIAN (प्रसाद)", DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-axn.png" group-title="WORLD (प्रसाद)", AXN ASIA
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-warnertv.png" group-title="WORLD (प्रसाद)", WARNER TV HD
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Comedy_Central_2011_Logo.png" group-title="WORLD (प्रसाद)", COMEDY CENTRAL
 https://ott.bingebd.com/live/ngrp:comedy_central_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="WORLD (प्रसाद)", FOX Life HD
 http://live-ng-01.more.tv/hls/Fox_Life_HD/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fox.png" group-title="WORLD (प्रसाद)", FOX THAI
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/FOX-Channel-Germany.svg/1200px-FOX-Channel-Germany.svg.png" group-title="WORLD (प्रसाद)", FOX HD [RUSSIA]
 http://live-ng-01.more.tv/hls/FOX_HD/master.m3u8
@@ -1166,35 +993,8 @@ http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Mai
 #EXTINF:-1 tvg-logo="https://www.hum.tv/wp-content/uploads/2018/10/hum-tv-logo-512x512.png" group-title="WORLD (प्रसाद)", HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRmLpc8NFt3xsWW77Srt7hc3K4kcThTxhZVHA&usqp=CAU" group-title="WORLD (प्रसाद)", Hum Sitery
-https://ott.bingebd.com:443/live/ngrp:hum_sitaray_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS1_kesiLfXJ9Wu-BF-AD4ne785WSMqnihnFxlV62Vh0V_UYEb1&usqp=CAU" group-title="WORLD (प्रसाद)", PTV World
-https://ott.bingebd.com/live/ngrp:ptv_world_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcPH6YON1RUCOHjLcZ1P1_9Lfbw_KacCU4DYLjp9piHD9B7RjV&usqp=CAU" group-title="WORLD (प्रसाद)", PTV Home
-https://ott.bingebd.com/live/ngrp:ptv_home_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="WORLD (प्रसाद)", PTV Global
-https://ott.bingebd.com/live/ngrp:ptv_global_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DEu41tl.png" group-title="WORLD (प्रसाद)", PTV News
-https://ott.bingebd.com/live/ngrp:ptv_news_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTst9YS4csrU9magWhJI1hbe8ELtlrqYvrpzQ4DtawJT7WMrMxg&usqp=CAU" group-title="WORLD (प्रसाद)", ARY Zindagi
-https://ott.bingebd.com/live/ngrp:ary_zindigi_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSB57Ufn7cL7DZTiZ8wflmL68sse-FI7TTGpNrd0uqoQL6sVmfj&usqp=CAU" group-title="WORLD (प्रसाद)", ARY Digital
-https://ott.bingebd.com/live/ngrp:ary_asia_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BWbFQMS.jpg" group-title="WORLD (प्रसाद)", Ary Family
 http://95.211.211.168/live/aryfamily0071/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSpuZLuIn9FHHlI5pLDSDogQR0vxsTaPNAErfukF19ZMt2zJdr0&usqp=CAU" group-title="WORLD (प्रसाद)", Rai Italia
-https://ott.bingebd.com/live/ngrp:rai_italia_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRMSdz9DT_vpqz8u3sENPROUUV--LSH74JfGiNZTC9gF6AJ5pmz&usqp=CAU" group-title="WORLD (प्रसाद)", YTN World
-https://ott.bingebd.com/live/ngrp:ytn_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cookie-tv.com/wp-content/uploads/cookie-tv.png" group-title="WORLD (प्रसाद)", Cookie Asia
 https://d2p9n7qazh0vue.cloudfront.net/lt/ngrp:c2c4c9be-de30-4059-a430-dac9ed238eac_service/playlist.m3u8
@@ -1250,39 +1050,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 #EXTINF:-1 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="WORLD (प्रसाद)", Trece
 http://174.138.118.252/live/trece.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="IND. MOVIES (प्रसाद)", Star Gold HD
-https://ott.bingebd.com:443/live/ngrp:star_gold_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="IND. MOVIES (प्रसाद)", Star Gold UK
-https://ott.bingebd.com/live/ngrp:star_gold_intl_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Stargold2.jpeg" group-title="IND. MOVIES (प्रसाद)", Star Gold 2
-https://ott.bingebd.com:443/live/ngrp:movies_ok_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES (प्रसाद)", Sony Max
-http://103.70.140.27:8080/hls/tcm_sonymax_cm_ip.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="IND. MOVIES (प्रसाद)", Sony Max HD
-https://ott.bingebd.com:443/live/ngrp:sony_max_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sony_Max_2_India.jpg" group-title="IND. MOVIES (प्रसाद)", Sony Max 2
-https://ott.bingebd.com:443/live/ngrp:sony_max_2_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES (प्रसाद)", SONY WAH
-https://load.airtel.tv/sonywah/smil:common.smil/chunklist_b896000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAvEjqn1pmZ0Y0sKbxKTqLoICHC1AVAoZMpu39uaa4HRfHho-a&usqp=CAU" group-title="IND. MOVIES (प्रसाद)", B4U Movies
-https://ott.bingebd.com:443/live/ngrp:b4u_movies_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-ZaBbQyfLbHszKJkeVI_1QaHhb9-rE6Wv3krPpqN_Lu6x4pBD&usqp=CAU" group-title="IND. MOVIES (प्रसाद)", Manoranjan TV
-https://ott.bingebd.com/live/ngrp:manoranjan_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQtQzwy7mbf4oohpyLiaxyFSyjqzKKmuxknccXHkokhKfUeOMc_&usqp=CAU" group-title="IND. MOVIES (प्रसाद)", Monoranjan Movies
-https://ott.bingebd.com:443/live/ngrp:manoranjan_movies_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQs6iuXnpTVJ_euai2qFEHcIBYkVlCkigqbmE0G_hIkq2gUe25S&usqp=CAU" group-title="IND. MOVIES (प्रसाद)", Enter 10
-https://ott.bingebd.com/live/ngrp:enter_ten_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://od.lk/s/NjZfMjkwNjEyOTBf/BP.jpg" group-title="IND. MOVIES (प्रसाद)", Shemaroo Premiere HD
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 
@@ -1307,23 +1074,8 @@ https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fAYvAQK.png" group-title="IND. MOVIES (प्रसाद)", MAHA MOVIE
 https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
 
-#EXTINF:-1 tvg-logo="https://content3.jdmagicbox.com/comp/navi-mumbai/v1/022pxx22.xx22.130904121133.y3v1/catalogue/cinema-tv-rabale-navi-mumbai-satellite-channels-puloe2a4mr-250.jpg" group-title="IND. MOVIES (प्रसाद)", Cinema TV
-https://load.airtel.tv/cinematvindia/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg" group-title="IND. MOVIES (प्रसाद)", B4U Plus
 http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YDTgl6F.jpg" group-title="IND. MOVIES (प्रसाद)", Bollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8?@prasadtv.live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/drvLxV3.png" group-title="IND. MOVIES (प्रसाद)", Lollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?@prasadtv.live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eDEt9Ai.png" group-title="IND. MOVIES (प्रसाद)", Kollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8?@prasadtv.live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="IND. MOVIES (प्रसाद)", Mollywood
-https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@prasadtv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES (प्रसाद)", MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@prasadtv.live
@@ -1343,9 +1095,6 @@ https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d05
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="WORLD MOVIES (प्रसाद)", MBC Action FHD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@prasadtv.live
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQirrb7mphGUlRzLIeTvs3gKwRVDJCt21kEOj6bNx134xFd4M2M&usqp=CAU" group-title="WORLD MOVIES (प्रसाद)", Movies Now HD
-https://ott.bingebd.com:443/live/ngrp:movies_now_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="WORLD MOVIES (प्रसाद)", Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 
@@ -1354,18 +1103,6 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="WORLD MOVIES (प्रसाद)", ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRRW7bwrKqPK7xc-lJH7h3CxzDftK-bslZXKnYNbwMUOAklu0S6&usqp=CAU" group-title="WORLD MOVIES (प्रसाद)", Lotus Macau
-https://ott.bingebd.com/live/ngrp:macau_lotus_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRFQW_nL-tG692nK9Pi-kKvUd3QO7CFq6Hb6xJ3RXRPORz96yw9&usqp=CAU" group-title="WORLD MOVIES (प्रसाद)", Warner TV
-https://ott.bingebd.com:443/live/ngrp:wb_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR7cxawaQ1xSUyl6Pa1YzGhZQ3HFkqNlCirzlyfFzn7JB8RRASH&usqp=CAU" group-title="WORLD MOVIES (प्रसाद)", HBO
-https://ott.bingebd.com:443/live/ngrp:hbo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png" group-title="WORLD MOVIES (प्रसाद)", FOX MOVIES PREMIUM EN
-https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="WORLD MOVIES (प्रसाद)", Cinemax
 http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/stream_2.m3u8
@@ -1391,29 +1128,11 @@ http://89.106.234.4:80/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/913105665991745536/BawDfdMd_400x400.jpg" group-title="INFOTAINMENT (प्रसाद)", Knowledge Network
 http://knstream1.azureedge.net/knlive/knlive_high.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="INFOTAINMENT (प्रसाद)", Viasat Nature
-http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="INFOTAINMENT (प्रसाद)", Love Nature 4K
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTnqECoI8IWP-QiTPa6Cw6e22MegaQdFtq6M9TUH4ZYqGGabZZY&usqp=CAU" group-title="INFOTAINMENT (प्रसाद)", Sony BBC Earth HD
-https://ott.bingebd.com:443/live/ngrp:sony_bbc_earth_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="INFOTAINMENT (प्रसाद)", Nat Geo
-https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="INFOTAINMENT (प्रसाद)", Nat Geo HD
 http://live-ng-01.more.tv/hls/NGC_HD/master.m3u8?@prasadtv.live
-
-#EXTINF:-1 tvg-logo="https://cdn1.edgedatg.com/aws/v2/natgeowild/Images/decb2139c86ef330b4f8c56ac06e8e9f/284x160-Q75_decb2139c86ef330b4f8c56ac06e8e9f.png" group-title="INFOTAINMENT (प्रसाद)", Nat Geo Wild
-https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/NatGeo_People_logo.png" group-title="INFOTAINMENT (प्रसाद)", Nat Geo People
-https://ott.bingebd.com/live/ngrp:nat_geo_people_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="INFOTAINMENT (प्रसाद)", ANIMAL PLANET
-https://ott.bingebd.com:443/live/ngrp:animal_planet_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT (प्रसाद)", ANIMAL PLANET HD [HINDI]
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
@@ -1436,38 +1155,11 @@ https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1280px-Discovery_Turbo_logo.svg.png" group-title="INFOTAINMENT (प्रसाद)", Discovery Turbo
 https://ott.bingebd.com:443/live/ngrp:discovery_turbo_all/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="INFOTAINMENT (प्रसाद)", TLC HD (English)
-https://ott.bingebd.com:443/live/ngrp:tlc_hd_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT (प्रसाद)", TLC HD [HINDI]
 https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="INFOTAINMENT (प्रसाद)", TLC [Hindi]
-https://ott.bingebd.com:443/live/ngrp:tlc_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="INFOTAINMENT (प्रसाद)", TLC [ENGLISH]
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b5/History_TV18_logo.png" group-title="INFOTAINMENT (प्रसाद)", History TV 18
-https://ott.bingebd.com:443/live/ngrp:history_tv_hd_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="INFOTAINMENT (प्रसाद)", History TV HD
-https://www.livedoomovies.com/02_HISTORYHD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://p.kindpng.com/picc/s/454-4544327_logo-canal-history-2-hd-png-download.png" group-title="INFOTAINMENT (प्रसाद)", History 2 HD
-https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="INFOTAINMENT (प्रसाद)", Fox Life
-https://ott.bingebd.com:443/live/ngrp:fox_life_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRLCa5172AYKrPfgPwgAX5CsBccTeZ6R73Ij_D9-Se2TtV8TEX7&usqp=CAU" group-title="INFOTAINMENT (प्रसाद)", BBC Lifestyle
-https://ott.bingebd.com/live/ngrp:bbc_lifestyle_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="INFOTAINMENT (प्रसाद)", Hum Masala
-https://ott.bingebd.com/live/ngrp:hum_masala_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBDbdvElT5PtG7g65aBce-gV1cs1D1TMGqM4L8tOzfzfTs5dK8&usqp=CAU" group-title="INFOTAINMENT (प्रसाद)", FYI TV 18 HD
-https://ott.bingebd.com/live/ngrp:fyi_hd_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.viasatworld.com/media/1067/historylogo.png" group-title="INFOTAINMENT (प्रसाद)", Viasat History
 http://live-ng-01.more.tv/hls/Viasat_History_HD/index_1.m3u8
@@ -1483,9 +1175,6 @@ https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/mas
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="INFOTAINMENT (प्रसाद)", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zJc5ydx.jpg" group-title="INFOTAINMENT (प्रसाद)", WF
-http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8?@prasadtv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gH3MhSi.png" group-title="INFOTAINMENT (प्रसाद)", ID Fashion
 https://sc.id-tv.kz/IDFashion_38_39.m3u8?@prasadtv.live
@@ -1529,50 +1218,20 @@ http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.strea
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="RELGIOUS (प्रसाद)", Shubhsandesh
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDS (प्रसाद)", DURONTO TV HD
-https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="KIDS (प्रसाद)", Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@prasadtv.live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS (प्रसाद)", Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTriqQiQCfQXMvr_Ak8e-T7vwUSpXsdzf_OYg4S0bhmSXiMpPKv&usqp=CAU" group-title="KIDS (प्रसाद)", Cartoon Network (Hindi)
-https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUDc2IedgFG7neZP1gzxgPmfKwOWOjmDVblPsjdQZsN5NI7PLh&usqp=CAU" group-title="KIDS (प्रसाद)", Pogo
 https://ott.bingebd.com:443/live/ngrp:pogo_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfq48KvLWpPeT7HitixQ08F8487HskZv86vw&usqp=CAU" group-title="KIDS (प्रसाद)", NICK HD
-https://ott.bingebd.com:443/live/ngrp:nick_hd_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="KIDS (प्रसाद)", NICK (Bangla)
-https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRw5Ywd0kn1Yw7hokd_rVx6XbAiWM9cbXf4tUWccAx3cel5eq5A&usqp=CAU" group-title="KIDS (प्रसाद)", Nick Jr
-https://ott.bingebd.com:443/live/ngrp:nick_jr_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="KIDS (प्रसाद)", Sonic (Bangla)
-https://ott.bingebd.com:443/live/ngrp:sonic_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Sony_Yay_Logo.jpg/60px-Sony_Yay_Logo.jpg" group-title="KIDS (प्रसाद)", Sony Yay (Bangla)
-https://ott.bingebd.com:443/live/ngrp:sony_yay_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS (प्रसाद)", BBC Cbeebies
 http://51.52.156.22:8888/http/003
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lcj7mWi.jpg" group-title="KIDS (प्रसाद)", ANIMAX
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RQcaLDO.jpg" group-title="KIDS (प्रसाद)", AniPlus
-http://210.210.155.35/dr9445/h/h02/01.m3u8?@prasadtv.live
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/ctc-kids-logo-D35CD4BEFF-seeklogo.com.png" group-title="KIDS (प्रसाद)", CTC KIDS
 http://live-ng-01.more.tv/hls/CTC_Kids/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS (प्रसाद)", IPL LIVE 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1602535625/ei/aWyEX-inK9La4-EP3ty7mAw/ip/103.120.194.37/id/a50gLTFzO60.5/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgCvrFqefU84M0oVnimFT63yoHOcZ74jRuCS3K0WdWFQECIE8gAmq3mQPKviBdTvyk_MXVUHzTsrtS9fp1783di6TF/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS (प्रसाद)", IPL LIVE 5
 http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86ef3c31e-4af8c0a178661db3b32df38ac2f1a11a-1600616751-1600605951&remote=103.66.177.168
@@ -1580,44 +1239,14 @@ http://103.132.180.245:8080/2/index.m3u8?token=f249ee099ac31671f393eab1dd60d1d86
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS (प्रसाद)", TITAS SPORTS [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/live-orgin/titash.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQosxcXUgQzI7iLlODcLxWhNKoY89QHI43KrEmPXJVpVr_SVG-X&usqp=CAU" group-title="SPORTS (प्रसाद)", Sony Ten 1 HD
-https://ott.bingebd.com:443/live/ngrp:sony_ten_1_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU" group-title="SPORTS (प्रसाद)", Sony Ten 2 HD
-https://ott.bingebd.com:443/live/ngrp:sony_ten_2_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU" group-title="SPORTS (प्रसाद)", Sony Ten 3 HD
-https://ott.bingebd.com:443/live/ngrp:sony_ten_3_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="SPORTS (प्रसाद)", Sony Six HD
-https://ott.bingebd.com:443/live/ngrp:sony_six_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (प्रसाद)", Star Sports 1 HD (1)
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (प्रसाद)", Star Sports 1
 http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS (प्रसाद)", Star Sports 2 HD (1)
-http://103.70.140.27:8080/hls/cm_sports02.m3u8
-
 #EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS (प्रसाद)", Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png" group-title="SPORTS (प्रसाद)", BEIN SPORT HD 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png" group-title="SPORTS (प्रसाद)", BEIN SPORT HD 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png" group-title="SPORTS (प्रसाद)", FOX SPORT 1
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png" group-title="SPORTS (प्रसाद)", FOX SPORT 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports3.png" group-title="SPORTS (प्रसाद)", FOX SPORT 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Kxem8ae.jpg" group-title="SPORTS (प्रसाद)", Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8?@prasadtv.live
@@ -1676,9 +1305,6 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wl0iGsD.png" group-title="NEWS (प्रसाद)", Sky News Extra
 https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?@prasadtv.live
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzDndevzO7-efsDrXyZvrx56BmXz76gqTOT8tFnP35Otma7V8K&usqp=CAU" group-title="NEWS (प्रसाद)", Euro News
-https://ott.bingebd.com/live/ngrp:euro_news_all/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R77S4T4.png" group-title="NEWS (प्रसाद)", France 24 HD
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master_2000.m3u8?@prasadtv.live
 
@@ -1693,12 +1319,6 @@ http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8?@prasadtv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fnxMNd7.png" group-title="NEWS (प्रसाद)", Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8?@prasadtv.live
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="NEWS (प्रसाद)", BBC News
-https://ott.bingebd.com/live/ngrp:bbc_world_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="NEWS (प्रसाद)", CNN
-https://ott.bingebd.com/live/ngrp:cnn_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HuQij93.png" group-title="NEWS (प्रसाद)", NHK WORLD HD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_2M.m3u8?@prasadtv.live
@@ -1783,36 +1403,6 @@ http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?@prasadtv.live
 
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png" group-title="MUSIC (प्रसाद)", RTV Music [BD]
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC (प्रसाद)", Sangeet Bangla [IN]
-https://ott.bingebd.com:443/live/ngrp:sangeet_bangla_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="MUSIC (प्रसाद)", Dhoom Music [IN]
-https://ott.bingebd.com:443/live/ngrp:dhoom_music_all/chunklist_b2128000.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTudCT3P1UbvRXqeH0I6lvPoIC6bUMbPfzxVPHfueI65G3oZZJV&usqp=CAU" group-title="MUSIC (प्रसाद)", Zoom
-https://ott.bingebd.com:443/live/ngrp:zoom_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQTCaE5IZ-lp7bImbjxc_ZgFmHLhM51H_dm5iSODI5XguG_JPb8&usqp=CAU" group-title="MUSIC (प्रसाद)", Zing
-https://ott.bingebd.com/live/ngrp:zing_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="MUSIC (प्रसाद)", B4U Music
-https://ott.bingebd.com:443/live/ngrp:b4u_music_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="MUSIC (प्रसाद)", Music India
-https://ott.bingebd.com:443/live/ngrp:music_india_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2MTTFmEKapIMaRlFFc72hg7rWdp-PuG4XFcNBymgrORZfiUTx&usqp=CAU" group-title="MUSIC (प्रसाद)", 9XM
-https://ott.bingebd.com:443/live/ngrp:9xm_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRQ-4nJohL8IrVe8hD0RG8TuxNE8Dd28I-mzw5z7F0bSDwL7ZR6&usqp=CAU" group-title="MUSIC (प्रसाद)", 9X Jalwa
-https://ott.bingebd.com:443/live/ngrp:9x_jalwa_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzfGgs_rEmtSGXF3ND83x9yqQ-ec-DY5dnYdxcrE-1GD4afm4m&usqp=CAU" group-title="MUSIC (प्रसाद)", MTV Beates
-https://ott.bingebd.com:443/live/ngrp:mtv_beats_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="MUSIC (प्रसाद)", VH1 HD
-https://ott.bingebd.com:443/live/ngrp:vh1_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GPPBEiZ.png" group-title="MUSIC (प्रसाद)", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
@@ -2066,11 +1656,6 @@ http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
 
-#EXTM3U
-
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad united states", United States: 23 ABC (KERO)
 https://content.uplynk.com/channel/ff809e6d9ec34109abfb333f0d4444b5.m3u8
 
@@ -2214,3 +1799,4 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad united states", United States: Beach TV (CSULB)
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+
