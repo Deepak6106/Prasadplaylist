@@ -2818,6 +2818,11 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Canadian TV", The Miracle Channel (Faith)
 https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
-
-
-
+Marathi added
+#EXTM3U
+EXTINF:-1  tvg-id="1146" group-title="Marathi''  "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi
+https://tivimateplaylists.live/SonMart
+#EXTINF:-1  tvg-id="NA" group-title="Marathi' '"https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg",shemaroo Marathibana
+https://tivimateplaylists.live/shemrumarathi
+#EXTINF:-1  tvg-id="441" group-title="Marathi' ' "http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
+https://tivimateplaylists.live/9x-jhks
