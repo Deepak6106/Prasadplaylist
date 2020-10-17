@@ -2710,3 +2710,114 @@ https://watchindia.net:8443/live/53279/56814/2117.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Sony_Max_HD.png" group-title="Hindi", Sony Max HD
 https://watchindia.net:8443/live/53279/56814/788.ts
 
+###christian faith
+https://raw.githubusercontent.com/geonsey/Free2ViewTV/215665e9a265eba440e999d7ea0bfdcf035eb1cc/Free2ViewTV-2020-Alternate.m3u
+❤️❤️❤️CHRISTIAN FAITH💜💜💜
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN_960x960.png?raw=true" group-title="Faith & Spirituality", CBN | CBN Live
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-News_225x225.png?raw=true" group-title="Faith & Spirituality", CBN | CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-Espanol_200x200.png?raw=true" group-title="Faith & Spirituality", CBN | Spanish
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN_200x200.png?raw=true" group-title="Faith & Spirituality", 3ABN | Live
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN-International_200x200.png?raw=true" group-title="Faith & Spirituality", 3ABN | International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN_960x960.png?raw=true" group-title="Faith & Spirituality", CBN | CBN Live
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-News_225x225.png?raw=true" group-title="Faith & Spirituality", CBN | CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-Espanol_200x200.png?raw=true" group-title="Faith & Spirituality", CBN | Spanish
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" group-title="Faith & Spirituality", EWTN | Canada
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/EWTN_450x450.png?raw=true" group-title="Canadian TV", EWTN Canada (Faith)
+http://dyo5cp96eopax.cloudfront.net/p/CANE_760x432_1200k.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/AboutUS_392x392.png?raw=true" group-title="About Us + Extras", Free2View TV!
+https://od.lk/s/MF8yMTYwMjc3OTJf/Free2ViewTV-Channels_200719.mp4
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN_960x960.png?raw=true" group-title="Faith & Spirituality", CBN | CBN Live
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-News_225x225.png?raw=true" group-title="Faith & Spirituality", CBN | CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-Espanol_200x200.png?raw=true" group-title="Faith & Spirituality", CBN | Spanish
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN_200x200.png?raw=true" group-title="Faith & Spirituality", 3ABN | Live
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/3ABN-International_200x200.png?raw=true" group-title="Faith & Spirituality", 3ABN | International
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Atlanta
+https://uni01rtmp.tulix.tv/watc57/watc57/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WATC_390x390.png?raw=true" group-title="Faith & Spirituality", WATC-57 Too | Classic TV
+https://uni01rtmp.tulix.tv/watc57-2/watc57-2/playlist.m3u8?Faith
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN_960x960.png?raw=true" group-title="Faith & Spirituality", CBN | CBN Live
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-News_225x225.png?raw=true" group-title="Faith & Spirituality", CBN | CBN News
+https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CBN-Espanol_200x200.png?raw=true" group-title="Faith & Spirituality", CBN | Spanish
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true" group-title="Nostalgia Flicks", It's At The Movies
+https://59d39900ebfb8.streamlock.net/letsgotothemovies/letsgotothemovies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Faith & Spirituality", The Miracle Channel
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Miracle-Channel_300x300.png?raw=true" group-title="Canadian TV", The Miracle Channel (Faith)
+https://d9ruw6nhj5a52.cloudfront.net/live/live/playlist.m3u8
+
+
+
