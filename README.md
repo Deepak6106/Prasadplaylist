@@ -90,7 +90,7 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", Manoranjan Movies
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", B4U Kadak
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", B4U Kadak 
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", MUSIC INDIA
