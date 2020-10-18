@@ -14,7 +14,8 @@ https://bit.ly/30a3wsONyPal
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY MARATHI
 https://bit.ly/32JsoNYMaraTHi
-
+#EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/marathi/Sony.png" group-title="Marathi", Sony Marathi
+https://watchindia.net:8443/live/53279/56814/919.ts
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY AATH
 https://bit.ly/2ORsONyaAaTh
 
