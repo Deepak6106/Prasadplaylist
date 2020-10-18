@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
-https://1drv.ms/v/s!ArwhL1j8RLspbfEC5TKHHC53LBg
+https://od.lk/s/NTVfMTMxNDEyMjRf/Jab%20Tum%20Chaho%20Song%20-%20Prem%20Ratan%20Dhan%20Payo%20-%20Salman%20Khan%20%26%20Sonam%20Kapoor%20-%20YouTube.MP4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SET HD
 https://bit.ly/3fKTNU8seTHd
