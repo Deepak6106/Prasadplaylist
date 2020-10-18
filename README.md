@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
-https://drive.google.com/file/d/1nc53kfzR_pyFIs2I6XWpeG13K9bxXfjC/view?.M3u
+https://1drv.ms/v/s!ArwhL1j8RLspbfEC5TKHHC53LBg
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SET HD
 https://bit.ly/3fKTNU8seTHd
