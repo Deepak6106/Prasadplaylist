@@ -6,7 +6,7 @@ https://od.lk/s/49bc39c66fc4c2a47cac86e3a261c1fb03631bfda49f1f97419aaaa963f7a252
 https://bit.ly/3 fakt Nu set ह्दय
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SAB HD
-https://bit.ly/3fBsABhd
+https://www.imdb.com/title/tt0796366
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY PAL
 https://bit.ly/30a3wsONyPal
