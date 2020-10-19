@@ -2,7 +2,7 @@
 
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
 https://od.lk/s/49bc39c66fc4c2a47cac86e3a261c1fb03631bfda49f1f97419aaaa963f7a252/video_2020_Oct_19_10_46_38.mp4
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SET HD
+#EXTINF:-1 tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png" group-title="prasad", SONY SET HD
 https://bit.ly/3fKTNU8seTHd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad", SONY SAB HD
