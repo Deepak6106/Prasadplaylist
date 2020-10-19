@@ -4591,16 +4591,3 @@ https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5a0OuD9nY0o/Uin0Wc-dU4I/AAAAAAAADAs/MLGWgU_2d0A/s1600/1920+th
 #EXTM3U
 
-#EXTINF:-1  tvg-id="336" group-title="Marathi " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",STar Parvah
-https://tivimateplaylists.live/starparvah
-#EXTINF:-1  tvg-id="1146" group-title="Marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi
-https://tivimateplaylists.live/SonMart
-#EXTINF:-1  tvg-id="NA" group-title="Marathi " tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg",shemaroo Marathibana
-https://tivimateplaylists.live/shemrumarathi
-#EXTINF:-1  tvg-id="441" group-title="Marathi " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
-https://tivimateplaylists.live/9x-jhks
-#EXTINF:-1  tvg-id="612" group-title="Marathi " tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",Abp Majha
-https://tivimateplaylists.live/abpmajh
-#EXTINF:-1  tvg-id="1155" group-title="Marathi 1s" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png",BBC Marathi
-https://tivimateplaylists.live/bbc-news-marathi
-
