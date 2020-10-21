@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://od.lk/d/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png" group-title="prasad", SONY MARATHI https://bit.ly/32JsoNYMaraTHi
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
-http://13.235.252.115:7002/live/streamindia.m3u8
+https://youtu.be/msJyM-2pUN8
 #EXTINF:-1 tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png" group-title="prasad", SONY SET HD
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 
