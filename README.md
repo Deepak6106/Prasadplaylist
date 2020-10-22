@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="id" group-title="movies on demand " https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support prasad electronics
+#EXTINF:-1  tvg-id="id" group-title="प्रसाद Tv" " 
+https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support prasad electronics
 https://od.lk/s/MTBfMTE3MTI2MDk3Xw/video_2020_Oct_19_13_05_35.mp4
 
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
