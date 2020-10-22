@@ -2263,6 +2263,1491 @@ https://tivimateplaylists.live/hd-fashion
 #EXTINF:-1  tvg-id="N/A" group-title="Other prasad electronics" tvg-logo="https://www.seekpng.com/png/detail/243-2439736_diva-logo-big-diva-magazine-logo-png.png",DIVA
 https://tivimateplaylists.live/diva
 #EXTINF:-1  tvg-id="N/A" group-title="Other prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png.png",̲𝖤
-https://tivimateplaylists.live/just-e
+https://tivimateplaylists.live/jus
+MOVIES ON DEMAND
+
+
+
+#EXTM3U
+#EXTINF:-1  tvg-id="id" group-title="movies on demand " https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support prasad electronics
+https://od.lk/s/MTBfMTE3MTI2MDk3Xw/video_2020_Oct_19_13_05_35.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Addams Family
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Hidden World
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/How.to.Train.Your.Dragon.The.Hidden.World.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Kingdom of Music
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Swan.Princess.Kingdom.of.Music.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman: Hush
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman vs. Teenage Mutant Ninja Turtles
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Asterix: The Secret of the Magic Potion
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asterix.The.Secret.Of.The.Magic.Potion.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Justice League vs. the Fatal Five
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Justice-League-Vs-The-Fatal-Five-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Howard Lovecraft and the Kingdom of Madness
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Howard.Lovecraft.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Spider-Man: Into the Spider-Verse
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Spider-Man-Into-the-Spider-Verse-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Ralph Breaks the Internet
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ralph.Breaks.the.Internet.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Henchmen
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Henchmen-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Christopher Robin
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Christopher.Robin.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Two Tails
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Two-Tails-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Smallfoot
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Smallfoot.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Cars 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Cars.3.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Starship Troopers: Traitor of Mars
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Starship.Troopers.Traitor.of.Mars.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Smurfs: The Lost Village 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Smurfs.The.Lost.Village.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Sahara 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Sahara.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The LEGO Batman Movie 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Lego.Batman.The.Movie.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Boss Baby 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Boss.Baby.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Cloudy with a Chance of Meatballs 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Cloudy.with.a.Chance.of.Meatballs.2.2013.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Bunyan and Babe 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Bunyan.and.Babe.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Leap! 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Ballerina.2016.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", My Life as a Zucchini 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/My.Life.as.a.Zucchini.2016.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Surf's Up 2: WaveMania
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Surfs.Up.2.WaveMania.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Secret World of Arrietty
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Arrietty.2010.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Wind Rises
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Wind.Rises.2013.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Girl Who Leapt Through Time
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Girl.Who.Leapt.Through.Time.2006.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Howl's Moving Castle
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Howls.Moving.Castle.2004.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", My Neighbor Totoro
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/My.Neighbor.Totoro.1988.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Spirited Away
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Spirited.Away.2001.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Sing 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Sing.2016.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Lorax
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/The.Lorax.2012.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Justice League Dark
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Justice.League.Dark.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Moana
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Moana.2016.aflamy.ps.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Wreck-It Ralph
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Wreck.it.Ralph.2012.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", فيلم Ik Sandhu Hunda Si مترجم HD انتاج 2020
+https://cdn.alarab.com/h264/154020_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Tanhaji: The Unsung Warrior
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Tanhaji.The.Unsung.Warrior.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Guilty
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Guilty.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Panipat
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Panipat.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Commando 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Commando.3.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Thugs of Hindostan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Thugs.of.Hindostan.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Housefull 4
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Housefull.4.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jack & Daniel
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jack.Daniel.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Rugged
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/rugged.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Marjaavaan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Marjaavaan.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Pati Patni Aur Woh
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Pati.Patni.Aur.Woh.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Zhagaram
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Zhagaram.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Saaho
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Saaho.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Kaappaan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kaappaan.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Drive
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/drive-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gang Leader
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/gang-leader-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Prassthanam
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Prassthanam.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", The Zoya Factor
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/the-zoya-factor-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", War
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/war.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Laal Kaptaan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Laal.Kaptaan.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Action
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Action.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Majiji
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Majiji.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Photograph
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/photograph.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gangs of Madras
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Gangs.of.Madras.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jersey
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/JERSEY.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Kalank
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kalank.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Kavacha
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kavacha.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Hippi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/hippi.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", De De Pyaar De
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/De.De.Pyaar.De.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Bharat
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bharat.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Malaal
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Malaal.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Johnny
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Johnny.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Nishabda
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Nishabda.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Secret Superstar
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Secret.Superstar.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Antariksham 9000 KMPH
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Antariksham.9000.kmph.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Zero
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Zero.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gayatri
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Gayatri-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Savarakathi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Savarakathi-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Darr @ the Mall
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/Darr.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Sketch
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sketch-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Neerali
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Neerali.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Spyder
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Spyder-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Haseena Parkar
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Haseena-Parkar-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Badla
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Badla.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Genius
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Genius-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Chitralahari
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Chitralahari.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Pataakha
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Pataakha.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Aschhe Abar Shabor
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ashche_Abar_Shobor.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Rajma Chawal
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Rajma.Chawal.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Vada Chennai
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Vada.Chennai.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Savyasachi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Savyasachi.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Teefa in Trouble
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Teefa.in.Trouble.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Manto
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Manto.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Chalte Chalte
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Chalte.Chalte.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Happy Phirr Bhag Jayegi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Happy.Phirr.Bhag.Jayegi.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Amar Akbar Anthony
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Amar.Akbar.Anthony.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jalebi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Jalebi.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Lilli
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Lilli.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Andhadhun
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Andhadhun.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", KAYA The Mystery Unfolds
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/KAYA-The-Mystery-Unfolds.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Tej... I Love You
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tej.I.Love.You.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Mitron
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Mitron.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Sui Dhaaga: Made In India
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sui.Dhaaga.Made.in.India.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Raazi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Raazi.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jarugandi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Jarugandi.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Addams Family
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Hidden World
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/How.to.Train.Your.Dragon.The.Hidden.World.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Kingdom of Music
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Swan.Princess.Kingdom.of.Music.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman: Hush
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman vs. Teenage Mutant Ninja Turtles
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Asterix: The Secret of the Magic Potion
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asterix.The.Secret.Of.The.Magic.Potion.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Justice League vs. the Fatal Five
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Justice-League-Vs-The-Fatal-Five-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Bucket List
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Bucket.List.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Paltan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Paltan.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Seema Raja
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Seema.Raja.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Vishwaroopam 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Vishwaroopam.2.2018..mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Fanney Khan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Fanney.Khan.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Tagaru
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tagaru.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", The Extraordinary Journey of the Fakir
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Extraordinary-Journey-of-the-Fakir-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Soorma
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Soorma.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", U-Turn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/U.TURN.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Nanu Ki Jaanu
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Nanu.Ki.Jaanu.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Koode
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Koode.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Ranam
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ranam.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Satyameva Jayate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Satyameva.Jayate.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gold
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Gold.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Saamy2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Saamy.Square.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Raatchasan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Raatchasan.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Sultan: The Saviour
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sultan.The.Saviour.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم إن بارادوكس
+https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/movies/in-baraduks/in-baraduks-480.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم نورا تحلم HD انتاج 2019
+https://cdn.alarab.com/h264/157255_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عودة من 2038 HD انتاج 2019
+https://cdn.alarab.com/h264/156870_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القرموطي في أرض النار HD انتاج 2017
+https://cdn.alarab.com/h264/156637_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم أمان يا صاحبي HD انتاج 2017
+https://cdn.alarab.com/h264/156769_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بلا هيبة HD انتاج 2019
+https://cdn.alarab.com/h264/156684_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم رأس السنة HD انتاج 2020
+https://cdn.alarab.com/h264/156634_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بلا هيبة
+https://cdn.alarab.com/h264/156684_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الممر
+https://cdn.alarab.com/h264/156672_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم لص بغداد
+https://cdn.alarab.com/h264/156633_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم رأس السنة
+https://cdn.alarab.com/h264/156634_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم خط الموت HD انتاج 2019
+https://cdn.alarab.com/h264/153703_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم محمد حسين
+https://cdn.alarab.com/h264/153420_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فلفل أبيض
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Felfel.Abyad.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", بني آدم
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bani.Adam.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ولاد رزق 2 : عودة أسود الارض
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Welad.Rizk.2.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عقدة الخواجة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Oqdat.Al.Khawaja.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", مهمة في 7 أيام
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Muhima.fi.7ayam.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", اللعبة الأمريكاني
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/American.Game.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الجولة الأخيرة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Aljawlah.Alakhera.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", كازانوفا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kazanofa.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", العم ناجي في الامارات
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/al3am.naji.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", نقطة رجوع
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Back.Point.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", قصة حب
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Qesat.Hob.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", حملة فرعون
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/hamlat.feroon.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الضيف
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eldayf.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم كازابلانكا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kazabalnka.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم إن شئت كما فى السماء
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/It.Must.Be.Heaven.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ليل خارجي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Lail.Khareji.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", تايم آوت
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Time.Out.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الديزل
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Diesel.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", البدلة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Badla.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", نادي الرجال السري
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Secret.Men.Club.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ضغط عالي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dakht.A3le.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الأبلة طمطم
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Abla.Tamtam.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", المهراجا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/EL.Mahraga.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الممر
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Mamar.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", قهوة بورصة مصر
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Qahwet.Borset.Masr.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", خسسني شكراً
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Khassesny.Shokran.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", خيال مآته
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Khayal.Maata.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الفيل الأزرق ج2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Alfeel.Alazraq.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", مينك إنت
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Menk.Enta.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الكنز 2: الحب والمصير
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Kanz.2.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", قلب أمه
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Qalb.Ommah.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", سوق الجمعة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sooq.Aljomaah.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", خلاويص
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Khalawees.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", نورت مصر
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Nawrt.Masr.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", بيكيا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Bikia.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", كفرناحوم
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Capernaum.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", سر طاقية الاخفاء
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sirr.Taqyat.Al.Ekhfaa.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", حرب كرموز
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Harb.Karmooz.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم حراقي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-8/movies/hiraqi.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ورد مسموم
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ward.Masmom.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم طلق صناعي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Tal2.Sena3y.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عيار ناري
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Eyar.Nari.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", 122
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Film.122.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عيش حياتك
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eish.Hayatak.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", كدبة بيضا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kedba.Bidaa.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم اطلعولي بره
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Etl3oly.Bara.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم خير وبركة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Kheir.Wa.Baraka.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم كذبة بيضا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/white.lie.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", واحد لمون والتاني مجنون
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Wahed-Lamoon-We-El-Tany-Magnoon.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم رغدة متوحشة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/raghada.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم محبس
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/mahbas.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم فص ملح وداخ
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Fas.Malh.Wa.Dab.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ليلة هنا وسرور
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Laylat.Hanaa.Wa.Soror.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", امان يا صاحبي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Aman.Ya.Sahby.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", تراب الماس
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Torab.Elmas.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الكويسين
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/El.Kowayseen.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بنك الحظ
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Bank.El.Haz.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الخلية
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Al.Khalia.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم كتكوت
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Katkot.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", مسرحية تخاريف
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Takhareef.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم اخر ديك في مصر
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Akher.Deek.Fi.Masr.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", المختارون The Worthy
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The-worthy-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم فوتوكوبي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Photo.Copy.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ليل داخلي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Leel.Dakhely.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القضية رقم 23
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Insult.23.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم حبة كراميل
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Habit.Carmail.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بالغلط
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Bel.Ghalat.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم زفافيان
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Zafafian.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم قسطي بيوجعني
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Qsoty.Byogaany.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عندما يقع اﻹنسان
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/3andama.Yka3.Al.Ensan.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم شنطة حمزة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Shantet.Hamza.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ضحي في تايلاند
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Dahi.in.Thailand.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الاصليين
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Al-Asleyeen.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم اخلاق العبيد
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Morals.Of.Slaves.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بارتى فى حارتى
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/party.in.harti.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ياباني اصلي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Yabany.Asly.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم طير انت
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/tayer.anta.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم تصبح على خير
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tesbah-Ala-Kher.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم دعدوش
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/daadosh.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم هروب اضطراري
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Horoob.Etirary.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الكنز
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Kanz.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عوكل
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Aaokal-2004.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عنتر ابن ابن شداد
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Antar.Ibn.Ibn.Ibn.Shaddad.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عمر الازرق
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Omar.El-Azrak.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القرد بيتكلم 2017
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/El.Erd.Byetkalem.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الدادة دودي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/El.Dada.Doody.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم علي معزة وابراهيم 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Ali.M3za.W.Ibrahim.2016.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم تحت الترابيزة 2016
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Taht.El.Tarabiza.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الماء والخضرة والوجه الحسن
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Al-Maa.Wel-Khodra.Wel-Wajeh.Al-Hasan.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم يجعلة عامر
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Yejaalo.Amer.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عسل أبيض
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/3assal.Abyd.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عمر وسلمى ج2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/omar.and.salma2.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم فين قلبي؟
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Fin.Qalbi.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم يا تهدي يا تعدي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Ya.Tehdi.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم جواب اعتقال
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Gawab.Eteqal.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الباب يفوت امل
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/bab.amal.2016.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القرموطي فى ارض النار
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Armoaty.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عمر وسلمى 3
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Omar.and.Salma-3.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وادي الذئاب الوطن
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Valley.of.the.Wolves.Homeland.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وادي الذئاب / فلسطين مدبلج
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/wadi.palestine.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وادي الذئاب - العراق
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/Valley.of.the.Wolves.Iraq.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Siccin 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم قصة حورية
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/PERIMASALIFILM.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم نفس واحد يكفي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/BIRNEFESYETERFILM.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", ابنتي وانا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ebnti.Wa.Ana.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", The Wild Pear Tree
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Wild-Pear-Tree-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Can Feda
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Can.Feda.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", نحن نعود اليكم
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/We.Back.To.You.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", طحينة و دبس
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tahen.Wa.Debes.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", اسرار المائدة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asrar.Elmaedah.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", البطل
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Albatal.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Hadi Be Oglum
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Hadi.Be.Oglum.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", ابقى بجانبي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ebqa.Bejanbi.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", اعمال منظمة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A3mal.Monazmah.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", حب واحد وحياتان
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/one.hob.and.two.life.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", صوتك فيه عشق
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sotak.Feh.Eshq.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", معجزة في زنانة رقم 7
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mo3jezah.Fe.Zenzanah.7.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم حار حلو حامض
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Hot-Sweet-Sour.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Ayla: The Daughter of War
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Ayla.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم هيا يا إبني
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/son.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Deliha 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/DELIHA2.FILM.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Boluk
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Boluk.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم قصص الحب الطبيعية
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Organik.Ask.Hikayeleri.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم غريب في جيبي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Cebimdeki.Yabanci.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم روحي فداء
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/CANFEDAFILM.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم سيد النوارس
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Martilarin.Efendisi.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم العروس المخملية
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Sosyetik.gelin.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اذا عادت فهي لك
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Donerse.Senindir.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اراك بقلبي
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/araka.bi.kalbi.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم انت مع من ترقص؟
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/ant.ma3a.man.tar9os.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم ابي ملاك
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Benim.Babam.Bir.Melek.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم زهرة الغاب
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Delibal.2015.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", بعيد وقريب جدا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/COKUZAKFAZLAYAKINFILM.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", الشريك الصغير
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Kucuk.Ortak.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", حلوى اللوز
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Badem.sekeri.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم الفتى السيء
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Kotu.Cocuk.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", الولد ولدنا والبنت بنتنا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/OGLANBIZIMKIZBIZIMFILM.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم حلوى اللوز
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Badem.sekeri.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اسطنبول الحمراء
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Istanbul.Kirmizisi.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اخي انا
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/brother.i.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Eski Sevgili
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Eski.Sevgili.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم بويراز كارايل
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Poyraz.Karayel.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Deliha
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Deliha.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم عودة الأسطورة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/cincoz.recai.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم تكلمي بقدر زوجك
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Kocan-Kadar-Konu%C5%9F.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اللطيف و الخطير
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sevimli-Tehlikeli.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وقت السعادة
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Mutluluk.Zamani.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", وادي الذئاب الوطن
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Valley.of.the.Wolves.Homeland.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم القبلة الأولى
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/First.Kiss.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم أخي أنا ج2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/mybrother2.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Long Live the King
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Long.Live.the.King.2019..mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Parasite
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Parasite.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The King's Letters
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kings.Letters.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Extreme Job
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Extreme.Job.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Birthday
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Birthday.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Farewell
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Farewell.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Battle of Jangsari
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Battle.of.Jangsari.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Friend Zone
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friend.Zone.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Bad Guys: The Movie
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Bad.Guys.Reign.of.Chaos.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", A Nightlife Venture
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Quantum.Physics.A.Nightlife.Venture.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Ip Man 4: The Finale
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ip.Man.4.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The legend of hammer
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Legend.Of.Hammer.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Fighting Girl
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Fighting.Girl.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Puppet Prince
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Puppet-Prince-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Mr. Zoo: The Missing VIP
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Zoo.The.Missing.VIP.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Crossroads: One Two Jaga
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Crossroads-One-Two-Jaga-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Rampant
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/movies/Rampant-2018.mp4//playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Miss Baek
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Miss-Baek-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Champion
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Champion-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Inuyashiki
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Inuyashiki-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Mr. Long
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Mr-Long-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Spy Gone North
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Spy.Gone.North.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Snake
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Snake.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", BuyBust
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/BuyBust.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Europe Raiders
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Europe-Raiders-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Pool
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Pool.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Escape Plan: The Extractors
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Escape.Plan.The.Extractors.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Innocent Witness
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Innocent.Witness.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", the Devil
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Gangster.The.Cop.The.Devil.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Inside the Boys
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Inside-The-Boys-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Night Comes for Us
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Night-Comes-for-Us-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Bombing - Air Strike
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Air.Strike.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", On Your Wedding Day
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/on-your-wedding-day.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Golden Job
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Goledn.Job.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Great Battle
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Great-Battle-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Golden Slumber
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Golden-Slumber-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Dream Breaker
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Dream-Breaker-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Searching
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Searching.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Cook Up A Storm
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Cook.Up.A.Storm.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Target
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Target.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Trough
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Trough-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Chinese Blade
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Chinese-Blade-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Dark Figure of Crime
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Dark-Figure-of-Crime-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Lingering
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Lingering-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Unity of Heroes
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Unity.Of.Heroes.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Tag-Along 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Tag-Along-2-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", V.I.P
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies//V.I.P.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Once Upon a Time
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Once.Upon.a.Time.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Agent Mr. Chan
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Agent-Mr-Chan-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Burning
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Burning-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Bleach
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Bleach-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Animal World
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Animal-World-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Fist & Faith
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Fist-and-Faith-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Reborn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Reborn.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Blizzard
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Blizzard-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Buyer Beware
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Buyer-Beware-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Tomb Story
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tomb-Story-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Secret Of Immortal Code
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Secret-Of-Immortal-Code-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Illang: The Wolf Brigade
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Illang-The-Wolf-Brigade-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Operation Red Sea
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Operation.Red.Sea.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", KL Special Force
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/KL.Special.Force.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Star Next Door
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Star-Next-Door.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Keys to the Heart
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Keys-to-the-Heart.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Cheese in the Trap
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Cheese-in-the-Trap.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Little Forest
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Little-Forest.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Fortress
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Fortress-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Believer
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Believer-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Colour of the Game
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Color.of.the.Game.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", God of War
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/God-of-War-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Kung Fu Traveler 2
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Kung.Fu.Traveler.2.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Hou Lai De Wo Men
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Hou.lai.de.wo.men.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Last Shot in the Bar
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Last.Shot.in.the.Bar.2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Destiny: The Tale of Kamakura
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Destiny-The-Tale-of-Kamakura-2017.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Heung-boo: The Revolutionist
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolutionist-2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Eurovision Song Contest: The Story of Fire Saga
+https://cdn.alarab.com/h264/157424_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Artemis Fowl مترجم HD
+https://cdn.alarab.com/h264/157018_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Thousand Faces of Dunjia مترجم HD
+https://cdn.alarab.com/h264/157303_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم اخت الزوج مترجم HD
+https://cdn.alarab.com/h264/157261_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Fu Mo Luo Han مترجم HD
+https://cdn.alarab.com/h264/157236_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم I Am Vengeance: Retaliation مترجم HD
+https://cdn.alarab.com/h264/157215_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Knockout مترجم HD
+https://cdn.alarab.com/h264/157209_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم You Should Have Left مترجم HD
+https://cdn.alarab.com/h264/157100_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Force of Nature مترجم HD
+https://cdn.alarab.com/h264/157096_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Infamous مترجم HD
+https://cdn.alarab.com/h264/157036_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Mulan مترجم HD
+https://cdn.alarab.com/h264/156855_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم نحن هكذا تركي مترجم HD
+https://cdn.alarab.com/h264/156984_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Lovebirds مترجم HD
+https://cdn.alarab.com/h264/156785_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Güzelligin Portresi مترجم HD
+https://cdn.alarab.com/h264/156754_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم سر المتنزه الخفي مترجم HD
+https://cdn.alarab.com/h264/156751_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Kayhan مترجم HD
+https://cdn.alarab.com/h264/156748_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Wrong Missy مترجم HD
+https://cdn.alarab.com/h264/156734_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Capone مترجم HD
+https://cdn.alarab.com/h264/156696_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Inheritance مترجم HD
+https://cdn.alarab.com/h264/156694_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Lodge مترجم
+https://cdn.alarab.com/h264/155632_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Assistant مترجم HD
+https://cdn.alarab.com/h264/155627_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Bad Education مترجم HD
+https://cdn.alarab.com/h264/154820_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Extraction مترجم
+https://cdn.alarab.com/h264/154569_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Three Stooges
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Three.Stooges.2012.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", ROGUE WARFARE 2
+https://sarontna.club/f/videos/1578058141/bda3469f3a56c4fc9d6bfc83b08ad601/1080p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Terminator: Dark Fate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Terminator.Dark.Fate.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Maleficent: Mistress of Evil
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Maleficent.Mistress.of.Evil.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Maleficent 2014
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-7/movies/Maleficent.2014.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Underwater مترجم HD انتاج 2020
+https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Night Clerk
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Night.Clerk.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Last Thing He Wanted
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Siccin 6
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", I Am Fear
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/I.Am.Fear.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sniper Corpse
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sniper.Corpse.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Guns Akimbo
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Guns.Akimbo.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Richard Jewell
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/richard-jewell.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Hidden Life
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-hidden-life.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Wakefield Project
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-wakefield-project.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Mr Jones
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Jones.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Dare
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/the-dare.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Anastasia: Once Upon a Time
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Anastasia.Once.Upon.a.Time.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Warrant
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Warrant.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", By Light of Desert Night
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/by-light-of-desert-night.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Final Kill
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Final.Kill.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Lurker
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Lurker.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Mistakes Were Made
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Timmy.Failure.Mistakes.Were.Made.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Agramon's Gate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Agramons.Gate.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Alien Outbreak
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Alien.Outbreak.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Charlie's Angels
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Charlies.Angels.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Cruel Hearts
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Cruel.Hearts.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Next Level
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jumanji.The.Next.Level.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", VFW
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/VFW.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Eve
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eve.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Spy Intervention
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Spy.Intervention.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Isi & Ossi
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Isi.and.Ossi.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Kindness of Strangers
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kindness.of.Strangers.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Fantasy Island - HDCAM
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Fantasy.Island.2020.HDCAM..mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sadistic Intentions
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sadistic.Intentions.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Island of Shadows
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Is.There.A.Killer.In.My.Family.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Friends Who Kill
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friends.Who.Kill.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sisters in Arms
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Soeurs.D.Armes.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Untitled Chris Watts Project
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Chris.Watts.Confessions.Of.A.Killer.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Windermere Children
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Windermere.Children.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", 21 Bridges
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/21.Bridges.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", S.W.A.T
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/S.W.A.T.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Harriet
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Harriet.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Jojo Rabbit
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jojo.Rabbit.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Beautiful Day in the Neighborhood
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A-Beautiful-Day-in-the-Neighborhood-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Dragonheart: Vengeance
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dragonheart.Vengeance.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Black Flowers
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Atomic.Apocalypse.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Pilgrim's Progress
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heavenquest.A.Pilgrims.Progress.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Bait
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bait.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Dolittle
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dolittle.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Coldest Game
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Coldest.Game.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Adventure Force 5
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Adventure.Force.5.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Playing with Fire
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Playing.with.Fire.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Kindred Spirits
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kindred.Spirits.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The VelociPastor
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Velocipastor.2018.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Just Mercy
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Just.Mercy.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Little Women
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Little.Woman.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Stardust
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Stardust.2007.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Ford v Ferrari
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ford.v.Ferrari.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Last Full Measure
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Full.Measure.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Fight for Justice
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Trigonal.Fight.For.Justice.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Battle Star Wars
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Battle.Star.Wars.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Great Alaskan Race
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Great.Alaskan.Race.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", By Dawn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Dawn.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Jessica Forever
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jessica.Forever.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Coda
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Coda.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sleeping with My Student
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sleeping.With.My.Student.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Ride Like a Girl
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ride.Like.A.Girl.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Motherless Brooklyn
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Motherless.Brooklyn.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Blank
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Blank.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Midway
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Midway.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", 24 Little Hours
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/24.Hours.In.London.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Dark Waters
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dark.Waters.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Epiphany
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Epiphany.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Terminator: Dark Fate
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Terminator.Dark.Fate.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Disturbing The Peace
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Disturbing.The.Peace.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Fall from Grace
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A.Fall.from.Grace.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", 1917
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/1917-2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Nation's Fire
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nations.Fire.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Heritage
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heritage.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Wave
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Wave.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Nancy Drew and the Hidden Staircase
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nancy.Drew.and.the.Hidden.Staircase.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Inmate Zero - Patients of a Saint
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inmate.Zero.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Gemini Man
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Gemini.Man.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Death of a Nation
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Rogue.Warfare.3.Death.of.a.Nation.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Ghost Stories
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ghost.Stories.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Toxicity
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Toxicity.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Mercenary
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Mercenary.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Love Once
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Live.Twice.Love.Once.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Countdown
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Countdown.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Mine 9
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mine.9.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Where We Disappear
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Where.We.Disappear.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Abducted on Air - The Lead
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Abducted.on.Air.2020.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Inherit the Viper
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inherit.The.Viper.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Courier
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Courier.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Three Christs
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Three.Christs.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Insidious: Chapter 2 مترجم HD انتاج 2013
+https://cdn.alarab.com/h264/152568_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Jumanji: The Next Level مترجم HD انتاج 2019
+https://cdn.alarab.com/h264/152879_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sonic the Hedgehog مترجم HD انتاح 2020
+https://cdn.alarab.com/h264/153320_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Little Women مترجم HD انتاج 2019
+https://cdn.alarab.com/h264/153322_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Spenser Confidential مترجم HD انتاج 2020
+https://cdn.alarab.com/h264/153321_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم 1917 مترجم HD انتاج 2019
+https://cdn.alarab.com/h264/153322_720p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman: Hush
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman vs. Teenage Mutant Ninja Turtles
+http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", AR:MV: فيلم 6 Underground مترجم
+https://cdn.alarab.com/h264/151633_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", AR:MV: فيلم Doctor Sleep مترجم
+https://cdn.alarab.com/h264/151607_480p.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", AR:MV: فيلم Marriage Story مترجم
+https://cdn.alarab.com/h264/151638_480p.mp4/index-v1-a1.m3u8
+
+
 
  
