@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://od.lk/d/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png" group-title="prasad", SONY MARATHI https://bit.ly/32JsoNYMaraTHi
+#EXTINF:-1  tvg-id="id" group-title="movies on demand " https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support prasad electronics
+https://od.lk/s/MTBfMTE3MTI2MDk3Xw/video_2020_Oct_19_13_05_35.mp4
+
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
-https://youtu.be/msJyM-2pUN8
+tvg-logo     "https://od.lk/d/MTB
 #EXTINF:-1 tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png" group-title="prasad", SONY SET HD
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
 
