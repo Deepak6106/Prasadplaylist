@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1  tvg-id="id" group-title="प्रसाद Tv" " 
+##EXTINF:-1  tvg-id="id" group-title="प्रसाद Tv" " 
 https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support prasad electronics
 https://od.lk/s/MTBfMTE3Mjc1NzA3Xw/515572376_video-1206249853_HD.mp4
+1206249853_HD.mp4
 
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
 tvg-logo     "https://od.lk/d/MTB
