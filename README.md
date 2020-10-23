@@ -1804,1954 +1804,600 @@ http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="prasad united states", United States: Beach TV (CSULB)
 http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-5a0OuD9nY0o/Uin0Wc-dU4I/AAAAAAAADAs/MLGWgU_2d0A/s1600/1920+th
+
 #EXTM3U
-#EXTINF:-1  tvg-id="336" group-title="marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",STar Parvah
-https://tivimateplaylists.live/starparvah
-#EXTINF:-1  tvg-id="1146" group-title="marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi
-https://tivimateplaylists.live/SonMart
-#EXTINF:-1  tvg-id="NA" group-title="marathi" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg",shemaroo Marathibana
-https://tivimateplaylists.live/shemrumarathi
-#EXTINF:-1  tvg-id="441" group-title="marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
-https://tivimateplaylists.live/9x-jhks
-#EXTINF:-1  tvg-id="612" group-title="marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",Abp Majha
-https://tivimateplaylists.live/abpmajh
-#EXTINF:-1  tvg-id="1155" group-title="marathi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png",BBC Marathi
-https://tivimateplaylists.live/bbc-news-marat
-#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1<br/>https://tivimateplaylists.live/hotstar<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 2<br/>https://tivimateplaylists.live/hotstar-2<br/>#EXTINF:-1  tvg-id="N/A" group-title="SPORTS prasad" tvg-logo="https://www.logolynx.com/images/logolynx/s_ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 FHD 50FPS<br/>https://tivimateplaylists.live/bein13-testing<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket s1<br/>https://tivimateplaylists.live/skysportscricket2<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket s2<br/>https://tivimateplaylists.live/sky-sports-cricket-3<br/>#EXTINF:-1  tvg-id="1133" group-title="SPORTS prasad" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold HD<br/>https://tivimateplaylists.live/sky-sports-cricket<br/>#EXTINF:-1  tvg-id="1108" group-title="SPORTS prasad" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi<br/>https://tivimateplaylists.live/starsportshindi<br/>#EXTINF:-1  tvg-id="1106" group-title="SPORTS prasad" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1<br/>https://tivimateplaylists.live/star-sports-1-testing<br/>#EXTINF:-1  tvg-id="1109" group-title="SPORTS prasad" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2<br/>https://tivimateplaylists.live/star-sports-2-testing<br/>#EXTINF:-1  tvg-id="na" group-title="SPORTS prasad" tvg-logo="https://pbs.twimg.com/profile_images/1098171416325881857/zsgju_op_400x400.png",Star Sports Tamil<br/>https://tivimateplaylists.live/starsportstamil<br/>#EXTINF:-1  tvg-id="460" group-title="SPORTS prasad" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1<br/>https://tivimateplaylists.live/star-sports-select-1-testing<br/>#EXTINF:-1  tvg-id="461" group-title="SPORTS prasad" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2<br/>https://tivimateplaylists.live/starsports-selct2-testing<br/>#EXTINF:-1  tvg-id="na" group-title="SPORTS prasad" tvg-logo="https://sportscentre4u.com/wp-content/uploads/2020/08/willow-tv-live-stream-cpl-2020-wiillow-tv-cricket-live-696x392.jpg",Willow<br/>https://tivimateplaylists.live/willow<br/>#EXTINF:-1  tvg-id="na" group-title="SPORTS prasad" tvg-logo="https://i.pinimg.com/originals/2c/cc/67/2ccc67b0c078679966351ec1ebf5805a.png",GTV IPL<br/>https://tivimateplaylists.live/gazi<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket<br/>https://tivimateplaylists.live/scricket<br/>#EXTINF:-1  tvg-id="N/A" group-title="SPORTS prasad" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png",Sky Sports Football<br/>https://tivimateplaylists.live/sky-football-2<br/>#EXTINF:-1  tvg-id="N/A" group-title="SPORTS prasad" tvg-logo="https://www.logolynx.com/images/logolynx/s_ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 sd<br/>https://tivimateplaylists.live/Bein-13-sd-testing<br/>#EXTINF:-1  tvg-id="204" group-title="SPORTS prasad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png",DD Sports<br/>https://tivimateplaylists.live/dd-sports<br/>#EXTINF:-1  tvg-id="155" group-title="SPORTS prasad" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v2/imageContent-108-j5fl5wwg-m2.png",Sony SIX HD<br/>https://tivimateplaylists.live/sony-six<br/>#EXTINF:-1  tvg-id="162" group-title="SPORTS prasad" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD<br/>https://tivimateplaylists.live/sonyten1hd<br/>#EXTINF:-1  tvg-id="891" group-title="SPORTS prasad" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png",Sony Ten 2 HD<br/>https://tivimateplaylists.live/sonyten2hd<br/>#EXTINF:-1  tvg-id="892" group-title="SPORTS prasad" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png",Sony Ten 3 HD<br/>https://tivimateplaylists.live/sonyten3hd<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzHdqhzo0S0ISKfekknwvzhBmm3qbYApqtLQ&usqp=CAU",WWE<br/>https://tivimateplaylists.live/wwe<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports<br/>https://tivimateplaylists.live/PTV-sports<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports Xtra<br/>https://tivimateplaylists.live/bein-sports-xtra<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://3kqxwn1k9d01s9ict1484jk6-wpengine.netdna-ssl.com/wp-content/uploads/2013/03/sportsmax-logo-300x225.png",Sports Max<br/>https://tivimateplaylists.live/sports-max<br/>#EXTINF:-1  tvg-id="id" group-title="SPORTS prasad" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png",Fox Sports Premium<br/>https://tivimateplaylists.live/Fox-sports-premiu
-https://od.lk/s/MTBfMTE3MTI2MDk3Xw/video_2020_Oct_19_13_05_35.mp4
-#EXTM3U url-tvg="https://tivimateplaylists.live/epg"
-#EXTM3U
-#EXTINF:-1  tvg-id="id" group-title="join prasad electronics " https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support prasad electronics
-https://od.lk/s/MTBfMTE3MTI2MDk3Xw/video_2020_Oct_19_13_05_35.mp4
+#EXTINF:-1  tvg-id="id" group-title="प्रसाद  TV TV 9967965440 " tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support प्रसाद  TV ELECTRONICS
+https://od.lk/s/MTBfMTE3MTI2MDk3Xw/video_2020_Oct_19_13_05_35.mp4/tvideo
 
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1
-https://tivimateplaylists.live/hotstar
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 2
-https://tivimateplaylists.live/hotstar-2
-#EXTINF:-1  tvg-id="N/A" group-title="Sports prasad electronics" tvg-logo="https://www.logolynx.com/images/logolynx/s_ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 FHD 50FPS
-https://tivimateplaylists.live/bein13-testing
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket s1
-https://tivimateplaylists.live/skysportscricket2
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket s2
-https://tivimateplaylists.live/sky-sports-cricket-3
-#EXTINF:-1  tvg-id="1133" group-title="Sports prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold HD
-https://tivimateplaylists.live/sky-sports-cricket
-#EXTINF:-1  tvg-id="1108" group-title="Sports prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",Star Sports Hindi
-https://tivimateplaylists.live/starsportshindi
-#EXTINF:-1  tvg-id="1106" group-title="Sports prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1
-https://tivimateplaylists.live/star-sports-1-testing
-#EXTINF:-1  tvg-id="1109" group-title="Sports prasad electronics" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2
-https://tivimateplaylists.live/star-sports-2-testing
-#EXTINF:-1  tvg-id="na" group-title="Sports prasad electronics" tvg-logo="https://pbs.twimg.com/profile_images/1098171416325881857/zsgju_op_400x400.png",Star Sports Tamil
-https://tivimateplaylists.live/starsportstamil
-#EXTINF:-1  tvg-id="460" group-title="Sports prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1
-https://tivimateplaylists.live/star-sports-select-1-testing
-#EXTINF:-1  tvg-id="461" group-title="Sports prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2
-https://tivimateplaylists.live/starsports-selct2-testing
-#EXTINF:-1  tvg-id="na" group-title="Sports prasad electronics" tvg-logo="https://sportscentre4u.com/wp-content/uploads/2020/08/willow-tv-live-stream-cpl-2020-wiillow-tv-cricket-live-696x392.jpg",Willow
-https://tivimateplaylists.live/willow
-#EXTINF:-1  tvg-id="na" group-title="Sports prasad electronics" tvg-logo="https://i.pinimg.com/originals/2c/cc/67/2ccc67b0c078679966351ec1ebf5805a.png",GTV IPL
-https://tivimateplaylists.live/gazi
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
-https://tivimateplaylists.live/scricket
-#EXTINF:-1  tvg-id="N/A" group-title="Sports prasad electronics" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png",Sky Sports Football
-https://tivimateplaylists.live/sky-football-2
-#EXTINF:-1  tvg-id="N/A" group-title="Sports prasad electronics" tvg-logo="https://www.logolynx.com/images/logolynx/s_ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 sd
-https://tivimateplaylists.live/Bein-13-sd-testing
-#EXTINF:-1  tvg-id="204" group-title="Sports prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png",DD Sports
-https://tivimateplaylists.live/dd-sports
-#EXTINF:-1  tvg-id="155" group-title="Sports prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v2/imageContent-108-j5fl5wwg-m2.png",Sony SIX HD
-https://tivimateplaylists.live/sony-six
-#EXTINF:-1  tvg-id="162" group-title="Sports prasad electronics" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD
-https://tivimateplaylists.live/sonyten1hd
-#EXTINF:-1  tvg-id="891" group-title="Sports prasad electronics" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png",Sony Ten 2 HD
-https://tivimateplaylists.live/sonyten2hd
-#EXTINF:-1  tvg-id="892" group-title="Sports prasad electronics" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png",Sony Ten 3 HD
-https://tivimateplaylists.live/sonyten3hd
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzHdqhzo0S0ISKfekknwvzhBmm3qbYApqtLQ&usqp=CAU",WWE
-https://tivimateplaylists.live/wwe
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png",PTV Sports
-https://tivimateplaylists.live/PTV-sports
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports Xtra
-https://tivimateplaylists.live/bein-sports-xtra
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://3kqxwn1k9d01s9ict1484jk6-wpengine.netdna-ssl.com/wp-content/uploads/2013/03/sportsmax-logo-300x225.png",Sports Max
-https://tivimateplaylists.live/sports-max
-#EXTINF:-1  tvg-id="id" group-title="Sports prasad electronics" tvg-logo="https://i.pinimg.com/originals/f7/6f/5d/f76f5d4016b1e8d533eb5ab31c6898f3.png",Fox Sports Premium
-https://tivimateplaylists.live/Fox-sports-premium
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1
+https://tivimateplaylists.live/hotstarN
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 2
+https://tivimateplaylists.live/hotstar-2N
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/824_300.png",Astro Cricket
+https://tivimateplaylists.live/astroymcricketn
+#EXTINF:-1  tvg-id="N/A" group-title="Sports प्रसाद  TV" tvg-logo="https://www.logolynx.com/images/logolynx/s_ec/ec8ec7f6ad6e6ee5dab88ea49978e15b.png",Bein 13 FHD 50FPS
+https://tivimateplaylists.live/bein13hd
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket s1
+https://tivimateplaylists.live/skysportscricket2n
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://www.pngkey.com/png/full/921-9211380_sky-sports-cricket-sky-sports-main-event-logo.png",Sky Sports Cricket s2
+https://tivimateplaylists.live/sky-sports-cricket-3n
+#EXTINF:-1  tvg-id="1108" group-title="Sports प्रसाद  TV" tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/07/02/starsports.jpg",Star Sports Hindi
+https://tivimateplaylists.live/starsportshindin
+#EXTINF:-1  tvg-id="1106" group-title="Sports प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",Star Sports 1
+https://tivimateplaylists.live/star-sports-1-testingn
+#EXTINF:-1  tvg-id="1109" group-title="Sports प्रसाद  TV" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png",Star Sports 2
+https://tivimateplaylists.live/star-sports-2-testingn
+#EXTINF:-1  tvg-id="NA" group-title="Sports प्रसाद  TV" tvg-logo="https://2.bp.blogspot.com/-HrpQDUWWzNw/VcJa6Qe2CzI/AAAAAAAAAec/yfNchqVPKJU/s1600/STAR-Sports-3-live-stream.png",Star Sports 3
+https://tivimateplaylists.live/starsports3n
+#EXTINF:-1  tvg-id="na" group-title="Sports प्रसाद  TV" tvg-logo="https://pbs.twimg.com/profile_images/1098171416325881857/zsgju_op_400x400.png",Star Sports Tamil
+https://tivimateplaylists.live/starsportstamiln
+#EXTINF:-1  tvg-id="460" group-title="Sports प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",Star Sports Select 1
+https://tivimateplaylists.live/star-sports-select-1-testingn
+#EXTINF:-1  tvg-id="461" group-title="Sports प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2
+https://tivimateplaylists.live/starsports-selct2-testingn
+#EXTINF:-1  tvg-id="155" group-title="Sports प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v2/imageContent-108-j5fl5wwg-m2.png",Sony SIX HD
+https://tivimateplaylists.live/sony-sixn
+#EXTINF:-1  tvg-id="162" group-title="Sports प्रसाद  TV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png",Sony Ten 1 HD
+https://tivimateplaylists.live/sonyten1hdn
+#EXTINF:-1  tvg-id="891" group-title="Sports प्रसाद  TV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png",Sony Ten 2 HD
+https://tivimateplaylists.live/sonyten2hdn
+#EXTINF:-1  tvg-id="892" group-title="Sports प्रसाद  TV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png",Sony Ten 3 HD
+https://tivimateplaylists.live/sonyten3hdn
+#EXTINF:-1  tvg-id="na" group-title="Sports प्रसाद  TV" tvg-logo="https://sportscentre4u.com/wp-content/uploads/2020/08/willow-tv-live-stream-cpl-2020-wiillow-tv-cricket-live-696x392.jpg",Willow
+https://tivimateplaylists.live/willown
+#EXTINF:-1  tvg-id="na" group-title="Sports प्रसाद  TV" tvg-logo="https://i.pinimg.com/originals/2c/cc/67/2ccc67b0c078679966351ec1ebf5805a.png",GTV IPL
+https://tivimateplaylists.live/gazin
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/cri.png",S Cricket
+https://tivimateplaylists.live/scricketnn
+#EXTINF:-1  tvg-id="N/A" group-title="Sports प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein Sports 1 
+https://tivimateplaylists.live/Bein1footballn
+#EXTINF:-1  tvg-id="N/A" group-title="Sports प्रसाद  TV" tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Football-2020-logo-250.png",Sky Sports Football
+https://tivimateplaylists.live/sky-football-2n
+#EXTINF:-1  tvg-id="204" group-title="Sports प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png",DD Sports
+https://tivimateplaylists.live/dd-sportsn
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzHdqhzo0S0ISKfekknwvzhBmm3qbYApqtLQ&usqp=CAU",WWE
+https://tivimateplaylists.live/wwen
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png",Bein Sports Xtra
+https://tivimateplaylists.live/bein-sports-xtran
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://3kqxwn1k9d01s9ict1484jk6-wpengine.netdna-ssl.com/wp-content/uploads/2013/03/sportsmax-logo-300x225.png",Sports Max
+https://tivimateplaylists.live/sports-maxn
+#EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद  TV" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-grandstand.png",S Grandstand
+https://tivimateplaylists.live/sgrandstnn
 
 
 
-#EXTINF:-1  tvg-id="173" group-title="News prasad electronics" tvg-logo="https://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png",Aaj Tak HD
-https://tivimateplaylists.live/aaj-tak-hd
-#EXTINF:-1  tvg-id="177" group-title="News prasad electronics" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/ABP_News_2017.png/revision/latest/scale-to-width-down/220?cb=20200623085843",ABP News HD
-https://tivimateplaylists.live/ABP-news-hd
-#EXTINF:-1  tvg-id="0-9-162" group-title="News prasad electronics" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png",Republic Bharat
-https://tivimateplaylists.live/Republic-bharat
-#EXTINF:-1  tvg-id="203" group-title="News prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
+#EXTINF:-1  tvg-id="173" group-title="News प्रसाद  TV" tvg-logo="https://smedia2.intoday.in/aajtak/aajtakhd/images/aajtakHd_logo.png",Aaj Tak HD
+https://tivimateplaylists.live/aaj-tak-hdn
+#EXTINF:-1  tvg-id="177" group-title="News प्रसाद  TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/ABP_News_2017.png/revision/latest/scale-to-width-down/220?cb=20200623085843",ABP News HD
+https://tivimateplaylists.live/ABP-news-hdn
+#EXTINF:-1  tvg-id="0-9-162" group-title="News प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png",Republic Bharat
+https://tivimateplaylists.live/Republic-bharatn
+#EXTINF:-1  tvg-id="504" group-title="News प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
+https://tivimateplaylists.live/zeenewsn
+#EXTINF:-1  tvg-id="203" group-title="News प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png",DD News
 https://tivimateplaylists.live/dd-news
-#EXTINF:-1  tvg-id="258" group-title="News prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
+#EXTINF:-1  tvg-id="258" group-title="News प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
 https://tivimateplaylists.live/ndtv-india
-#EXTINF:-1  tvg-id="190" group-title="News prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",CNBC AWAZ
+#EXTINF:-1  tvg-id="190" group-title="News प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-846-j5m9p55k-v1/imageContent-846-j5m9p55k-m1.png",CNBC AWAZ
 https://tivimateplaylists.live/cnbc-awaz
-#EXTINF:-1  tvg-id="1291" group-title="News prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png",ABP Sanjha
+#EXTINF:-1  tvg-id="1291" group-title="News प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png",ABP Sanjha
 https://tivimateplaylists.live/abp-sanjha
-#EXTINF:-1  tvg-id="N/A" group-title="News prasad electronics" tvg-logo="http://fastway.in/m.fastway/img/logo.png",Fastway News
+#EXTINF:-1  tvg-id="N/A" group-title="News प्रसाद  TV" tvg-logo="http://fastway.in/m.fastway/img/logo.png",Fastway News
 https://tivimateplaylists.live/fastway-news
-#EXTINF:-1  tvg-id="655" group-title="News prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v1/imageContent-1011-j5ng33kg-m1.png",News 18 Punjab
+#EXTINF:-1  tvg-id="655" group-title="News प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v1/imageContent-1011-j5ng33kg-m1.png",News 18 Punjab
 https://tivimateplaylists.live/news-18-punjab
-#EXTINF:-1  tvg-id="1431" group-title="News prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png",BBC News Hindi
+#EXTINF:-1  tvg-id="1431" group-title="News प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png",BBC News Hindi
 https://tivimateplaylists.live/BBC-hindi
-#EXTINF:-1  tvg-id="927" group-title="News prasad electronics" tvg-logo="https://firstindianews.com/images/logo.png",First India News Rajasthan
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/chunks.m3u8
-#EXTINF:-1  tvg-id="807" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_1017/LOGO/7a68f39a-b4c3-482b-9163-baadf1852afa.jpg",Gulistan News
-https://rebrand.ly/gulistan-news
-#EXTINF:-1  tvg-id="498" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_582/LOGO/ed5ea28d-4454-4da9-ba0e-6e008c4ac803.jpg",India News
-https://rebrand.ly/india-news-airtel
-#EXTINF:-1  tvg-id="235" group-title="News prasad electronics" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png",India TV
+#EXTINF:-1  tvg-id="927" group-title="News प्रसाद  TV" tvg-logo="https://firstindianews.com/images/logo.png",First India News Rajasthan
+https://tivimateplaylists.live/1stnewsrajasthann
+#EXTINF:-1  tvg-id="235" group-title="News प्रसाद  TV" tvg-logo="https://static.indiatvnews.com/ins-web/images/sitelogo.png",India TV
 https://tivimateplaylists.live/India-tv
-#EXTINF:-1  tvg-id="522" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_837/LOGO/4e2f5acb-ac3b-4b7f-9dbc-8030e469b7ab.png",Loksabha TV
-https://rebrand.ly/loksabha-airtel
-#EXTINF:-1  tvg-id="255" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_294/461ff007-9116-4d8b-97af-e4c946976975.jpg",NDTV 24x7
-https://rebrand.ly/ndtv24x7-airtel
-#EXTINF:-1  tvg-id="258" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_299/8794939b-7d2d-45af-96a4-5accb992dab8.jpg",NDTV India
-https://rebrand.ly/ndtv-india-airtel
-#EXTINF:-1  tvg-id="259" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_302/LOGO/fe015773-9a82-4cbb-ac83-993f5fde0ab2.jpg",NDTV Profit Prime
-https://rebrand.ly/ndtv-profit-airtel
-#EXTINF:-1  tvg-id="501" group-title="News prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/News24_Logo.jpg",News24
-https://tivimateplaylists.live/news-24
-#EXTINF:-1  tvg-id="RSTV" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_831/LOGO/6378cfeb-967a-418f-b366-74547b008071.png",RSTV
-https://rebrand.ly/rstv-airtel
-#EXTINF:-1  tvg-id="1066" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_10000000067400000/ic_logo_theQ_India_(1).png",The QYOU
-https://rebrand.ly/theqyou-airtel
-#EXTINF:-1  tvg-id="383" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1016/tims-now-sd-img_logo_1.jpg",Times Now
-https://rebrand.ly/times-now-airtel
-#EXTINF:-1  tvg-id="412" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_850/LOGO/87901d8c-b811-48cf-aad3-1cf32f20120d.png",WION
-https://rebrand.ly/wion-airtel
-#EXTINF:-1  tvg-id="657" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_436/ic_logo_Zee_business_(3).png",Zee Business
-https://rebrand.ly/zeebusiness-airtel
-#EXTINF:-1  tvg-id="652" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_573/LOGO/7636c312-4d7a-46cf-8284-dafbb2594413.png",Zee Hindustan
-https://rebrand.ly/zee-hindustan-airtel
-#EXTINF:-1  tvg-id="504" group-title="News prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png",Zee News
-https://rebrand.ly/zee-news-airtel
-#EXTINF:-1  tvg-id="654" group-title="News prasad electronics" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_429/9dcb3640-e42a-4183-8772-b0d2ec8c5a6a.png",Zee Punjab Haryana Himachal
-https://rebrand.ly/zee-punjab-airtel
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZJYkJ3ajBwNTBtTFNwSEFxMThCWHdUWmp3Ml9PWUJGcXV0eDlDQ0M4TmRMRFJFRVZwbHBWWmI5Mmo2T0pIcS1KQXZEcFJJZmNZUUNNNGRNd2Ywc2V2dm94akN5bG5TQjdiSDFaZFZDaDZmdEVha29fVVlMY2VHZTE0SHZ2US1RRE1zNXoxdlQybElHNHFQcWdmNHVmUVFCUFRTWm9lT0Vnd1phV2tCSi1JOGF5djd3VkplOUNBNVhmMHRfQzVOZ1VvbW5FWkxtS3E5UzFNWkYtTVVBRUZVekNOTk8ySDBGSXRDeVFKc2E1cEhIRklOLVBVUmhmYmswTmtwYWE3RmREVWNfMmRYMmtORUg0elBtVmppZ090WEJ2MTl2REpLTFlTZV8tN0V4bnlnejE3dEwzdkVHYWlmYy1yMUd5QzdmRkJBeGZUT21SM3hKZ3NieG5HWHZhbUp0LU5wT0hfbHBBYV82UFpnZTZ6WkgwbThDbi10X3VrcUd0MkJURlFFWWRwWUw1bU4xWXR0ZVAzY3JkejY4UXFTdWE0V0VLSlJKS0dXYTVoUURqMnlfRm04Z2JZQjVaS1RiNjhFdnAxVmRUUUNlaTVPWWlmVzJGYUt3ZzBmeWNyZz0mY29udGV4dFR5cGU9bm9uZSZpZD0xMTg5NTA4MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJCQjI0X0RBU0giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZJYkJ3ajBwNTBtTFNwSEFxMThCWHdUWmp3Ml9PWUJGcXV0eDlDQ0M4TmRMRFJFRVZwbHBWWmI5Mmo2T0pIcS1KQXZEcFJJZmNZUUNNNGRNd2Ywc2V2dm94akN5bG5TQjdiSDFaZFZDaDZmdEVha29fVVlMY2VHZTE0SHZ2US1RRE1zNXoxdlQybElHNHFQcWdmNHVmUVFCUFRTWm9lT0Vnd1phV2tCSi1JOGF5djd3VkplOUNBNVhmMHRfQzVOZ1VvbW5FWkxtS3E5UzFNWkYtTVVBRUZVekNOTk8ySDBGSXRDeVFKc2E1cEhIRklOLVBVUmhmYmswTmtwYWE3RmREVWNfMmRYMmtORUg0elBtVmppZ090WEJ2MTl2REpLTFlTZV8tN0V4bnlnejE3dEwzdkVHYWlmYy1yMUd5QzdmRkJBeGZUT21SM3hKZ3NieG5HWHZhbUp0LU5wT0hfbHBBYV82UFpnZTZ6WkgwbThDbi10X3VrcUd0MkJURlFFWWRwWUw1bU4xWXR0ZVAzY3JkejY4UXFTdWE0V0VLSlJKS0dXYTVoUURqMnlfRm04Z2JZQjVaS1RiNjhFdnAxVmRUUUNlaTVPWWlmVzJGYUt3ZzBmeWNyZz0iLCJ1ZGlkIjoiNzY0M2E3YTM3ZDUxNDEzZTlmMjkwMWRjMzc5Y2EwYjAiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=ER3f7WEVsKdjmeS6qHfq%2fy2hLCQ%3d
-#EXTINF:-1  tvg-id="NA" group-title="Entertainment prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_418,h_310/v3Storage/assets/1280x1005%20Unseen%20Channel_17.10.2020-02-1603089619328.jpg",Big Boss
+#EXTINF:-1  tvg-id="NA" group-title="Entertainment प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_418,h_310/v3Storage/assets/1280x1005%20Unseen%20Channel_17.10.2020-02-1603089619328.jpg",Big Boss
 https://livevoot-i.akamaihd.net/dash/live/1021007/BB24/master.mpd
-#EXTINF:-1  tvg-id="1132" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png",Star Plus
-https://tivimateplaylists.live/starplus
-#EXTINF:-1  tvg-id="931" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat
-https://tivimateplaylists.live/Starbharat
-#EXTINF:-1  tvg-id="367" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
-https://tivimateplaylists.live/star-utsav
-#EXTINF:-1  tvg-id="0-9-bigmagic_1786965389" group-title="Entertainment prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png",Big Magic
-https://tivimateplaylists.live/Big-magic
+#EXTINF:-1  tvg-id="1132" group-title="Entertainment प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png",Star Plus
+https://tivimateplaylists.live/starplusN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGUXc0RlBZcmJiMzBBdEhCd1llZUhtODh1ZUp0eGV3bTRMbjcwMlhrdVBhNWRYbVJVeGxsQlhncUhDSEJNa1dpOG5WUHBaaXFoUHZOTWprb3hZbXk0N2U1clczSWppQW4tck1WY2xlcXRacnQ0bDJYU3hwMDNXdkJBTUpybV9tcTk5WFpWZ09Tc29yZ09qYlhNNncwenlidlZTMUFVWWFvamJXSi04bV9lR2VESVJJcTNMNTJkTGNXdzRmZTFmU0VSQ0VFa1F0SXQ5UTBTR0JBaEE4eWRWc0JZQlA3TEJNZ0FGSE90S0JCMmtia3ZNc0RkX2R4Q0xESmFWTXRNVlktRGZTUjlYSEVXLVBEVkFBaDRhVFdjZ3NVS0NCYUxLUzF3LWVEczZvQ0o2VDhKRms2WU5pVzM0S2J3X1QzMUozVXdLS0ZuY0ZNME1qRkhQTmVCc1RtdGc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM3MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb2xvcnNoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRlF3NEZQWXJiYjMwQXRIQndZZWVIbTg4dWVKdHhld200TG43MDJYa3VQYTVkWG1SVXhsbEJYZ3FIQ0hCTWtXaThuVlBwWmlxaFB2Tk1qa294WW15NDdlNXJXM0lqaUFuLXJNVmNsZXF0WnJ0NGwyWFN4cDAzV3ZCQU1Kcm1fbXE5OVhaVmdPU3NvcmdPamJYTTZ3MHp5YnZWUzFBVVlhb2piV0otOG1fZUdlRElSSXEzTDUyZExjV3c0ZmUxZlNFUkNFRWtRdEl0OVEwU0dCQWhBOHlkVnNCWUJQN0xCTWdBRkhPdEtCQjJrYmt2TXNEZF9keENMREphVk10TVZZLURmU1I5WEhFVy1QRFZBQWg0YVRXY2dzVUtDQmFMS1Mxdy1lRHM2b0NKNlQ4SkZrNllOaVczNEtid19UMzFKM1V3S0tGbmNGTTBNakZIUE5lQnNUbXRnPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=f%2bkf%2b%2fUFG2iMp2klPrYC7Da60ss%3d
-#EXTINF:-1  tvg-id="144" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+#EXTINF:-1  tvg-id="144" group-title="Entertainment प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd
-#EXTINF:-1  tvg-id="DD Retro" group-title="Entertainment prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_845,h_475/v3Storage/assets/RETRO-TV-1597511473020.jpg",DD Retro
+#EXTINF:-1  tvg-id="291" group-title="Entertainment प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9088-k6aiezio-v5/imageContent-9088-k6aiezio-m8.png",SET HD
+https://tivimateplaylists.live/sony-setN
+#EXTINF:-1  tvg-id="167" group-title="Entertainment प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee Tv HD
+https://tivimateplaylists.live/Zee-tv-hdn
+#EXTINF:-1  tvg-id="0-9-tvhd_0" group-title="Entertainment प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",And tv HD
+https://tivimateplaylists.live/andtvhdn
+#EXTINF:-1  tvg-id="931" group-title="Entertainment प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat
+https://tivimateplaylists.live/StarbharatN
+#EXTINF:-1  tvg-id="471" group-title="Entertainment प्रसाद  TV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",SAB HD
+https://tivimateplaylists.live/Sab-tv-hdN
+#EXTINF:-1  tvg-id="367" group-title="Entertainment प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav.png",Star Utsav
+https://tivimateplaylists.live/starutsavmovien
+#EXTINF:-1  tvg-id="474" group-title="Entertainment प्रसाद  TV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal
+https://tivimateplaylists.live/sony-palN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0
+#EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment प्रसाद  TV",Rishtey
+https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
+#EXTINF:-1  tvg-id="id" group-title="Entertainment प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_682,h_383/v3Storage/assets/Shemaroo-16x9-1598935949593.jpg",Shemaroo Tv
+https://tivimateplaylists.live/shemaroo
+#EXTINF:-1  tvg-id="0-9-bigmagic_1786965389" group-title="Entertainment प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11266-j9j2spmg-v1/imageContent-11266-j9j2spmg-m1.png",Big Magic
+https://tivimateplaylists.live/Big-magicN
+#EXTINF:-1  tvg-id="DD Retro" group-title="Entertainment प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_845,h_475/v3Storage/assets/RETRO-TV-1597511473020.jpg",DD Retro
 https://viacom-b.multitvsolution.com/dashv/ddretro.mpd
-#EXTINF:-1  tvg-id="701" group-title="Entertainment prasad electronics" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal
+#EXTINF:-1  tvg-id="701" group-title="Entertainment प्रसाद  TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJxXTkc1RTZEVA6BJ3lI-6-kuDkFtDhqFzSUX7Qy6A=s900-c-k-c0xffffffff-no-rj-mo",Dangal
 https://tivimateplaylists.live/Dangal
-#EXTINF:-1  tvg-id="580" group-title="Entertainment prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11320-j9jlusp4-v1/imageContent-11320-j9jlusp4-m1.png",DD Bharati
+#EXTINF:-1  tvg-id="580" group-title="Entertainment प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11320-j9jlusp4-v1/imageContent-11320-j9jlusp4-m1.png",DD Bharati
 https://tivimateplaylists.live/dd-bharti
-#EXTINF:-1  tvg-id="202" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
+#EXTINF:-1  tvg-id="202" group-title="Entertainment प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
 https://tivimateplaylists.live/DD-national
-#EXTINF:-1  tvg-id="167" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee Tv HD
-https://tivimateplaylists.live/Zee-tv-hd
-#EXTINF:-1  tvg-id="715" group-title="Entertainment prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11374-j9jpwgiw-v1/imageContent-11374-j9jpwgiw-m1.png",DD Punjabi
-https://tivimateplaylists.live/dd-punjabi
-#EXTINF:-1  tvg-id="591" group-title="Entertainment prasad electronics" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-207/list/09207e24.jpg",E24
+#EXTINF:-1  tvg-id="591" group-title="Entertainment प्रसाद  TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale/resources/0-9-207/list/09207e24.jpg",E24
 https://tivimateplaylists.live/e-24
-#EXTINF:-1  tvg-id="Firangi" group-title="Entertainment prasad electronics" tvg-logo="https://pr24x7.files.wordpress.com/2011/09/firangilogo.jpg",Firangi
+#EXTINF:-1  tvg-id="Firangi" group-title="Entertainment प्रसाद  TV" tvg-logo="https://pr24x7.files.wordpress.com/2011/09/firangilogo.jpg",Firangi
 https://tivimateplaylists.live/Firangi
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=pPFK0oru0vii%2bp6wQGmfZ5DQSs4%3d
-#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment prasad electronics",Colors Infinity HD
+#EXTINF:-1 tvg-id="1158" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="Entertainment प्रसाद  TV",Colors Infinity HD
 https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTk0NTUyNjQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoicmlzaHRleXNkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=DHd%2fcsvP0O5KRWlFt8DsLy8ruG0%3d&sessionId=40493c2e-cdb0-ffc9-cb91-ad68d45352a2:acd06234-c714-e474-4aa7-5ab9ef9393d6&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXJpc2h0ZXkvODM3ODc0
-#EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment prasad electronics",Rishtey
-https://livevoot-i.akamaihd.net/dash/live/828588/rishtey/master.mpd
-#EXTINF:-1  tvg-id="471" group-title="Entertainment prasad electronics" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png",SAB HD
-https://tivimateplaylists.live/Sab-tv-hd
-#EXTINF:-1  tvg-id="154" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",SAB SD
-https://tivimateplaylists.live/sony-sab-sd
-#EXTINF:-1  tvg-id="697" group-title="Entertainment prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",Sony Aath
-https://tivimateplaylists.live/Sony-aath
-#EXTINF:-1  tvg-id="474" group-title="Entertainment prasad electronics" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png",Sony Pal
-https://tivimateplaylists.live/sony-pal
-#EXTINF:-1  tvg-id="291" group-title="Entertainment prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9088-k6aiezio-v5/imageContent-9088-k6aiezio-m8.png",SET HD
-https://tivimateplaylists.live/sony-set
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NDUzMzc5OCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjb21lZHljZW50cmFsX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=59e4ClW2BOar8fBSc5NW4g1j%2fio%3d
-#EXTINF:-1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment prasad electronics",Comedy Central HD
+#EXTINF:-1 tvg-id="1157" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="Entertainment प्रसाद  TV",Comedy Central HD
 https://livevoot-i.akamaihd.net/dash/live/876250/comedycentral/master.mpd
-#EXTINF:-1  tvg-id="id" group-title="Entertainment prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_682,h_383/v3Storage/assets/Shemaroo-16x9-1598935949593.jpg",Shemaroo Tv
-https://tivimateplaylists.live/shemaroo
-#EXTINF:-1  tvg-id="0-9-tvhd_0" group-title="Entertainment prasad electronics" tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png",And tv HD
-https://tivimateplaylists.live/andtv
+#EXTINF:-1  tvg-id="715" group-title="Entertainment प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11374-j9jpwgiw-v1/imageContent-11374-j9jpwgiw-m1.png",DD Punjabi
+https://tivimateplaylists.live/dd-punjabi
 
 
-#EXTINF:-1  tvg-id="821" group-title="Info prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC Earth
-https://tivimateplaylists.live/sonybbcerth
-#EXTINF:-1  tvg-id="463" group-title="Info prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery
-https://tivimateplaylists.live/discovery
-#EXTINF:-1  tvg-id="527" group-title="Info prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Discovery ID
-https://tivimateplaylists.live/discovery-id
-#EXTINF:-1  tvg-id="164" group-title="Info prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travelxp
-https://tivimateplaylists.live/travelxphindi
-#EXTINF:-1  tvg-id="NA" group-title="Info prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
-https://tivimateplaylists.live/nat-geo-wild
-#EXTINF:-1  tvg-id="id" group-title="Info prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network (Dual Audio)
-https://tivimateplaylists.live/Food-Network
 
 
-#EXTINF:-1  tvg-id="559" group-title="Kids prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo
-https://tivimateplaylists.live/pogo-hindi
-#EXTINF:-1  tvg-id="816" group-title="Kids prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
-https://tivimateplaylists.live/cartoonethindi
-#EXTINF:-1  tvg-id="545" group-title="Kids prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick sd
-https://tivimateplaylists.live/Nick-hindi-sd
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg",Shemaroo Kids
-https://tivimateplaylists.live/smrukds
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
-https://tivimateplaylists.live/Animax
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/Cartoon-Network-HD-post.jpg",Cartoon Network HD
-https://tivimateplaylists.live/cartoon-network-hd
-#EXTINF:-1  tvg-id="872" group-title="Kids prasad electronics" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png",Sony Yay
-https://tivimateplaylists.live/sony-yay
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Disney_International_HD_logo.png",Disney International HD
-https://tivimateplaylists.live/disney-international
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/10/Disney-Channel.jpg?fit=900%2C675&ssl=1",Disney Channel
-https://tivimateplaylists.live/Disney-Channel
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://tvguide1.cbsistatic.com/i/r/2012/01/09/c1b0244d-3161-4fb1-b84c-2015df8542e1/resize/300x206/64a208d9f1b4287fef75691852500699/120109disney-junior-logo1.jpg",Disney Junier
-https://tivimateplaylists.live/disney-junier
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",Disney XD
-https://tivimateplaylists.live/disney-xd
-#EXTINF:-1  tvg-id="0-9-290" group-title="Kids prasad electronics" tvg-logo="https://i.gadgets360cdn.com/large/zee5_kids_logo-c_1587110571946.jpg",Zee Kids
-https://tivimateplaylists.live/z5kdz
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
-https://tivimateplaylists.live/discvry-kids
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/1200px-CBeebies.png",Cbeebies
-https://tivimateplaylists.live/cbeebis
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://lh3.googleusercontent.com/proxy/tfN1n_kD4_98SDdMGmBWb_rc3Lbxj2qIOtMLhf52pv9jDJG1renxBE5GIHoNVoKbIIF8iztZurYOYEc3mSoYe2qqp94OYR8rp3VWAzXXwPXrB7AcVcltVcg",wow Kids
-https://tivimateplaylists.live/wow-kids
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg",Boomerang
-https://tivimateplaylists.live/boomerang
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Pop_logo_red_it_0.png",POP
-https://tivimateplaylists.live/pop-kids
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ab2U%2boSAcTncBH%2bzdMayvCtpm7w%3d
-#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids prasad electronics",Nick HD+
-https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZDQm5IemZwOUNzUTR3bEtNdVhWTGhOMmYwakpENHkxT196WmJlT3E5ZUlMd3RPemdPSk5rWGNyTWc4R203Ykt6LUdOR2dXUU1QUktMVHJGRmNiNnlraEhaYTlGaXhpTEF1MHdTbHRkaTVnZ0N6RU1nXzN4Y0FWRnRpM19BWTM3WG03SjZhZ1hvN2tMNFRyaHVVZWdNRWwxMUJ4WkpfQ29adWZjd1doemhkX0Rqb3pzc1BDYnJOS1l4bkhuRmlCYVNQdGo5eFpKVUhLWGlBWjFMUFUxUnYtbkppN0RZYWxiWl9xUVNBSDRpcDV1dWNhTS1BMG8xYk5WRUt5b3F4bVJyY1hhQTVIS2h6LU5wOTNQeGlMdzZjQnBkY0xSRUhGY0YtNnVXcEV4dVFFZmVzNG5uZFdIdzc5bDhEZTJCZU1jeXNuNzFVV1pSSmhWZ0t5Tm1Bdm1OS19SX3FFNzQ3eTJOZG91ZU5tcGs3MFNYcDNlTnZ2N1NIb3lub2xWN1dUc3RBPT0mY29udGV4dFR5cGU9bm9uZSZpZD04OTQ1MTM3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkNCbkh6ZnA5Q3NRNHdsS011WFZMaE4yZjBqSkQ0eTFPX3paYmVPcTllSUx3dE96Z09KTmtYY3JNZzhHbTdiS3otR05HZ1dRTVBSS0xUckZGY2I2eWtoSFphOUZpeGlMQXUwd1NsdGRpNWdnQ3pFTWdfM3hjQVZGdGkzX0FZMzdYbTdKNmFnWG83a0w0VHJodVVlZ01FbDExQnhaSl9Db1p1ZmN3V2h6aGRfRGpvenNzUENick5LWXhuSG5GaUJhU1B0ajl4WkpVSEtYaUFaMUxQVTFSdi1uSmk3RFlhbGJaX3FRU0FINGlwNXV1Y2FNLUEwbzFiTlZFS3lvcXhtUnJjWGFBNUhLaHotTnA5M1B4aUx3NmNCcGRjTFJFSEZjRi02dVdwRXh1UUVmZXM0bm5kV0h3NzlsOERlMkJlTWN5c243MVVXWlJKaFZnS3lObUF2bU5LX1JfcUU3NDd5Mk5kb3VlTm1wazcwU1hwM2VOdnY3U0hveW5vbFY3V1RzdEE9PSIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=NuLHx8kpTBbEyiPFZ%2fx%2fMY9oL70%3d
-#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids prasad electronics",Nick Junior
-https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgzMzYzMDIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoic29uaWNfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkZ5M1ptcE5KWFd5SmFqeDI1RE1QUlg3UkxKdnZRMTM0ZV95YVZoUzU3RGJCMms3b2lNRzZaVWtPZUwwSkNFT0NDR3pkamQzZmtpa25zVTdUM1dWa3ZuUHJuUUdRcVNqM2I5WGVfWW5VQ19KWHVxQVpoMXpaeWlncHpNcHJRYUtwTmM4R3gyRGdyZFBmWk1Qdmh2enlZeTJEa1N2U1d5amlyR2NsM1drLVZST0NvZ0RLeC10WERXV2RqY0hHNm1SMjZrX0xQMmI3MTQwMm1IX0xMX2VncDZIMVpyOWFVN2RFcGV5MGNrQjhDVER4QS02aFBWYnJzYXBJSEkxb05DZEJNWV9oMVNuVF85dEpJaXVlVjVNOWtUS2dWTk9qTHgzWHlYMlB1R0NLdWNsZDExbDFFakdNdldCRFhmaVJ6QkRLTmVrdnVpZ2Nwd2VZZ3hqQ0xCcG5QeENpdjhlaWhqQ05yTVpDanN0NFg3X1h6ZEkyWU9uMXlNV040VHpFNTJmZjBSa1BfM2N3VndGOWJHVEJmS2c4RXVjU2JEbWg2ZXdIVDhaMENYYVlvRnhQUERHNFJOVnRVMlBoSnNqNExfeGxHY3h3bTFYRlJpZERBVEJUMjAtTzB1Z0w4WHprVHA0bDVtOS1vdlRQeW1yIiwidWRpZCI6IjJhM2IwZTVjZDAzNjQ3Y2NhNGEyN2NjNjcyNWM1MjY2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=urCKvCdMXbH2BNLVZZnza3iczVE%3d
-#EXTINF:-1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids prasad electronics",Sonic Hindi
-https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
-#EXTINF:-1  tvg-id="id" group-title="Kids prasad electronics" tvg-logo="https://yt3.ggpht.com/a/AATXAJyh7aOnROh3vb337zqTdnwVfv47eEuDi5YyHZDsfw=s900-c-k-c0xffffffff-no-rj-mo",Ani Plus
-https://tivimateplaylists.live/Ani-Plus
 
 
+
+#EXTINF:-1  tvg-id="1133" group-title="Movies प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",Star Gold
+https://tivimateplaylists.live/stargoldn
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=2PD5Ukiwmg7WNAjgVRfQ8NOSbT4%3d
-#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies prasad electronics",Colors Cineplex HD
+#EXTINF:-1 tvg-id="482" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Movies प्रसाद  TV",Colors Cineplex HD
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
-#EXTINF:-1  tvg-id="Filmy" group-title="Movies prasad electronics" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg",Filmy
+#EXTINF:-1  tvg-id="1113" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select
+https://tivimateplaylists.live/stargoldselectn
+#EXTINF:-1  tvg-id="476" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX
+https://tivimateplaylists.live/sonymaxhdn
+#EXTINF:-1  tvg-id="1154" group-title="Movies प्रसाद  TV" tvg-logo="https://images.assettype.com/afaqs%2F2020-01%2F7f9e3dc4-90ff-476a-b195-0719a8f46616%2FSG_Black_Text_SD_Logo.png?format=webp&w=700&dpr=1.0",Star Gold 2
+https://tivimateplaylists.live/stargold2n
+#EXTINF:-1  tvg-id="NA" group-title="Movies प्रसाद  TV" tvg-logo="https://p.kindpng.com/picc/s/8-81349_star-utsav-movies-star-utsav-movies-logo-png.png",Star Utsav Movies
+https://tivimateplaylists.live/star-utsavnn
+#EXTINF:-1  tvg-id="0-9-zeecinemahd" group-title="Movies प्रसाद  TV" tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png",Zee Cinema HD
+https://tivimateplaylists.live/zee-cinema-hdn
+#EXTINF:-1  tvg-id="zeetheatre" group-title="Movies प्रसाद  TV" tvg-logo="https://image3.mouthshut.com/images/imagesp/925933400s.png",Zee5 Theatre
+https://tivimateplaylists.live/zee5theatreN
+#EXTINF:-1  tvg-id="0-9-tvpictureshd" group-title="Movies प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",&Pictures HD
+https://tivimateplaylists.live/and-picturesn
+#EXTINF:-1  tvg-id="0-9-209" group-title="Movies प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",&Xplore HD
+https://tivimateplaylists.live/andxploren
+#EXTINF:-1  tvg-id="483" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX 2
+https://tivimateplaylists.live/sonymax2n
+#EXTINF:-1  tvg-id="1276" group-title="Movies प्रसाद  TV" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png",Sony Wah
+https://tivimateplaylists.live/sonywahn
+#EXTINF:-1  tvg-id="0-9-176" group-title="Movies प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png",Zee Classic
+https://tivimateplaylists.live/zee-classicn
+#EXTINF:-1  tvg-id="Filmy" group-title="Movies प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0079.Filmy.in/1x1/1x/test_pic1535463753952.jpg",Filmy
 http://bit.ly/tivimateplaylistsfilmy
-#EXTINF:-1  tvg-id="1133" group-title="Movies prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",Star Gold
-https://tivimateplaylists.live/stargold
-#EXTINF:-1  tvg-id="1113" group-title="Movies prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select_HD.png",Star Gold Select
-https://tivimateplaylists.live/stargoldselect
-#EXTINF:-1  tvg-id="NA" group-title="Movies prasad electronics" tvg-logo="https://p.kindpng.com/picc/s/8-81349_star-utsav-movies-star-utsav-movies-logo-png.png",Star Utsav Movies
-https://tivimateplaylists.live/starutsavmovie
-#EXTINF:-1  tvg-id="NA" group-title="Movies prasad electronics" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/81/251.png/revision/latest/scale-to-width-down/340?cb=20200530143703",Astro Bollyone HD
-https://tivimateplaylists.live/astro-bollyone-hd
-#EXTINF:-1  tvg-id="762" group-title="Movies prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",PIX HD
-https://tivimateplaylists.live/sonypixhd
-#EXTINF:-1  tvg-id="0-9-zeecinemahd" group-title="Movies prasad electronics" tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png",Zee Cinema HD
-https://tivimateplaylists.live/zee-cinema-hd
-#EXTINF:-1  tvg-id="0-9-zeecinemahd" group-title="Movies prasad electronics" tvg-logo="https://www.pngitem.com/pimgs/m/8-80870_zee-cinema-channel-logo-hd-png-download.png",Zee Cinema
-https://tivimateplaylists.live/zee-cinema-sd
-#EXTINF:-1  tvg-id="946" group-title="Movies prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",Pitaara
-https://tivimateplaylists.live/pitara
-#EXTINF:-1  tvg-id="0-9-tvpictureshd" group-title="Movies prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11173-j9hth720-v1/imageContent-11173-j9hth720-m1.png",&Pictures HD
-https://tivimateplaylists.live/and-pictures
-#EXTINF:-1  tvg-id="0-9-privéhd" group-title="Movies prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11165-j9ht50s8-v1/imageContent-11165-j9ht50s8-m4.png",&Prive HD
-https://tivimateplaylists.live/andprivehd
-#EXTINF:-1  tvg-id="1266" group-title="Movies prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v1/imageContent-11263-j9j1tch4-m1.png",BFlix Movies
-https://tivimateplaylists.live/bflix
-#EXTINF:-1  tvg-id="Cinema TV India" group-title="Movies prasad electronics" tvg-logo="http://namahshivaystarconnection.com/img/channel-logos/movies/25-Cinema%20TV.jpg",Cinema TV India
-https://tivimateplaylists.live/cinematv
-#EXTINF:-1  tvg-id="485" group-title="Movies prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_711/LOGO/be2a449d-bbeb-470e-b27e-9edda4becde4.png",Enterr10 Movies
-https://rebrand.ly/enter-10-airtel
-#EXTINF:-1  tvg-id="476" group-title="Movies prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",SONY MAX
-https://tivimateplaylists.live/sonymaxhd
-#EXTINF:-1  tvg-id="483" group-title="Movies prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",SONY MAX 2
-https://tivimateplaylists.live/sonymax2
-#EXTINF:-1  tvg-id="1276" group-title="Movies prasad electronics" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png",Sony Wah
-https://tivimateplaylists.live/sonywah
-#EXTINF:-1  tvg-id="id" group-title="Movies prasad electronics" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/09/UTV_MOVIES_LOGO_7.jpg",UTV Movies
-https://tivimateplaylists.live/UTVmovies
-#EXTINF:-1  tvg-id="id" group-title="Movies prasad electronics" tvg-logo="https://dreamdth.com/community/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FHo0n5PW.png&hash=8cca079f2c101bc055800e80d11371a6",UTV HD
-https://tivimateplaylists.live/utvhd
-#EXTINF:-1  tvg-id="id" group-title="Movies prasad electronics" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v1/imageContent-11200-j9i4gzig-m1.png",Wow Cinema
-https://tivimateplaylists.live/wowcinema
-#EXTINF:-1  tvg-id="id" group-title="Movies prasad electronics" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/new-channels-logo-100/tata-sky-bollywood-premiere-hd-tv-channel-logo-100x100.jpg",Tata Sky Bollywood premiere HD
-https://tivimateplaylists.live/tata-sky-bollywood
-#EXTINF:-1  tvg-id="0-9-zeeclassic" group-title="Movies prasad electronics" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png",Zee Bollywood
-https://tivimateplaylists.live/zeebollywood
-#EXTINF:-1  tvg-id="1450" group-title="Movies prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_100,h_100/v3Storage/channel-logos/CPR-500x500.png",Cineplex Rishtey
-https://tivimateplaylists.live/Rishteycineplex
-#EXTINF:-1  tvg-id="id" group-title="Movies prasad electronics" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/small_16_9.jpg?1549605270",Shemaroo bollywood Classic
-https://tivimateplaylists.live/shemaroo-classic
-#EXTINF:-1  tvg-id="462" group-title="Movies prasad electronics" tvg-logo="https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png?o=production",MNX
-https://tivimateplaylists.live/Mnx-movies
-#EXTINF:-1  tvg-id="833" group-title="Movies prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000013870000/PORTRAIT/hw7CplH2.png",HBO HD
-https://tivimateplaylists.live/hbohd
+#EXTINF:-1  tvg-id="1266" group-title="Movies प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11263-j9j1tch4-v1/imageContent-11263-j9j1tch4-m1.png",BFlix Movies
+https://tivimateplaylists.live/bflixn
+#EXTINF:-1  tvg-id="Cinema TV India" group-title="Movies प्रसाद  TV" tvg-logo="http://namahshivaystarconnection.com/img/channel-logos/movies/25-Cinema%20TV.jpg",Cinema TV India
+https://tivimateplaylists.live/cinematvn
+#EXTINF:-1  tvg-id="485" group-title="Movies प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_711/LOGO/be2a449d-bbeb-470e-b27e-9edda4becde4.png",Enterr10 Movies
+https://tivimateplaylists.live/enter10n
+#EXTINF:-1  tvg-id="488" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
+https://tivimateplaylists.live/zeeactionn
+#EXTINF:-1  tvg-id="id" group-title="Movies प्रसाद  TV" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/UTV-ACTION.jpg",UTV Action
+https://tivimateplaylists.live/utvactionn
+#EXTINF:-1  tvg-id="id" group-title="Movies प्रसाद  TV" tvg-logo="https://bestmediainfo.com/wp-content/uploads/2017/09/UTV_MOVIES_LOGO_7.jpg",UTV Movies
+https://tivimateplaylists.live/UTVmoviesn
+#EXTINF:-1  tvg-id="id" group-title="Movies प्रसाद  TV" tvg-logo="https://dreamdth.com/community/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FHo0n5PW.png&hash=8cca079f2c101bc055800e80d11371a6",UTV HD
+https://tivimateplaylists.live/utvhdn
+#EXTINF:-1  tvg-id="NA" group-title="Movies प्रसाद  TV" tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/43ac8a41c04d70b1604e6799e03635b4_r.jpg",Humdard Laughter
+https://tivimateplaylists.live/Humdard-LaughterN
+#EXTINF:-1  tvg-id="415" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
+https://tivimateplaylists.live/zeeanmolcinemann
+#EXTINF:-1  tvg-id="id" group-title="Movies प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v1/imageContent-11200-j9i4gzig-m1.png",Wow Cinema
+https://tivimateplaylists.live/wowcineman
+#EXTINF:-1  tvg-id="0-9-zeeclassic" group-title="Movies प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png",Zee Bollywood
+https://tivimateplaylists.live/zeebollywoodn
+#EXTINF:-1  tvg-id="1450" group-title="Movies प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_100,h_100/v3Storage/channel-logos/CPR-500x500.png",Cineplex Rishtey
+https://tivimateplaylists.live/Rishteycineplexn
+#EXTINF:-1  tvg-id="id" group-title="Movies प्रसाद  TV" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Bollywood-Classic/5bebef3ca609d202b30000d9/small_16_9.jpg?1549605270",Shemaroo bollywood Classic
+https://tivimateplaylists.live/shemaroo-classicn
+#EXTINF:-1  tvg-id="762" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",PIX HD
+https://tivimateplaylists.live/sonypixhdn
+#EXTINF:-1  tvg-id="462" group-title="Movies प्रसाद  TV" tvg-logo="https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png?o=production",MNX
+https://tivimateplaylists.live/Mnx-moviesn
+#EXTINF:-1  tvg-id="1104" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png",Star Movies HD
+https://tivimateplaylists.live/Starmovieshdn
+#EXTINF:-1  tvg-id="1110" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png",Star Movies Select HD
+https://tivimateplaylists.live/starmoviesselectn
+#EXTINF:-1  tvg-id="1105" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_HD.png",Star World HD
+https://tivimateplaylists.live/StarWorldhdn
+#EXTINF:-1  tvg-id="1107" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World_Premeir_HD.png",Star World Premire HD
+https://tivimateplaylists.live/Starworldpremierhdn
+#EXTINF:-1  tvg-id="0-9-privéhd" group-title="Movies प्रसाद  TV" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11165-j9ht50s8-v1/imageContent-11165-j9ht50s8-m4.png",&Prive HD
+https://tivimateplaylists.live/andprivehdn
+#EXTINF:-1  tvg-id="0-9-channel_2105335046" group-title="Movies प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png",&Flix HD
+https://tivimateplaylists.live/andflixhdn
+#EXTINF:-1  tvg-id="833" group-title="Movies प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000013870000/PORTRAIT/hw7CplH2.png",HBO HD
+https://tivimateplaylists.live/hbohdn
+#EXTINF:-1  tvg-id="NA" group-title="Movies प्रसाद  TV" tvg-logo="https://www.binged.com/wp-content/uploads/2020/09/Netflix-Bollywood.jpg",Netflix Bollywood
+https://tivimateplaylists.live/netflixbollywoodn
+#EXTINF:-1  tvg-id="NA" group-title="Movies प्रसाद  TV" tvg-logo="https://image3.mouthshut.com/images/imagesp/925933400s.png",Zee5 Originals
+https://tivimateplaylists.live/zee5originalsn
+#EXTINF:-1  tvg-id="946" group-title="Movies प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",Pitaara
+https://tivimateplaylists.live/pitaran
+#EXTINF:-1  tvg-id="NA" group-title="Movies प्रसाद  TV" tvg-logo="https://thumbs.dreamstime.com/z/hollywood-vector-logo-white-letters-isolated-black-background-hollywood-lettering-vector-logo-white-letters-isolated-black-144767895.jpg",Hollywood test
+https://tivimateplaylists.live/moviestest
+
+
+
+
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODgyNjk2MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZiZWF0c19kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmTjNKWUtvaTFUYmU2Tmh4Zk5hUzVvTC1MMmx2bW8xT3dYZDRISHFpVm9INEpDVDJCWkpaZlFRMTZjQmMwTXo2YWZaeWdQUVJicldhcHVhNXRsR3l2UHo3SUtxeFg4Nnd2cDZIUlBrUHpjYnFSYVo3R0xpLWxmNjA4WE9YbWZWWkcxUWRPZlUteGc4WjRCNlVPa0Rrc1pRZk1WdHJwcWpRaFVIdXhnQm9aUjUyZTY3V3ZMZVJVNHRpM2hiNng1WTZYWG9fZC1va0Z0VDBEUU1VSEh1NlNLNFdfN3ZNSHRCZm15UW9kT1pXTjdIVVl0ZUEycms0akZ5NW1jd1dXUGx5VXAtekh4cXh5RXhMaHY0MmJSZjJDc1cxd2JIOElqdWlrenUzWWFzeVV2cnQxcGcyblhzT3QzcHg3ZmNWdFJqeHc3ZVc5SGxPanZtZ25DRVFsQmhYNjI4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=OG1hOAa72zbU10Rajz5hYJ7miAc%3d
-#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music prasad electronics",MTV Beats HD
+#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music प्रसाद  TV",MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MCIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJtdHZoZExpdmVfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=7DycovFUtsF45qAdOZO1%2blTppLs%3d
-#EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music prasad electronics",MTV HD Plus
+#EXTINF:-1 tvg-id="1145" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music प्रसाद  TV",MTV HD Plus
 https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
-#EXTINF:-1  tvg-id="id" group-title="Music prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_845,h_475/v3Storage/assets/AAHO-16x9-1597856759552.jpg",Aaho Music
-https://tivimateplaylists.live/aaho
-#EXTINF:-1  tvg-id="id" group-title="Music prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_682,h_383/v3Storage/assets/Gabaru-1597856895622.jpg",Gabru Tv
-https://tivimateplaylists.live/gbru
-#EXTINF:-1  tvg-id="id" group-title="Music prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_682,h_383/v3Storage/assets/BALLE-BALLE-16x9-1597856857382.jpg",Balle Balle
-https://tivimateplaylists.live/balle
-#EXTINF:-1  tvg-id="id" group-title="Music prasad electronics" tvg-logo="https://www.logolynx.com/images/logolynx/f0/f0924a8eb86f88070eb06126009387bf.jpeg",Bindass
-https://tivimateplaylists.live/bindass
-#EXTINF:-1  tvg-id="0-9-zing" group-title="Music prasad electronics" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png",Zing
-https://tivimateplaylists.live/zing
-#EXTINF:-1  tvg-id="742" group-title="Music prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png",MH1
-https://bit.ly/3byfGF7
-#EXTINF:-1  tvg-id="N/A" group-title="Music prasad electronics" tvg-logo="https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1994/Dil_se176X96.png",Dil se
-https://tivimateplaylists.live/Dilse
-#EXTINF:-1  tvg-id="N/A" group-title="Music prasad electronics" tvg-logo="https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png",Pop Pataka
-https://tivimateplaylists.live/kympoppataka
-#EXTINF:-1  tvg-id="592" group-title="Music prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Zoom
-https://tivimateplaylists.live/zoomtv
-#EXTINF:-1  tvg-id="0-9-165" group-title="Music prasad electronics" tvg-logo="https://3.bp.blogspot.com/-eYJcquj6L6Q/XWWp7d4s1zI/AAAAAAAABEg/FZxZP3CN0YM6jppGCMcRYx_f1VB8avMggCLcBGAs/s1600/images%2B%25285%2529.jpeg",Boogle Bollywood
-https://tivimateplaylists.live/booglebollywood
-#EXTINF:-1  tvg-id="id" group-title="Music prasad electronics" tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/3b2b356e96a63b7487dc81f45e5ca959_D.jpg",World Punjabi HD
-https://tivimateplaylists.live/worldpunjabihd
-#EXTINF:-1  tvg-id="584" group-title="Music prasad electronics" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55-j5fdr2f4-v1/imageContent-55-j5fdr2f4-m1.jpg",Mastiii
-https://tivimateplaylists.live/mastiii
+#EXTINF:-1  tvg-id="id" group-title="Music प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_845,h_475/v3Storage/assets/AAHO-16x9-1597856759552.jpg",Aaho Music
+https://tivimateplaylists.live/aahon
+#EXTINF:-1  tvg-id="id" group-title="Music प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_682,h_383/v3Storage/assets/Gabaru-1597856895622.jpg",Gabru Tv
+https://tivimateplaylists.live/gbrun
+#EXTINF:-1  tvg-id="id" group-title="Music प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_682,h_383/v3Storage/assets/BALLE-BALLE-16x9-1597856857382.jpg",Balle Balle
+https://tivimateplaylists.live/ballen
+#EXTINF:-1  tvg-id="id" group-title="Music प्रसाद  TV" tvg-logo="https://www.logolynx.com/images/logolynx/f0/f0924a8eb86f88070eb06126009387bf.jpeg",Bindass
+https://tivimateplaylists.live/bindassn
+#EXTINF:-1  tvg-id="0-9-zing" group-title="Music प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png",Zing
+https://tivimateplaylists.live/zingn
+#EXTINF:-1  tvg-id="742" group-title="Music प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png",MH1
+https://tivimateplaylists.live/mh1n
+#EXTINF:-1  tvg-id="N/A" group-title="Music प्रसाद  TV" tvg-logo="https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1994/Dil_se176X96.png",Dil se
+https://tivimateplaylists.live/Dilsen
+#EXTINF:-1  tvg-id="N/A" group-title="Music प्रसाद  TV" tvg-logo="https://img.airtel.tv/unsafe/fit-in/220x0/filters:format(webp)/https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1997/Pop_Patakha_Logo176X96.png",Pop Pataka
+https://tivimateplaylists.live/kympoppatakan
+#EXTINF:-1  tvg-id="592" group-title="Music प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Zoom
+https://tivimateplaylists.live/zoomtvn
+#EXTINF:-1  tvg-id="0-9-165" group-title="Music प्रसाद  TV" tvg-logo="https://3.bp.blogspot.com/-eYJcquj6L6Q/XWWp7d4s1zI/AAAAAAAABEg/FZxZP3CN0YM6jppGCMcRYx_f1VB8avMggCLcBGAs/s1600/images%2B%25285%2529.jpeg",Boogle Bollywood
+https://tivimateplaylists.live/booglebollywoodn
+#EXTINF:-1  tvg-id="id" group-title="Music प्रसाद  TV" tvg-logo="https://www.mobilfreetv.com/static/front/images/channel_logo/3b2b356e96a63b7487dc81f45e5ca959_D.jpg",World Punjabi HD
+https://tivimateplaylists.live/worldpunjabihdn
+#EXTINF:-1  tvg-id="584" group-title="Music प्रसाद  TV" tvg-logo="https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55-j5fdr2f4-v1/imageContent-55-j5fdr2f4-m1.jpg",Mastiii
+https://tivimateplaylists.live/mastiiin
 
 
-#EXTINF:-1  tvg-id="629" group-title="Telugu prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",Etv Telugu
-https://tivimateplaylists.live/etv-telugu
-#EXTINF:-1  tvg-id="608" group-title="Telugu prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png",Shubhsandesh TV
+
+#EXTINF:-1  tvg-id="NA" group-title="Info प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png",Nat Geo Wild
+https://tivimateplaylists.live/nat-geo-wildn
+#EXTINF:-1  tvg-id="463" group-title="Info प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery
+https://tivimateplaylists.live/discovery
+#EXTINF:-1  tvg-id="0-9-348" group-title="Info प्रसाद  TV" tvg-logo="https://dreamdth.com/wp-content/uploads/2020/08/Zee-Zest-16-9.jpg",Zee Zest
+https://tivimateplaylists.live/zeezesthdn
+#EXTINF:-1  tvg-id="0-9-229" group-title="Info प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic
+https://tivimateplaylists.live/Epicn
+#EXTINF:-1  tvg-id="821" group-title="Info प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",BBC Earth
+https://tivimateplaylists.live/sonybbcerth
+#EXTINF:-1  tvg-id="527" group-title="Info प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Discovery ID
+https://tivimateplaylists.live/discovery-id
+#EXTINF:-1  tvg-id="164" group-title="Info प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travelxp
+https://tivimateplaylists.live/travelxphindihd
+#EXTINF:-1  tvg-id="id" group-title="Info प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png",Food Network (Dual Audio)
+https://tivimateplaylists.live/Food-Network
+#EXTINF:-1  tvg-id="id" group-title="Info प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png",24 Kichen HD
+https://tivimateplaylists.live/24kichenhd
+#EXTINF:-1  tvg-id="id" group-title="Info प्रसाद  TV" tvg-logo="NA",test
+https://tivimateplaylists.live/animal-planettest
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZOM0pZS29pMVRiZTZOaHhmTmFTNW9MLUwybHZtbzFPd1hkNEhIcWlWb0g0SkNUMkJaSlpmUVExNmNCYzBNejZhZlp5Z1BRUmJyV2FwdWE1dGxHeXZQejdJS3F4WDg2d3ZwNkhSUGtQemNicVJhWjdHTGktbGY2MDhYT1htZlZaRzFRZE9mVS14ZzhaNEI2VU9rRGtzWlFmTVZ0cnBxalFoVUh1eGdCb1pSNTJlNjdXdkxlUlU0dGkzaGI2eDVZNlhYb19kLW9rRnRUMERRTVVISHU2U0s0V183dk1IdEJmbXlRb2RPWldON0hVWXRlQTJyazRqRnk1bWN3V1dQbHlVcC16SHhxeHlFeExodjQyYlJmMkNzVzF3Ykg4SWp1aWt6dTNZYXN5VXZydDFwZzJuWHNPdDNweDdmY1Z0Ump4dzdlVzlIbE9qdm1nbkNFUWxCaFg2Mjg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NzUwNzI1MyIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJuaWNraGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZk4zSllLb2kxVGJlNk5oeGZOYVM1b0wtTDJsdm1vMU93WGQ0SEhxaVZvSDRKQ1QyQlpKWmZRUTE2Y0JjME16NmFmWnlnUFFSYnJXYXB1YTV0bEd5dlB6N0lLcXhYODZ3dnA2SFJQa1B6Y2JxUmFaN0dMaS1sZjYwOFhPWG1mVlpHMVFkT2ZVLXhnOFo0QjZVT2tEa3NaUWZNVnRycHFqUWhVSHV4Z0JvWlI1MmU2N1d2TGVSVTR0aTNoYjZ4NVk2WFhvX2Qtb2tGdFQwRFFNVUhIdTZTSzRXXzd2TUh0QmZteVFvZE9aV043SFVZdGVBMnJrNGpGeTVtY3dXV1BseVVwLXpIeHF4eUV4TGh2NDJiUmYyQ3NXMXdiSDhJanVpa3p1M1lhc3lVdnJ0MXBnMm5Yc090M3B4N2ZjVnRSanh3N2VXOUhsT2p2bWduQ0VRbEJoWDYyOD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=ab2U%2boSAcTncBH%2bzdMayvCtpm7w%3d
+#EXTINF:-1 tvg-id="1226" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_HD+.png" group-title="Kids प्रसाद  TV",Nick HD+
+https://livevoot-i.akamaihd.net/dash/live/876655/nickhd/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZDQm5IemZwOUNzUTR3bEtNdVhWTGhOMmYwakpENHkxT196WmJlT3E5ZUlMd3RPemdPSk5rWGNyTWc4R203Ykt6LUdOR2dXUU1QUktMVHJGRmNiNnlraEhaYTlGaXhpTEF1MHdTbHRkaTVnZ0N6RU1nXzN4Y0FWRnRpM19BWTM3WG03SjZhZ1hvN2tMNFRyaHVVZWdNRWwxMUJ4WkpfQ29adWZjd1doemhkX0Rqb3pzc1BDYnJOS1l4bkhuRmlCYVNQdGo5eFpKVUhLWGlBWjFMUFUxUnYtbkppN0RZYWxiWl9xUVNBSDRpcDV1dWNhTS1BMG8xYk5WRUt5b3F4bVJyY1hhQTVIS2h6LU5wOTNQeGlMdzZjQnBkY0xSRUhGY0YtNnVXcEV4dVFFZmVzNG5uZFdIdzc5bDhEZTJCZU1jeXNuNzFVV1pSSmhWZ0t5Tm1Bdm1OS19SX3FFNzQ3eTJOZG91ZU5tcGs3MFNYcDNlTnZ2N1NIb3lub2xWN1dUc3RBPT0mY29udGV4dFR5cGU9bm9uZSZpZD04OTQ1MTM3IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6Im5pY2tqdW5pb3JfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkNCbkh6ZnA5Q3NRNHdsS011WFZMaE4yZjBqSkQ0eTFPX3paYmVPcTllSUx3dE96Z09KTmtYY3JNZzhHbTdiS3otR05HZ1dRTVBSS0xUckZGY2I2eWtoSFphOUZpeGlMQXUwd1NsdGRpNWdnQ3pFTWdfM3hjQVZGdGkzX0FZMzdYbTdKNmFnWG83a0w0VHJodVVlZ01FbDExQnhaSl9Db1p1ZmN3V2h6aGRfRGpvenNzUENick5LWXhuSG5GaUJhU1B0ajl4WkpVSEtYaUFaMUxQVTFSdi1uSmk3RFlhbGJaX3FRU0FINGlwNXV1Y2FNLUEwbzFiTlZFS3lvcXhtUnJjWGFBNUhLaHotTnA5M1B4aUx3NmNCcGRjTFJFSEZjRi02dVdwRXh1UUVmZXM0bm5kV0h3NzlsOERlMkJlTWN5c243MVVXWlJKaFZnS3lObUF2bU5LX1JfcUU3NDd5Mk5kb3VlTm1wazcwU1hwM2VOdnY3U0hveW5vbFY3V1RzdEE9PSIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=NuLHx8kpTBbEyiPFZ%2fx%2fMY9oL70%3d
+#EXTINF:-1 tvg-id="544" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png" group-title="Kids प्रसाद  TV",Nick Junior
+https://livevoot-i.akamaihd.net/dash/live/876653/nickjunior/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgzMzYzMDIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoic29uaWNfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkZ5M1ptcE5KWFd5SmFqeDI1RE1QUlg3UkxKdnZRMTM0ZV95YVZoUzU3RGJCMms3b2lNRzZaVWtPZUwwSkNFT0NDR3pkamQzZmtpa25zVTdUM1dWa3ZuUHJuUUdRcVNqM2I5WGVfWW5VQ19KWHVxQVpoMXpaeWlncHpNcHJRYUtwTmM4R3gyRGdyZFBmWk1Qdmh2enlZeTJEa1N2U1d5amlyR2NsM1drLVZST0NvZ0RLeC10WERXV2RqY0hHNm1SMjZrX0xQMmI3MTQwMm1IX0xMX2VncDZIMVpyOWFVN2RFcGV5MGNrQjhDVER4QS02aFBWYnJzYXBJSEkxb05DZEJNWV9oMVNuVF85dEpJaXVlVjVNOWtUS2dWTk9qTHgzWHlYMlB1R0NLdWNsZDExbDFFakdNdldCRFhmaVJ6QkRLTmVrdnVpZ2Nwd2VZZ3hqQ0xCcG5QeENpdjhlaWhqQ05yTVpDanN0NFg3X1h6ZEkyWU9uMXlNV040VHpFNTJmZjBSa1BfM2N3VndGOWJHVEJmS2c4RXVjU2JEbWg2ZXdIVDhaMENYYVlvRnhQUERHNFJOVnRVMlBoSnNqNExfeGxHY3h3bTFYRlJpZERBVEJUMjAtTzB1Z0w4WHprVHA0bDVtOS1vdlRQeW1yIiwidWRpZCI6IjJhM2IwZTVjZDAzNjQ3Y2NhNGEyN2NjNjcyNWM1MjY2IiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoyMjV9&signature=urCKvCdMXbH2BNLVZZnza3iczVE%3d
+#EXTINF:-1 tvg-id="815" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids प्रसाद  TV",Sonic Hindi
+https://livevoot-i.akamaihd.net/dash/live/876657/sonic/master.mpd
+#EXTINF:-1  tvg-id="0-9-290" group-title="Kids प्रसाद  TV" tvg-logo="https://i.gadgets360cdn.com/large/zee5_kids_logo-c_1587110571946.jpg",Zee Kids
+https://tivimateplaylists.live/z5kdzN
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png",Discovery Kids
+https://tivimateplaylists.live/discvry-kids
+#EXTINF:-1  tvg-id="816" group-title="Kids प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network hindi
+https://tivimateplaylists.live/cartoonnethindin
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://daex9l847wg3n.cloudfront.net/shemoutputimages/Shemaroo-Kids/5bebcba7a609d202b3000005/large_16_9.jpg",Shemaroo Kids
+https://tivimateplaylists.live/smrukds
+#EXTINF:-1  tvg-id="872" group-title="Kids प्रसाद  TV" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_Yay.png",Sony Yay
+https://tivimateplaylists.live/sony-yay
+#EXTINF:-1  tvg-id="na" group-title="Kids प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png",Baby tv
+https://tivimateplaylists.live/baby-tvn
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://banner2.cleanpng.com/20180721/aq/kisspng-boomerang-logo-television-channel-tom-and-jerry-dog-5b53c4af10de42.3513045215322164950691.jpg",Boomerang
+https://tivimateplaylists.live/boomerang
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Disney_International_HD_logo.png",Disney International HD
+https://tivimateplaylists.live/disney-international
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
+https://tivimateplaylists.live/Animax
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://www.animationmagazine.net/wordpress/wp-content/uploads/Cartoon-Network-HD-post.jpg",Cartoon Network HD
+https://tivimateplaylists.live/cartoon-network-hd
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/10/Disney-Channel.jpg?fit=900%2C675&ssl=1",Disney Channel
+https://tivimateplaylists.live/Disney-Channel
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png",Disney XD
+https://tivimateplaylists.live/disney-xd
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CBeebies.png/1200px-CBeebies.png",Cbeebies
+https://tivimateplaylists.live/cbeebis
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Pop_logo_red_it_0.png",POP
+https://tivimateplaylists.live/pop-kids
+#EXTINF:-1  tvg-id="id" group-title="Kids प्रसाद  TV" tvg-logo="https://yt3.ggpht.com/a/AATXAJyh7aOnROh3vb337zqTdnwVfv47eEuDi5YyHZDsfw=s900-c-k-c0xffffffff-no-rj-mo",Ani Plus
+https://tivimateplaylists.live/Ani-Plus
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="608" group-title="Telugu प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Shubhsandesh_TV.png",Shubhsandesh TV
 https://tivimateplaylists.live/shubh
-#EXTINF:-1  tvg-id="NA" group-title="Telugu prasad electronics" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg",Studio One Plus
+#EXTINF:-1  tvg-id="NA" group-title="Telugu प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/2269.StudioOne.in/1x1/1x/test_pic1580125615260.jpg",Studio One Plus
 https://tivimateplaylists.live/studio-one
-#EXTINF:-1  tvg-id="0-9-ddyadagiri" group-title="Telugu prasad electronics" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddyadagiri/list/386x386/09ddyadagiriddyadagiri.png",DD Yadagiri
+#EXTINF:-1  tvg-id="0-9-ddyadagiri" group-title="Telugu प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddyadagiri/list/386x386/09ddyadagiriddyadagiri.png",DD Yadagiri
 https://tivimateplaylists.live/ddyadgiri
-#EXTINF:-1  tvg-id="668" group-title="Telugu prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",TV 5 News
+#EXTINF:-1  tvg-id="668" group-title="Telugu प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",TV 5 News
 https://tivimateplaylists.live/tv5tel
-#EXTINF:-1  tvg-id="784" group-title="Telugu prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",CVR News
+#EXTINF:-1  tvg-id="784" group-title="Telugu प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",CVR News
 https://tivimateplaylists.live/cvrnws
-#EXTINF:-1  tvg-id="774" group-title="Telugu prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",CVR Health
+#EXTINF:-1  tvg-id="774" group-title="Telugu प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",CVR Health
 https://tivimateplaylists.live/cvrhlth
-#EXTINF:-1  tvg-id="800" group-title="Telugu prasad electronics" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0515.MahaaTV.in/1x1/1x/test_pic1558352506850.jpg",Mahaa TV
+#EXTINF:-1  tvg-id="800" group-title="Telugu प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0515.MahaaTV.in/1x1/1x/test_pic1558352506850.jpg",Mahaa TV
 https://tivimateplaylists.live/mahatv
-#EXTINF:-1  tvg-id="NA" group-title="Telugu prasad electronics" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5331.SVBC2.in/1x1/1x/test_pic1558352400877.jpg",SVBC
+#EXTINF:-1  tvg-id="NA" group-title="Telugu प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/5331.SVBC2.in/1x1/1x/test_pic1558352400877.jpg",SVBC
 https://tivimateplaylists.live/svbc
-#EXTINF:-1  tvg-id="955" group-title="Telugu prasad electronics" tvg-logo="https://www.hindudharmam.in/logo.png",Hindu Dharmam
+#EXTINF:-1  tvg-id="955" group-title="Telugu प्रसाद  TV" tvg-logo="https://www.hindudharmam.in/logo.png",Hindu Dharmam
 https://tivimateplaylists.live/hdm3mx
-#EXTINF:-1  tvg-id="772" group-title="Telugu prasad electronics" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/CVR_Om.jpeg/revision/latest/scale-to-width-down/340?cb=20191227041802",CVR OM Spiritual
+#EXTINF:-1  tvg-id="772" group-title="Telugu प्रसाद  TV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/89/CVR_Om.jpeg/revision/latest/scale-to-width-down/340?cb=20191227041802",CVR OM Spiritual
 https://tivimateplaylists.live/cvrommx
 
 
-#EXTINF:-1  tvg-id="420" group-title="Tamil prasad electronics" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSXhfwUTKJC4WXeqyMlLnT1tr-LQo2OrijqCQ&usqp=CAU",Jaya Max
-https://tivimateplaylists.live/jaya-max
-#EXTINF:-1  tvg-id="579" group-title="Tamil prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",History tv
-https://tivimateplaylists.live/histry-tamil
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzQiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzdGFtaWxoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=qNGb6wctTmMKCEvcAX%2b1EQf7Cak%3d&sessionId=eac059bb-7168-cf5e-62b4-e54f894e3b1c:d2eff781-ba4e-c8e0-a0c9-c05a7ec3b90e&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLXRhbWlsLWhkLzgwNTk4Ng==
-#EXTINF:-1  tvg-id="429" group-title="Tamil prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil
+#EXTINF:-1  tvg-id="429" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil
 https://livevoot-i.akamaihd.net/dash/live/828537/colorstamilhd/master.mpd
+#EXTINF:-1  tvg-id="603" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png",Nambikkai
+https://tivimateplaylists.live/nambikkain
+#EXTINF:-1  tvg-id="726" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD Podhigai
+https://tivimateplaylists.live/ddpodhighain
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0680.CaptainTV.in/1x1/1x/test_pic1535463113447.jpg",Captain Tv
+https://tivimateplaylists.live/captain-tvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/1493.7SMusic.in/1x1/1x/test_pic1552384462173.jpg",7S Music
+https://tivimateplaylists.live/7s-musicn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0390.IsaiAruvi.in/1x1/1x/test_pic1552384764086.jpg",Isai Aruvi
+https://tivimateplaylists.live/isaiaruvin
+#EXTINF:-1  tvg-id="803" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tune 6
+https://tivimateplaylists.live/Tune6n
+#EXTINF:-1  tvg-id="708" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal TV
+https://tivimateplaylists.live/makkaltvn
+#EXTINF:-1  tvg-id="677" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",Puthiya Thalaimurai
+https://tivimateplaylists.live/puthiyan
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0614.Chithiram.in/1x1/1x/test_pic1535463200470.jpg",Chithiram
+https://tivimateplaylists.live/chithiramn
+#EXTINF:-1  tvg-id="1417" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",CVBC2
+https://tivimateplaylists.live/svbc2n
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/8002.Kollywood.in/1x1/1x/test_pic1574770846721.jpg",Kollywood
+https://tivimateplaylists.live/kollywood
+#EXTINF:-1  tvg-id="826" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png",Malai Murasu
+https://tivimateplaylists.live/malaimurasun
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="http://www.vendharmedia.in/images/logo.png",Vendhar
+https://tivimateplaylists.live/vendar
+#EXTINF:-1  tvg-id="628" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
+https://tivimateplaylists.live/zeetamil
+#EXTINF:-1  tvg-id="0-9-224" group-title="Tamil प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png",Zee Thirai
+https://tivimateplaylists.live/zeethrain
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/TVI_HD_logo.png/150px-TVI_HD_logo.png",TVi HD
+https://tivimateplaylists.live/tvihdn
+#EXTINF:-1  tvg-id="835" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png",Angel tv HD
+https://tivimateplaylists.live/angel-tvn
+#EXTINF:-1  tvg-id="26567" group-title="Tamil प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/26567/1000x1000_c103e59e-217e-44fd-a087-651fcf8e6278.jpg",Chutti Tv
+https://tivimateplaylists.live/Chhuthi-tvn
+#EXTINF:-1  tvg-id="418" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png",Jaya Plus
+https://tivimateplaylists.live/jayaplusn
+#EXTINF:-1  tvg-id="894" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",KTV HD
+https://tivimateplaylists.live/ktvhdn
+#EXTINF:-1  tvg-id="707" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj TV
+https://tivimateplaylists.live/raj-tv
+#EXTINF:-1  tvg-id="683" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
+https://tivimateplaylists.live/rajdigitalplusn
+#EXTINF:-1  tvg-id="705" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer TV
+https://tivimateplaylists.live/polimertvn
+#EXTINF:-1  tvg-id="705" group-title="Tamil प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/9023/1000x1000_30878292-a63e-4414-acbc-902c0afb4b9b.jpg",Adithya TV
+https://tivimateplaylists.live/adithyatvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/26569/1000x1000_SunLife_26569_1e6604fc-2df9-4598-8f1c-dcbda46254ab.jpg",Sun Life
+https://tivimateplaylists.live/sunlifen
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/9025/1000x1000_c8897f06-b2c0-4856-9d81-02181b821cf7.jpg",Sun Music
+https://tivimateplaylists.live/sunmusicn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/32138/1000x1000_84b30aac-654e-4dd5-b5ee-bd8204254735.jpg",KTV
+https://tivimateplaylists.live/ktvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/9016/1000x1000_4522d18b-56cc-42be-8365-c54e21a6e394.jpg",Sun Tv
+https://tivimateplaylists.live/suntvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://assets-news-bcdn.dailyhunt.in/cmd/resize/400x400_80//fetchdata15/images/0b/27/17/0b27174279f5293567132f47c9cf9fef.jpg",Discovery Tamil
+https://tivimateplaylists.live/discoverytamiln
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/uk-ibc-music.jpg",IBC Music
+https://tivimateplaylists.live/ibc-musicn
+#EXTINF:-1  tvg-id="0-9-221" group-title="Tamil प्रसाद  TV" tvg-logo="https://akamaividz.zee5.com/resources/0-9-221/list/386x386/09221puthyugamtv.png",Puthuyugam TV
+https://tivimateplaylists.live/puthuyugam-tvn
+#EXTINF:-1  tvg-id="1209" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kalaignar_TV.png",Kalaignar TV
+https://tivimateplaylists.live/kalaignar-tvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sirippoli-tv-large.png",Sirippoli
+https://tivimateplaylists.live/sirippolin
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mk_tv_in_six.png",MK Six
+https://tivimateplaylists.live/mksixn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://nettv4u.com/uploads/115x100/imayam.jpg",Imayam Tv
+https://tivimateplaylists.live/imayamtvn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://logos-download.com/wp-content/uploads/2018/07/Moon_TV_logo_pink-700x700.png",Moon Tv
+https://tivimateplaylists.live/Moon-TVn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://assets.zoftcdn.com/branding/ibctamil/ibctamil_1.png",IBC Tamil
+https://tivimateplaylists.live/ibc-tamiln
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/IBC-Comedy_new1.jpg",IBC Comedy
+https://tivimateplaylists.live/ibccomedyn
+#EXTINF:-1  tvg-id="748" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
+https://tivimateplaylists.live/Rajmusixn
+#EXTINF:-1  tvg-id="368" group-title="Tamil प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Vijay.png",Star Vijay HD
+https://tivimateplaylists.live/star-vijayn
+#EXTINF:-1  tvg-id="NA" group-title="Tamil प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/38926/1000x1000_SunNews_38926_5921657d-45b6-445e-9e26-f0cd67be9d39.jpg",Sun News
+https://tivimateplaylists.live/sunnewsn
 
 
-#EXTINF:-1  tvg-id="445" group-title="Marathi prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
-https://tivimateplaylists.live/Zee-Marathi
-#EXTINF:-1  tvg-id="336" group-title="Marathi prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="445" group-title="Marathi प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi HD
+https://tivimateplaylists.live/zeemarathihd
+#EXTINF:-1  tvg-id="336" group-title="Marathi प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah
 https://tivimateplaylists.live/starparvah
-#EXTINF:-1  tvg-id="1146" group-title="Marathi prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi
+#EXTINF:-1  tvg-id="1146" group-title="Marathi प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi
 https://tivimateplaylists.live/SonMart
-#EXTINF:-1  tvg-id="NA" group-title="Marathi prasad electronics" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg",shemaroo Marathibana
+#EXTINF:-1  tvg-id="NA" group-title="Marathi प्रसाद  TV" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg",shemaroo Marathibana
 https://tivimateplaylists.live/shemrumarathi
-#EXTINF:-1  tvg-id="441" group-title="Marathi prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
+#EXTINF:-1  tvg-id="441" group-title="Marathi प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
 https://tivimateplaylists.live/9x-jhks
-#EXTINF:-1  tvg-id="612" group-title="Marathi prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",Abp Majha
+#EXTINF:-1  tvg-id="612" group-title="Marathi प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",Abp Majha
 https://tivimateplaylists.live/abpmajh
-#EXTINF:-1  tvg-id="1155" group-title="Marathi prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png",BBC Marathi
-https://tivimateplaylists.live/bbc-news-marathi
+#EXTINF:-1  tvg-id="1155" group-title="Marathi प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png",BBC Marathi
+https://tivimateplaylists.live/bbc-news-marathiN
 
 
-#EXTINF:-1  tvg-id="NA" group-title="kannada prasad electronics" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1998/ic_logo_sakkat.png",Sakkat
+
+
+
+#EXTINF:-1  tvg-id="NA" group-title="kannada प्रसाद  TV" tvg-logo="https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_1998/ic_logo_sakkat.png",Sakkat
 https://tivimateplaylists.live/sakkat-kannada
-#EXTINF:-1  tvg-id="NA" group-title="kannada prasad electronics" tvg-logo="https://static.toiimg.com/photo/msid-62847645/62847645.jpg",Public Movies
+#EXTINF:-1  tvg-id="NA" group-title="kannada प्रसाद  TV" tvg-logo="https://static.toiimg.com/photo/msid-62847645/62847645.jpg",Public Movies
 https://tivimateplaylists.live/Public-Movies
-#EXTINF:-1  tvg-id="NA" group-title="kannada prasad electronics" tvg-logo="https://assets-news-bcdn.dailyhunt.in/cmd/resize/540x135_80/fetchdata16/images/f6/1e/e8/f61ee8db43ed1ed826bc74b9971ae5abd2b31b7208d067fe9a67b54ae6d442e9.png",News First Kannada
+#EXTINF:-1  tvg-id="NA" group-title="kannada प्रसाद  TV" tvg-logo="https://assets-news-bcdn.dailyhunt.in/cmd/resize/540x135_80/fetchdata16/images/f6/1e/e8/f61ee8db43ed1ed826bc74b9971ae5abd2b31b7208d067fe9a67b54ae6d442e9.png",News First Kannada
 https://tivimateplaylists.live/news-first-kannada
-#EXTINF:-1  tvg-id="1243" group-title="kannada prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png",Sonic
+#EXTINF:-1  tvg-id="1243" group-title="kannada प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Kannada.png",Sonic
 https://tivimateplaylists.live/sonic-kannada
-#EXTINF:-1  tvg-id="1244" group-title="kannada prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png",Nick
+#EXTINF:-1  tvg-id="1244" group-title="kannada प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Kannada.png",Nick
 https://tivimateplaylists.live/Nick-kannada
-#EXTINF:-1  tvg-id="30846" group-title="kannada prasad electronics" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg",Udaya
+#EXTINF:-1  tvg-id="30846" group-title="kannada प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/30846/1000x1000_efb20223-e677-49fd-985e-806e7b162c6b.jpg",Udaya
 https://tivimateplaylists.live/Udaya
-#EXTINF:-1  tvg-id="26576" group-title="kannada prasad electronics" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg",Udaya Movies
+#EXTINF:-1  tvg-id="26576" group-title="kannada प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/26576/1000x1000_4ad767d2-e5d7-45f2-a95a-ab99f56cc2bf.jpg",Udaya Movies
 https://tivimateplaylists.live/udaya-movies
-#EXTINF:-1  tvg-id="9014" group-title="kannada prasad electronics" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg",Udaya Commedy
+#EXTINF:-1  tvg-id="9014" group-title="kannada प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/9014/1000x1000_8a47fe5c-81a8-42a4-8a05-f168e6a3c868.jpg",Udaya Commedy
 https://tivimateplaylists.live/udaya-comedy
-#EXTINF:-1  tvg-id="9022" group-title="kannada prasad electronics" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg",Udaya Music
+#EXTINF:-1  tvg-id="9022" group-title="kannada प्रसाद  TV" tvg-logo="https://sund-images.sunnxt.com/9022/1000x1000_d85b4dcc-ad0c-4a5b-84fd-6dd91dc585e2.jpg",Udaya Music
 https://tivimateplaylists.live/udaya-music
-#EXTINF:-1  tvg-id="1075" group-title="kannada prasad electronics" tvg-logo="https://i.pinimg.com/280x280_RS/c6/ec/1a/c6ec1afd42681642cefed5a5763bd8a1.jpg",Ayush Tv
+#EXTINF:-1  tvg-id="1075" group-title="kannada प्रसाद  TV" tvg-logo="https://i.pinimg.com/280x280_RS/c6/ec/1a/c6ec1afd42681642cefed5a5763bd8a1.jpg",Ayush Tv
 https://tivimateplaylists.live/ayushu
-#EXTINF:-1  tvg-id="NA" group-title="kannada prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kannada_logo.jpeg",News 18 Kannada
+#EXTINF:-1  tvg-id="NA" group-title="kannada प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/News18_Kannada_logo.jpeg",News 18 Kannada
 https://tivimateplaylists.live/news-18-kannada
-#EXTINF:-1  tvg-id="651" group-title="kannada prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png",Raj News
+#EXTINF:-1  tvg-id="651" group-title="kannada प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Kannada.png",Raj News
 https://tivimateplaylists.live/raj-news
-#EXTINF:-1  tvg-id="NA" group-title="kannada prasad electronics" tvg-logo="https://amp.live-tv-channels.org/pt-data/uploads/logo/in-janataa-tv-2462.jpg",janataa Tv
+#EXTINF:-1  tvg-id="NA" group-title="kannada प्रसाद  TV" tvg-logo="https://amp.live-tv-channels.org/pt-data/uploads/logo/in-janataa-tv-2462.jpg",janataa Tv
 https://tivimateplaylists.live/Janta-tv
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTEwNjgyOTE2IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc2thbm5hZGFoZF9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=TXPvTVWQZU9Lc1RpE9Aobc6u7r0%3d
-#EXTINF:-1  tvg-id="757" group-title="kannada prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_100,h_100/v3Storage/channel-logos/COLORS_KANNADA.png",Colors Kannada
+#EXTINF:-1  tvg-id="757" group-title="kannada प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_100,h_100/v3Storage/channel-logos/COLORS_KANNADA.png",Colors Kannada
 https://livevoot-i.akamaihd.net/dash/live/828525/kannada/master.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTEwNzU0NDU2IiwiYWNjb3VudF9pZCI6MTk4MjU1MSwiY29udGVudF9pZCI6ImNvbG9yc3N1cGVyX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=YYEAAJPxzCfQpfbJTDHmo%2bMse38%3d&sessionId=428a7eee-0998-21ff-7f70-d2e3652615b4:e996db95-83fe-51a3-c667-23ac2e6bbd99
-#EXTINF:-1  tvg-id="785" group-title="kannada prasad electronics" tvg-logo="https://v3img.voot.com/resizeMedium,w_100,h_100/v3Storage/channel-logos/COLORS_SUPER.png",Colors Super
+#EXTINF:-1  tvg-id="785" group-title="kannada प्रसाद  TV" tvg-logo="https://v3img.voot.com/resizeMedium,w_100,h_100/v3Storage/channel-logos/COLORS_SUPER.png",Colors Super
 https://livevoot-i.akamaihd.net/dash/live/828527/colorssuper/master.mpd
 
 
-#EXTINF:-1  tvg-id="801" group-title="Devotional prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_704/LOGO/20e83f08-ab15-4d4b-bcfd-23157be96139.png",Divya TV
+
+
+
+#EXTINF:-1  tvg-id="697" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",Sony Aath
+https://tivimateplaylists.live/Sony-aath
+#EXTINF:-1  tvg-id="690" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla
+https://tivimateplaylists.live/ddbanglan
+#EXTINF:-1  tvg-id="698" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
+https://tivimateplaylists.live/aakashaathn
+#EXTINF:-1  tvg-id="1282" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png",Khushboo Bangla
+https://tivimateplaylists.live/khushboobanglan
+#EXTINF:-1  tvg-id="740" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
+https://tivimateplaylists.live/sangeetbanglan
+#EXTINF:-1  tvg-id="1253" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png",Kolkata Live
+https://tivimateplaylists.live/Kolkata-live
+#EXTINF:-1  tvg-id="NA" group-title="Bengali प्रसाद  TV" tvg-logo="https://www.starsofworld.com/wp-content/uploads/2019/02/tollywood-1.png",Tollywood
+https://tivimateplaylists.live/tollywoodn
+#EXTINF:-1  tvg-id="672" group-title="Bengali प्रसाद  TV" tvg-logo="https://www.starsofworld.com/wp-content/uploads/2019/02/tollywood-1.png",ABP Ananda
+https://tivimateplaylists.live/abpananda
+#EXTINF:-1  tvg-id="1285" group-title="Bengali प्रसाद  TV" tvg-logo="http://snoidcdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Orange_TV.png",Orange Bangla
+https://tivimateplaylists.live/Orangebangla
+#EXTINF:-1  tvg-id="1261" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png",Calcutta News
+https://tivimateplaylists.live/calcutta-news
+#EXTINF:-1  tvg-id="1260" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png",CTVN AKD Plus
+https://tivimateplaylists.live/ctvnn
+#EXTINF:-1  tvg-id="NA" group-title="Bengali प्रसाद  TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7096.BhoomiNews.in/en/1x1/208x208/test_pic1600958070658.webp",Bhoomi News
+https://tivimateplaylists.live/Bhoominewsn
+#EXTINF:-1  tvg-id="NA" group-title="Bengali प्रसाद  TV" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8000.BaglaBhakti.in/en/1x1/208x208/test_pic1602226451288.webp",Bangla Bhakti
+https://tivimateplaylists.live/baglabhakhtin
+#EXTINF:-1  tvg-id="625" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
+https://tivimateplaylists.live/zeebanglahdn
+#EXTINF:-1  tvg-id="685" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
+https://tivimateplaylists.live/zeebanglacinema
+#EXTINF:-1  tvg-id="464" group-title="Bengali प्रसाद  TV" tvg-logo="http://sgdccdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",Zee 24 Ghanta
+https://tivimateplaylists.live/zee24ghntan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzgiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzYmFuZ2xhX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciIsInVkaWQiOiIyYTNiMGU1Y2QwMzY0N2NjYTRhMjdjYzY3MjVjNTI2NiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=Efuk4jS5sQ49b5Y5MDMXaJf1GVM%3d
+#EXTINF:-1  tvg-id="756" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bengali HD
+https://livevoot-i.akamaihd.net/dash/live/828529/colorsbangla/master.mpd
+#EXTINF:-1  tvg-id="NA" group-title="Bengali प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1200px-ATN_Bangla.svg.png",ATN Bangla
+https://tivimateplaylists.live/atnbanglan
+#EXTINF:-1  tvg-id="317" group-title="Bengali प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Jalsha.png",Star Jalsa
+https://tivimateplaylists.live/star-jalsa
+
+
+
+#EXTINF:-1  tvg-id="801" group-title="Devotional प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_704/LOGO/20e83f08-ab15-4d4b-bcfd-23157be96139.png",Divya TV
 https://rebrand.ly/divya-tv-airtel
-#EXTINF:-1  tvg-id="1241" group-title="Devotional prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_813/LOGO/71d9f11c-27f7-4811-89f2-42426153163b.png",God TV
+#EXTINF:-1  tvg-id="1241" group-title="Devotional प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_813/LOGO/71d9f11c-27f7-4811-89f2-42426153163b.png",God TV
 https://rebrand.ly/gos-tv-airtel
-#EXTINF:-1  tvg-id="596" group-title="Devotional prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_814/LOGO/ef6cc7a3-fe4d-44c8-b46a-b913dd1c2d6f.png",Jinvani TV
+#EXTINF:-1  tvg-id="596" group-title="Devotional प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_814/LOGO/ef6cc7a3-fe4d-44c8-b46a-b913dd1c2d6f.png",Jinvani TV
 https://rebrand.ly/jivani-tv-airtel
-#EXTINF:-1  tvg-id="609" group-title="Devotional prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_586/LOGO/5352c972-54af-4648-b5fd-66fe06f4e637.jpg",MH One Shraddha
+#EXTINF:-1  tvg-id="609" group-title="Devotional प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_586/LOGO/5352c972-54af-4648-b5fd-66fe06f4e637.jpg",MH One Shraddha
 https://rebrand.ly/mh1-sharddha-airtel
-#EXTINF:-1  tvg-id="609" group-title="Devotional prasad electronics" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png",mh1 Shraddha
+#EXTINF:-1  tvg-id="609" group-title="Devotional प्रसाद  TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png",mh1 Shraddha
 https://rebrand.ly/mh1-shraddha
-#EXTINF:-1  tvg-id="794" group-title="Devotional prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_889/LOGO/a2d8f698-d886-410e-b133-ac398b29d336.png",Peace of Mind
+#EXTINF:-1  tvg-id="794" group-title="Devotional प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_889/LOGO/a2d8f698-d886-410e-b133-ac398b29d336.png",Peace of Mind
 https://rebrand.ly/piece-of-mind-airtel
-#EXTINF:-1  tvg-id="288" group-title="Devotional prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_569/LOGO/19e39c25-c1d7-483b-a8cd-6b212ba37b60.jpg",Sanskar
+#EXTINF:-1  tvg-id="288" group-title="Devotional प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_569/LOGO/19e39c25-c1d7-483b-a8cd-6b212ba37b60.jpg",Sanskar
 https://rebrand.ly/sanskar-airtel
-#EXTINF:-1  tvg-id="608" group-title="Devotional prasad electronics" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_721/LOGO/b98cf531-a9b7-4708-9630-2660bc9f7029.png",Shubhsandesh TV
+#EXTINF:-1  tvg-id="608" group-title="Devotional प्रसाद  TV" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_721/LOGO/b98cf531-a9b7-4708-9630-2660bc9f7029.png",Shubhsandesh TV
 https://rebrand.ly/shubhsandesh-airtel
 
 
-#EXTINF:-1  tvg-id="N/A" group-title="Other prasad electronics" tvg-logo="https://fashiontvcosmetics.com/media/wysiwyg/daimond.png",Fashion Tv HD
+#EXTINF:-1  tvg-id="N/A" group-title="Other प्रसाद  TV" tvg-logo="https://fashiontvcosmetics.com/media/wysiwyg/daimond.png",Fashion Tv HD
 https://bit.ly/3jN6Q9k
-#EXTINF:-1  tvg-id="N/A" group-title="Other prasad electronics" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2019/05/FTV-UHD-SQUARE-APP-ICON.png",FTV HOT
+#EXTINF:-1  tvg-id="N/A" group-title="Other प्रसाद  TV" tvg-logo="https://files.company.fashiontv.com/wp-content/uploads/2019/05/FTV-UHD-SQUARE-APP-ICON.png",FTV HOT
 https://rebrand.ly/ftv-hot
-#EXTINF:-1  tvg-id="N/A" group-title="Other prasad electronics" tvg-logo="http://hdfashion.tv/catalog/view/theme/hdfashion/image/logo.png",HD Fashion and Lifestyle
+#EXTINF:-1  tvg-id="N/A" group-title="Other प्रसाद  TV" tvg-logo="http://hdfashion.tv/catalog/view/theme/hdfashion/image/logo.png",HD Fashion and Lifestyle
 https://tivimateplaylists.live/hd-fashion
-#EXTINF:-1  tvg-id="N/A" group-title="Other prasad electronics" tvg-logo="https://www.seekpng.com/png/detail/243-2439736_diva-logo-big-diva-magazine-logo-png.png",DIVA
+#EXTINF:-1  tvg-id="N/A" group-title="Other प्रसाद  TV" tvg-logo="https://www.seekpng.com/png/detail/243-2439736_diva-logo-big-diva-magazine-logo-png.png",DIVA
 https://tivimateplaylists.live/diva
-#EXTINF:-1  tvg-id="N/A" group-title="Other prasad electronics" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png.png",̲𝖤
-https://tivimateplaylists.live/jus
-MOVIES ON DEMAND
+#EXTINF:-1  tvg-id="N/A" group-title="Other प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png.png",̲𝖤
+https://tivimateplaylists.live/just-e
 
-
-
-#EXTM3U
-#EXTINF:-1  tvg-id="id" group-title="movies on demand " https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support prasad electronics
-https://od.lk/s/MTBfMTE3MTI2MDk3Xw/video_2020_Oct_19_13_05_35.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Addams Family
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Hidden World
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/How.to.Train.Your.Dragon.The.Hidden.World.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Kingdom of Music
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Swan.Princess.Kingdom.of.Music.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman: Hush
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman vs. Teenage Mutant Ninja Turtles
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Asterix: The Secret of the Magic Potion
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asterix.The.Secret.Of.The.Magic.Potion.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Justice League vs. the Fatal Five
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Justice-League-Vs-The-Fatal-Five-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Howard Lovecraft and the Kingdom of Madness
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Howard.Lovecraft.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Spider-Man: Into the Spider-Verse
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Spider-Man-Into-the-Spider-Verse-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Ralph Breaks the Internet
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ralph.Breaks.the.Internet.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Henchmen
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Henchmen-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Christopher Robin
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Christopher.Robin.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Two Tails
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Two-Tails-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Smallfoot
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Smallfoot.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Cars 3
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Cars.3.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Starship Troopers: Traitor of Mars
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Starship.Troopers.Traitor.of.Mars.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Smurfs: The Lost Village 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Smurfs.The.Lost.Village.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Sahara 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Sahara.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The LEGO Batman Movie 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Lego.Batman.The.Movie.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Boss Baby 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Boss.Baby.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Cloudy with a Chance of Meatballs 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Cloudy.with.a.Chance.of.Meatballs.2.2013.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Bunyan and Babe 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Bunyan.and.Babe.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Leap! 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Ballerina.2016.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", My Life as a Zucchini 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/My.Life.as.a.Zucchini.2016.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Surf's Up 2: WaveMania
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Surfs.Up.2.WaveMania.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Secret World of Arrietty
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Arrietty.2010.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Wind Rises
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Wind.Rises.2013.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Girl Who Leapt Through Time
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/The.Girl.Who.Leapt.Through.Time.2006.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Howl's Moving Castle
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Howls.Moving.Castle.2004.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", My Neighbor Totoro
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/My.Neighbor.Totoro.1988.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Spirited Away
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Spirited.Away.2001.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Sing 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Sing.2016.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Lorax
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/The.Lorax.2012.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Justice League Dark
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-12/movies/Justice.League.Dark.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Moana
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Moana.2016.aflamy.ps.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Wreck-It Ralph
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-10/movies/Wreck.it.Ralph.2012.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", فيلم Ik Sandhu Hunda Si مترجم HD انتاج 2020
-https://cdn.alarab.com/h264/154020_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Tanhaji: The Unsung Warrior
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Tanhaji.The.Unsung.Warrior.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Guilty
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Guilty.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Panipat
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Panipat.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Commando 3
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Commando.3.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Thugs of Hindostan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Thugs.of.Hindostan.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Housefull 4
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Housefull.4.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jack & Daniel
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jack.Daniel.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Rugged
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/rugged.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Marjaavaan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Marjaavaan.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Pati Patni Aur Woh
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Pati.Patni.Aur.Woh.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Zhagaram
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Zhagaram.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Saaho
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Saaho.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Kaappaan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kaappaan.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Drive
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/drive-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gang Leader
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/gang-leader-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Prassthanam
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Prassthanam.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", The Zoya Factor
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/the-zoya-factor-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", War
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/war.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Laal Kaptaan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Laal.Kaptaan.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Action
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Action.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Majiji
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Majiji.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Photograph
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/photograph.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gangs of Madras
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Gangs.of.Madras.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jersey
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/JERSEY.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Kalank
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kalank.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Kavacha
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kavacha.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Hippi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/hippi.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", De De Pyaar De
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/De.De.Pyaar.De.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Bharat
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bharat.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Malaal
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Malaal.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Johnny
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Johnny.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Nishabda
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Nishabda.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Secret Superstar
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Secret.Superstar.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Antariksham 9000 KMPH
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Antariksham.9000.kmph.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Zero
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Zero.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gayatri
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Gayatri-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Savarakathi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Savarakathi-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Darr @ the Mall
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-5/movies/Darr.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Sketch
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sketch-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Neerali
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Neerali.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Spyder
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Spyder-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Haseena Parkar
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Haseena-Parkar-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Badla
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Badla.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Genius
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Genius-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Chitralahari
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Chitralahari.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Pataakha
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Pataakha.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Aschhe Abar Shabor
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ashche_Abar_Shobor.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Rajma Chawal
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Rajma.Chawal.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Vada Chennai
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Vada.Chennai.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Savyasachi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Savyasachi.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Teefa in Trouble
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Teefa.in.Trouble.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Manto
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Manto.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Chalte Chalte
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Chalte.Chalte.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Happy Phirr Bhag Jayegi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Happy.Phirr.Bhag.Jayegi.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Amar Akbar Anthony
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Amar.Akbar.Anthony.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jalebi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Jalebi.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Lilli
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Lilli.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Andhadhun
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Andhadhun.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", KAYA The Mystery Unfolds
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/KAYA-The-Mystery-Unfolds.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Tej... I Love You
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tej.I.Love.You.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Mitron
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Mitron.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Sui Dhaaga: Made In India
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sui.Dhaaga.Made.in.India.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Raazi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Raazi.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Jarugandi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Jarugandi.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Addams Family
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Addams.Family.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", The Hidden World
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/How.to.Train.Your.Dragon.The.Hidden.World.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Kingdom of Music
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Swan.Princess.Kingdom.of.Music.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman: Hush
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman vs. Teenage Mutant Ninja Turtles
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Asterix: The Secret of the Magic Potion
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asterix.The.Secret.Of.The.Magic.Potion.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Justice League vs. the Fatal Five
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Justice-League-Vs-The-Fatal-Five-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Bucket List
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Bucket.List.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Paltan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Paltan.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Seema Raja
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Seema.Raja.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Vishwaroopam 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Vishwaroopam.2.2018..mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Fanney Khan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Fanney.Khan.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Tagaru
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tagaru.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", The Extraordinary Journey of the Fakir
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Extraordinary-Journey-of-the-Fakir-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Soorma
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Soorma.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", U-Turn
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/U.TURN.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Nanu Ki Jaanu
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Nanu.Ki.Jaanu.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Koode
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Koode.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Ranam
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ranam.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Satyameva Jayate
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Satyameva.Jayate.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Gold
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Gold.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Saamy2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Saamy.Square.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Raatchasan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Raatchasan.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام هندية", Sultan: The Saviour
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sultan.The.Saviour.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم إن بارادوكس
-https://d3-sn---uxaxjvhxbt2u-j5p6.aa4l.net/files/movies/in-baraduks/in-baraduks-480.mp4
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم نورا تحلم HD انتاج 2019
-https://cdn.alarab.com/h264/157255_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عودة من 2038 HD انتاج 2019
-https://cdn.alarab.com/h264/156870_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القرموطي في أرض النار HD انتاج 2017
-https://cdn.alarab.com/h264/156637_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم أمان يا صاحبي HD انتاج 2017
-https://cdn.alarab.com/h264/156769_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بلا هيبة HD انتاج 2019
-https://cdn.alarab.com/h264/156684_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم رأس السنة HD انتاج 2020
-https://cdn.alarab.com/h264/156634_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بلا هيبة
-https://cdn.alarab.com/h264/156684_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الممر
-https://cdn.alarab.com/h264/156672_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم لص بغداد
-https://cdn.alarab.com/h264/156633_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم رأس السنة
-https://cdn.alarab.com/h264/156634_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم خط الموت HD انتاج 2019
-https://cdn.alarab.com/h264/153703_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم محمد حسين
-https://cdn.alarab.com/h264/153420_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فلفل أبيض
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Felfel.Abyad.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", بني آدم
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bani.Adam.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ولاد رزق 2 : عودة أسود الارض
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Welad.Rizk.2.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عقدة الخواجة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Oqdat.Al.Khawaja.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", مهمة في 7 أيام
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Muhima.fi.7ayam.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", اللعبة الأمريكاني
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/American.Game.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الجولة الأخيرة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Aljawlah.Alakhera.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", كازانوفا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kazanofa.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", العم ناجي في الامارات
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/al3am.naji.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", نقطة رجوع
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Back.Point.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", قصة حب
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Qesat.Hob.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", حملة فرعون
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/hamlat.feroon.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الضيف
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eldayf.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم كازابلانكا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kazabalnka.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم إن شئت كما فى السماء
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/It.Must.Be.Heaven.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ليل خارجي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Lail.Khareji.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", تايم آوت
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Time.Out.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الديزل
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Diesel.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", البدلة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Badla.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", نادي الرجال السري
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Secret.Men.Club.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ضغط عالي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dakht.A3le.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الأبلة طمطم
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Abla.Tamtam.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", المهراجا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/EL.Mahraga.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الممر
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Mamar.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", قهوة بورصة مصر
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Qahwet.Borset.Masr.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", خسسني شكراً
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Khassesny.Shokran.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", خيال مآته
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Khayal.Maata.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الفيل الأزرق ج2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Alfeel.Alazraq.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", مينك إنت
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Menk.Enta.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الكنز 2: الحب والمصير
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/El.Kanz.2.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", قلب أمه
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Qalb.Ommah.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", سوق الجمعة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sooq.Aljomaah.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", خلاويص
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Khalawees.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", نورت مصر
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Nawrt.Masr.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", بيكيا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Bikia.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", كفرناحوم
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Capernaum.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", سر طاقية الاخفاء
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sirr.Taqyat.Al.Ekhfaa.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", حرب كرموز
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Harb.Karmooz.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم حراقي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-8/movies/hiraqi.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ورد مسموم
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ward.Masmom.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم طلق صناعي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Tal2.Sena3y.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عيار ناري
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Eyar.Nari.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", 122
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Film.122.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عيش حياتك
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eish.Hayatak.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", كدبة بيضا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kedba.Bidaa.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم اطلعولي بره
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Etl3oly.Bara.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم خير وبركة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Kheir.Wa.Baraka.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم كذبة بيضا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/white.lie.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", واحد لمون والتاني مجنون
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Wahed-Lamoon-We-El-Tany-Magnoon.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم رغدة متوحشة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/raghada.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم محبس
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/mahbas.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم فص ملح وداخ
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Fas.Malh.Wa.Dab.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", ليلة هنا وسرور
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Laylat.Hanaa.Wa.Soror.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", امان يا صاحبي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Aman.Ya.Sahby.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", تراب الماس
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Torab.Elmas.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الكويسين
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/El.Kowayseen.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بنك الحظ
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Bank.El.Haz.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الخلية
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Al.Khalia.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم كتكوت
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Katkot.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", مسرحية تخاريف
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Takhareef.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم اخر ديك في مصر
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Akher.Deek.Fi.Masr.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", المختارون The Worthy
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The-worthy-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم فوتوكوبي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Photo.Copy.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ليل داخلي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Leel.Dakhely.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القضية رقم 23
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Insult.23.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم حبة كراميل
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Habit.Carmail.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بالغلط
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Bel.Ghalat.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم زفافيان
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Zafafian.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم قسطي بيوجعني
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Qsoty.Byogaany.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عندما يقع اﻹنسان
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/3andama.Yka3.Al.Ensan.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم شنطة حمزة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Shantet.Hamza.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ضحي في تايلاند
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Dahi.in.Thailand.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الاصليين
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Al-Asleyeen.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم اخلاق العبيد
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Morals.Of.Slaves.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم بارتى فى حارتى
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/party.in.harti.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم ياباني اصلي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Yabany.Asly.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم طير انت
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/tayer.anta.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم تصبح على خير
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tesbah-Ala-Kher.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم دعدوش
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/daadosh.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم هروب اضطراري
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Horoob.Etirary.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الكنز
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Kanz.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عوكل
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Aaokal-2004.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عنتر ابن ابن شداد
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Antar.Ibn.Ibn.Ibn.Shaddad.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عمر الازرق
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Omar.El-Azrak.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القرد بيتكلم 2017
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/El.Erd.Byetkalem.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الدادة دودي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/El.Dada.Doody.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم علي معزة وابراهيم 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Ali.M3za.W.Ibrahim.2016.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم تحت الترابيزة 2016
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Taht.El.Tarabiza.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", الماء والخضرة والوجه الحسن
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Al-Maa.Wel-Khodra.Wel-Wajeh.Al-Hasan.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم يجعلة عامر
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Yejaalo.Amer.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عسل أبيض
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/3assal.Abyd.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم عمر وسلمى ج2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/omar.and.salma2.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم فين قلبي؟
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Fin.Qalbi.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم يا تهدي يا تعدي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Ya.Tehdi.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم جواب اعتقال
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Gawab.Eteqal.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم الباب يفوت امل
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/bab.amal.2016.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", فيلم القرموطي فى ارض النار
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Armoaty.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام عربية", عمر وسلمى 3
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Omar.and.Salma-3.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وادي الذئاب الوطن
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Valley.of.the.Wolves.Homeland.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وادي الذئاب / فلسطين مدبلج
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/movies/wadi.palestine.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وادي الذئاب - العراق
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-3/Valley.of.the.Wolves.Iraq.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Siccin 6
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم قصة حورية
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/PERIMASALIFILM.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم نفس واحد يكفي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/BIRNEFESYETERFILM.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", ابنتي وانا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Ebnti.Wa.Ana.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", The Wild Pear Tree
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Wild-Pear-Tree-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Can Feda
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Can.Feda.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", نحن نعود اليكم
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/We.Back.To.You.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", طحينة و دبس
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tahen.Wa.Debes.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", اسرار المائدة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Asrar.Elmaedah.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", البطل
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Albatal.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Hadi Be Oglum
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Hadi.Be.Oglum.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", ابقى بجانبي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ebqa.Bejanbi.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", اعمال منظمة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A3mal.Monazmah.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", حب واحد وحياتان
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/one.hob.and.two.life.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", صوتك فيه عشق
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sotak.Feh.Eshq.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", معجزة في زنانة رقم 7
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mo3jezah.Fe.Zenzanah.7.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم حار حلو حامض
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Hot-Sweet-Sour.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Ayla: The Daughter of War
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Ayla.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم هيا يا إبني
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/son.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Deliha 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/DELIHA2.FILM.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Boluk
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Boluk.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم قصص الحب الطبيعية
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Organik.Ask.Hikayeleri.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم غريب في جيبي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Cebimdeki.Yabanci.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم روحي فداء
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/CANFEDAFILM.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم سيد النوارس
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Martilarin.Efendisi.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم العروس المخملية
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Sosyetik.gelin.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اذا عادت فهي لك
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Donerse.Senindir.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اراك بقلبي
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/araka.bi.kalbi.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم انت مع من ترقص؟
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/ant.ma3a.man.tar9os.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم ابي ملاك
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Benim.Babam.Bir.Melek.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم زهرة الغاب
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-13/movies/Delibal.2015.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", بعيد وقريب جدا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/COKUZAKFAZLAYAKINFILM.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", الشريك الصغير
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Kucuk.Ortak.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", حلوى اللوز
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Badem.sekeri.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم الفتى السيء
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/Kotu.Cocuk.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", الولد ولدنا والبنت بنتنا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-14/movies/OGLANBIZIMKIZBIZIMFILM.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم حلوى اللوز
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Badem.sekeri.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اسطنبول الحمراء
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Istanbul.Kirmizisi.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اخي انا
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/brother.i.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Eski Sevgili
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Eski.Sevgili.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم بويراز كارايل
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Poyraz.Karayel.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", Deliha
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Deliha.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم عودة الأسطورة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/cincoz.recai.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم تكلمي بقدر زوجك
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Kocan-Kadar-Konu%C5%9F.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم اللطيف و الخطير
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Sevimli-Tehlikeli.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم وقت السعادة
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Mutluluk.Zamani.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", وادي الذئاب الوطن
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/Valley.of.the.Wolves.Homeland.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم القبلة الأولى
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/First.Kiss.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام تركية مترجمه", فيلم أخي أنا ج2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/mybrother2.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Long Live the King
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Long.Live.the.King.2019..mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Parasite
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Parasite.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The King's Letters
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kings.Letters.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Extreme Job
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Extreme.Job.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Birthday
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Birthday.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Farewell
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Farewell.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Battle of Jangsari
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Battle.of.Jangsari.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Friend Zone
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friend.Zone.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Bad Guys: The Movie
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Bad.Guys.Reign.of.Chaos.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", A Nightlife Venture
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Quantum.Physics.A.Nightlife.Venture.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Ip Man 4: The Finale
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ip.Man.4.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The legend of hammer
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Legend.Of.Hammer.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Fighting Girl
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Fighting.Girl.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Puppet Prince
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Puppet-Prince-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Mr. Zoo: The Missing VIP
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Zoo.The.Missing.VIP.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Crossroads: One Two Jaga
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Crossroads-One-Two-Jaga-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Rampant
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:/dl1-16/movies/Rampant-2018.mp4//playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Miss Baek
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Miss-Baek-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Champion
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Champion-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Inuyashiki
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Inuyashiki-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Mr. Long
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Mr-Long-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Spy Gone North
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Spy.Gone.North.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Snake
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Snake.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", BuyBust
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/BuyBust.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Europe Raiders
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Europe-Raiders-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Pool
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Pool.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Escape Plan: The Extractors
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Escape.Plan.The.Extractors.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Innocent Witness
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Innocent.Witness.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", the Devil
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Gangster.The.Cop.The.Devil.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Inside the Boys
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Inside-The-Boys-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Night Comes for Us
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Night-Comes-for-Us-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Bombing - Air Strike
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Air.Strike.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", On Your Wedding Day
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/on-your-wedding-day.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Golden Job
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Goledn.Job.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Great Battle
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Great-Battle-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Golden Slumber
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Golden-Slumber-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Dream Breaker
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Dream-Breaker-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Searching
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Searching.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Cook Up A Storm
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Cook.Up.A.Storm.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Target
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Target.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Trough
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Trough-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Chinese Blade
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Chinese-Blade-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Dark Figure of Crime
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Dark-Figure-of-Crime-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Lingering
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Lingering-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Unity of Heroes
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Unity.Of.Heroes.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Tag-Along 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Tag-Along-2-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", V.I.P
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies//V.I.P.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Once Upon a Time
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Once.Upon.a.Time.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Agent Mr. Chan
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Agent-Mr-Chan-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Burning
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Burning-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Bleach
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Bleach-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Animal World
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Animal-World-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Fist & Faith
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Fist-and-Faith-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Reborn
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Reborn.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Blizzard
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Blizzard-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Buyer Beware
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Buyer-Beware-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Tomb Story
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Tomb-Story-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Secret Of Immortal Code
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Secret-Of-Immortal-Code-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Illang: The Wolf Brigade
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Illang-The-Wolf-Brigade-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Operation Red Sea
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Operation.Red.Sea.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", KL Special Force
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/KL.Special.Force.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Star Next Door
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Star-Next-Door.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Keys to the Heart
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Keys-to-the-Heart.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Cheese in the Trap
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Cheese-in-the-Trap.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Little Forest
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Little-Forest.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Fortress
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The-Fortress-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Believer
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Believer-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Colour of the Game
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Color.of.the.Game.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", God of War
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/God-of-War-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Kung Fu Traveler 2
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Kung.Fu.Traveler.2.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Hou Lai De Wo Men
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Hou.lai.de.wo.men.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", The Last Shot in the Bar
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/The.Last.Shot.in.the.Bar.2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Destiny: The Tale of Kamakura
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Destiny-The-Tale-of-Kamakura-2017.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام آسيوية", Heung-boo: The Revolutionist
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-16/movies/Heung-boo-The-Revolutionist-2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Eurovision Song Contest: The Story of Fire Saga
-https://cdn.alarab.com/h264/157424_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Artemis Fowl مترجم HD
-https://cdn.alarab.com/h264/157018_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Thousand Faces of Dunjia مترجم HD
-https://cdn.alarab.com/h264/157303_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم اخت الزوج مترجم HD
-https://cdn.alarab.com/h264/157261_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Fu Mo Luo Han مترجم HD
-https://cdn.alarab.com/h264/157236_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم I Am Vengeance: Retaliation مترجم HD
-https://cdn.alarab.com/h264/157215_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Knockout مترجم HD
-https://cdn.alarab.com/h264/157209_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم You Should Have Left مترجم HD
-https://cdn.alarab.com/h264/157100_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Force of Nature مترجم HD
-https://cdn.alarab.com/h264/157096_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Infamous مترجم HD
-https://cdn.alarab.com/h264/157036_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Mulan مترجم HD
-https://cdn.alarab.com/h264/156855_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم نحن هكذا تركي مترجم HD
-https://cdn.alarab.com/h264/156984_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Lovebirds مترجم HD
-https://cdn.alarab.com/h264/156785_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Güzelligin Portresi مترجم HD
-https://cdn.alarab.com/h264/156754_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم سر المتنزه الخفي مترجم HD
-https://cdn.alarab.com/h264/156751_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Kayhan مترجم HD
-https://cdn.alarab.com/h264/156748_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Wrong Missy مترجم HD
-https://cdn.alarab.com/h264/156734_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Capone مترجم HD
-https://cdn.alarab.com/h264/156696_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Inheritance مترجم HD
-https://cdn.alarab.com/h264/156694_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Lodge مترجم
-https://cdn.alarab.com/h264/155632_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم The Assistant مترجم HD
-https://cdn.alarab.com/h264/155627_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Bad Education مترجم HD
-https://cdn.alarab.com/h264/154820_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Extraction مترجم
-https://cdn.alarab.com/h264/154569_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Three Stooges
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-15/movies/The.Three.Stooges.2012.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", ROGUE WARFARE 2
-https://sarontna.club/f/videos/1578058141/bda3469f3a56c4fc9d6bfc83b08ad601/1080p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Terminator: Dark Fate
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Terminator.Dark.Fate.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Maleficent: Mistress of Evil
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Maleficent.Mistress.of.Evil.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Maleficent 2014
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:dl1-7/movies/Maleficent.2014.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم Underwater مترجم HD انتاج 2020
-https://cdn.alarab.com/h264/153976_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Night Clerk
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Night.Clerk.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Last Thing He Wanted
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Thing.He.Wanted.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Siccin 6
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Siccin.6.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", I Am Fear
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/I.Am.Fear.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sniper Corpse
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sniper.Corpse.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Guns Akimbo
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Guns.Akimbo.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Richard Jewell
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/richard-jewell.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Hidden Life
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-hidden-life.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Wakefield Project
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/a-wakefield-project.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Mr Jones
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mr.Jones.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Dare
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/the-dare.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Anastasia: Once Upon a Time
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Anastasia.Once.Upon.a.Time.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Warrant
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Warrant.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", By Light of Desert Night
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/by-light-of-desert-night.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Final Kill
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Final.Kill.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Lurker
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Lurker.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Mistakes Were Made
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Timmy.Failure.Mistakes.Were.Made.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Agramon's Gate
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Agramons.Gate.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Alien Outbreak
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Alien.Outbreak.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Charlie's Angels
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Charlies.Angels.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Cruel Hearts
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Cruel.Hearts.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Next Level
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jumanji.The.Next.Level.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", VFW
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/VFW.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Eve
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Eve.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Spy Intervention
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Spy.Intervention.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Isi & Ossi
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Isi.and.Ossi.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Kindness of Strangers
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Kindness.of.Strangers.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Fantasy Island - HDCAM
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Fantasy.Island.2020.HDCAM..mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sadistic Intentions
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sadistic.Intentions.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Island of Shadows
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Is.There.A.Killer.In.My.Family.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Friends Who Kill
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Friends.Who.Kill.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sisters in Arms
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Soeurs.D.Armes.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Untitled Chris Watts Project
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Chris.Watts.Confessions.Of.A.Killer.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Windermere Children
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Windermere.Children.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", 21 Bridges
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/21.Bridges.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", S.W.A.T
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/S.W.A.T.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Harriet
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Harriet.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Jojo Rabbit
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jojo.Rabbit.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Beautiful Day in the Neighborhood
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A-Beautiful-Day-in-the-Neighborhood-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Dragonheart: Vengeance
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dragonheart.Vengeance.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Black Flowers
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Atomic.Apocalypse.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Pilgrim's Progress
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heavenquest.A.Pilgrims.Progress.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Bait
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Bait.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Dolittle
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dolittle.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Coldest Game
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Coldest.Game.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Adventure Force 5
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Adventure.Force.5.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Playing with Fire
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Playing.with.Fire.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Kindred Spirits
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Kindred.Spirits.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The VelociPastor
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Velocipastor.2018.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Just Mercy
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Just.Mercy.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Little Women
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Little.Woman.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Stardust
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Stardust.2007.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Ford v Ferrari
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ford.v.Ferrari.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Last Full Measure
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Last.Full.Measure.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Fight for Justice
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Trigonal.Fight.For.Justice.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Battle Star Wars
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Battle.Star.Wars.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Great Alaskan Race
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Great.Alaskan.Race.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", By Dawn
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/By.Dawn.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Jessica Forever
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Jessica.Forever.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Coda
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Coda.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sleeping with My Student
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Sleeping.With.My.Student.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Ride Like a Girl
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ride.Like.A.Girl.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Motherless Brooklyn
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Motherless.Brooklyn.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Blank
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Blank.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Midway
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Midway.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", 24 Little Hours
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/24.Hours.In.London.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Dark Waters
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Dark.Waters.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Epiphany
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Epiphany.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Terminator: Dark Fate
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Terminator.Dark.Fate.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Disturbing The Peace
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Disturbing.The.Peace.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", A Fall from Grace
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/A.Fall.from.Grace.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", 1917
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/1917-2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Nation's Fire
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nations.Fire.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Heritage
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Heritage.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Wave
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Wave.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Nancy Drew and the Hidden Staircase
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Nancy.Drew.and.the.Hidden.Staircase.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Inmate Zero - Patients of a Saint
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inmate.Zero.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Gemini Man
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Gemini.Man.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Death of a Nation
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Rogue.Warfare.3.Death.of.a.Nation.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Ghost Stories
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Ghost.Stories.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Toxicity
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Toxicity.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Mercenary
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Mercenary.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Love Once
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Live.Twice.Love.Once.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Countdown
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Countdown.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Mine 9
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Mine.9.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Where We Disappear
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Where.We.Disappear.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Abducted on Air - The Lead
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Abducted.on.Air.2020.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Inherit the Viper
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Inherit.The.Viper.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", The Courier
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/The.Courier.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Three Christs
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Three.Christs.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Insidious: Chapter 2 مترجم HD انتاج 2013
-https://cdn.alarab.com/h264/152568_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Jumanji: The Next Level مترجم HD انتاج 2019
-https://cdn.alarab.com/h264/152879_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Sonic the Hedgehog مترجم HD انتاح 2020
-https://cdn.alarab.com/h264/153320_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Little Women مترجم HD انتاج 2019
-https://cdn.alarab.com/h264/153322_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", Spenser Confidential مترجم HD انتاج 2020
-https://cdn.alarab.com/h264/153321_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", فيلم 1917 مترجم HD انتاج 2019
-https://cdn.alarab.com/h264/153322_720p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman: Hush
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.Hush.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام انمي", Batman vs. Teenage Mutant Ninja Turtles
-http://dl3.aflamy.ps:1935/TEST/_definst_/mp4:DLNASDELL/movies/Batman.vs.Teenage.M.N.T.2019.mp4/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", AR:MV: فيلم 6 Underground مترجم
-https://cdn.alarab.com/h264/151633_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", AR:MV: فيلم Doctor Sleep مترجم
-https://cdn.alarab.com/h264/151607_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="افلام أجنبية مترجمه", AR:MV: فيلم Marriage Story مترجم
-https://cdn.alarab.com/h264/151638_480p.mp4/index-v1-a1.m3u8
-
-
-
- 
