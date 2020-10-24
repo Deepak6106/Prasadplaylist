@@ -2401,7 +2401,9 @@ https://tivimateplaylists.live/diva
 #EXTINF:-1  tvg-id="N/A" group-title="Other प्रसाद  TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/1200px-E%21_Logo.svg.png.png",̲𝖤
 https://tivimateplaylists.live/just-e
 #EXTM3U
-#EXTINF:-1,https://flylinks.net, 12-12-1950 2017 IN
+##EXTM3U
+#EXTINF:-1  tvg-id="id" group-title="ENJOY MOVIES " tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",support प्रसाद  TV ELECTRONICS
+https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp:-1,https://flylinks.net, 12-12-1950 2017 IN
 http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11869.mkv
 #EXTINF:-1,https://flylinks.net, 88 2017 IN
 http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11870.mp4
