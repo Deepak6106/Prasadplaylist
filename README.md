@@ -1813,12 +1813,6 @@ http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
 
 
 
-#EXTM3U url-tvg="https://tivimateplaylists.live/epg"
-#EXTM3U
-#EXTINF:-1  tvg-id="id" group-title="join our telegram group प्रसाद.TV " tvg-logo="https://previews.123rf.com/images/6kor3dos/6kor3dos1207/6kor3dos120700008/14383324-3d-person-with-megaphone-is-behind-info-letters.jpg",support our telegram group प्रसाद.TV
-https://rebrand.ly/tvideo
-#EXTINF:-1  tvg-id="id" group-title="join our telegram group प्रसाद.TV " tvg-logo="NA",test
-https://tivimateplaylists.live/animal-planettest
 
 #EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1
 https://tivimateplaylists.live/hotstarN
