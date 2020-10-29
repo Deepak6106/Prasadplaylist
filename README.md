@@ -4297,8 +4297,9 @@ https://tivimateplaylists.live/mirzapur-s2-e8
 #EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E09
 https://tivimateplaylists.live/mirzapur-s2-e9
 #EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E10
-https://tivimateplaylists.live/mirzapur-s2-e10
-EXTINF:-1  tvg-id="1000062135" group-title="Web Series PRASAD " tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Scam1992_Landscape_Thumb_gen.jpg",Scam 1992 The Harshad Mehta Story EP 1
+https://tivimateplaylists.live/mirzapur-s2-e10#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000062135
+#EXTINF:-1  tvg-id="1000062135" group-title="Web Series PRASAD " tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Scam1992_Landscape_Thumb_gen.jpg",Scam 1992 The Harshad Mehta Story EP 1
 http://l.mirrorace.net/schannel-1000062135-language-hin-file-file.mpd|x-playback-session-id=16028491475f89897b2b0cf
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000062136
@@ -4336,3 +4337,29 @@ http://l.mirrorace.net/schannel-1000062184-language-hin-file-file.mpd|x-playback
 #KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000062253
 #EXTINF:-1  tvg-id="1000062135" group-title="Web Series PRASAD " tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/Scam1992_Landscape_Thumb_gen.jpg",Scam 1992 The Harshad Mehta Story EP 10
 http://l.mirrorace.net/schannel-1000062253-language-hin-file-file.mpd|x-playback-session-id=16028491475f89897b2b0f5
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E01
+https://tivimateplaylists.live/mirzapur-s1-e1
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E02
+https://tivimateplaylists.live/mirzapur-s1-e2
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E03
+https://tivimateplaylists.live/mirzapur-s1-e3
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E04
+https://tivimateplaylists.live/mirzapur-s1-e4
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E05
+https://tivimateplaylists.live/mirzapur-s1-e5
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E06
+https://tivimateplaylists.live/mirzapur-s1-e6
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E07
+https://tivimateplaylists.live/mirzapur-s1-e7
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E08
+https://tivimateplaylists.live/mirzapur-s1-e8
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E09
+https://tivimateplaylists.live/mirzapur-s1-e9
+
+
+
+
+
