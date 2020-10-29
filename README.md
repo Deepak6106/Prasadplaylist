@@ -4254,3 +4254,47 @@ http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73104.mkv
 #EXTINF:-1,https://flylinks.net, Ventilator 2016 IN
 http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73105.mkv
 
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E01
+https://tivimateplaylists.live/mirzapur-s1-e1
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E02
+https://tivimateplaylists.live/mirzapur-s1-e2
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E03
+https://tivimateplaylists.live/mirzapur-s1-e3
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E04
+https://tivimateplaylists.live/mirzapur-s1-e4
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E05
+https://tivimateplaylists.live/mirzapur-s1-e5
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E06
+https://tivimateplaylists.live/mirzapur-s1-e6
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E07
+https://tivimateplaylists.live/mirzapur-s1-e7
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E08
+https://tivimateplaylists.live/mirzapur-s1-e8
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/21aabc0f97beabbc2825823d13f3d464.jpg",Mirzapur S01 E09
+https://tivimateplaylists.live/mirzapur-s1-e9
+
+
+
+
+
+
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E01
+https://tivimateplaylists.live/mirzapur-s2-e1
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E02
+https://tivimateplaylists.live/mirzapur-s2-e2
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E03
+https://tivimateplaylists.live/mirzapur-s2-e3
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E04
+https://tivimateplaylists.live/mirzapur-s2-e4
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E05
+https://tivimateplaylists.live/mirzapur-s2-e5
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E06
+https://tivimateplaylists.live/mirzapur-s2-e6
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E07
+https://tivimateplaylists.live/mirzapur-s2-e7
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E08
+https://tivimateplaylists.live/mirzapur-s2-e8
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E09
+https://tivimateplaylists.live/mirzapur-s2-e9
+#EXTINF:-1  tvg-id="N/A" group-title="Web Series PRASAD " tvg-logo="http://webo.asia:80/images/9dceefd56f127b4da6dad2ba6882abab.jpg",Mirzapur S02 E10
+https://tivimateplaylists.live/mirzapur-s2-e10
