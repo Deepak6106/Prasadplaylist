@@ -9,9 +9,9 @@ https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp
 
 
 
-#EXTINF:-1  tvg-id="id" group-title="IPL प्रसादTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1
+#EXTINF:-1  tvg-id="id" group-title="IPL प्रसादTV" tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",IPL Server 1
 https://tivimateplaylists.live/hotstarN
-#EXTINF:-1  tvg-id="id" group-title="IPL प्रसादTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 2
+#EXTINF:-1  tvg-id="id" group-title="IPL प्रसादTV" tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png",IPL Server 2
 https://tivimateplaylists.live/hotstar-2N
 #EXTINF:-1  tvg-id="id" group-title="Sports प्रसाद.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1
 https://tivimateplaylists.live/hotstarN
