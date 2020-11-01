@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="prasad IPTV", PRASAD ELECTRONICS 9967965440 prasad IPTV(PlayStore)
 tvg-logo     "https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png
-https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp
+https://cdnr4.makewebvideo.com/data3/userfiles/private/SexVjtkGCc6UJTqnWPzKXjHU/Movie%20Projects/jshyZErzat3Hq5wv.pjm/files/output/pvideo.mp4?time=1604198776000
 
 
 
