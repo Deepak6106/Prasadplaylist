@@ -1,10 +1,9 @@
 #EXTM3U url-tvg="https://tivimateplaylists.live/epg"
 #EXTM3U
-#EXTINF:-1  tvg-id="id" group-title="PRASAD ELECTRONICS 9967965440 "https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png ",support prasad electronics 
+#EXTINF:-1  tvg-id="id" group-title="PRASAD ELECTRONICS 9967965440 tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png ",support prasad electronics 9967965440 
 https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp
-#EXTINF:-1  tvg-id="id" group-title="join our telegram group ##PRASAD## " tvg-logo="NA",test
-https://tivimateplaylists.live/animal-planettest
-
+#EXTINF:-1  tvg-id="id" group-title="join ##PRASAD## " "https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png ",support prasad electronics 9967965440 
+https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp
 #EXTINF:-1  tvg-id="id" group-title="Sports ##PRASAD##" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 1
 https://tivimateplaylists.live/hotstarN
 #EXTINF:-1  tvg-id="id" group-title="Sports ##PRASAD##" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",IPL Server 2
