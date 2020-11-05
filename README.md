@@ -5127,7 +5127,3071 @@ http://l.mirrorace.net/schannel-1000062305-language-hin-file-file.mpd|x-playback
 http://l.mirrorace.net/schannel-1000062383-language-hin-file-file.mpd|x-playback-session-id=16028455425f897b669753e
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021199
+#EXTINF:-1 tvg-id="1000021199" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep01.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 1
+http://l.mirrorace.net/schannel-1000021199-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603712
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021200
+#EXTINF:-1 tvg-id="1000021200" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep02.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 2
+http://l.mirrorace.net/schannel-1000021200-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603725
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021202
+#EXTINF:-1 tvg-id="1000021202" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep03.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 3
+http://l.mirrorace.net/schannel-1000021202-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60372b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036176
+#EXTINF:-1 tvg-id="1000036176" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep04.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 4
+http://l.mirrorace.net/schannel-1000036176-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60372f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021201
+#EXTINF:-1 tvg-id="1000021201" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep05.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 5
+http://l.mirrorace.net/schannel-1000021201-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603734
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021203
+#EXTINF:-1 tvg-id="1000021203" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep06.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 6
+http://l.mirrorace.net/schannel-1000021203-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603739
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021205
+#EXTINF:-1 tvg-id="1000021205" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep07.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 7
+http://l.mirrorace.net/schannel-1000021205-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60373d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021204
+#EXTINF:-1 tvg-id="1000021204" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep08.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 8
+http://l.mirrorace.net/schannel-1000021204-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603741
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021207
+#EXTINF:-1 tvg-id="1000021207" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep09.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 9
+http://l.mirrorace.net/schannel-1000021207-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603745
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021208
+#EXTINF:-1 tvg-id="1000021208" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep10.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 10
+http://l.mirrorace.net/schannel-1000021208-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603749
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021209
+#EXTINF:-1 tvg-id="1000021209" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep11.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 11
+http://l.mirrorace.net/schannel-1000021209-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60374d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021211
+#EXTINF:-1 tvg-id="1000021211" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep12.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 12
+http://l.mirrorace.net/schannel-1000021211-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603751
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021210
+#EXTINF:-1 tvg-id="1000021210" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep13.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 13
+http://l.mirrorace.net/schannel-1000021210-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603755
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021206
+#EXTINF:-1 tvg-id="1000021206" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep14.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 14
+http://l.mirrorace.net/schannel-1000021206-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60375a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021296
+#EXTINF:-1 tvg-id="1000021296" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep15.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 15
+http://l.mirrorace.net/schannel-1000021296-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60375e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021212
+#EXTINF:-1 tvg-id="1000021212" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep16.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 16
+http://l.mirrorace.net/schannel-1000021212-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603762
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021213
+#EXTINF:-1 tvg-id="1000021213" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep17.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 17
+http://l.mirrorace.net/schannel-1000021213-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037bf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021214
+#EXTINF:-1 tvg-id="1000021214" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep18.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 18
+http://l.mirrorace.net/schannel-1000021214-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037c6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021216
+#EXTINF:-1 tvg-id="1000021216" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep19.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 19
+http://l.mirrorace.net/schannel-1000021216-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037cb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021217
+#EXTINF:-1 tvg-id="1000021217" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep20.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 20
+http://l.mirrorace.net/schannel-1000021217-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037cf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021218
+#EXTINF:-1 tvg-id="1000021218" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep21.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 21
+http://l.mirrorace.net/schannel-1000021218-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037d4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021215
+#EXTINF:-1 tvg-id="1000021215" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep22.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 22
+http://l.mirrorace.net/schannel-1000021215-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037d8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021219
+#EXTINF:-1 tvg-id="1000021219" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep23.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 23
+http://l.mirrorace.net/schannel-1000021219-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037dc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021220
+#EXTINF:-1 tvg-id="1000021220" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep24.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 24
+http://l.mirrorace.net/schannel-1000021220-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037e1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021221
+#EXTINF:-1 tvg-id="1000021221" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep25.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 25
+http://l.mirrorace.net/schannel-1000021221-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037e5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021222
+#EXTINF:-1 tvg-id="1000021222" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep26.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 26
+http://l.mirrorace.net/schannel-1000021222-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037ea
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021223
+#EXTINF:-1 tvg-id="1000021223" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep27.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 27
+http://l.mirrorace.net/schannel-1000021223-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037ee
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021224
+#EXTINF:-1 tvg-id="1000021224" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep28.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 28
+http://l.mirrorace.net/schannel-1000021224-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037f3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021225
+#EXTINF:-1 tvg-id="1000021225" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep29.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 29
+http://l.mirrorace.net/schannel-1000021225-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037f7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021226
+#EXTINF:-1 tvg-id="1000021226" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep30.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 30
+http://l.mirrorace.net/schannel-1000021226-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6037fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021227
+#EXTINF:-1 tvg-id="1000021227" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep31.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 31
+http://l.mirrorace.net/schannel-1000021227-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603800
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021228
+#EXTINF:-1 tvg-id="1000021228" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep32.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 32
+http://l.mirrorace.net/schannel-1000021228-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603804
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021230
+#EXTINF:-1 tvg-id="1000021230" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep33.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 33
+http://l.mirrorace.net/schannel-1000021230-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603822
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036177
+#EXTINF:-1 tvg-id="1000036177" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep34.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 34
+http://l.mirrorace.net/schannel-1000036177-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603827
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021229
+#EXTINF:-1 tvg-id="1000021229" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep35.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 35
+http://l.mirrorace.net/schannel-1000021229-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60382e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021231
+#EXTINF:-1 tvg-id="1000021231" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep36.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 36
+http://l.mirrorace.net/schannel-1000021231-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60383b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021233
+#EXTINF:-1 tvg-id="1000021233" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep37.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 37
+http://l.mirrorace.net/schannel-1000021233-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603844
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021234
+#EXTINF:-1 tvg-id="1000021234" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep38.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 38
+http://l.mirrorace.net/schannel-1000021234-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603849
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021232
+#EXTINF:-1 tvg-id="1000021232" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep39.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 39
+http://l.mirrorace.net/schannel-1000021232-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60384d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021235
+#EXTINF:-1 tvg-id="1000021235" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep40.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 40
+http://l.mirrorace.net/schannel-1000021235-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603852
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021236
+#EXTINF:-1 tvg-id="1000021236" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep41.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 41
+http://l.mirrorace.net/schannel-1000021236-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603856
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021238
+#EXTINF:-1 tvg-id="1000021238" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep42.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 42
+http://l.mirrorace.net/schannel-1000021238-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60385b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021239
+#EXTINF:-1 tvg-id="1000021239" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep43.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 43
+http://l.mirrorace.net/schannel-1000021239-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60385f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021237
+#EXTINF:-1 tvg-id="1000021237" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep44.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 44
+http://l.mirrorace.net/schannel-1000021237-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603863
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021240
+#EXTINF:-1 tvg-id="1000021240" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep45.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 45
+http://l.mirrorace.net/schannel-1000021240-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60386d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021242
+#EXTINF:-1 tvg-id="1000021242" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep46.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 46
+http://l.mirrorace.net/schannel-1000021242-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603875
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021243
+#EXTINF:-1 tvg-id="1000021243" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep47.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 47
+http://l.mirrorace.net/schannel-1000021243-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60387d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021241
+#EXTINF:-1 tvg-id="1000021241" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep48.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 48
+http://l.mirrorace.net/schannel-1000021241-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603884
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021244
+#EXTINF:-1 tvg-id="1000021244" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep49.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 49
+http://l.mirrorace.net/schannel-1000021244-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038c1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021245
+#EXTINF:-1 tvg-id="1000021245" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep50.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 50
+http://l.mirrorace.net/schannel-1000021245-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038c7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021246
+#EXTINF:-1 tvg-id="1000021246" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep51.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 51
+http://l.mirrorace.net/schannel-1000021246-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038cb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021247
+#EXTINF:-1 tvg-id="1000021247" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep52.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 52
+http://l.mirrorace.net/schannel-1000021247-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038cf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021248
+#EXTINF:-1 tvg-id="1000021248" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep53.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 53
+http://l.mirrorace.net/schannel-1000021248-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038d3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021249
+#EXTINF:-1 tvg-id="1000021249" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep54.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 54
+http://l.mirrorace.net/schannel-1000021249-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021250
+#EXTINF:-1 tvg-id="1000021250" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep55.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 55
+http://l.mirrorace.net/schannel-1000021250-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038da
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021251
+#EXTINF:-1 tvg-id="1000021251" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep56.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 56
+http://l.mirrorace.net/schannel-1000021251-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038de
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021252
+#EXTINF:-1 tvg-id="1000021252" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep57.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 57
+http://l.mirrorace.net/schannel-1000021252-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038e1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021253
+#EXTINF:-1 tvg-id="1000021253" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep58.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 58
+http://l.mirrorace.net/schannel-1000021253-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038e5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021254
+#EXTINF:-1 tvg-id="1000021254" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep59.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 59
+http://l.mirrorace.net/schannel-1000021254-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038e8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021255
+#EXTINF:-1 tvg-id="1000021255" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep60.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 60
+http://l.mirrorace.net/schannel-1000021255-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038ec
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036178
+#EXTINF:-1 tvg-id="1000036178" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep61.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 61
+http://l.mirrorace.net/schannel-1000036178-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038f0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021256
+#EXTINF:-1 tvg-id="1000021256" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep62.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 62
+http://l.mirrorace.net/schannel-1000021256-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038f4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021258
+#EXTINF:-1 tvg-id="1000021258" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep63.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 63
+http://l.mirrorace.net/schannel-1000021258-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038f8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021257
+#EXTINF:-1 tvg-id="1000021257" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep64.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 64
+http://l.mirrorace.net/schannel-1000021257-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6038fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021259
+#EXTINF:-1 tvg-id="1000021259" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep65.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 65
+http://l.mirrorace.net/schannel-1000021259-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60392a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021261
+#EXTINF:-1 tvg-id="1000021261" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep66.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 66
+http://l.mirrorace.net/schannel-1000021261-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603939
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021262
+#EXTINF:-1 tvg-id="1000021262" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep67.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 67
+http://l.mirrorace.net/schannel-1000021262-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60393e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021265
+#EXTINF:-1 tvg-id="1000021265" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep68.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 68
+http://l.mirrorace.net/schannel-1000021265-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603941
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021266
+#EXTINF:-1 tvg-id="1000021266" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep69.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 69
+http://l.mirrorace.net/schannel-1000021266-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603945
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021263
+#EXTINF:-1 tvg-id="1000021263" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep70.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 70
+http://l.mirrorace.net/schannel-1000021263-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603948
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021264
+#EXTINF:-1 tvg-id="1000021264" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep71.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 71
+http://l.mirrorace.net/schannel-1000021264-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60394c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021267
+#EXTINF:-1 tvg-id="1000021267" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep72.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 72
+http://l.mirrorace.net/schannel-1000021267-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60394f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021271
+#EXTINF:-1 tvg-id="1000021271" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep73.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 73
+http://l.mirrorace.net/schannel-1000021271-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603953
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021268
+#EXTINF:-1 tvg-id="1000021268" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep74.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 74
+http://l.mirrorace.net/schannel-1000021268-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603957
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021269
+#EXTINF:-1 tvg-id="1000021269" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep75.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 75
+http://l.mirrorace.net/schannel-1000021269-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60395a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021272
+#EXTINF:-1 tvg-id="1000021272" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep76.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 76
+http://l.mirrorace.net/schannel-1000021272-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60395e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021270
+#EXTINF:-1 tvg-id="1000021270" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep77.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 77
+http://l.mirrorace.net/schannel-1000021270-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603962
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021274
+#EXTINF:-1 tvg-id="1000021274" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep78.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 78
+http://l.mirrorace.net/schannel-1000021274-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603965
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021273
+#EXTINF:-1 tvg-id="1000021273" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep79.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 79
+http://l.mirrorace.net/schannel-1000021273-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603969
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021275
+#EXTINF:-1 tvg-id="1000021275" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep80.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 80
+http://l.mirrorace.net/schannel-1000021275-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60396d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021277
+#EXTINF:-1 tvg-id="1000021277" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep81.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 81
+http://l.mirrorace.net/schannel-1000021277-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b60399b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021276
+#EXTINF:-1 tvg-id="1000021276" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep82.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 82
+http://l.mirrorace.net/schannel-1000021276-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039d5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021278
+#EXTINF:-1 tvg-id="1000021278" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep83.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 83
+http://l.mirrorace.net/schannel-1000021278-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039db
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021279
+#EXTINF:-1 tvg-id="1000021279" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep84.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 84
+http://l.mirrorace.net/schannel-1000021279-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039df
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021280
+#EXTINF:-1 tvg-id="1000021280" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep85.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 85
+http://l.mirrorace.net/schannel-1000021280-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021281
+#EXTINF:-1 tvg-id="1000021281" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep86.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 86
+http://l.mirrorace.net/schannel-1000021281-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039e8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021283
+#EXTINF:-1 tvg-id="1000021283" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep87.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 87
+http://l.mirrorace.net/schannel-1000021283-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039ec
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021282
+#EXTINF:-1 tvg-id="1000021282" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep88.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 88
+http://l.mirrorace.net/schannel-1000021282-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039f1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021284
+#EXTINF:-1 tvg-id="1000021284" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep89.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 89
+http://l.mirrorace.net/schannel-1000021284-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039f5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021286
+#EXTINF:-1 tvg-id="1000021286" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep90.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 90
+http://l.mirrorace.net/schannel-1000021286-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039f9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021287
+#EXTINF:-1 tvg-id="1000021287" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep91.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 91
+http://l.mirrorace.net/schannel-1000021287-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6039fd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021285
+#EXTINF:-1 tvg-id="1000021285" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep92.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 92
+http://l.mirrorace.net/schannel-1000021285-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a01
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021289
+#EXTINF:-1 tvg-id="1000021289" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep93.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 93
+http://l.mirrorace.net/schannel-1000021289-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a06
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021292
+#EXTINF:-1 tvg-id="1000021292" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep94.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 94
+http://l.mirrorace.net/schannel-1000021292-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a0b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021290
+#EXTINF:-1 tvg-id="1000021290" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep95.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 95
+http://l.mirrorace.net/schannel-1000021290-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a0f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021288
+#EXTINF:-1 tvg-id="1000021288" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep96.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 96
+http://l.mirrorace.net/schannel-1000021288-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a16
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021291
+#EXTINF:-1 tvg-id="1000021291" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep97.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 97
+http://l.mirrorace.net/schannel-1000021291-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a51
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021293
+#EXTINF:-1 tvg-id="1000021293" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep98.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 98
+http://l.mirrorace.net/schannel-1000021293-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a58
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021294
+#EXTINF:-1 tvg-id="1000021294" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep99.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 99
+http://l.mirrorace.net/schannel-1000021294-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a5e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021295
+#EXTINF:-1 tvg-id="1000021295" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep100.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 100
+http://l.mirrorace.net/schannel-1000021295-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b603a66
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021297
+#EXTINF:-1 tvg-id="1000021297" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep101.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 101
+http://l.mirrorace.net/schannel-1000021297-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b632ffd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021298
+#EXTINF:-1 tvg-id="1000021298" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep102.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 102
+http://l.mirrorace.net/schannel-1000021298-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633006
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021299
+#EXTINF:-1 tvg-id="1000021299" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep103.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 103
+http://l.mirrorace.net/schannel-1000021299-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63300a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021301
+#EXTINF:-1 tvg-id="1000021301" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep104.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 104
+http://l.mirrorace.net/schannel-1000021301-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63300d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021300
+#EXTINF:-1 tvg-id="1000021300" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep105.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 105
+http://l.mirrorace.net/schannel-1000021300-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633011
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021302
+#EXTINF:-1 tvg-id="1000021302" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep106.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 106
+http://l.mirrorace.net/schannel-1000021302-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633014
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021341
+#EXTINF:-1 tvg-id="1000021341" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep107.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 107
+http://l.mirrorace.net/schannel-1000021341-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633018
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021303
+#EXTINF:-1 tvg-id="1000021303" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep108.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 108
+http://l.mirrorace.net/schannel-1000021303-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63301b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021304
+#EXTINF:-1 tvg-id="1000021304" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep109.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 109
+http://l.mirrorace.net/schannel-1000021304-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63301e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021305
+#EXTINF:-1 tvg-id="1000021305" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep110.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 110
+http://l.mirrorace.net/schannel-1000021305-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633022
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021306
+#EXTINF:-1 tvg-id="1000021306" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep111.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 111
+http://l.mirrorace.net/schannel-1000021306-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633025
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047208
+#EXTINF:-1 tvg-id="1000047208" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep112.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 112
+http://l.mirrorace.net/schannel-1000047208-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633028
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047211
+#EXTINF:-1 tvg-id="1000047211" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep113.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 113
+http://l.mirrorace.net/schannel-1000047211-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633059
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021307
+#EXTINF:-1 tvg-id="1000021307" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep114.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 114
+http://l.mirrorace.net/schannel-1000021307-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63305f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021308
+#EXTINF:-1 tvg-id="1000021308" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep115.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 115
+http://l.mirrorace.net/schannel-1000021308-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633064
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021342
+#EXTINF:-1 tvg-id="1000021342" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep116.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 116
+http://l.mirrorace.net/schannel-1000021342-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63306a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021309
+#EXTINF:-1 tvg-id="1000021309" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep117.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 117
+http://l.mirrorace.net/schannel-1000021309-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63306f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021310
+#EXTINF:-1 tvg-id="1000021310" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep118.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 118
+http://l.mirrorace.net/schannel-1000021310-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633072
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021311
+#EXTINF:-1 tvg-id="1000021311" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep119.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 119
+http://l.mirrorace.net/schannel-1000021311-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633076
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021314
+#EXTINF:-1 tvg-id="1000021314" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep120.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 120
+http://l.mirrorace.net/schannel-1000021314-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633079
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021313
+#EXTINF:-1 tvg-id="1000021313" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep121.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 121
+http://l.mirrorace.net/schannel-1000021313-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63307c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021312
+#EXTINF:-1 tvg-id="1000021312" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep122.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 122
+http://l.mirrorace.net/schannel-1000021312-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633080
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021315
+#EXTINF:-1 tvg-id="1000021315" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep123.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 123
+http://l.mirrorace.net/schannel-1000021315-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633084
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021316
+#EXTINF:-1 tvg-id="1000021316" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep124.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 124
+http://l.mirrorace.net/schannel-1000021316-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63308a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021317
+#EXTINF:-1 tvg-id="1000021317" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep125.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 125
+http://l.mirrorace.net/schannel-1000021317-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63308e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021319
+#EXTINF:-1 tvg-id="1000021319" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep126.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 126
+http://l.mirrorace.net/schannel-1000021319-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633094
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021320
+#EXTINF:-1 tvg-id="1000021320" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep127.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 127
+http://l.mirrorace.net/schannel-1000021320-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63309a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021318
+#EXTINF:-1 tvg-id="1000021318" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep128.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 128
+http://l.mirrorace.net/schannel-1000021318-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63309f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021321
+#EXTINF:-1 tvg-id="1000021321" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep129.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 129
+http://l.mirrorace.net/schannel-1000021321-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330ba
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021327
+#EXTINF:-1 tvg-id="1000021327" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep130.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 130
+http://l.mirrorace.net/schannel-1000021327-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330c1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021323
+#EXTINF:-1 tvg-id="1000021323" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep131.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 131
+http://l.mirrorace.net/schannel-1000021323-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330c6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021325
+#EXTINF:-1 tvg-id="1000021325" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep132.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 132
+http://l.mirrorace.net/schannel-1000021325-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330cb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021322
+#EXTINF:-1 tvg-id="1000021322" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep133.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 133
+http://l.mirrorace.net/schannel-1000021322-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330cf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047221
+#EXTINF:-1 tvg-id="1000047221" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep134.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 134
+http://l.mirrorace.net/schannel-1000047221-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330d2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047216
+#EXTINF:-1 tvg-id="1000047216" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep135.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 135
+http://l.mirrorace.net/schannel-1000047216-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021326
+#EXTINF:-1 tvg-id="1000021326" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep136.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 136
+http://l.mirrorace.net/schannel-1000021326-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330da
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021324
+#EXTINF:-1 tvg-id="1000021324" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep137.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 137
+http://l.mirrorace.net/schannel-1000021324-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330dd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021328
+#EXTINF:-1 tvg-id="1000021328" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep138.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 138
+http://l.mirrorace.net/schannel-1000021328-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330e0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021331
+#EXTINF:-1 tvg-id="1000021331" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep139.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 139
+http://l.mirrorace.net/schannel-1000021331-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021330
+#EXTINF:-1 tvg-id="1000021330" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep140.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 140
+http://l.mirrorace.net/schannel-1000021330-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330e6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021329
+#EXTINF:-1 tvg-id="1000021329" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep141.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 141
+http://l.mirrorace.net/schannel-1000021329-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330e9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021333
+#EXTINF:-1 tvg-id="1000021333" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep142.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 142
+http://l.mirrorace.net/schannel-1000021333-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330ec
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021332
+#EXTINF:-1 tvg-id="1000021332" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep143.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 143
+http://l.mirrorace.net/schannel-1000021332-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330ef
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036179
+#EXTINF:-1 tvg-id="1000036179" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep144.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 144
+http://l.mirrorace.net/schannel-1000036179-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6330f2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021334
+#EXTINF:-1 tvg-id="1000021334" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep145.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 145
+http://l.mirrorace.net/schannel-1000021334-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633104
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021336
+#EXTINF:-1 tvg-id="1000021336" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep146.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 146
+http://l.mirrorace.net/schannel-1000021336-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633108
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021338
+#EXTINF:-1 tvg-id="1000021338" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep147.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 147
+http://l.mirrorace.net/schannel-1000021338-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63310b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021335
+#EXTINF:-1 tvg-id="1000021335" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep148.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 148
+http://l.mirrorace.net/schannel-1000021335-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63310e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021337
+#EXTINF:-1 tvg-id="1000021337" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep149.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 149
+http://l.mirrorace.net/schannel-1000021337-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633111
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021339
+#EXTINF:-1 tvg-id="1000021339" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep150.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 150
+http://l.mirrorace.net/schannel-1000021339-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633114
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014696
+#EXTINF:-1 tvg-id="1000014696" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089567997001/thumbnail/6089567997001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 151
+http://l.mirrorace.net/schannel-1000014696-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633117
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014702
+#EXTINF:-1 tvg-id="1000014702" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089569876001/thumbnail/6089569876001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 152
+http://l.mirrorace.net/schannel-1000014702-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63311a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014694
+#EXTINF:-1 tvg-id="1000014694" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089564937001/thumbnail/6089564937001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 153
+http://l.mirrorace.net/schannel-1000014694-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63311f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014704
+#EXTINF:-1 tvg-id="1000014704" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089570073001/thumbnail/6089570073001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 154
+http://l.mirrorace.net/schannel-1000014704-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633123
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014701
+#EXTINF:-1 tvg-id="1000014701" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089569875001/thumbnail/6089569875001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 155
+http://l.mirrorace.net/schannel-1000014701-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63312a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014705
+#EXTINF:-1 tvg-id="1000014705" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089570225001/thumbnail/6089570225001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 156
+http://l.mirrorace.net/schannel-1000014705-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63312f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014703
+#EXTINF:-1 tvg-id="1000014703" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089570034001/thumbnail/6089570034001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 157
+http://l.mirrorace.net/schannel-1000014703-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633133
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014699
+#EXTINF:-1 tvg-id="1000014699" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089569842001/thumbnail/6089569842001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 158
+http://l.mirrorace.net/schannel-1000014699-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633137
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014695
+#EXTINF:-1 tvg-id="1000014695" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089567210001/thumbnail/6089567210001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 159
+http://l.mirrorace.net/schannel-1000014695-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63313a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014697
+#EXTINF:-1 tvg-id="1000014697" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089569453001/thumbnail/6089569453001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 160
+http://l.mirrorace.net/schannel-1000014697-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63313d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014700
+#EXTINF:-1 tvg-id="1000014700" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089569853001/thumbnail/6089569853001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 161
+http://l.mirrorace.net/schannel-1000014700-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633155
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014710
+#EXTINF:-1 tvg-id="1000014710" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089576050001/thumbnail/6089576050001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 162
+http://l.mirrorace.net/schannel-1000014710-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633159
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014698
+#EXTINF:-1 tvg-id="1000014698" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089569461001/thumbnail/6089569461001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 163
+http://l.mirrorace.net/schannel-1000014698-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63315c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014711
+#EXTINF:-1 tvg-id="1000014711" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089576075001/thumbnail/6089576075001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 164
+http://l.mirrorace.net/schannel-1000014711-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63315f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014706
+#EXTINF:-1 tvg-id="1000014706" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089572582001/thumbnail/6089572582001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 165
+http://l.mirrorace.net/schannel-1000014706-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633161
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014708
+#EXTINF:-1 tvg-id="1000014708" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089573153001/thumbnail/6089573153001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 166
+http://l.mirrorace.net/schannel-1000014708-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633164
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014709
+#EXTINF:-1 tvg-id="1000014709" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089574972001/thumbnail/6089574972001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 167
+http://l.mirrorace.net/schannel-1000014709-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633168
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014707
+#EXTINF:-1 tvg-id="1000014707" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089572896001/thumbnail/6089572896001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 168
+http://l.mirrorace.net/schannel-1000014707-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63316a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014713
+#EXTINF:-1 tvg-id="1000014713" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089582400001/thumbnail/6089582400001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 169
+http://l.mirrorace.net/schannel-1000014713-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63316d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014712
+#EXTINF:-1 tvg-id="1000014712" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089580629001/thumbnail/6089580629001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 170
+http://l.mirrorace.net/schannel-1000014712-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633170
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014714
+#EXTINF:-1 tvg-id="1000014714" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089583640001/thumbnail/6089583640001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 171
+http://l.mirrorace.net/schannel-1000014714-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633173
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014715
+#EXTINF:-1 tvg-id="1000014715" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089585228001/thumbnail/6089585228001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 172
+http://l.mirrorace.net/schannel-1000014715-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633176
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014718
+#EXTINF:-1 tvg-id="1000014718" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089588470001/thumbnail/6089588470001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 173
+http://l.mirrorace.net/schannel-1000014718-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633179
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014717
+#EXTINF:-1 tvg-id="1000014717" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089585286001/thumbnail/6089585286001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 174
+http://l.mirrorace.net/schannel-1000014717-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63317b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014716
+#EXTINF:-1 tvg-id="1000014716" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6089585248001/thumbnail/6089585248001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 175
+http://l.mirrorace.net/schannel-1000014716-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63317f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014723
+#EXTINF:-1 tvg-id="1000014723" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120285566001/thumbnail/6120285566001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 176
+http://l.mirrorace.net/schannel-1000014723-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633181
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014725
+#EXTINF:-1 tvg-id="1000014725" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120287634001/thumbnail/6120287634001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 177
+http://l.mirrorace.net/schannel-1000014725-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633190
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014724
+#EXTINF:-1 tvg-id="1000014724" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120286505001/thumbnail/6120286505001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 178
+http://l.mirrorace.net/schannel-1000014724-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633194
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014722
+#EXTINF:-1 tvg-id="1000014722" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120285541001/thumbnail/6120285541001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 179
+http://l.mirrorace.net/schannel-1000014722-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633196
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014726
+#EXTINF:-1 tvg-id="1000014726" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120288901001/thumbnail/6120288901001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 180
+http://l.mirrorace.net/schannel-1000014726-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b633199
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014727
+#EXTINF:-1 tvg-id="1000014727" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120289741001/thumbnail/6120289741001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 181
+http://l.mirrorace.net/schannel-1000014727-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63319b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014730
+#EXTINF:-1 tvg-id="1000014730" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120295115001/thumbnail/6120295115001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 182
+http://l.mirrorace.net/schannel-1000014730-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b63319e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014720
+#EXTINF:-1 tvg-id="1000014720" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120271701001/thumbnail/6120271701001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 183
+http://l.mirrorace.net/schannel-1000014720-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331a3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014729
+#EXTINF:-1 tvg-id="1000014729" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120292072001/thumbnail/6120292072001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 184
+http://l.mirrorace.net/schannel-1000014729-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331ab
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014728
+#EXTINF:-1 tvg-id="1000014728" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120292065001/thumbnail/6120292065001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 185
+http://l.mirrorace.net/schannel-1000014728-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331b0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014731
+#EXTINF:-1 tvg-id="1000014731" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120295141001/thumbnail/6120295141001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 186
+http://l.mirrorace.net/schannel-1000014731-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331b4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014733
+#EXTINF:-1 tvg-id="1000014733" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120298025001/thumbnail/6120298025001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 187
+http://l.mirrorace.net/schannel-1000014733-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331b6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014732
+#EXTINF:-1 tvg-id="1000014732" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120297238001/thumbnail/6120297238001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 188
+http://l.mirrorace.net/schannel-1000014732-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331b9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014734
+#EXTINF:-1 tvg-id="1000014734" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120298437001/thumbnail/6120298437001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 189
+http://l.mirrorace.net/schannel-1000014734-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331bc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014735
+#EXTINF:-1 tvg-id="1000014735" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120298448001/thumbnail/6120298448001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 190
+http://l.mirrorace.net/schannel-1000014735-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331be
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014737
+#EXTINF:-1 tvg-id="1000014737" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120300957001/thumbnail/6120300957001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 191
+http://l.mirrorace.net/schannel-1000014737-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331c0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014736
+#EXTINF:-1 tvg-id="1000014736" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120299753001/thumbnail/6120299753001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 192
+http://l.mirrorace.net/schannel-1000014736-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331c3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014721
+#EXTINF:-1 tvg-id="1000014721" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120282445001/thumbnail/6120282445001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 193
+http://l.mirrorace.net/schannel-1000014721-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014739
+#EXTINF:-1 tvg-id="1000014739" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120303181001/thumbnail/6120303181001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 194
+http://l.mirrorace.net/schannel-1000014739-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331d9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014748
+#EXTINF:-1 tvg-id="1000014748" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120582237001/thumbnail/6120582237001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 195
+http://l.mirrorace.net/schannel-1000014748-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331db
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014745
+#EXTINF:-1 tvg-id="1000014745" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120581583001/thumbnail/6120581583001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 196
+http://l.mirrorace.net/schannel-1000014745-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331de
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014744
+#EXTINF:-1 tvg-id="1000014744" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120580540001/thumbnail/6120580540001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 197
+http://l.mirrorace.net/schannel-1000014744-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331e1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014738
+#EXTINF:-1 tvg-id="1000014738" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120303158001/thumbnail/6120303158001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 198
+http://l.mirrorace.net/schannel-1000014738-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014740
+#EXTINF:-1 tvg-id="1000014740" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120318048001/thumbnail/6120318048001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 199
+http://l.mirrorace.net/schannel-1000014740-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331f5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014743
+#EXTINF:-1 tvg-id="1000014743" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120330530001/thumbnail/6120330530001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 200
+http://l.mirrorace.net/schannel-1000014743-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6331fc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014371
+#EXTINF:-1 tvg-id="1000014371" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677614846001/thumbnail/5677614846001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 201
+http://l.mirrorace.net/schannel-1000014371-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66923e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014372
+#EXTINF:-1 tvg-id="1000014372" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677614907001/thumbnail/5677614907001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 202
+http://l.mirrorace.net/schannel-1000014372-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669247
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014373
+#EXTINF:-1 tvg-id="1000014373" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677619434001/thumbnail/5677619434001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 203
+http://l.mirrorace.net/schannel-1000014373-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66924a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021605
+#EXTINF:-1 tvg-id="1000021605" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677624880001/thumbnail/5677624880001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 204
+http://l.mirrorace.net/schannel-1000021605-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66924d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014374
+#EXTINF:-1 tvg-id="1000014374" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677620642001/thumbnail/5677620642001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 205
+http://l.mirrorace.net/schannel-1000014374-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669250
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021603
+#EXTINF:-1 tvg-id="1000021603" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677622640001/thumbnail/5677622640001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 206
+http://l.mirrorace.net/schannel-1000021603-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669252
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014375
+#EXTINF:-1 tvg-id="1000014375" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677620645001/thumbnail/5677620645001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 207
+http://l.mirrorace.net/schannel-1000014375-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669255
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021604
+#EXTINF:-1 tvg-id="1000021604" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677622641001/thumbnail/5677622641001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 208
+http://l.mirrorace.net/schannel-1000021604-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669258
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014379
+#EXTINF:-1 tvg-id="1000014379" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677755319001/thumbnail/5677755319001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 209
+http://l.mirrorace.net/schannel-1000014379-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669280
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014380
+#EXTINF:-1 tvg-id="1000014380" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677756347001/thumbnail/5677756347001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 210
+http://l.mirrorace.net/schannel-1000014380-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669285
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014377
+#EXTINF:-1 tvg-id="1000014377" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677754340001/thumbnail/5677754340001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 211
+http://l.mirrorace.net/schannel-1000014377-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669288
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014381
+#EXTINF:-1 tvg-id="1000014381" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677757424001/thumbnail/5677757424001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 212
+http://l.mirrorace.net/schannel-1000014381-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66928c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014378
+#EXTINF:-1 tvg-id="1000014378" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677754349001/thumbnail/5677754349001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 213
+http://l.mirrorace.net/schannel-1000014378-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66928f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014376
+#EXTINF:-1 tvg-id="1000014376" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677753542001/thumbnail/5677753542001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 214
+http://l.mirrorace.net/schannel-1000014376-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669293
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014382
+#EXTINF:-1 tvg-id="1000014382" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677762694001/thumbnail/5677762694001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 215
+http://l.mirrorace.net/schannel-1000014382-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669296
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014383
+#EXTINF:-1 tvg-id="1000014383" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677762745001/thumbnail/5677762745001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 216
+http://l.mirrorace.net/schannel-1000014383-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66929a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014387
+#EXTINF:-1 tvg-id="1000014387" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677767827001/thumbnail/5677767827001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 217
+http://l.mirrorace.net/schannel-1000014387-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66929d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014385
+#EXTINF:-1 tvg-id="1000014385" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677767142001/thumbnail/5677767142001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 218
+http://l.mirrorace.net/schannel-1000014385-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692a0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014398
+#EXTINF:-1 tvg-id="1000014398" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677785216001/thumbnail/5677785216001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 219
+http://l.mirrorace.net/schannel-1000014398-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692a4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014386
+#EXTINF:-1 tvg-id="1000014386" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677767174001/thumbnail/5677767174001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 220
+http://l.mirrorace.net/schannel-1000014386-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692a7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014384
+#EXTINF:-1 tvg-id="1000014384" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677764589001/thumbnail/5677764589001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 221
+http://l.mirrorace.net/schannel-1000014384-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692aa
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014390
+#EXTINF:-1 tvg-id="1000014390" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677776452001/thumbnail/5677776452001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 222
+http://l.mirrorace.net/schannel-1000014390-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692ad
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014393
+#EXTINF:-1 tvg-id="1000014393" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677780858001/thumbnail/5677780858001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 223
+http://l.mirrorace.net/schannel-1000014393-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692af
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021606
+#EXTINF:-1 tvg-id="1000021606" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677776457001/thumbnail/5677776457001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 224
+http://l.mirrorace.net/schannel-1000021606-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692b2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014389
+#EXTINF:-1 tvg-id="1000014389" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677771343001/thumbnail/5677771343001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 225
+http://l.mirrorace.net/schannel-1000014389-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692c7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014394
+#EXTINF:-1 tvg-id="1000014394" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677781671001/thumbnail/5677781671001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 226
+http://l.mirrorace.net/schannel-1000014394-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692cb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014391
+#EXTINF:-1 tvg-id="1000014391" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677776459001/thumbnail/5677776459001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 227
+http://l.mirrorace.net/schannel-1000014391-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692cf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014388
+#EXTINF:-1 tvg-id="1000014388" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677767923001/thumbnail/5677767923001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 228
+http://l.mirrorace.net/schannel-1000014388-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692d2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014397
+#EXTINF:-1 tvg-id="1000014397" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677785196001/thumbnail/5677785196001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 229
+http://l.mirrorace.net/schannel-1000014397-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014392
+#EXTINF:-1 tvg-id="1000014392" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677780069001/thumbnail/5677780069001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 230
+http://l.mirrorace.net/schannel-1000014392-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692d9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014401
+#EXTINF:-1 tvg-id="1000014401" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677835843001/thumbnail/5677835843001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 231
+http://l.mirrorace.net/schannel-1000014401-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692dc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014403
+#EXTINF:-1 tvg-id="1000014403" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677837984001/thumbnail/5677837984001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 232
+http://l.mirrorace.net/schannel-1000014403-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692df
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014405
+#EXTINF:-1 tvg-id="1000014405" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677849240001/thumbnail/5677849240001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 233
+http://l.mirrorace.net/schannel-1000014405-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014402
+#EXTINF:-1 tvg-id="1000014402" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677835870001/thumbnail/5677835870001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 234
+http://l.mirrorace.net/schannel-1000014402-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692e6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036180
+#EXTINF:-1 tvg-id="1000036180" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677849273001/thumbnail/5677849273001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 235
+http://l.mirrorace.net/schannel-1000036180-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692e9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014406
+#EXTINF:-1 tvg-id="1000014406" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677849313001/thumbnail/5677849313001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 236
+http://l.mirrorace.net/schannel-1000014406-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692ed
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014407
+#EXTINF:-1 tvg-id="1000014407" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677865406001/thumbnail/5677865406001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 237
+http://l.mirrorace.net/schannel-1000014407-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692f0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014404
+#EXTINF:-1 tvg-id="1000014404" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5677839630001/thumbnail/5677839630001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 238
+http://l.mirrorace.net/schannel-1000014404-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692f4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014408
+#EXTINF:-1 tvg-id="1000014408" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678696471001/thumbnail/5678696471001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 239
+http://l.mirrorace.net/schannel-1000014408-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692f7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014409
+#EXTINF:-1 tvg-id="1000014409" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678696987001/thumbnail/5678696987001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 240
+http://l.mirrorace.net/schannel-1000014409-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6692fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036181
+#EXTINF:-1 tvg-id="1000036181" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678698000001/thumbnail/5678698000001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 241
+http://l.mirrorace.net/schannel-1000036181-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66930f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036182
+#EXTINF:-1 tvg-id="1000036182" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120324682001/thumbnail/6120324682001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 242
+http://l.mirrorace.net/schannel-1000036182-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669313
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014742
+#EXTINF:-1 tvg-id="1000014742" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120325861001/thumbnail/6120325861001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 243
+http://l.mirrorace.net/schannel-1000014742-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669317
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014416
+#EXTINF:-1 tvg-id="1000014416" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678711392001/thumbnail/5678711392001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 244
+http://l.mirrorace.net/schannel-1000014416-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66931a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014412
+#EXTINF:-1 tvg-id="1000014412" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678702332001/thumbnail/5678702332001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 245
+http://l.mirrorace.net/schannel-1000014412-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66931d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014413
+#EXTINF:-1 tvg-id="1000014413" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678702964001/thumbnail/5678702964001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 246
+http://l.mirrorace.net/schannel-1000014413-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669321
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014423
+#EXTINF:-1 tvg-id="1000014423" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678720692001/thumbnail/5678720692001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 247
+http://l.mirrorace.net/schannel-1000014423-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669324
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014417
+#EXTINF:-1 tvg-id="1000014417" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678715730001/thumbnail/5678715730001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 248
+http://l.mirrorace.net/schannel-1000014417-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669328
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021607
+#EXTINF:-1 tvg-id="1000021607" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678711425001/thumbnail/5678711425001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 249
+http://l.mirrorace.net/schannel-1000021607-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66932c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014414
+#EXTINF:-1 tvg-id="1000014414" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678709490001/thumbnail/5678709490001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 250
+http://l.mirrorace.net/schannel-1000014414-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66932f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047210
+#EXTINF:-1 tvg-id="1000047210" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6167737471001/thumbnail/6167737471001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 251
+http://l.mirrorace.net/schannel-1000047210-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669333
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014415
+#EXTINF:-1 tvg-id="1000014415" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678709523001/thumbnail/5678709523001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 252
+http://l.mirrorace.net/schannel-1000014415-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669336
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014419
+#EXTINF:-1 tvg-id="1000014419" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678718874001/thumbnail/5678718874001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 253
+http://l.mirrorace.net/schannel-1000014419-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669339
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036183
+#EXTINF:-1 tvg-id="1000036183" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678715801001/thumbnail/5678715801001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 254
+http://l.mirrorace.net/schannel-1000036183-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66933d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014418
+#EXTINF:-1 tvg-id="1000014418" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678715789001/thumbnail/5678715789001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 255
+http://l.mirrorace.net/schannel-1000014418-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669340
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014422
+#EXTINF:-1 tvg-id="1000014422" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678720361001/thumbnail/5678720361001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 256
+http://l.mirrorace.net/schannel-1000014422-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669343
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014421
+#EXTINF:-1 tvg-id="1000014421" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678719071001/thumbnail/5678719071001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 257
+http://l.mirrorace.net/schannel-1000014421-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669355
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014424
+#EXTINF:-1 tvg-id="1000014424" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678723930001/thumbnail/5678723930001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 258
+http://l.mirrorace.net/schannel-1000014424-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66935a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014428
+#EXTINF:-1 tvg-id="1000014428" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678730934001/thumbnail/5678730934001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 259
+http://l.mirrorace.net/schannel-1000014428-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66935d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014425
+#EXTINF:-1 tvg-id="1000014425" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678728641001/thumbnail/5678728641001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 260
+http://l.mirrorace.net/schannel-1000014425-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669361
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014426
+#EXTINF:-1 tvg-id="1000014426" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678729322001/thumbnail/5678729322001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 261
+http://l.mirrorace.net/schannel-1000014426-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669364
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014483
+#EXTINF:-1 tvg-id="1000014483" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5693742394001/thumbnail/5693742394001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 262
+http://l.mirrorace.net/schannel-1000014483-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669367
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014427
+#EXTINF:-1 tvg-id="1000014427" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678729323001/thumbnail/5678729323001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 263
+http://l.mirrorace.net/schannel-1000014427-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669375
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014431
+#EXTINF:-1 tvg-id="1000014431" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678747302001/thumbnail/5678747302001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 264
+http://l.mirrorace.net/schannel-1000014431-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66937a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014433
+#EXTINF:-1 tvg-id="1000014433" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678749476001/thumbnail/5678749476001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 265
+http://l.mirrorace.net/schannel-1000014433-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66937d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014429
+#EXTINF:-1 tvg-id="1000014429" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678732649001/thumbnail/5678732649001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 266
+http://l.mirrorace.net/schannel-1000014429-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669381
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014432
+#EXTINF:-1 tvg-id="1000014432" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678749467001/thumbnail/5678749467001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 267
+http://l.mirrorace.net/schannel-1000014432-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669386
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014434
+#EXTINF:-1 tvg-id="1000014434" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678749478001/thumbnail/5678749478001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 268
+http://l.mirrorace.net/schannel-1000014434-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669389
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014435
+#EXTINF:-1 tvg-id="1000014435" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678749505001/thumbnail/5678749505001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 269
+http://l.mirrorace.net/schannel-1000014435-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66938d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014430
+#EXTINF:-1 tvg-id="1000014430" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678741927001/thumbnail/5678741927001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 270
+http://l.mirrorace.net/schannel-1000014430-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669391
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014436
+#EXTINF:-1 tvg-id="1000014436" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678763088001/thumbnail/5678763088001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 271
+http://l.mirrorace.net/schannel-1000014436-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669394
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014438
+#EXTINF:-1 tvg-id="1000014438" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678768861001/thumbnail/5678768861001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 272
+http://l.mirrorace.net/schannel-1000014438-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669397
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014437
+#EXTINF:-1 tvg-id="1000014437" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678767992001/thumbnail/5678767992001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 273
+http://l.mirrorace.net/schannel-1000014437-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693c6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014440
+#EXTINF:-1 tvg-id="1000014440" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678770801001/thumbnail/5678770801001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 274
+http://l.mirrorace.net/schannel-1000014440-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693cb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014439
+#EXTINF:-1 tvg-id="1000014439" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678770210001/thumbnail/5678770210001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 275
+http://l.mirrorace.net/schannel-1000014439-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693cf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014443
+#EXTINF:-1 tvg-id="1000014443" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678774642001/thumbnail/5678774642001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 276
+http://l.mirrorace.net/schannel-1000014443-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693d2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014444
+#EXTINF:-1 tvg-id="1000014444" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678774648001/thumbnail/5678774648001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 277
+http://l.mirrorace.net/schannel-1000014444-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014441
+#EXTINF:-1 tvg-id="1000014441" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678771947001/thumbnail/5678771947001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 278
+http://l.mirrorace.net/schannel-1000014441-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693da
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014442
+#EXTINF:-1 tvg-id="1000014442" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678771951001/thumbnail/5678771951001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 279
+http://l.mirrorace.net/schannel-1000014442-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693dd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014448
+#EXTINF:-1 tvg-id="1000014448" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678786321001/thumbnail/5678786321001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 280
+http://l.mirrorace.net/schannel-1000014448-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693e0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014447
+#EXTINF:-1 tvg-id="1000014447" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678779434001/thumbnail/5678779434001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 281
+http://l.mirrorace.net/schannel-1000014447-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014445
+#EXTINF:-1 tvg-id="1000014445" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678775574001/thumbnail/5678775574001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 282
+http://l.mirrorace.net/schannel-1000014445-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693e7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014446
+#EXTINF:-1 tvg-id="1000014446" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678779428001/thumbnail/5678779428001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 283
+http://l.mirrorace.net/schannel-1000014446-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693ea
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014449
+#EXTINF:-1 tvg-id="1000014449" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678789185001/thumbnail/5678789185001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 284
+http://l.mirrorace.net/schannel-1000014449-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693f3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014450
+#EXTINF:-1 tvg-id="1000014450" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678791372001/thumbnail/5678791372001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 285
+http://l.mirrorace.net/schannel-1000014450-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693f8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014451
+#EXTINF:-1 tvg-id="1000014451" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678796584001/thumbnail/5678796584001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 286
+http://l.mirrorace.net/schannel-1000014451-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014453
+#EXTINF:-1 tvg-id="1000014453" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678802663001/thumbnail/5678802663001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 287
+http://l.mirrorace.net/schannel-1000014453-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6693fe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014452
+#EXTINF:-1 tvg-id="1000014452" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678799898001/thumbnail/5678799898001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 288
+http://l.mirrorace.net/schannel-1000014452-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669407
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021608
+#EXTINF:-1 tvg-id="1000021608" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678799903001/thumbnail/5678799903001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 289
+http://l.mirrorace.net/schannel-1000021608-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669434
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021609
+#EXTINF:-1 tvg-id="1000021609" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678823897001/thumbnail/5678823897001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 290
+http://l.mirrorace.net/schannel-1000021609-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66943f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014455
+#EXTINF:-1 tvg-id="1000014455" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678824098001/thumbnail/5678824098001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 291
+http://l.mirrorace.net/schannel-1000014455-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669442
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014456
+#EXTINF:-1 tvg-id="1000014456" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678825053001/thumbnail/5678825053001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 292
+http://l.mirrorace.net/schannel-1000014456-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669446
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014457
+#EXTINF:-1 tvg-id="1000014457" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678870602001/thumbnail/5678870602001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 293
+http://l.mirrorace.net/schannel-1000014457-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66944a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014459
+#EXTINF:-1 tvg-id="1000014459" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678877584001/thumbnail/5678877584001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 294
+http://l.mirrorace.net/schannel-1000014459-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66944d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014454
+#EXTINF:-1 tvg-id="1000014454" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678816762001/thumbnail/5678816762001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 295
+http://l.mirrorace.net/schannel-1000014454-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669450
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014458
+#EXTINF:-1 tvg-id="1000014458" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678876378001/thumbnail/5678876378001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 296
+http://l.mirrorace.net/schannel-1000014458-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669454
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014460
+#EXTINF:-1 tvg-id="1000014460" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678884895001/thumbnail/5678884895001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 297
+http://l.mirrorace.net/schannel-1000014460-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669461
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014462
+#EXTINF:-1 tvg-id="1000014462" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678887633001/thumbnail/5678887633001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 298
+http://l.mirrorace.net/schannel-1000014462-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669466
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014463
+#EXTINF:-1 tvg-id="1000014463" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678890742001/thumbnail/5678890742001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 299
+http://l.mirrorace.net/schannel-1000014463-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b669469
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014461
+#EXTINF:-1 tvg-id="1000014461" tvg-logo="https://origin-staticv2.sonyliv.com/cms/5678887629001/thumbnail/5678887629001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 300
+http://l.mirrorace.net/schannel-1000014461-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b66946c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000021614
+#EXTINF:-1 tvg-id="1000021614" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep301.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 301
+http://l.mirrorace.net/schannel-1000021614-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6982c9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014488
+#EXTINF:-1 tvg-id="1000014488" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep302.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 302
+http://l.mirrorace.net/schannel-1000014488-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6982d3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014489
+#EXTINF:-1 tvg-id="1000014489" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep303.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 303
+http://l.mirrorace.net/schannel-1000014489-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6982d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014490
+#EXTINF:-1 tvg-id="1000014490" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep304.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 304
+http://l.mirrorace.net/schannel-1000014490-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6982d9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014493
+#EXTINF:-1 tvg-id="1000014493" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep305.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 305
+http://l.mirrorace.net/schannel-1000014493-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69830a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014495
+#EXTINF:-1 tvg-id="1000014495" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep306.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 306
+http://l.mirrorace.net/schannel-1000014495-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69830e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014491
+#EXTINF:-1 tvg-id="1000014491" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep307.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 307
+http://l.mirrorace.net/schannel-1000014491-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698310
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014741
+#EXTINF:-1 tvg-id="1000014741" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep308.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 308
+http://l.mirrorace.net/schannel-1000014741-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698313
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014494
+#EXTINF:-1 tvg-id="1000014494" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep309.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 309
+http://l.mirrorace.net/schannel-1000014494-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698316
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014496
+#EXTINF:-1 tvg-id="1000014496" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep310.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 310
+http://l.mirrorace.net/schannel-1000014496-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69831b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014499
+#EXTINF:-1 tvg-id="1000014499" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep311.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 311
+http://l.mirrorace.net/schannel-1000014499-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69831f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036191
+#EXTINF:-1 tvg-id="1000036191" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep312.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 312
+http://l.mirrorace.net/schannel-1000036191-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698322
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014505
+#EXTINF:-1 tvg-id="1000014505" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep313.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 313
+http://l.mirrorace.net/schannel-1000014505-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698325
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014500
+#EXTINF:-1 tvg-id="1000014500" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep314.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 314
+http://l.mirrorace.net/schannel-1000014500-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698329
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014503
+#EXTINF:-1 tvg-id="1000014503" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep315.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 315
+http://l.mirrorace.net/schannel-1000014503-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69832d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014498
+#EXTINF:-1 tvg-id="1000014498" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep316.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 316
+http://l.mirrorace.net/schannel-1000014498-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698331
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014506
+#EXTINF:-1 tvg-id="1000014506" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep317.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 317
+http://l.mirrorace.net/schannel-1000014506-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698337
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014507
+#EXTINF:-1 tvg-id="1000014507" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep318.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 318
+http://l.mirrorace.net/schannel-1000014507-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698339
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014502
+#EXTINF:-1 tvg-id="1000014502" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep319.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 319
+http://l.mirrorace.net/schannel-1000014502-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69833c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014501
+#EXTINF:-1 tvg-id="1000014501" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep320.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 320
+http://l.mirrorace.net/schannel-1000014501-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69833f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014504
+#EXTINF:-1 tvg-id="1000014504" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep321.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 321
+http://l.mirrorace.net/schannel-1000014504-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698353
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014508
+#EXTINF:-1 tvg-id="1000014508" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep322.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 322
+http://l.mirrorace.net/schannel-1000014508-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698357
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014511
+#EXTINF:-1 tvg-id="1000014511" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep323.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 323
+http://l.mirrorace.net/schannel-1000014511-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69835a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014510
+#EXTINF:-1 tvg-id="1000014510" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep324.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 324
+http://l.mirrorace.net/schannel-1000014510-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69835d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014509
+#EXTINF:-1 tvg-id="1000014509" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep325.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 325
+http://l.mirrorace.net/schannel-1000014509-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698360
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014518
+#EXTINF:-1 tvg-id="1000014518" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep326.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 326
+http://l.mirrorace.net/schannel-1000014518-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698363
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014520
+#EXTINF:-1 tvg-id="1000014520" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep327.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 327
+http://l.mirrorace.net/schannel-1000014520-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698366
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014519
+#EXTINF:-1 tvg-id="1000014519" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep328.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 328
+http://l.mirrorace.net/schannel-1000014519-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698369
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014521
+#EXTINF:-1 tvg-id="1000014521" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep329.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 329
+http://l.mirrorace.net/schannel-1000014521-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69836c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014524
+#EXTINF:-1 tvg-id="1000014524" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep330.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 330
+http://l.mirrorace.net/schannel-1000014524-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69836f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014522
+#EXTINF:-1 tvg-id="1000014522" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep331.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 331
+http://l.mirrorace.net/schannel-1000014522-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698373
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014525
+#EXTINF:-1 tvg-id="1000014525" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep332.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 332
+http://l.mirrorace.net/schannel-1000014525-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698375
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014523
+#EXTINF:-1 tvg-id="1000014523" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep333.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 333
+http://l.mirrorace.net/schannel-1000014523-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698379
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014539
+#EXTINF:-1 tvg-id="1000014539" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep334.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 334
+http://l.mirrorace.net/schannel-1000014539-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69837c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014536
+#EXTINF:-1 tvg-id="1000014536" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep335.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 335
+http://l.mirrorace.net/schannel-1000014536-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69837f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014541
+#EXTINF:-1 tvg-id="1000014541" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep336.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 336
+http://l.mirrorace.net/schannel-1000014541-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698382
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014540
+#EXTINF:-1 tvg-id="1000014540" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep337.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 337
+http://l.mirrorace.net/schannel-1000014540-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698392
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014537
+#EXTINF:-1 tvg-id="1000014537" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep338.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 338
+http://l.mirrorace.net/schannel-1000014537-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698395
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014544
+#EXTINF:-1 tvg-id="1000014544" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep339.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 339
+http://l.mirrorace.net/schannel-1000014544-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698398
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014545
+#EXTINF:-1 tvg-id="1000014545" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep340.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 340
+http://l.mirrorace.net/schannel-1000014545-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69839a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014527
+#EXTINF:-1 tvg-id="1000014527" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep341.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 341
+http://l.mirrorace.net/schannel-1000014527-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69839d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014526
+#EXTINF:-1 tvg-id="1000014526" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep342.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 342
+http://l.mirrorace.net/schannel-1000014526-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983a0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014528
+#EXTINF:-1 tvg-id="1000014528" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep343.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 343
+http://l.mirrorace.net/schannel-1000014528-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983a2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014532
+#EXTINF:-1 tvg-id="1000014532" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep344.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 344
+http://l.mirrorace.net/schannel-1000014532-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983a5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014531
+#EXTINF:-1 tvg-id="1000014531" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep345.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 345
+http://l.mirrorace.net/schannel-1000014531-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983a8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014533
+#EXTINF:-1 tvg-id="1000014533" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep346.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 346
+http://l.mirrorace.net/schannel-1000014533-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983ab
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036192
+#EXTINF:-1 tvg-id="1000036192" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep347.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 347
+http://l.mirrorace.net/schannel-1000036192-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983ae
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014530
+#EXTINF:-1 tvg-id="1000014530" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep348.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 348
+http://l.mirrorace.net/schannel-1000014530-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983b1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037282
+#EXTINF:-1 tvg-id="1000037282" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep349.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 349
+http://l.mirrorace.net/schannel-1000037282-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983b3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014529
+#EXTINF:-1 tvg-id="1000014529" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep350.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 350
+http://l.mirrorace.net/schannel-1000014529-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983b6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036196
+#EXTINF:-1 tvg-id="1000036196" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep351.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 351
+http://l.mirrorace.net/schannel-1000036196-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983b9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014547
+#EXTINF:-1 tvg-id="1000014547" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep352.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 352
+http://l.mirrorace.net/schannel-1000014547-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983bb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036197
+#EXTINF:-1 tvg-id="1000036197" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep353.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 353
+http://l.mirrorace.net/schannel-1000036197-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983c9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014546
+#EXTINF:-1 tvg-id="1000014546" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep354.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 354
+http://l.mirrorace.net/schannel-1000014546-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983cd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036193
+#EXTINF:-1 tvg-id="1000036193" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep355.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 355
+http://l.mirrorace.net/schannel-1000036193-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983d0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014543
+#EXTINF:-1 tvg-id="1000014543" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep356.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 356
+http://l.mirrorace.net/schannel-1000014543-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983d3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036198
+#EXTINF:-1 tvg-id="1000036198" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep357.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 357
+http://l.mirrorace.net/schannel-1000036198-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014538
+#EXTINF:-1 tvg-id="1000014538" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep358.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 358
+http://l.mirrorace.net/schannel-1000014538-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983d9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036195
+#EXTINF:-1 tvg-id="1000036195" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep359.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 359
+http://l.mirrorace.net/schannel-1000036195-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983db
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014549
+#EXTINF:-1 tvg-id="1000014549" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep360.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 360
+http://l.mirrorace.net/schannel-1000014549-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983de
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036194
+#EXTINF:-1 tvg-id="1000036194" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep361.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 361
+http://l.mirrorace.net/schannel-1000036194-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983e1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014542
+#EXTINF:-1 tvg-id="1000014542" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep362.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 362
+http://l.mirrorace.net/schannel-1000014542-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983e4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036199
+#EXTINF:-1 tvg-id="1000036199" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep363.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 363
+http://l.mirrorace.net/schannel-1000036199-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983e7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014550
+#EXTINF:-1 tvg-id="1000014550" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep364.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 364
+http://l.mirrorace.net/schannel-1000014550-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983ea
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037459
+#EXTINF:-1 tvg-id="1000037459" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep365.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 365
+http://l.mirrorace.net/schannel-1000037459-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983ed
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014548
+#EXTINF:-1 tvg-id="1000014548" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep366.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 366
+http://l.mirrorace.net/schannel-1000014548-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983f0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036200
+#EXTINF:-1 tvg-id="1000036200" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep367.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 367
+http://l.mirrorace.net/schannel-1000036200-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983f2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036201
+#EXTINF:-1 tvg-id="1000036201" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep368.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 368
+http://l.mirrorace.net/schannel-1000036201-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6983f5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037284
+#EXTINF:-1 tvg-id="1000037284" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep369.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 369
+http://l.mirrorace.net/schannel-1000037284-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69840e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037458
+#EXTINF:-1 tvg-id="1000037458" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep370.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 370
+http://l.mirrorace.net/schannel-1000037458-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698415
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036202
+#EXTINF:-1 tvg-id="1000036202" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep371.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 371
+http://l.mirrorace.net/schannel-1000036202-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698419
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036205
+#EXTINF:-1 tvg-id="1000036205" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep372.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 372
+http://l.mirrorace.net/schannel-1000036205-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69841c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036203
+#EXTINF:-1 tvg-id="1000036203" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep373.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 373
+http://l.mirrorace.net/schannel-1000036203-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698420
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037457
+#EXTINF:-1 tvg-id="1000037457" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep374.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 374
+http://l.mirrorace.net/schannel-1000037457-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698423
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036206
+#EXTINF:-1 tvg-id="1000036206" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep375.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 375
+http://l.mirrorace.net/schannel-1000036206-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698426
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036204
+#EXTINF:-1 tvg-id="1000036204" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep376.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 376
+http://l.mirrorace.net/schannel-1000036204-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698429
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037285
+#EXTINF:-1 tvg-id="1000037285" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep377.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 377
+http://l.mirrorace.net/schannel-1000037285-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69842c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036207
+#EXTINF:-1 tvg-id="1000036207" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep378.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 378
+http://l.mirrorace.net/schannel-1000036207-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69842f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036208
+#EXTINF:-1 tvg-id="1000036208" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep379.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 379
+http://l.mirrorace.net/schannel-1000036208-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698432
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036210
+#EXTINF:-1 tvg-id="1000036210" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep380.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 380
+http://l.mirrorace.net/schannel-1000036210-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698435
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036212
+#EXTINF:-1 tvg-id="1000036212" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep381.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 381
+http://l.mirrorace.net/schannel-1000036212-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698438
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036209
+#EXTINF:-1 tvg-id="1000036209" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep382.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 382
+http://l.mirrorace.net/schannel-1000036209-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69843b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036216
+#EXTINF:-1 tvg-id="1000036216" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep383.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 383
+http://l.mirrorace.net/schannel-1000036216-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69843e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036211
+#EXTINF:-1 tvg-id="1000036211" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep384.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 384
+http://l.mirrorace.net/schannel-1000036211-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698441
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036213
+#EXTINF:-1 tvg-id="1000036213" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep385.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 385
+http://l.mirrorace.net/schannel-1000036213-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698455
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036215
+#EXTINF:-1 tvg-id="1000036215" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep386.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 386
+http://l.mirrorace.net/schannel-1000036215-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698459
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036219
+#EXTINF:-1 tvg-id="1000036219" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep387.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 387
+http://l.mirrorace.net/schannel-1000036219-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69845c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036214
+#EXTINF:-1 tvg-id="1000036214" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep388.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 388
+http://l.mirrorace.net/schannel-1000036214-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698463
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036218
+#EXTINF:-1 tvg-id="1000036218" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep389.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 389
+http://l.mirrorace.net/schannel-1000036218-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698467
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036217
+#EXTINF:-1 tvg-id="1000036217" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep390.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 390
+http://l.mirrorace.net/schannel-1000036217-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69846a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036670
+#EXTINF:-1 tvg-id="1000036670" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep391.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 391
+http://l.mirrorace.net/schannel-1000036670-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69846c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037344
+#EXTINF:-1 tvg-id="1000037344" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep392.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 392
+http://l.mirrorace.net/schannel-1000037344-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69846f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036669
+#EXTINF:-1 tvg-id="1000036669" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep393.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 393
+http://l.mirrorace.net/schannel-1000036669-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698472
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036672
+#EXTINF:-1 tvg-id="1000036672" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep394.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 394
+http://l.mirrorace.net/schannel-1000036672-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698475
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036668
+#EXTINF:-1 tvg-id="1000036668" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep395.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 395
+http://l.mirrorace.net/schannel-1000036668-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698478
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036675
+#EXTINF:-1 tvg-id="1000036675" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep396.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 396
+http://l.mirrorace.net/schannel-1000036675-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69847b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036673
+#EXTINF:-1 tvg-id="1000036673" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep397.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 397
+http://l.mirrorace.net/schannel-1000036673-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b69847e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036677
+#EXTINF:-1 tvg-id="1000036677" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep398.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 398
+http://l.mirrorace.net/schannel-1000036677-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698480
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036681
+#EXTINF:-1 tvg-id="1000036681" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep399.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 399
+http://l.mirrorace.net/schannel-1000036681-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698484
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036676
+#EXTINF:-1 tvg-id="1000036676" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep400.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 400
+http://l.mirrorace.net/schannel-1000036676-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b698486
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036674
+#EXTINF:-1 tvg-id="1000036674" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep401.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 401
+http://l.mirrorace.net/schannel-1000036674-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7794
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036679
+#EXTINF:-1 tvg-id="1000036679" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep402.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 402
+http://l.mirrorace.net/schannel-1000036679-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c779f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036678
+#EXTINF:-1 tvg-id="1000036678" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep403.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 403
+http://l.mirrorace.net/schannel-1000036678-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77a3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036685
+#EXTINF:-1 tvg-id="1000036685" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep404.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 404
+http://l.mirrorace.net/schannel-1000036685-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77a6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036671
+#EXTINF:-1 tvg-id="1000036671" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep405.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 405
+http://l.mirrorace.net/schannel-1000036671-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77aa
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036686
+#EXTINF:-1 tvg-id="1000036686" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep406.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 406
+http://l.mirrorace.net/schannel-1000036686-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77ac
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036684
+#EXTINF:-1 tvg-id="1000036684" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6120339183001/thumbnail/6120339183001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 407
+http://l.mirrorace.net/schannel-1000036684-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77b0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036683
+#EXTINF:-1 tvg-id="1000036683" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep408.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 408
+http://l.mirrorace.net/schannel-1000036683-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77b3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036680
+#EXTINF:-1 tvg-id="1000036680" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep409.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 409
+http://l.mirrorace.net/schannel-1000036680-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77b6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036689
+#EXTINF:-1 tvg-id="1000036689" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep410.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 410
+http://l.mirrorace.net/schannel-1000036689-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77b9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036691
+#EXTINF:-1 tvg-id="1000036691" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep411.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 411
+http://l.mirrorace.net/schannel-1000036691-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77bc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047220
+#EXTINF:-1 tvg-id="1000047220" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep412.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 412
+http://l.mirrorace.net/schannel-1000047220-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77c0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047184
+#EXTINF:-1 tvg-id="1000047184" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep413.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 413
+http://l.mirrorace.net/schannel-1000047184-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77c3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047187
+#EXTINF:-1 tvg-id="1000047187" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep414.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 414
+http://l.mirrorace.net/schannel-1000047187-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77c6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047188
+#EXTINF:-1 tvg-id="1000047188" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep415.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 415
+http://l.mirrorace.net/schannel-1000047188-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77ca
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036690
+#EXTINF:-1 tvg-id="1000036690" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep416.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 416
+http://l.mirrorace.net/schannel-1000036690-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77cd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036688
+#EXTINF:-1 tvg-id="1000036688" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep417.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 417
+http://l.mirrorace.net/schannel-1000036688-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77fa
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036682
+#EXTINF:-1 tvg-id="1000036682" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep418.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 418
+http://l.mirrorace.net/schannel-1000036682-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c77fe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036692
+#EXTINF:-1 tvg-id="1000036692" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep419.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 419
+http://l.mirrorace.net/schannel-1000036692-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7802
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036696
+#EXTINF:-1 tvg-id="1000036696" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep420.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 420
+http://l.mirrorace.net/schannel-1000036696-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7805
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036694
+#EXTINF:-1 tvg-id="1000036694" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep421.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 421
+http://l.mirrorace.net/schannel-1000036694-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7808
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036693
+#EXTINF:-1 tvg-id="1000036693" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep422.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 422
+http://l.mirrorace.net/schannel-1000036693-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c780c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037345
+#EXTINF:-1 tvg-id="1000037345" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep423.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 423
+http://l.mirrorace.net/schannel-1000037345-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c780f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037462
+#EXTINF:-1 tvg-id="1000037462" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep424.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 424
+http://l.mirrorace.net/schannel-1000037462-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7813
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036700
+#EXTINF:-1 tvg-id="1000036700" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep425.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 425
+http://l.mirrorace.net/schannel-1000036700-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7816
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036695
+#EXTINF:-1 tvg-id="1000036695" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep426.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 426
+http://l.mirrorace.net/schannel-1000036695-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c781a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036697
+#EXTINF:-1 tvg-id="1000036697" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep427.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 427
+http://l.mirrorace.net/schannel-1000036697-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c781d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036698
+#EXTINF:-1 tvg-id="1000036698" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep428.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 428
+http://l.mirrorace.net/schannel-1000036698-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7821
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036702
+#EXTINF:-1 tvg-id="1000036702" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep429.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 429
+http://l.mirrorace.net/schannel-1000036702-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7824
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036704
+#EXTINF:-1 tvg-id="1000036704" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep430.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 430
+http://l.mirrorace.net/schannel-1000036704-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7827
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037348
+#EXTINF:-1 tvg-id="1000037348" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep431.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 431
+http://l.mirrorace.net/schannel-1000037348-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c782b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036703
+#EXTINF:-1 tvg-id="1000036703" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep432.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 432
+http://l.mirrorace.net/schannel-1000036703-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c782e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036701
+#EXTINF:-1 tvg-id="1000036701" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep433.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 433
+http://l.mirrorace.net/schannel-1000036701-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c783e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037346
+#EXTINF:-1 tvg-id="1000037346" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep434.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 434
+http://l.mirrorace.net/schannel-1000037346-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7842
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036707
+#EXTINF:-1 tvg-id="1000036707" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep435.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 435
+http://l.mirrorace.net/schannel-1000036707-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7846
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036706
+#EXTINF:-1 tvg-id="1000036706" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep436.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 436
+http://l.mirrorace.net/schannel-1000036706-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c784a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036705
+#EXTINF:-1 tvg-id="1000036705" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep437.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 437
+http://l.mirrorace.net/schannel-1000036705-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c784e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036699
+#EXTINF:-1 tvg-id="1000036699" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep438.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 438
+http://l.mirrorace.net/schannel-1000036699-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7851
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037461
+#EXTINF:-1 tvg-id="1000037461" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep439.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 439
+http://l.mirrorace.net/schannel-1000037461-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7855
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036709
+#EXTINF:-1 tvg-id="1000036709" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep440.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 440
+http://l.mirrorace.net/schannel-1000036709-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7858
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047185
+#EXTINF:-1 tvg-id="1000047185" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep441.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 441
+http://l.mirrorace.net/schannel-1000047185-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c785c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047186
+#EXTINF:-1 tvg-id="1000047186" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep442.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 442
+http://l.mirrorace.net/schannel-1000047186-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c785f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047189
+#EXTINF:-1 tvg-id="1000047189" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep443.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 443
+http://l.mirrorace.net/schannel-1000047189-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7862
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047190
+#EXTINF:-1 tvg-id="1000047190" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep444.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 444
+http://l.mirrorace.net/schannel-1000047190-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7865
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047219
+#EXTINF:-1 tvg-id="1000047219" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep445.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 445
+http://l.mirrorace.net/schannel-1000047219-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7868
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047192
+#EXTINF:-1 tvg-id="1000047192" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep446.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 446
+http://l.mirrorace.net/schannel-1000047192-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c786b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047202
+#EXTINF:-1 tvg-id="1000047202" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep447.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 447
+http://l.mirrorace.net/schannel-1000047202-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c786f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047199
+#EXTINF:-1 tvg-id="1000047199" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep448.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 448
+http://l.mirrorace.net/schannel-1000047199-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7873
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047203
+#EXTINF:-1 tvg-id="1000047203" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep449.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 449
+http://l.mirrorace.net/schannel-1000047203-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7881
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047218
+#EXTINF:-1 tvg-id="1000047218" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep450.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 450
+http://l.mirrorace.net/schannel-1000047218-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7885
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036708
+#EXTINF:-1 tvg-id="1000036708" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep451.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 451
+http://l.mirrorace.net/schannel-1000036708-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7894
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036710
+#EXTINF:-1 tvg-id="1000036710" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep452.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 452
+http://l.mirrorace.net/schannel-1000036710-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7899
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036711
+#EXTINF:-1 tvg-id="1000036711" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep453.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 453
+http://l.mirrorace.net/schannel-1000036711-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c789c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036716
+#EXTINF:-1 tvg-id="1000036716" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep454.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 454
+http://l.mirrorace.net/schannel-1000036716-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78a0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036713
+#EXTINF:-1 tvg-id="1000036713" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep455.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 455
+http://l.mirrorace.net/schannel-1000036713-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78a3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036715
+#EXTINF:-1 tvg-id="1000036715" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep456.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 456
+http://l.mirrorace.net/schannel-1000036715-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78a7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036714
+#EXTINF:-1 tvg-id="1000036714" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep457.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 457
+http://l.mirrorace.net/schannel-1000036714-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78aa
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037347
+#EXTINF:-1 tvg-id="1000037347" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep458.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 458
+http://l.mirrorace.net/schannel-1000037347-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78ad
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036718
+#EXTINF:-1 tvg-id="1000036718" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep459.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 459
+http://l.mirrorace.net/schannel-1000036718-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78b0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036719
+#EXTINF:-1 tvg-id="1000036719" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep460.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 460
+http://l.mirrorace.net/schannel-1000036719-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78b4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037349
+#EXTINF:-1 tvg-id="1000037349" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep461.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 461
+http://l.mirrorace.net/schannel-1000037349-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78b7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036717
+#EXTINF:-1 tvg-id="1000036717" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep462.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 462
+http://l.mirrorace.net/schannel-1000036717-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78ba
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036721
+#EXTINF:-1 tvg-id="1000036721" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep463.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 463
+http://l.mirrorace.net/schannel-1000036721-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78bd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036724
+#EXTINF:-1 tvg-id="1000036724" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep464.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 464
+http://l.mirrorace.net/schannel-1000036724-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78c1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036720
+#EXTINF:-1 tvg-id="1000036720" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep465.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 465
+http://l.mirrorace.net/schannel-1000036720-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78d2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036722
+#EXTINF:-1 tvg-id="1000036722" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep466.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 466
+http://l.mirrorace.net/schannel-1000036722-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78d5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036723
+#EXTINF:-1 tvg-id="1000036723" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep467.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 467
+http://l.mirrorace.net/schannel-1000036723-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78d8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036712
+#EXTINF:-1 tvg-id="1000036712" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep468.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 468
+http://l.mirrorace.net/schannel-1000036712-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036726
+#EXTINF:-1 tvg-id="1000036726" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep469.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 469
+http://l.mirrorace.net/schannel-1000036726-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78e8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036728
+#EXTINF:-1 tvg-id="1000036728" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep470.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 470
+http://l.mirrorace.net/schannel-1000036728-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78eb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036730
+#EXTINF:-1 tvg-id="1000036730" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep471.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 471
+http://l.mirrorace.net/schannel-1000036730-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78ee
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036729
+#EXTINF:-1 tvg-id="1000036729" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep472.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 472
+http://l.mirrorace.net/schannel-1000036729-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78f1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036732
+#EXTINF:-1 tvg-id="1000036732" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep473.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 473
+http://l.mirrorace.net/schannel-1000036732-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78f4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036731
+#EXTINF:-1 tvg-id="1000036731" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep474.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 474
+http://l.mirrorace.net/schannel-1000036731-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78f7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036727
+#EXTINF:-1 tvg-id="1000036727" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep475.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 475
+http://l.mirrorace.net/schannel-1000036727-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78fa
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036734
+#EXTINF:-1 tvg-id="1000036734" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep476.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 476
+http://l.mirrorace.net/schannel-1000036734-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c78fd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036725
+#EXTINF:-1 tvg-id="1000036725" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep477.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 477
+http://l.mirrorace.net/schannel-1000036725-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7900
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036736
+#EXTINF:-1 tvg-id="1000036736" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep478.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 478
+http://l.mirrorace.net/schannel-1000036736-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7902
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037460
+#EXTINF:-1 tvg-id="1000037460" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep479.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 479
+http://l.mirrorace.net/schannel-1000037460-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c790a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036735
+#EXTINF:-1 tvg-id="1000036735" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep480.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 480
+http://l.mirrorace.net/schannel-1000036735-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7910
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047196
+#EXTINF:-1 tvg-id="1000047196" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep481.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 481
+http://l.mirrorace.net/schannel-1000047196-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7924
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047193
+#EXTINF:-1 tvg-id="1000047193" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep482.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 482
+http://l.mirrorace.net/schannel-1000047193-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7928
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047194
+#EXTINF:-1 tvg-id="1000047194" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep483.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 483
+http://l.mirrorace.net/schannel-1000047194-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c792b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047222
+#EXTINF:-1 tvg-id="1000047222" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep484.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 484
+http://l.mirrorace.net/schannel-1000047222-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7933
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047191
+#EXTINF:-1 tvg-id="1000047191" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep485.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 485
+http://l.mirrorace.net/schannel-1000047191-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7936
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036739
+#EXTINF:-1 tvg-id="1000036739" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep486.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 486
+http://l.mirrorace.net/schannel-1000036739-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7939
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036740
+#EXTINF:-1 tvg-id="1000036740" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep487.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 487
+http://l.mirrorace.net/schannel-1000036740-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c793c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036738
+#EXTINF:-1 tvg-id="1000036738" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep488.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 488
+http://l.mirrorace.net/schannel-1000036738-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c793f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036737
+#EXTINF:-1 tvg-id="1000036737" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep489.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 489
+http://l.mirrorace.net/schannel-1000036737-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7942
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036742
+#EXTINF:-1 tvg-id="1000036742" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep490.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 490
+http://l.mirrorace.net/schannel-1000036742-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7945
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037350
+#EXTINF:-1 tvg-id="1000037350" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep491.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 491
+http://l.mirrorace.net/schannel-1000037350-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7948
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036741
+#EXTINF:-1 tvg-id="1000036741" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep492.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 492
+http://l.mirrorace.net/schannel-1000036741-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c794b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014749
+#EXTINF:-1 tvg-id="1000014749" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep493.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 493
+http://l.mirrorace.net/schannel-1000014749-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c794d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014751
+#EXTINF:-1 tvg-id="1000014751" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep494.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 494
+http://l.mirrorace.net/schannel-1000014751-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7950
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014752
+#EXTINF:-1 tvg-id="1000014752" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep495.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 495
+http://l.mirrorace.net/schannel-1000014752-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7953
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014750
+#EXTINF:-1 tvg-id="1000014750" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep496.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 496
+http://l.mirrorace.net/schannel-1000014750-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7956
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036745
+#EXTINF:-1 tvg-id="1000036745" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep497.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 497
+http://l.mirrorace.net/schannel-1000036745-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7970
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014756
+#EXTINF:-1 tvg-id="1000014756" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep498.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 498
+http://l.mirrorace.net/schannel-1000014756-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c7977
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014755
+#EXTINF:-1 tvg-id="1000014755" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep499.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 499
+http://l.mirrorace.net/schannel-1000014755-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c797a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014753
+#EXTINF:-1 tvg-id="1000014753" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep500.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 500
+http://l.mirrorace.net/schannel-1000014753-language-hin-file-file.mpd|x-playback-session-id=16028489505f8988b6c797d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037383
+#EXTINF:-1 tvg-id="1000037383" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep501.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 501
+http://l.mirrorace.net/schannel-1000037383-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036d4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037000
+#EXTINF:-1 tvg-id="1000037000" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep502.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 502
+http://l.mirrorace.net/schannel-1000037000-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036df
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037005
+#EXTINF:-1 tvg-id="1000037005" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep503.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 503
+http://l.mirrorace.net/schannel-1000037005-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037004
+#EXTINF:-1 tvg-id="1000037004" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep504.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 504
+http://l.mirrorace.net/schannel-1000037004-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036e6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037007
+#EXTINF:-1 tvg-id="1000037007" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep505.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 505
+http://l.mirrorace.net/schannel-1000037007-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036ea
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037009
+#EXTINF:-1 tvg-id="1000037009" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep506.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 506
+http://l.mirrorace.net/schannel-1000037009-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036ed
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037003
+#EXTINF:-1 tvg-id="1000037003" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep507.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 507
+http://l.mirrorace.net/schannel-1000037003-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036f1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037001
+#EXTINF:-1 tvg-id="1000037001" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep508.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 508
+http://l.mirrorace.net/schannel-1000037001-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036f4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037010
+#EXTINF:-1 tvg-id="1000037010" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep509.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 509
+http://l.mirrorace.net/schannel-1000037010-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036f7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037012
+#EXTINF:-1 tvg-id="1000037012" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep510.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 510
+http://l.mirrorace.net/schannel-1000037012-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037002
+#EXTINF:-1 tvg-id="1000037002" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep511.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 511
+http://l.mirrorace.net/schannel-1000037002-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7036ff
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037011
+#EXTINF:-1 tvg-id="1000037011" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep512.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 512
+http://l.mirrorace.net/schannel-1000037011-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703702
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037013
+#EXTINF:-1 tvg-id="1000037013" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep513.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 513
+http://l.mirrorace.net/schannel-1000037013-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703739
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037008
+#EXTINF:-1 tvg-id="1000037008" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep514.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 514
+http://l.mirrorace.net/schannel-1000037008-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70373e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037006
+#EXTINF:-1 tvg-id="1000037006" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep515.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 515
+http://l.mirrorace.net/schannel-1000037006-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703741
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037386
+#EXTINF:-1 tvg-id="1000037386" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep516.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 516
+http://l.mirrorace.net/schannel-1000037386-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70374b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037385
+#EXTINF:-1 tvg-id="1000037385" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep517.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 517
+http://l.mirrorace.net/schannel-1000037385-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70374f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037016
+#EXTINF:-1 tvg-id="1000037016" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep518.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 518
+http://l.mirrorace.net/schannel-1000037016-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703768
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037014
+#EXTINF:-1 tvg-id="1000037014" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep519.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 519
+http://l.mirrorace.net/schannel-1000037014-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70376c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037384
+#EXTINF:-1 tvg-id="1000037384" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep520.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 520
+http://l.mirrorace.net/schannel-1000037384-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703770
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000014754
+#EXTINF:-1 tvg-id="1000014754" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep521.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 521
+http://l.mirrorace.net/schannel-1000014754-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703773
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037351
+#EXTINF:-1 tvg-id="1000037351" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep522.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 522
+http://l.mirrorace.net/schannel-1000037351-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703777
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036744
+#EXTINF:-1 tvg-id="1000036744" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep523.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 523
+http://l.mirrorace.net/schannel-1000036744-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70377a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036749
+#EXTINF:-1 tvg-id="1000036749" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep524.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 524
+http://l.mirrorace.net/schannel-1000036749-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70377e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036754
+#EXTINF:-1 tvg-id="1000036754" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep525.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 525
+http://l.mirrorace.net/schannel-1000036754-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703781
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037352
+#EXTINF:-1 tvg-id="1000037352" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep526.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 526
+http://l.mirrorace.net/schannel-1000037352-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703785
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036750
+#EXTINF:-1 tvg-id="1000036750" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep527.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 527
+http://l.mirrorace.net/schannel-1000036750-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703789
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036747
+#EXTINF:-1 tvg-id="1000036747" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep528.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 528
+http://l.mirrorace.net/schannel-1000036747-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70378c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036751
+#EXTINF:-1 tvg-id="1000036751" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep529.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 529
+http://l.mirrorace.net/schannel-1000036751-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037a3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036752
+#EXTINF:-1 tvg-id="1000036752" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep530.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 530
+http://l.mirrorace.net/schannel-1000036752-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037a8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036748
+#EXTINF:-1 tvg-id="1000036748" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep531.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 531
+http://l.mirrorace.net/schannel-1000036748-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037ab
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036753
+#EXTINF:-1 tvg-id="1000036753" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep532.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 532
+http://l.mirrorace.net/schannel-1000036753-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037af
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036746
+#EXTINF:-1 tvg-id="1000036746" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep533.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 533
+http://l.mirrorace.net/schannel-1000036746-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037b2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036758
+#EXTINF:-1 tvg-id="1000036758" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep534.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 534
+http://l.mirrorace.net/schannel-1000036758-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037b6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036756
+#EXTINF:-1 tvg-id="1000036756" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep535.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 535
+http://l.mirrorace.net/schannel-1000036756-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037b9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036760
+#EXTINF:-1 tvg-id="1000036760" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep536.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 536
+http://l.mirrorace.net/schannel-1000036760-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037bd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036759
+#EXTINF:-1 tvg-id="1000036759" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep537.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 537
+http://l.mirrorace.net/schannel-1000036759-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037c7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036761
+#EXTINF:-1 tvg-id="1000036761" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep538.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 538
+http://l.mirrorace.net/schannel-1000036761-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037cd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036764
+#EXTINF:-1 tvg-id="1000036764" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep539.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 539
+http://l.mirrorace.net/schannel-1000036764-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037d0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036757
+#EXTINF:-1 tvg-id="1000036757" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep540.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 540
+http://l.mirrorace.net/schannel-1000036757-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037d3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036762
+#EXTINF:-1 tvg-id="1000036762" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep541.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 541
+http://l.mirrorace.net/schannel-1000036762-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036763
+#EXTINF:-1 tvg-id="1000036763" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep542.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 542
+http://l.mirrorace.net/schannel-1000036763-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037d8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036755
+#EXTINF:-1 tvg-id="1000036755" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep543.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 543
+http://l.mirrorace.net/schannel-1000036755-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037dc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036773
+#EXTINF:-1 tvg-id="1000036773" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep544.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 544
+http://l.mirrorace.net/schannel-1000036773-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037de
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036768
+#EXTINF:-1 tvg-id="1000036768" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep545.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 545
+http://l.mirrorace.net/schannel-1000036768-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037f5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036775
+#EXTINF:-1 tvg-id="1000036775" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep546.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 546
+http://l.mirrorace.net/schannel-1000036775-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037f8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036770
+#EXTINF:-1 tvg-id="1000036770" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep547.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 547
+http://l.mirrorace.net/schannel-1000036770-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7037fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036765
+#EXTINF:-1 tvg-id="1000036765" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep548.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 548
+http://l.mirrorace.net/schannel-1000036765-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703802
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036767
+#EXTINF:-1 tvg-id="1000036767" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep549.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 549
+http://l.mirrorace.net/schannel-1000036767-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703808
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037354
+#EXTINF:-1 tvg-id="1000037354" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep550.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 550
+http://l.mirrorace.net/schannel-1000037354-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70380c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036769
+#EXTINF:-1 tvg-id="1000036769" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep551.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 551
+http://l.mirrorace.net/schannel-1000036769-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70380f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036771
+#EXTINF:-1 tvg-id="1000036771" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep552.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 552
+http://l.mirrorace.net/schannel-1000036771-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703813
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036766
+#EXTINF:-1 tvg-id="1000036766" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep553.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 553
+http://l.mirrorace.net/schannel-1000036766-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703816
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036774
+#EXTINF:-1 tvg-id="1000036774" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep554.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 554
+http://l.mirrorace.net/schannel-1000036774-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703819
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037353
+#EXTINF:-1 tvg-id="1000037353" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep555.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 555
+http://l.mirrorace.net/schannel-1000037353-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70381d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036776
+#EXTINF:-1 tvg-id="1000036776" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep556.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 556
+http://l.mirrorace.net/schannel-1000036776-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703846
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036779
+#EXTINF:-1 tvg-id="1000036779" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep557.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 557
+http://l.mirrorace.net/schannel-1000036779-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70384a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036781
+#EXTINF:-1 tvg-id="1000036781" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep558.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 558
+http://l.mirrorace.net/schannel-1000036781-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70384e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036780
+#EXTINF:-1 tvg-id="1000036780" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep559.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 559
+http://l.mirrorace.net/schannel-1000036780-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703852
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036778
+#EXTINF:-1 tvg-id="1000036778" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep560.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 560
+http://l.mirrorace.net/schannel-1000036778-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703856
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036834
+#EXTINF:-1 tvg-id="1000036834" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep561.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 561
+http://l.mirrorace.net/schannel-1000036834-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70388e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036777
+#EXTINF:-1 tvg-id="1000036777" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep562.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 562
+http://l.mirrorace.net/schannel-1000036777-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703898
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036772
+#EXTINF:-1 tvg-id="1000036772" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep563.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 563
+http://l.mirrorace.net/schannel-1000036772-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70389e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036783
+#EXTINF:-1 tvg-id="1000036783" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep564.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 564
+http://l.mirrorace.net/schannel-1000036783-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038a2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036784
+#EXTINF:-1 tvg-id="1000036784" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep565.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 565
+http://l.mirrorace.net/schannel-1000036784-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038b7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036786
+#EXTINF:-1 tvg-id="1000036786" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep566.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 566
+http://l.mirrorace.net/schannel-1000036786-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038bc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036788
+#EXTINF:-1 tvg-id="1000036788" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep567.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 567
+http://l.mirrorace.net/schannel-1000036788-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038c2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036785
+#EXTINF:-1 tvg-id="1000036785" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep568.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 568
+http://l.mirrorace.net/schannel-1000036785-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038c6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036791
+#EXTINF:-1 tvg-id="1000036791" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep569.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 569
+http://l.mirrorace.net/schannel-1000036791-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038ca
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036787
+#EXTINF:-1 tvg-id="1000036787" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep570.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 570
+http://l.mirrorace.net/schannel-1000036787-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038dc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036792
+#EXTINF:-1 tvg-id="1000036792" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep571.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 571
+http://l.mirrorace.net/schannel-1000036792-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038f8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036790
+#EXTINF:-1 tvg-id="1000036790" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep572.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 572
+http://l.mirrorace.net/schannel-1000036790-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7038fd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037356
+#EXTINF:-1 tvg-id="1000037356" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep573.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 573
+http://l.mirrorace.net/schannel-1000037356-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703913
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036794
+#EXTINF:-1 tvg-id="1000036794" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep574.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 574
+http://l.mirrorace.net/schannel-1000036794-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703917
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036796
+#EXTINF:-1 tvg-id="1000036796" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep575.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 575
+http://l.mirrorace.net/schannel-1000036796-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703929
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036793
+#EXTINF:-1 tvg-id="1000036793" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep576.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 576
+http://l.mirrorace.net/schannel-1000036793-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70392f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036795
+#EXTINF:-1 tvg-id="1000036795" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep577.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 577
+http://l.mirrorace.net/schannel-1000036795-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70395d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037017
+#EXTINF:-1 tvg-id="1000037017" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep578.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 578
+http://l.mirrorace.net/schannel-1000037017-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703962
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036798
+#EXTINF:-1 tvg-id="1000036798" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep579.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 579
+http://l.mirrorace.net/schannel-1000036798-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70396f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037022
+#EXTINF:-1 tvg-id="1000037022" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep580.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 580
+http://l.mirrorace.net/schannel-1000037022-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703973
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037018
+#EXTINF:-1 tvg-id="1000037018" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep581.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 581
+http://l.mirrorace.net/schannel-1000037018-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703977
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036797
+#EXTINF:-1 tvg-id="1000036797" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep582.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 582
+http://l.mirrorace.net/schannel-1000036797-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70397a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036789
+#EXTINF:-1 tvg-id="1000036789" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep583.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 583
+http://l.mirrorace.net/schannel-1000036789-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70397d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036799
+#EXTINF:-1 tvg-id="1000036799" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep584.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 584
+http://l.mirrorace.net/schannel-1000036799-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703980
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036803
+#EXTINF:-1 tvg-id="1000036803" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep585.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 585
+http://l.mirrorace.net/schannel-1000036803-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703984
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036800
+#EXTINF:-1 tvg-id="1000036800" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep586.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 586
+http://l.mirrorace.net/schannel-1000036800-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703987
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036802
+#EXTINF:-1 tvg-id="1000036802" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep587.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 587
+http://l.mirrorace.net/schannel-1000036802-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70398a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036808
+#EXTINF:-1 tvg-id="1000036808" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep588.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 588
+http://l.mirrorace.net/schannel-1000036808-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70398d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036804
+#EXTINF:-1 tvg-id="1000036804" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep589.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 589
+http://l.mirrorace.net/schannel-1000036804-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703990
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036801
+#EXTINF:-1 tvg-id="1000036801" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep590.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 590
+http://l.mirrorace.net/schannel-1000036801-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703994
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036805
+#EXTINF:-1 tvg-id="1000036805" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep591.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 591
+http://l.mirrorace.net/schannel-1000036805-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b703997
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047161
+#EXTINF:-1 tvg-id="1000047161" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep592.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 592
+http://l.mirrorace.net/schannel-1000047161-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b70399a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036806
+#EXTINF:-1 tvg-id="1000036806" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep593.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 593
+http://l.mirrorace.net/schannel-1000036806-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039bb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036814
+#EXTINF:-1 tvg-id="1000036814" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep594.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 594
+http://l.mirrorace.net/schannel-1000036814-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039c0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036809
+#EXTINF:-1 tvg-id="1000036809" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep595.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 595
+http://l.mirrorace.net/schannel-1000036809-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039c7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037021
+#EXTINF:-1 tvg-id="1000037021" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep596.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 596
+http://l.mirrorace.net/schannel-1000037021-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039cb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037024
+#EXTINF:-1 tvg-id="1000037024" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep597.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 597
+http://l.mirrorace.net/schannel-1000037024-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039ce
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037019
+#EXTINF:-1 tvg-id="1000037019" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep598.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 598
+http://l.mirrorace.net/schannel-1000037019-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039d2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037020
+#EXTINF:-1 tvg-id="1000037020" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep599.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 599
+http://l.mirrorace.net/schannel-1000037020-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039d5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036813
+#EXTINF:-1 tvg-id="1000036813" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep600.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 600
+http://l.mirrorace.net/schannel-1000036813-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b7039da
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036812
+#EXTINF:-1 tvg-id="1000036812" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep601.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 601
+http://l.mirrorace.net/schannel-1000036812-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4b1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036816
+#EXTINF:-1 tvg-id="1000036816" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep602.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 602
+http://l.mirrorace.net/schannel-1000036816-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4b9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036815
+#EXTINF:-1 tvg-id="1000036815" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep603.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 603
+http://l.mirrorace.net/schannel-1000036815-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4bb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036811
+#EXTINF:-1 tvg-id="1000036811" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep604.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 604
+http://l.mirrorace.net/schannel-1000036811-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4bd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036810
+#EXTINF:-1 tvg-id="1000036810" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep605.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 605
+http://l.mirrorace.net/schannel-1000036810-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4bf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036817
+#EXTINF:-1 tvg-id="1000036817" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep606.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 606
+http://l.mirrorace.net/schannel-1000036817-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4c0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036807
+#EXTINF:-1 tvg-id="1000036807" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep607.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 607
+http://l.mirrorace.net/schannel-1000036807-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4c3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036819
+#EXTINF:-1 tvg-id="1000036819" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep608.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 608
+http://l.mirrorace.net/schannel-1000036819-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4c5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036822
+#EXTINF:-1 tvg-id="1000036822" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep609.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 609
+http://l.mirrorace.net/schannel-1000036822-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4e9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036821
+#EXTINF:-1 tvg-id="1000036821" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep610.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 610
+http://l.mirrorace.net/schannel-1000036821-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4ed
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037358
+#EXTINF:-1 tvg-id="1000037358" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep611.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 611
+http://l.mirrorace.net/schannel-1000037358-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4f0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036823
+#EXTINF:-1 tvg-id="1000036823" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep612.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 612
+http://l.mirrorace.net/schannel-1000036823-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4f3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036824
+#EXTINF:-1 tvg-id="1000036824" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep613.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 613
+http://l.mirrorace.net/schannel-1000036824-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4f5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036827
+#EXTINF:-1 tvg-id="1000036827" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep614.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 614
+http://l.mirrorace.net/schannel-1000036827-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4f8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036825
+#EXTINF:-1 tvg-id="1000036825" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep615.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 615
+http://l.mirrorace.net/schannel-1000036825-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037360
+#EXTINF:-1 tvg-id="1000037360" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep616.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 616
+http://l.mirrorace.net/schannel-1000037360-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d4fe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036820
+#EXTINF:-1 tvg-id="1000036820" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep617.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 617
+http://l.mirrorace.net/schannel-1000036820-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d500
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036829
+#EXTINF:-1 tvg-id="1000036829" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep618.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 618
+http://l.mirrorace.net/schannel-1000036829-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d503
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036826
+#EXTINF:-1 tvg-id="1000036826" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep619.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 619
+http://l.mirrorace.net/schannel-1000036826-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d506
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036831
+#EXTINF:-1 tvg-id="1000036831" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep620.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 620
+http://l.mirrorace.net/schannel-1000036831-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d508
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036828
+#EXTINF:-1 tvg-id="1000036828" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep621.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 621
+http://l.mirrorace.net/schannel-1000036828-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d50b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037357
+#EXTINF:-1 tvg-id="1000037357" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep622.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 622
+http://l.mirrorace.net/schannel-1000037357-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d50d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036887
+#EXTINF:-1 tvg-id="1000036887" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep623.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 623
+http://l.mirrorace.net/schannel-1000036887-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d50f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036885
+#EXTINF:-1 tvg-id="1000036885" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep624.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 624
+http://l.mirrorace.net/schannel-1000036885-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d511
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036884
+#EXTINF:-1 tvg-id="1000036884" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep625.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 625
+http://l.mirrorace.net/schannel-1000036884-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d51e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036889
+#EXTINF:-1 tvg-id="1000036889" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep626.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 626
+http://l.mirrorace.net/schannel-1000036889-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d521
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036882
+#EXTINF:-1 tvg-id="1000036882" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep627.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 627
+http://l.mirrorace.net/schannel-1000036882-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d524
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036886
+#EXTINF:-1 tvg-id="1000036886" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep628.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 628
+http://l.mirrorace.net/schannel-1000036886-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d526
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036891
+#EXTINF:-1 tvg-id="1000036891" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep629.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 629
+http://l.mirrorace.net/schannel-1000036891-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d529
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036888
+#EXTINF:-1 tvg-id="1000036888" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep630.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 630
+http://l.mirrorace.net/schannel-1000036888-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d52b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037262
+#EXTINF:-1 tvg-id="1000037262" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep631.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 631
+http://l.mirrorace.net/schannel-1000037262-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d52e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036846
+#EXTINF:-1 tvg-id="1000036846" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep632.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 632
+http://l.mirrorace.net/schannel-1000036846-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d531
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036847
+#EXTINF:-1 tvg-id="1000036847" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep633.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 633
+http://l.mirrorace.net/schannel-1000036847-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d534
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036845
+#EXTINF:-1 tvg-id="1000036845" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep634.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 634
+http://l.mirrorace.net/schannel-1000036845-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d536
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036849
+#EXTINF:-1 tvg-id="1000036849" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep635.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 635
+http://l.mirrorace.net/schannel-1000036849-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d539
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036848
+#EXTINF:-1 tvg-id="1000036848" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep636.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 636
+http://l.mirrorace.net/schannel-1000036848-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d53c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036851
+#EXTINF:-1 tvg-id="1000036851" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep637.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 637
+http://l.mirrorace.net/schannel-1000036851-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d53f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036842
+#EXTINF:-1 tvg-id="1000036842" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep638.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 638
+http://l.mirrorace.net/schannel-1000036842-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d541
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036853
+#EXTINF:-1 tvg-id="1000036853" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep639.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 639
+http://l.mirrorace.net/schannel-1000036853-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d546
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036850
+#EXTINF:-1 tvg-id="1000036850" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep640.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 640
+http://l.mirrorace.net/schannel-1000036850-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d54c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036858
+#EXTINF:-1 tvg-id="1000036858" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep641.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 641
+http://l.mirrorace.net/schannel-1000036858-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d55e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036856
+#EXTINF:-1 tvg-id="1000036856" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep642.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 642
+http://l.mirrorace.net/schannel-1000036856-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d561
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036870
+#EXTINF:-1 tvg-id="1000036870" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep643.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 643
+http://l.mirrorace.net/schannel-1000036870-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d564
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036867
+#EXTINF:-1 tvg-id="1000036867" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep644.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 644
+http://l.mirrorace.net/schannel-1000036867-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d567
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036865
+#EXTINF:-1 tvg-id="1000036865" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep645.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 645
+http://l.mirrorace.net/schannel-1000036865-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d56a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036875
+#EXTINF:-1 tvg-id="1000036875" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep646.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 646
+http://l.mirrorace.net/schannel-1000036875-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d56d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036873
+#EXTINF:-1 tvg-id="1000036873" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep647.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 647
+http://l.mirrorace.net/schannel-1000036873-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d570
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037365
+#EXTINF:-1 tvg-id="1000037365" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep648.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 648
+http://l.mirrorace.net/schannel-1000037365-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d573
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036877
+#EXTINF:-1 tvg-id="1000036877" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep649.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 649
+http://l.mirrorace.net/schannel-1000036877-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d576
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036876
+#EXTINF:-1 tvg-id="1000036876" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep650.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 650
+http://l.mirrorace.net/schannel-1000036876-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d578
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036874
+#EXTINF:-1 tvg-id="1000036874" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep651.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 651
+http://l.mirrorace.net/schannel-1000036874-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d57b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036879
+#EXTINF:-1 tvg-id="1000036879" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep652.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 652
+http://l.mirrorace.net/schannel-1000036879-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d57e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036878
+#EXTINF:-1 tvg-id="1000036878" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep653.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 653
+http://l.mirrorace.net/schannel-1000036878-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d581
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036881
+#EXTINF:-1 tvg-id="1000036881" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep654.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 654
+http://l.mirrorace.net/schannel-1000036881-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d583
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036838
+#EXTINF:-1 tvg-id="1000036838" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep655.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 655
+http://l.mirrorace.net/schannel-1000036838-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d586
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036871
+#EXTINF:-1 tvg-id="1000036871" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep656.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 656
+http://l.mirrorace.net/schannel-1000036871-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d589
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036841
+#EXTINF:-1 tvg-id="1000036841" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep657.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 657
+http://l.mirrorace.net/schannel-1000036841-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d598
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036843
+#EXTINF:-1 tvg-id="1000036843" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep658.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 658
+http://l.mirrorace.net/schannel-1000036843-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d59b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036840
+#EXTINF:-1 tvg-id="1000036840" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep659.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 659
+http://l.mirrorace.net/schannel-1000036840-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d59e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036844
+#EXTINF:-1 tvg-id="1000036844" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep660.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 660
+http://l.mirrorace.net/schannel-1000036844-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5a1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036854
+#EXTINF:-1 tvg-id="1000036854" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep661.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 661
+http://l.mirrorace.net/schannel-1000036854-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5a4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036855
+#EXTINF:-1 tvg-id="1000036855" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep662.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 662
+http://l.mirrorace.net/schannel-1000036855-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5a7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036852
+#EXTINF:-1 tvg-id="1000036852" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep663.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 663
+http://l.mirrorace.net/schannel-1000036852-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5a9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036857
+#EXTINF:-1 tvg-id="1000036857" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep664.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 664
+http://l.mirrorace.net/schannel-1000036857-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5ac
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036860
+#EXTINF:-1 tvg-id="1000036860" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep665.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 665
+http://l.mirrorace.net/schannel-1000036860-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5af
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037359
+#EXTINF:-1 tvg-id="1000037359" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep666.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 666
+http://l.mirrorace.net/schannel-1000037359-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5b2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036859
+#EXTINF:-1 tvg-id="1000036859" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep667.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 667
+http://l.mirrorace.net/schannel-1000036859-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5b4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037361
+#EXTINF:-1 tvg-id="1000037361" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep668.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 668
+http://l.mirrorace.net/schannel-1000037361-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5b7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036862
+#EXTINF:-1 tvg-id="1000036862" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep669.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 669
+http://l.mirrorace.net/schannel-1000036862-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5ba
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037362
+#EXTINF:-1 tvg-id="1000037362" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep670.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 670
+http://l.mirrorace.net/schannel-1000037362-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5bd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036861
+#EXTINF:-1 tvg-id="1000036861" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep671.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 671
+http://l.mirrorace.net/schannel-1000036861-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5c0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036864
+#EXTINF:-1 tvg-id="1000036864" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep672.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 672
+http://l.mirrorace.net/schannel-1000036864-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5c2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036863
+#EXTINF:-1 tvg-id="1000036863" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep673.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 673
+http://l.mirrorace.net/schannel-1000036863-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5d4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037363
+#EXTINF:-1 tvg-id="1000037363" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep674.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 674
+http://l.mirrorace.net/schannel-1000037363-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5dd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036868
+#EXTINF:-1 tvg-id="1000036868" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep675.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 675
+http://l.mirrorace.net/schannel-1000036868-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5e5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036869
+#EXTINF:-1 tvg-id="1000036869" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep676.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 676
+http://l.mirrorace.net/schannel-1000036869-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5e8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037364
+#EXTINF:-1 tvg-id="1000037364" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep677.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 677
+http://l.mirrorace.net/schannel-1000037364-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5eb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037366
+#EXTINF:-1 tvg-id="1000037366" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep678.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 678
+http://l.mirrorace.net/schannel-1000037366-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5ee
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036866
+#EXTINF:-1 tvg-id="1000036866" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep679.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 679
+http://l.mirrorace.net/schannel-1000036866-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5f0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000047162
+#EXTINF:-1 tvg-id="1000047162" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep680.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 680
+http://l.mirrorace.net/schannel-1000047162-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5f3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036872
+#EXTINF:-1 tvg-id="1000036872" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep681.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 681
+http://l.mirrorace.net/schannel-1000036872-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5f7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036934
+#EXTINF:-1 tvg-id="1000036934" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep682.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 682
+http://l.mirrorace.net/schannel-1000036934-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5f9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036931
+#EXTINF:-1 tvg-id="1000036931" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep683.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 683
+http://l.mirrorace.net/schannel-1000036931-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5fc
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036901
+#EXTINF:-1 tvg-id="1000036901" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep684.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 684
+http://l.mirrorace.net/schannel-1000036901-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d5ff
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036910
+#EXTINF:-1 tvg-id="1000036910" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep685.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 685
+http://l.mirrorace.net/schannel-1000036910-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d602
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036907
+#EXTINF:-1 tvg-id="1000036907" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep686.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 686
+http://l.mirrorace.net/schannel-1000036907-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d604
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037367
+#EXTINF:-1 tvg-id="1000037367" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep687.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 687
+http://l.mirrorace.net/schannel-1000037367-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d607
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036917
+#EXTINF:-1 tvg-id="1000036917" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep688.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 688
+http://l.mirrorace.net/schannel-1000036917-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d60a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036916
+#EXTINF:-1 tvg-id="1000036916" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep689.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 689
+http://l.mirrorace.net/schannel-1000036916-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d621
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037372
+#EXTINF:-1 tvg-id="1000037372" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep690.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 690
+http://l.mirrorace.net/schannel-1000037372-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d625
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036915
+#EXTINF:-1 tvg-id="1000036915" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep691.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 691
+http://l.mirrorace.net/schannel-1000036915-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d628
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036923
+#EXTINF:-1 tvg-id="1000036923" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep692.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 692
+http://l.mirrorace.net/schannel-1000036923-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d62b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036924
+#EXTINF:-1 tvg-id="1000036924" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep693.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 693
+http://l.mirrorace.net/schannel-1000036924-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d62e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036926
+#EXTINF:-1 tvg-id="1000036926" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep694.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 694
+http://l.mirrorace.net/schannel-1000036926-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d631
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036925
+#EXTINF:-1 tvg-id="1000036925" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep695.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 695
+http://l.mirrorace.net/schannel-1000036925-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d634
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036919
+#EXTINF:-1 tvg-id="1000036919" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep696.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 696
+http://l.mirrorace.net/schannel-1000036919-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d637
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036920
+#EXTINF:-1 tvg-id="1000036920" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep697.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 697
+http://l.mirrorace.net/schannel-1000036920-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d63f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037374
+#EXTINF:-1 tvg-id="1000037374" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep698.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 698
+http://l.mirrorace.net/schannel-1000037374-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d643
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036927
+#EXTINF:-1 tvg-id="1000036927" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep699.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 699
+http://l.mirrorace.net/schannel-1000036927-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d646
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036928
+#EXTINF:-1 tvg-id="1000036928" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep700.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 700
+http://l.mirrorace.net/schannel-1000036928-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b72d648
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036929
+#EXTINF:-1 tvg-id="1000036929" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep701.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 701
+http://l.mirrorace.net/schannel-1000036929-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c07d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036922
+#EXTINF:-1 tvg-id="1000036922" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep702.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 702
+http://l.mirrorace.net/schannel-1000036922-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c085
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036921
+#EXTINF:-1 tvg-id="1000036921" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6127379415001/thumbnail/6127379415001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 703
+http://l.mirrorace.net/schannel-1000036921-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c087
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036930
+#EXTINF:-1 tvg-id="1000036930" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep704.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 704
+http://l.mirrorace.net/schannel-1000036930-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c089
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036932
+#EXTINF:-1 tvg-id="1000036932" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep705.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 705
+http://l.mirrorace.net/schannel-1000036932-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0af
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036912
+#EXTINF:-1 tvg-id="1000036912" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep706.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 706
+http://l.mirrorace.net/schannel-1000036912-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0b1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036914
+#EXTINF:-1 tvg-id="1000036914" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep707.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 707
+http://l.mirrorace.net/schannel-1000036914-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0b3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036918
+#EXTINF:-1 tvg-id="1000036918" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep708.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 708
+http://l.mirrorace.net/schannel-1000036918-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0b5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037370
+#EXTINF:-1 tvg-id="1000037370" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep709.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 709
+http://l.mirrorace.net/schannel-1000037370-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0b7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037369
+#EXTINF:-1 tvg-id="1000037369" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep710.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 710
+http://l.mirrorace.net/schannel-1000037369-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0b9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037371
+#EXTINF:-1 tvg-id="1000037371" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep711.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 711
+http://l.mirrorace.net/schannel-1000037371-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0bb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036893
+#EXTINF:-1 tvg-id="1000036893" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep712.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 712
+http://l.mirrorace.net/schannel-1000036893-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0bd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036894
+#EXTINF:-1 tvg-id="1000036894" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep713.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 713
+http://l.mirrorace.net/schannel-1000036894-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0bf
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036892
+#EXTINF:-1 tvg-id="1000036892" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep714.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 714
+http://l.mirrorace.net/schannel-1000036892-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0c1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036897
+#EXTINF:-1 tvg-id="1000036897" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep715.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 715
+http://l.mirrorace.net/schannel-1000036897-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0c3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036896
+#EXTINF:-1 tvg-id="1000036896" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep716.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 716
+http://l.mirrorace.net/schannel-1000036896-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0c4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036895
+#EXTINF:-1 tvg-id="1000036895" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep717.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 717
+http://l.mirrorace.net/schannel-1000036895-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0c6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036899
+#EXTINF:-1 tvg-id="1000036899" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep718.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 718
+http://l.mirrorace.net/schannel-1000036899-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0c8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036900
+#EXTINF:-1 tvg-id="1000036900" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep719.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 719
+http://l.mirrorace.net/schannel-1000036900-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0ca
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036903
+#EXTINF:-1 tvg-id="1000036903" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep720.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 720
+http://l.mirrorace.net/schannel-1000036903-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0cb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036905
+#EXTINF:-1 tvg-id="1000036905" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep721.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 721
+http://l.mirrorace.net/schannel-1000036905-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0d6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036902
+#EXTINF:-1 tvg-id="1000036902" tvg-logo="https://origin-staticv2.sonyliv.com/cms/6127353417001/thumbnail/6127353417001_thumb.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 722
+http://l.mirrorace.net/schannel-1000036902-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0d8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036904
+#EXTINF:-1 tvg-id="1000036904" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep723.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 723
+http://l.mirrorace.net/schannel-1000036904-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0da
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036898
+#EXTINF:-1 tvg-id="1000036898" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep724.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 724
+http://l.mirrorace.net/schannel-1000036898-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0db
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036909
+#EXTINF:-1 tvg-id="1000036909" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep725.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 725
+http://l.mirrorace.net/schannel-1000036909-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0dd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036906
+#EXTINF:-1 tvg-id="1000036906" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep726.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 726
+http://l.mirrorace.net/schannel-1000036906-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0df
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036908
+#EXTINF:-1 tvg-id="1000036908" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep727.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 727
+http://l.mirrorace.net/schannel-1000036908-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0e1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036911
+#EXTINF:-1 tvg-id="1000036911" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep728.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 728
+http://l.mirrorace.net/schannel-1000036911-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0e3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037368
+#EXTINF:-1 tvg-id="1000037368" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep729.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 729
+http://l.mirrorace.net/schannel-1000037368-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0e5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036913
+#EXTINF:-1 tvg-id="1000036913" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep730.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 730
+http://l.mirrorace.net/schannel-1000036913-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0e6
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036952
+#EXTINF:-1 tvg-id="1000036952" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep731.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 731
+http://l.mirrorace.net/schannel-1000036952-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0e8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037376
+#EXTINF:-1 tvg-id="1000037376" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep732.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 732
+http://l.mirrorace.net/schannel-1000037376-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0e9
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036949
+#EXTINF:-1 tvg-id="1000036949" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep733.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 733
+http://l.mirrorace.net/schannel-1000036949-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0eb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036954
+#EXTINF:-1 tvg-id="1000036954" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep734.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 734
+http://l.mirrorace.net/schannel-1000036954-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0ed
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036955
+#EXTINF:-1 tvg-id="1000036955" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep735.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 735
+http://l.mirrorace.net/schannel-1000036955-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0ef
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036958
+#EXTINF:-1 tvg-id="1000036958" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep736.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 736
+http://l.mirrorace.net/schannel-1000036958-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0f1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036962
+#EXTINF:-1 tvg-id="1000036962" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep737.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 737
+http://l.mirrorace.net/schannel-1000036962-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0fb
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037378
+#EXTINF:-1 tvg-id="1000037378" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep738.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 738
+http://l.mirrorace.net/schannel-1000037378-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c0fe
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036965
+#EXTINF:-1 tvg-id="1000036965" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep739.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 739
+http://l.mirrorace.net/schannel-1000036965-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c101
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036964
+#EXTINF:-1 tvg-id="1000036964" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep740.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 740
+http://l.mirrorace.net/schannel-1000036964-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c103
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036970
+#EXTINF:-1 tvg-id="1000036970" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep741.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 741
+http://l.mirrorace.net/schannel-1000036970-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c106
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036959
+#EXTINF:-1 tvg-id="1000036959" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep742.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 742
+http://l.mirrorace.net/schannel-1000036959-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c108
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036967
+#EXTINF:-1 tvg-id="1000036967" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep743.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 743
+http://l.mirrorace.net/schannel-1000036967-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c10b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036968
+#EXTINF:-1 tvg-id="1000036968" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep744.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 744
+http://l.mirrorace.net/schannel-1000036968-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c10d
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036966
+#EXTINF:-1 tvg-id="1000036966" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep745.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 745
+http://l.mirrorace.net/schannel-1000036966-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c110
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036969
+#EXTINF:-1 tvg-id="1000036969" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep746.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 746
+http://l.mirrorace.net/schannel-1000036969-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c112
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036972
+#EXTINF:-1 tvg-id="1000036972" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep747.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 747
+http://l.mirrorace.net/schannel-1000036972-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c115
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036939
+#EXTINF:-1 tvg-id="1000036939" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep748.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 748
+http://l.mirrorace.net/schannel-1000036939-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c117
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036942
+#EXTINF:-1 tvg-id="1000036942" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep749.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 749
+http://l.mirrorace.net/schannel-1000036942-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c119
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037375
+#EXTINF:-1 tvg-id="1000037375" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep750.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 750
+http://l.mirrorace.net/schannel-1000037375-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c11c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000035668
+#EXTINF:-1 tvg-id="1000035668" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep751.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 751
+http://l.mirrorace.net/schannel-1000035668-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c11e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037387
+#EXTINF:-1 tvg-id="1000037387" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep752.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 752
+http://l.mirrorace.net/schannel-1000037387-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c121
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037025
+#EXTINF:-1 tvg-id="1000037025" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep753.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 753
+http://l.mirrorace.net/schannel-1000037025-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c12f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000035665
+#EXTINF:-1 tvg-id="1000035665" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep754.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 754
+http://l.mirrorace.net/schannel-1000035665-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c132
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036974
+#EXTINF:-1 tvg-id="1000036974" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep755.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 755
+http://l.mirrorace.net/schannel-1000036974-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c135
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036957
+#EXTINF:-1 tvg-id="1000036957" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep756.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 756
+http://l.mirrorace.net/schannel-1000036957-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c137
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036971
+#EXTINF:-1 tvg-id="1000036971" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep757.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 757
+http://l.mirrorace.net/schannel-1000036971-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c13a
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000037373
+#EXTINF:-1 tvg-id="1000037373" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep758.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 758
+http://l.mirrorace.net/schannel-1000037373-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c13c
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036935
+#EXTINF:-1 tvg-id="1000036935" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep759.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 759
+http://l.mirrorace.net/schannel-1000036935-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c13f
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036938
+#EXTINF:-1 tvg-id="1000036938" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep760.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 760
+http://l.mirrorace.net/schannel-1000036938-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c141
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036937
+#EXTINF:-1 tvg-id="1000036937" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep761.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 761
+http://l.mirrorace.net/schannel-1000036937-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c144
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036940
+#EXTINF:-1 tvg-id="1000036940" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep762.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 762
+http://l.mirrorace.net/schannel-1000036940-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c146
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036941
+#EXTINF:-1 tvg-id="1000036941" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep763.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 763
+http://l.mirrorace.net/schannel-1000036941-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c149
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036943
+#EXTINF:-1 tvg-id="1000036943" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep764.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 764
+http://l.mirrorace.net/schannel-1000036943-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c14b
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036944
+#EXTINF:-1 tvg-id="1000036944" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep765.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 765
+http://l.mirrorace.net/schannel-1000036944-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c14e
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://l.mirrorace.net/slic.php?channel=1000036946
+#EXTINF:-1 tvg-id="1000036946" tvg-logo="https://origin-staticv2.sonyliv.com/landscape_thumb/tmkoc_landscape_thumbnail_ep766.jpg" group-title="Taarak Mehta Ka Ooltah Chashmah ##PRASAD##",Taarak Mehta Ka Ooltah Chashmah EP 766
+http://l.mirrorace.net/schannel-1000036946-language-hin-file-file.mpd|x-playback-session-id=16028489515f8988b75c150
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 
 
 
