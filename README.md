@@ -3961,35 +3961,6 @@ https://wxca.cf/j/Sony_Yay_Tamil/master.m3u8|User-Agent=KAIOS
 
 
 
-#EXTINF:-1  tvg-id="414" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
-https://tivimateplaylists.live/zeeyuvan
-#EXTINF:-1  tvg-id="153" group-title="Marathi ##PRASAD##" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_695/LOGO/cb7ed8d5-5b89-4661-a764-2d1f316664ba.png",Zee Talkies HD
-https://tivimateplaylists.live/zeetalkie
-#EXTINF:-1  tvg-id="445" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi HD
-https://tivimateplaylists.live/zeemarathihd
-#EXTINF:-1  tvg-id="336" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png",Star Parvah
-https://tivimateplaylists.live/starparvah
-#EXTINF:-1  tvg-id="1146" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi
-https://tivimateplaylists.live/SonMart
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgxNDE5MDkiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzbWFyYXRoaV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=Hv5fKZoe9jmMliExuYd4XkE%2bjZM%3d&sessionId=1fab1c33-e772-cac2-7cda-27390b40c4c3:9ee5b31e-40f7-2d42-861f-d03f5276e8fa&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLW1hcmF0aGktaGQvNzkzOTMw
-#EXTINF:-1 tvg-id="755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Marathi ##PRASAD##",Colors Marathi HD
-https://livevoot-i.akamaihd.net/dash/live/828522/colorsmarathi/master.mpd
-#EXTINF:-1  tvg-id="NA" group-title="Marathi ##PRASAD##" tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fshemaroomarathi.jpg",shemaroo Marathibana
-https://tivimateplaylists.live/shemrumarathi
-#EXTINF:-1  tvg-id="441" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
-https://tivimateplaylists.live/9x-jhks
-#EXTINF:-1  tvg-id="612" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png",Abp Majha
-https://tivimateplaylists.live/abpmajh
-#EXTINF:-1  tvg-id="735" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",Sangeet Marathi
-https://tivimateplaylists.live/sangeetmarathi
-#EXTINF:-1  tvg-id="738" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
-https://tivimateplaylists.live/faktmarathin
-#EXTINF:-1  tvg-id="691" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",Saam Tv
-https://tivimateplaylists.live/saamtvn
-#EXTINF:-1  tvg-id="1580" group-title="Marathi ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat_voot.png",News18 Lokmat
-https://tivimateplaylists.live/news18lokmatn
-
 
 
 
