@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tivimateplaylists.live/epg"
+#EXTM3U url-tvg="https://prasadplaylists.live/epg"
 #EXTM3U
 #EXTINF:-1  tvg-id="id" group-title="PRASAD ELECTRONICS 9967965440 tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png ",support prasad electronics 9967965440 
 https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp
