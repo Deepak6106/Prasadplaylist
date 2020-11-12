@@ -1943,6 +1943,9 @@ https://tivimateplaylists.live/zeeactionn
 https://tivimateplaylists.live/Humdard-LaughterN
 #EXTINF:-1  tvg-id="1190" group-title="Movies ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png",PTC Gold
 https://tivimateplaylists.live/ptcgoldn
+
+
+
 #EXTINF:-1  tvg-id="415" group-title="Movies ##PRASAD##" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 https://tivimateplaylists.live/zeeanmolcinemann
 #EXTINF:-1  tvg-id="tatasky_276" group-title="Movies ##PRASAD##" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11200-j9i4gzig-v1/imageContent-11200-j9i4gzig-m1.png",Wow Cinema
