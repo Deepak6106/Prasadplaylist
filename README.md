@@ -3728,6 +3728,2538 @@ http://l.mirrorace.net/schannel-1000045059-language-hin-file-file.mpd|x-playback
 
 
 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 12-12-1950 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11869.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 88 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11870.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aayirathil Oruvan 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11843.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aiyaary 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14191.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ajji 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14190.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aksar 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11871.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Annadurai 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11872.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aramm 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11873.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ardaas 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11854.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aruvi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11874.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Attu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12260.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aval 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12261.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Baadshaho 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11875.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Baaghi 2 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14189.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Badman 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14171.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bajirao Mastani 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11848.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bajrangi Bhaijaan 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11849.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Balakrishnudu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11876.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Balu Mahi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14182.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bank Chor 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14185.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bareilly Ki Barfi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11877.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Behen Hogi Teri 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14198.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhai Mera Big Brother 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12262.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhanwarey 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14173.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhoomi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11878.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Blackmail 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14188.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bogan 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11879.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Brahma.com 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11880.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Canada Di Flight 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11855.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chaar Sahibzaade 2 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11856.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chef 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11881.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chunkzz 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11882.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Copy 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14176.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Daak Ghar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11883.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Daddy 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11884.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dangal 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11857.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Daringbaaz 3 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12263.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Deva 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14200.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dhairyam 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11885.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dj Duvvada Jagannadham 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11886.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dost Tussi Great Ho 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12264.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Drishyam 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11850.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dulla Bhatti Wala 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11858.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dynamite 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11887.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Paheli Maya Mayuri 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12265.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Tha Tiger 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11847.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", En Aaloda Seruppa Kaanom 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11888.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", English Padam 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11889.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ezra 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11890.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Firangi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11891.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", GULAABJAM 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14183.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ghoda 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11893.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Golimaar 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12266.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Golmaal Again 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11894.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Goodluck 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14192.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Great Grand Masti 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14170.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Gurgaon 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14172.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hanuman Da Damdaar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14195.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hate Story 4 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14175.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hello 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11897.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hichki 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14180.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Honey Bee 2.5 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11898.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ice Age Collision Course 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11859.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Indrajith 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11899.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Indu Sarkar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14177.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ippadai Vellum 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11900.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", JIHNE MERA DIL LUTEYA 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11846.avi
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jab Harry Met Sejal 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11902.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jagga Jasoos 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11903.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jawaan 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11904.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jeene Nahi Doonga 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12267.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jo Jeeta Wohi Sikandar 1992 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14174.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Judwaa 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11905.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Julie 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11906.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Junooniyat 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14193.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kaabil 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11907.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kaashmora 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11908.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kadamban 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11909.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kadhalo Rajakumari 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12239.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kalavaadiya Pozhuthugal 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11910.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kanika 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14186.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kerry on Kutton 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11860.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khaidi No150 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12240.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ki and Ka 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14187.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ko 2 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11861.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kodiveeran 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12241.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Lahoriye 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12242.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Legend of The Naga Pearls 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12243.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Love Ni Bhavai 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14199.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Lucknow Central 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12244.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Luv Shuv Pyar Vyar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14179.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Maatr 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14194.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Maayavan 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12245.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Machine 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14181.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mastizaade 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14197.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Matchbox 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12246.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Meri Nimmo 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14184.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Meri Pyaari Bindu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14178.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mersal 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12247.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Middle Class Abbayi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12248.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mirchi Malini 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14211.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mirror Game 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12249.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mirza Juuliet 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12250.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Missing On A Weekend 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14219.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mom 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12251.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mr. X 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14223.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mubarakan 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12253.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mukhtiar Chadha 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11851.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mukkabaaz 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14209.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Munna Michael 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12254.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", My Father Iqbal 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11862.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", My Name Is Khan 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11844.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Neerja 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14210.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nenjil Thunivirundhal 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12255.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Newton 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12256.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nikka Zaildar 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11863.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Okka Ammayi Thappa 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12258.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Oru Nodiyil 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12259.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pad Man 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14208.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Padmaavat 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14214.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Palli Paruvathile 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12268.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Papanasam 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11852.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pari 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14205.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Patel Ki Punjabi Shaadi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12269.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phullu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12270.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pokkiri Simon 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12271.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Prem Ratan Dhan Payo 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14221.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Project Z 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12272.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raajakumara 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12275.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rabb Da Radio 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12276.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raees 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12277.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raid 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14222.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ram Ratan 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14217.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Richie 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12278.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rings 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12279.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rogue 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14207.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rough Book 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14206.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rudhramadevi 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14224.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rudra Tandava 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12280.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rukh 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14213.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Saat Uchakkey 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11864.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sabse Bada Zero 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14212.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sakka Podu Podu Raja 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12281.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sargi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12282.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sathya 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12283.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Secret Superstar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12284.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Selfie Raja 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11865.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shamantakamani 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12286.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shivalinga 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11866.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Simran 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12288.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sniff 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14201.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sonu Ke Titu Ki Sweety 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14203.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Speedunnodu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12289.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Spyder 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12290.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Stupid Cupid 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14216.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sukumarudu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12291.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Super Singh 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14204.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tera Intezaar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12293.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Black Prince 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14220.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Crew 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12294.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Great Father 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12295.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The House Next Door 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12296.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Promise 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12297.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Theeran Adhigaaram Ondru 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12298.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Thiruttu Payale 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12299.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tiger 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11867.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Toilet Ek Prem Katha 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12302.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tu Hai Mera Sunday 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14225.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tubelight 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12303.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tumhari Sulu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14215.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tutak Tutak Tutiya 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11868.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Union Leader 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14202.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Uruthikol 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12304.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Velaikkaran 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12305.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Viceroys House 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12306.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Villain 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12307.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Vimaanam 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12308.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Vivegam The Real Hero 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/12309.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Waiting 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11853.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Zubaan 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14218.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 7 Hours to Go 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16067.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Angrezi Mein Kehte Hain 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16068.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bal Ganesh and the Pomozom Planet 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16069.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Barsaat - A Sublime Love Story 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16070.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Beyond the Clouds 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16071.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Brij Mohan Amar Rahe 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16074.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chalo Jeete Hain 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16075.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Grade 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16085.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Indian Post Graduate 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16111.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Siddhant 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16109.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Unfreedom 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16116.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tum Milo Toh Sahi 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16114.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Yuva 2004 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16122.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Express Khiladi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16082.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dhamaal 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16078.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Double Dhamaal 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16081.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mulk 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16096.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dil Se 1998 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16079.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", NH10 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16098.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Golmaal Fun Unlimited 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16084.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jaanwar 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16088.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rubaru 2008 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16108.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Viraam 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16118.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Vishwaroopam 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16119.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khiladiyon Ka Khiladi 1996 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16092.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kaala 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16090.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Punjab Singh 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16104.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Road to Sangam 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16107.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Real Tevar - Srimanthudu 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16112.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raazi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16105.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Laung Laachi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16094.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Parmanu 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16103.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Veere Di Wedding 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16117.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rampage 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16106.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dear Dad 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16077.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pagla Ghoda 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16100.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Direct Ishq 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16080.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kande 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16091.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhaagamathie 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16072.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bioscopewala 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16073.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Typecaste 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16115.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Parched 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16102.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Vodka Diaries 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16120.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tikli and Laxmi Bomb Poster 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16113.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", M.S.Dhoni The Untold Story 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16095.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", My Birthday Song 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16097.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Guy In The Sky 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16086.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Iqbal 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16087.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Gippi 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16083.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Watan Ka Rakhwala 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16121.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nanak Shah Fakir 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16099.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Laali Ki Shaadi Mein Laaddoo Deewana 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16093.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pappa Tamne Nahi Samjaay 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16101.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jia Aur Jia 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16089.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Hero Of Color City 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16110.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Zoo 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16123.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Daas Dev 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/16076.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 102 Not Out 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19055.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aayirathil Oruvan 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11843.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aiyaary 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14191.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ajji 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/14190.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aksar 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11871.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Annadurai 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11872.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aramm 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/11873.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Abhay 2001 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19062.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Agniputra 2000 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19063.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Amazon Obhijaan 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19064.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Andaaz 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19065.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Apna Sapna Money Money 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19066.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Baarish Aur Chowmein 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19067.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Badrinath Ki Dulhania 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19118.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Black Friday 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19068.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bodyguard 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19069.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Boom 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19070.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Charlie Kay Chakkar Mein 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19071.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Darr 1993 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19072.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dekh Tamasha Dekh 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19073.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dev D 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19074.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dil Chahta Hai 2001 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19075.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dil Jo Na Keh Saka 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19076.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dostana 2008 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19077.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dr Tatya Lahane Angaar Power is within 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19078.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Drishyam 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19079.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Villain 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19080.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", For Here or to Go 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19081.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Garbage 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19082.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Genius 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19083.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hindi Medium 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19119.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hope Aur Hum 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19084.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", How Is Wow 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19085.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Humshakals 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19086.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", I Me aur Main 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19087.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Inteqam The Perfect Game 2004 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19088.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ishq Forever 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19089.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jab We Met 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19090.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khajoor Pe Atke 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19091.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khiladi 786 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19092.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kick 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19093.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kuch Bheege Alfaaz 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19094.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kuchh Bheege Alfaaz 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19095.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kuldip Patwal 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19096.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Masti Express 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19097.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mela 2000 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19098.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mohra 1994 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19099.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Munna Bhai M.B.B.S. 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19100.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ok Jaanu 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19102.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", OMG Oh My God 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19101.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Once Again 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19103.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phillauri 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19120.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phobia 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19104.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Race 3 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19105.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rangreza 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19106.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ribbon 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19107.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Robot 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19108.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sarfarosh 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19110.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Savita Damodar Paranjape 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19111.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shakti The Power 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19112.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shobhayatra 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19113.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shorgul 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19114.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sniff 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19115.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Student of the Year 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19116.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Style 2001 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19117.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sunshine Music Tours and Travels 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19121.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Surya Ki Antim Kiran Se Surya Ki Pehli Kiran Tak 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19122.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tamanchey 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19123.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tamburo 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19124.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tees Maar Khan 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19125.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tera Intezaar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19126.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tera Mera Tedha Medha 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19127.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Last Airbender 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19128.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Slum Stars 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19129.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Thodi Thodi Si Manmaaniyan 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19130.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Time Please 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19131.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Toba Tek Singh 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19132.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Too Big To Fail 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19133.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tumsa Nahin Dekha 2004 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19135.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Udaan 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19136.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Union Leader 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19137.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Yeh Hai Lollipop 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/19138.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 3rd Wedding Anniversary 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21083.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jurassic Park 1993 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21084.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jurassic Park II The Lost World 1997 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21085.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jurassic Park III 2001 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21086.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jurassic World 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21087.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jurassic World Fallen Kingdom 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21088.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Karwaan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21089.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kuldip Patwal I Didnt Do It 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21090.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Laadla 1994 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21091.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Lage Raho Munna Bhai 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21092.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Munna Michael 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21093.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Q 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21094.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Adrishya 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21642.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Airlift 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21643.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Anthony Kaun Hai 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21644.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aparichit 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21645.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Barah Aana 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21646.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Billa 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21647.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Calendar Girls 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21648.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chaar Sahibzaade Rise of Banda Singh Bahadur 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21649.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chakarghinni 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21650.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chotay Shah 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21651.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Devdas 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21652.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dhadak 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21653.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dobaara 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21654.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dolls House 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21655.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dor 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21656.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fanney Khan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21657.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Global baba 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21658.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Haseena 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21659.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", High Jack 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21660.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jannat 2008 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21661.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jeena Isi Ka Naam Hai 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21662.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Madholal Keep Walking 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21663.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nanu Ki Jaanu 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21664.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nawabzaade 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21665.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Page 16 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21666.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pardes 1997 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21667.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phantom 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21668.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Saajan 1991 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21669.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Satyameva Jayate 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21670.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Soorma 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21671.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Surya - The Soldier 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21672.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Take Care Good Night 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21673.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tere Naam 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21674.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Wishing Tree 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21675.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Xpose 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21676.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Wake Up Sid 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21677.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Welcome 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21678.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Whats Your Raashee 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21679.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Yevadu 3 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21680.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 13 Hours The Secret Soldiers Of Benghazi 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21696.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 30 Minutes or Less 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21751.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 47 Ronin 2013 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21723.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Nightmare On Elm Street 1984 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21752.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Nightmare on Elm Street 2010 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21753.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Nightmare on Elm Street 2 Freddys Revenge 1985 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21754.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Nightmare on Elm Street 3 Dream Warriors 1987 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21755.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Nightmare on Elm Street 4 The Dream Master 1988 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21756.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Nightmare on Elm Street 5 The Dream Child 1989 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21757.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Series of Unfortunate Events 2004 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21697.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aliens 1986 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21698.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ant Man and the Wasp 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21699.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Arthur And The Invisibles 2006 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21700.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Assassins Creed 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21701.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Avengers Age of Ultron 2015 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21758.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Avengers Infinity War 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21759.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bad Company 2002 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21702.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bad Teacher 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21760.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Black Cobra Woman 1976 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21703.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Blue Streak 1999 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21724.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Clash Of Empires The Battle For Asia 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21704.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Contagion 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21705.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Crazy Stupid Love 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21706.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dadnapped 2009 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21725.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Doctor Strange 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21726.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Drive Angry 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21707.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Enders Game 2013 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21761.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Escape from Ensenada 2017 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21762.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Finding Nemo 2003 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21727.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Freddy Vs Jason 2003 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21763.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Friends with Benefits 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21708.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hannah Montana - The Movie 2009 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21709.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hotel Transylvania 3 A Monster Vacation 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21764.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Incredibles 2 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21710.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Invisible Target 2007 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21728.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Johnny English Reborn 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21765.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jurassic World Fallen Kingdom 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21711.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", League of Gods 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21729.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Leap Year 2010 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21730.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Machine Gun Preacher 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21712.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Master Of Death 1978 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21731.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Men In Black 1997 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21732.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Men in Black 2 2002 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21733.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Men in Black 3 2012 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21734.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Monsters - Dark Continent 2014 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21713.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Oceans Eleven 2001 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21766.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Oceans Eleven 2004 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21767.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Oceans Eleven 2007 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21768.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ouija Origin of Evil 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21769.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Outpost 2008 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21735.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", R.I.P.D 2013 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21714.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raging Phoenix 2009 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21715.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Recess - Schools Out 2001 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21736.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rogue One 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21770.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Seven Pounds 2008 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21737.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sixteen Candles 1984 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21716.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Skyscraper 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21717.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Snow Girl and the Dark Crystal 2015 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21718.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Source Code 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21738.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Speed 2 Cruise Control 1997 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21719.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Speed 2 Cruise Control 1999 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21739.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Teenage Mutant Ninja Turtles Out of the Shadows 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21740.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Adventures of Tintin 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21741.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Avengers 2012 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21771.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Black Prince 2017 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21720.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Cat In The Hat 2003 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21742.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Darkest Minds 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21772.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Equalizer 2014 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21743.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Hit List 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21721.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Legend of Tarzan 2016 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21773.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Meg 2018 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21744.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Pacifier 2005 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21745.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Roommate 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21746.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Scorpion King 2002 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21774.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Scorpion King 2012 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21775.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Wild Thornberrys Movie 2002 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21747.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Thor Ragnarok 2017 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21748.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", True Grit 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21722.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Van Helsing 2004 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21749.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", War of the Arrows 2011 IN Multi-Audio
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21750.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ajab Gazabb Love 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23915.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Baar Baar Dekho 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23916.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhoot 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23917.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Darr at The Mall 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23918.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Paheli Leela 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23919.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fitoor 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23920.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Gandhi My Father 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23921.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Gold 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23922.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Guddu Ki Gun 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23923.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Halkaa 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23925.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", HATTRICK 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23924.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Heropanti 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23926.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hum Aapke Hain Koun.. 1994 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23927.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kai Po Che 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23928.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Laila Majnu 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23929.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Laloolal.Com 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23930.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Life in a Metro 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23931.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mitron 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23932.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Paltan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23933.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Prince In Exile 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23934.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Satyagraha 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23935.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Simran Ki Aashiqui  2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23936.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sui Dhaaga 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23937.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Udanchhoo 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23938.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Village Rockstars 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23939.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Woh Lamhe 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/23940.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 5 Weddings 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25887.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 7 Khoon Maaf 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25888.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aatma 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25889.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ab Tumhare Hawale Watan Saathiyo 2004 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25890.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Akele Hum Akele Tum 1995 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25891.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Batti Gul Meter Chalu 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25892.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chal Bhaag 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25893.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chal Pichchur Banate Hain 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25894.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Cocktail 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25895.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Cycle 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25896.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dehraadun Diary 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25897.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dil Juunglee 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25898.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dirty Prem Galat Sambandh 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25899.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dum Laga Ke Haisha 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25900.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Thi Daayan 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25901.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Geethanjali 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25902.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ghanchakkar 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25903.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Glamour Movie 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25904.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Guru 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25905.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Happy Phirr Bhag Jayegi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25906.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Home Delivery 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25907.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", I Am Kalam 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25908.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jaane Kyun De Yaaron 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25909.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jab Rat Hoti Hai 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25910.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kaccha Limboo 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25911.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kajri 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25912.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Karthik Calling Karthik 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25913.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Katti Batti 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25914.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kirrak Party 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25915.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kis Kisko Pyaar Karoon 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25916.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Little Terrors 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25917.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Loveyatri 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25857.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Madras Cafe 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25858.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Manto 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25859.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Masaan 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25860.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mr. Kabaadi 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25861.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mumbai Meri Jaan 2008 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25862.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", One Night Stand 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25863.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Parwana 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25864.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pataakha 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25865.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pk 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25866.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Qaidi No. 420 Veedevadu 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25867.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raaz 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25868.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Race 2 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25869.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raju Ban Gaya Rajkumar 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25870.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sabse Bada Chaalbaaz Bombaat 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25871.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Saheb Biwi Aur Gangster Returns 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25872.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shootout At Wadala 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25873.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shreelancer 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25874.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sirf Tum 1995 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25875.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Stree 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25876.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sui Dhaaga Made in India 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25877.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Super Bheem Dream Catcher 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25878.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Super Bheem in Dragonpur 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25879.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Teefa In Trouble 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25880.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Teesri Aankh-The Hidden Camera 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25881.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Teri Bhabhi Hai Pagle 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25882.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Attacks of 26-11 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25883.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Thugbaaz 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25884.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tigers 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25885.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tik Tik Tik 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25886.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tumbbad 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25918.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Welcome To Sajjanpur 2008 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/25919.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 2.0 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34233.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 2016 The End 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34234.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 99 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34235.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aapla Manus 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34236.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aarzoo 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34237.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Agneepath 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34238.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Agnivarsha The Fire and the Rain 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34239.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ajab Singh Ki Gajab Kahani 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34240.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ankhon Dekhi 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34241.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Baazaar 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34242.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhaag Johnny 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34243.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhasmasur 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34244.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhool Bhulaiyaa 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34245.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Budhia Singh Born to Run 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34246.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Cabaret 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34247.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chingaari 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34248.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Commando 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34249.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Darling 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34250.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dashakriya 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34251.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Deewaar 1975 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34252.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Delhi in a Day 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34253.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Hasina Thi 2004 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34254.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Yodha Shoorveer Urumi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34255.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fired 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34256.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Flat 211 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34257.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hai Apna Dil Toh Awara 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34258.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hanuman Vs Mahiravana 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34259.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hasee Toh Phasee 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34260.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hate Story 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34261.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hate Story 2 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34262.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hate Story 3 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34263.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hawaa Hawaai 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34264.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hazaaron Khwaishein Aisi 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34265.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Heartless 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34266.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Highway 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34267.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hum Tum Aur Ghost 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34268.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Inkaar 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34270.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ishqedarriyaan 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34271.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jannat E Milan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34272.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", K.G.F 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34273.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kachche Dhaage 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34274.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kadvi Hawa 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34275.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Karma 1986 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34276.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kedarnath 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34277.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Life Ki Toh Lag Gayi 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34279.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", LSD Love Sex Aur Dhokha 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34278.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Maazii 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34280.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Maqbool 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34281.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mard 1985 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34282.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Masoom 1983 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34283.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mauli 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34284.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Moh Maya Money 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34285.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mumbai Pune Mumbai 3 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34286.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Muskurahatein 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34287.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Namaste England 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34288.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Netaji Subhas Chandra Bose The Forgotten Hero 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34289.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pahuna 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34290.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Paisa Vasool 2004 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34291.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Parinda 1989 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34292.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Period End of Sentence 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34293.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phir Se 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34294.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pihu 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34295.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pushpak Vimaan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34296.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pyaar Ke Side Effect 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34297.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rubaru Roshni 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34298.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Salaam Bombay 1988 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34299.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sallu Ki Shaadi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34300.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sanam Teri Kasam 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34301.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ship of Theseus 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34302.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shor Se Shuruaat 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34303.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Soni 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34304.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Talvar 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34305.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Teri Meri Kahaani 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34306.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Window 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34307.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Trapped 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34308.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Veergati 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34309.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Warning 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34310.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Yeh Jawaani Hai Deewani 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34311.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Zero 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/34312.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 15 August 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44286.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 23 March 1931 Shaheed 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44287.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 377 Normal 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44309.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aa Ab Laut Chalen 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44288.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ab Tak Chhappan 2 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44337.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Akira 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44310.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Alibaba 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44338.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", All the Best 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44311.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Banarasi Babu 1997 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44339.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Beiimaan Love 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44312.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhaag Milkha Bhaag 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44289.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhaagte Raho 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44313.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhagam Bhag 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44340.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Billu 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44341.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bol Bachchan 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44342.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bombairiya 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44314.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bombay Summer 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44290.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Border 1997 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44343.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Candyflip 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44315.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chalte Chalte 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44344.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Contract 2008 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44345.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dhoom 2 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44346.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Do Lafzon Ki Kahani 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44347.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Duplicate 1998 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44348.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Escape from Taliban 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44316.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Evening Shadows 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44349.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Farzand 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44350.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Firebrand 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44317.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fraud Saiyaan 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44291.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Gali Guleiyan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44318.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Haan Maine Bhi Pyaar Kiya 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44351.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hungama 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44352.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Imago 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44319.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Inspiration 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44320.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jallaad 1995 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44353.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Josh 2000 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44292.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kaafi Filmy 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44354.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kashmir Daily 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44321.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khamiyaza 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44293.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khichdi The Movie 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44322.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Krishna 1996 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44323.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Krrish 3 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44324.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kuch Pal Pyar Ke 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44325.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Little Superma 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44326.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Luck by Chance 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44355.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Manikarnika The Queen of Jhansi 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44294.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mashooka 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44295.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mass Leader 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44296.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Me Shivaji Park 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44297.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mr. India 1987 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44356.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mridang 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44327.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nayak The Real Hero 2001 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44357.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nil Battey Sannata 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44358.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", No Problem 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44359.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Order Order Out of Order 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44298.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Paigham 1959 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44299.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Paying Guests 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44300.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phata Poster Nikla Hero 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44360.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ra.One 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44301.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raajneeti 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44302.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ram Gopal Varma Ki Aag 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44303.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ram Leela 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44361.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ranbanka 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44328.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sarbjit 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44329.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sardaar Gabbar Singh 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44362.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sharp Shooter 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44304.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shiva 1990 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44305.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shivaay 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44363.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Simmba 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44306.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Striker 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44364.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Legend of Michael Mishra 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44330.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Redrum - A Love Story 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44331.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Sholay Girl 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44332.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Total Dhamaal 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44307.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Truckbhar Swapna 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44333.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Uri The Surgical Strike 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44308.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Water 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44334.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Wedding Pullav 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44335.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Yamla Pagla Deewana 2011 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/44336.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 1920 2008 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55836.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", 22 Yards 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55837.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Billion Colour Story 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55838.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Dot Com Mom 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55839.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aankhen 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55840.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Akhiyon Se Goli Maare 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55841.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Anari 1993 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55842.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Andaz Apna Apna 1994 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55843.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ani... Dr. Kashinath Ghanekar 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55844.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ashley 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55845.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Awara Paagal Deewana 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55846.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Babul Pyare 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55847.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Badla 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55848.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Badnaam Gali 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55849.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Before the Rains 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55850.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bewajah 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55851.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bheemayan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55852.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bhouri 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55853.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bluffmaster! 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55854.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chandragiri 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55856.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chhota Bheem Aur Kaala Yodha 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55857.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chhota Bheem Ka Romani Adventure 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55858.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chhota Bheem Ka Troll Se Takkar 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55859.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Coffee With D 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55860.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", CRD 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55855.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", D.A.T.E. 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55861.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dairy of Butterfly 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55862.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dark Chocolate 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55863.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dino Ki Dulhaniya 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55864.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ek Ladki Ko Dekha Toh Aisa Laga 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55865.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fakir of Venice 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55866.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fanaa 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55867.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fireflies 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55868.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Future to Bright Hai Ji 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55870.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Haanduk 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55871.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Halal 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55872.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hamari Adhuri Kahani 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55873.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hamid 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55874.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hogi Pyar Ki Jeet 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55875.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hotel Milan 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55876.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hum Aapke Dil Mein Rehte Hain 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55877.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ichak 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55878.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Jonaki 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55879.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Karim Mohammed 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55880.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Karz 2002 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55881.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khal Nayak 1993 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55882.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Khauff 2000 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55883.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Lashtam Pashtam 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55884.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Leeches 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55885.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Lupt 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55886.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Manorama Six Feet Under 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55888.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mard Ko Dard Nahi Hota 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55889.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Marthand LLB - My Dear Marthandam 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55890.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mona Darling 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55892.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Music Teacher 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55893.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nashibvaan 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55894.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Nirdosh 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55895.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", No Entry 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55896.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Paap 2003 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55897.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pappu Cant Dance Saala 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55898.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pela Adhi Akshar 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55899.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Petta 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55900.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phir Hera Pheri 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55901.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Phool Aur Kaante 1991 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55902.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pushkar Puran 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55903.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pyaar Kiya To Darna Kya 1998 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55904.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Qissa Qismat Ka 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55905.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Raanjhanaa 2013 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55906.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Rehnaa Hai Terre Dil Mein 2001 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55907.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Room The Mystery 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55908.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Shikari 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55909.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sonchiriya 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55910.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Suhaag 1994 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55911.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Super Monsters Furever Friends 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55912.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sur Sapata 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55913.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Swarg 1990 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55914.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Sweet and Sour 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55915.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Taare Zameen Par 2007 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55916.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Teen Aur Aadha 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55917.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Thackeray 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55918.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Thai Curry 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55919.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Dark Side of Life Mumbai City 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55920.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Fakir of Venice 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55921.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Vaastav 1999 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55922.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Vivah 2006 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55923.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Welcome 2 Karachi 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55924.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Well Done Abba 2010 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55925.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", When Obama Loved Osama 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55926.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Why Cheat India 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55927.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Yours Truly 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/55928.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", A Monsoon Date 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66557.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Alibaba Aur 40 Chor 1980 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66558.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Amavas 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66559.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Angry Indian Goddesses 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66560.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ankur Arora Murder Case 2013 INi
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66561.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Baccha Shoshur 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66562.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bahubali 2015 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66563.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Bedhadak 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66564.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Blackia 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66565.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chopsticks 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66566.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dabangg 2 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66567.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Dhh 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66568.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Diary of a Butterfly 2012 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66569.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Fandi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66570.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ghuma 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66571.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Home Sweet Home 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66572.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Judaai 1997 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66573.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Junglee 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66574.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kesari 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66575.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Krutant 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66576.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Luka Chuppi 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66577.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Marudhar Express 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66578.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Memory Card 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66579.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mere Pyare Prime Minister 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66580.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Milan Talkies 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66581.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Notebook 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66582.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pink 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66583.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Savyasachi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66584.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", The Accidental Prime Minister 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66585.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tu Tithe Asave 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66586.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Wedding Cha Shinema 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/66587.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Aag Se Khelenge - Vangaveeti 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73081.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Asli Hero Kaun 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73082.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Battalion 609 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73083.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Betaab 1983 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73084.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Chousar Firangi 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73085.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Commando 2 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73086.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", De De Pyaar De 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73087.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ekkees Tareekh Shubh Muhurat 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73088.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Hum Chaar 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73089.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", III Smoking Barrels 2017 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73090.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", India's Most Wanted 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73091.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kaashi in Search of Ganga 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73092.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Kalank 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73093.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Machine 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73094.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mard Ko Dard Nahin Hota 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73095.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Mashuka 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73096.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", MeToo Wolf Of Bollywood 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73097.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Parineeta 2005 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73098.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Pipsi 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73099.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Radio 2009 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73100.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ragini MMS 2 2014 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73101.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Student Of The Year 2 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73102.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tennis Buddies 2019 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73103.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Tottaa Pataaka Item Maal 2018 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73104.mkv
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES ", Ventilator 2016 IN
+http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/73105.mkv
+
 
 
 
