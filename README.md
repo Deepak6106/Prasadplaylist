@@ -8618,49 +8618,11 @@ https://wrclive-f.akamaihd.net/i/wrcb1_1@46880/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y87yAbK.png" group-title="USA LOCAL", Washington DC: Telemundo 44
 https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/09/Charge%21_network_logo.png" group-title="USA GEO", Charge! (Geo)
-https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZIZZG8v.png" group-title="USA GEO", Comet TV (Geo)
-http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dfaJpw4.png" group-title="USA GEO", Hallmark Movies & Mysteries (Geo)
-http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA GEO", Kids Click (Geo)
-https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ksaY4n9.png" group-title="HAITI", Radio TeleBoston (USA)
-http://162.244.81.145:3333/live//telebostonrtb/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SrZD5r.png" group-title="COSTA RICA", 88 Stereo
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fp9ReNL.png" group-title="COSTA RICA", Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmj1BUK.png" group-title="COSTA RICA", TicaVision
-http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qzGYOCp.png" group-title="HONDURAS", Cholusat Sur 36
-http://audiotvserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/04JcMmL.png" group-title="ARMENIA", ARTN (US)
-http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4bfJNfw.png" group-title="ARMENIA", USArmenia TV (US)
-http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9MaPnQ6.png" group-title="INDIA", Desi TV USA
 http://cdn30.liveonlineservices.com/hls/desitv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="AFGHANISTAN", Ariana TV USA
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YozWGVj.png" group-title="INDONESIA", TV 9 Nusantara (Opt-1)
-http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YozWGVj.png" group-title="INDONESIA", TV 9 Nusantara (Opt-2)
-http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
 
 
