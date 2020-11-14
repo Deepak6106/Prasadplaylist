@@ -8675,4 +8675,62 @@ https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
 
 
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN", 92 News (Opt-1)
+http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN", 92 News (Opt-2)
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eBvf4zM.png" group-title="PAKISTAN", Canada One (CA)
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN", Dunya News (Opt-1)
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN", Dunya News (Opt-3)
+http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="PAKISTAN", Eawaz TV (CA)
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="PAKISTAN", Eye 95 America (US)
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="PAKISTAN", Kay 2
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="PAKISTAN", Khyber Middle East
+https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="PAKISTAN", Khyber News
+http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="PAKISTAN", Lahore News (Opt-2)
+http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSLi73Y.png" group-title="PAKISTAN", Prime Canada TV (CA)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="PAKISTAN", Sahar Urdu (IR)
+https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/039vs9H.png" group-title="PAKISTAN", Shrrang TV
+http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAKISTAN", Subrang TV (US) (Opt-1)
+http://cdn61.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAKISTAN", Subrang TV (US) (Opt-2)
+https://cdn20.liveonlineservices.com/hls/subrang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN", Tag TV (Opt-1)
+http://cdn11.live247stream.com/tag/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN", 92 News (Opt-2)
+http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
+
 
