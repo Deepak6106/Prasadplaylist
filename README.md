@@ -7251,3 +7251,383 @@ https://wrclive-f.akamaihd.net/i/wrcb2_1@46880/master.m3u8
 
 
 
+
+
+
+
+
+
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lAtiWkI.png" group-title="USA LOCAL", Indianapolis: CBS 4 News
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA", 24 News Malayalam (New!)
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sMgWdff.png" group-title="INDIA", 4K Tamil TV
+http://184.173.179.163:1935/Jaffnatv/Jaffnatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="INDIA", 7S Music (New!)
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AqAwJec.png" group-title="INDIA", 5aab TV
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qqa1A35.png" group-title="INDIA", 9XM
+http://161.0.157.5/PLTV/88888888/224/3221227097/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="INDIA", Aaj Tak (Opt-1)
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SeaWMgV.png" group-title="INDIA", ABP Asmita (New!)
+https://abp-i.akamaihd.net/hls/live/765532/abpasmita/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U6GGaHo.png" group-title="INDIA", ABP Majha (New!)
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="INDIA", ABP News (New!)
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBZg9Yl.png" group-title="INDIA", ACV (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AllTF2K.png" group-title="INDIA", ACV Jukebox (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/acvjukebox_awannbgiynqynhufohawnvbmlgglfpuc/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UjqTQgr.png" group-title="INDIA", ACV News (New!)
+https://acv.asianetmobiletvplus.com/webstreams/3e85eb4c12bd2110d3f495676205d50a.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QnDmR8W.png" group-title="INDIA", ACV Utsav (Opt-1) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/021c9292219a98f899a7b74f0f34baa7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hcp2Noi.png" group-title="INDIA", ACV Utsav Plus (Opt-2) (New!)
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA", Akaram Galatta
+http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA", Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="INDIA", Akaram Mix
+http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PB7QMfb.png" group-title="INDIA", Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ptu1AYr.png" group-title="INDIA", Amrita TV (New!)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fZ79rhU.png" group-title="INDIA", Asianet News (New!)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/z0xsSZa.png" group-title="INDIA", Assam Talks
+http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="INDIA", B4U Kadak (New!)
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="INDIA", B4U Music (Opt-1) (New!)
+http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="INDIA", B4U Music (Opt-2) (New!)
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/Stream(01)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mthi8WQ.png" group-title="INDIA", BBC Toronto Gaunda Punjab (CA)
+http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NhcsJ9p.png" group-title="INDIA", Bollywood TV
+https://a.jsrdn.com/broadcast/d4dba2e3/+0000/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k922iYy.png" group-title="INDIA", Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BPS22GM.png" group-title="INDIA", BritAsia TV (New!)
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g8VsoFL.png" group-title="INDIA", Channel Y
+http://cdn19.live247stream.com/channely/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTCWWT9.png" group-title="INDIA", Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jbgccb.png" group-title="INDIA", CNBC Awaaz (New!)
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E71mShF.png" group-title="INDIA", CNBC Bajar (New!)
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JO3TM42.png" group-title="INDIA", CNBC TV18 (New!)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1rlU4J.png" group-title="INDIA", DD Malayalam (New!)
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ExkhL2U.png" group-title="INDIA", DD National (New!)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TSvkIfA.png" group-title="INDIA", DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA", DD Sports (Opt-1) (New!)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZ7lXO7.png" group-title="INDIA", DD Sports (Opt-2) (New!)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6q8JSAe.png" group-title="INDIA", Desi Channel (Opt-1)
+http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9MaPnQ6.png" group-title="INDIA", Desi TV USA
+http://cdn30.liveonlineservices.com/hls/desitv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auJG4zd.png" group-title="INDIA", Desi Plus TV (CA) (New!)
+http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJvYAvc.png" group-title="INDIA", Dighvijay News 24x7
+https://vidcdn.vidgyor.com/dighvijay-origin/liveabr/dighvijay-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ClZ9sC8.png" group-title="INDIA", Dilli Aaj Tak
+https://vidcdn.vidgyor.com/dilliaajtak-origin/liveabr/dilliaajtak-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lGQbmsH.png" group-title="INDIA", Ekta TV
+http://fastway.ddns.net:6421/fastway/alive/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmNK9Kz.png" group-title="INDIA", ET Now (New!)
+https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tWYAxIH.png" group-title="INDIA", FastWay TV
+http://fastway.ddns.net:6421/fastway/live10/index.m3u8?token=fastwaytvstreams
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AYRRlCm.png" group-title="INDIA", Flowers TV (New!)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hzloZHG.png" group-title="INDIA", Gabruu TV (AU)
+http://104.237.60.234/live/gabruutv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TOMaYDK.png" group-title="INDIA", Hamdard TV (CA)
+http://cdn.samtv.ca/hamdard/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3GaIXIW.png" group-title="INDIA", Hiru TV (New!)
+http://cdncities.com/8012/8012/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kPUTNBo.png" group-title="INDIA", Hungama: Kadak Hits
+http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TjuXUS2.png" group-title="INDIA", IBC 24
+https://livetv.ibc24.in/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FBGjycy.png" group-title="INDIA", IBC Comedy (New!)
+https://ibccomedy-origin.ibctamil.com/transcode/ibccomedy_std.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uOpVDkn.png" group-title="INDIA", IBC Kids (New!)
+https://ibckids-origin.ibctamil.com/transcode/ibckids_std.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/txTBtsK.png" group-title="INDIA", IBC Tamil (New!)
+https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M2zAN9M.png" group-title="INDIA", India Today (New!)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XJ5yBfo.png" group-title="INDIA", India TV (Opt-2)
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BWpzr17.png" group-title="INDIA", Jaihind TV (New!)
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A2YJm4X.png" group-title="INDIA", Janam TV
+https://vidhttps.r.worldssl.net/janamtv-origin/liveabr/janamtv-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EbDmPr.png" group-title="INDIA", Janataa TV (New!)
+http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tg1C1bY.png" group-title="INDIA", Janta TV
+http://live.wmncdn.net/jantatv/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nuXE2kO.png" group-title="INDIA", Jeevan TV (New!)
+http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6SGZIJ2.png" group-title="INDIA", Jhanjar (CA)
+http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vypvOj8.png" group-title="INDIA", Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5wweZXu.png" group-title="INDIA", Kairali News (New!)
+http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u5gY8fB.png" group-title="INDIA", Kairali TV (New!)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjV6vkS.png" group-title="INDIA", Kairali We (New!)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MYZ6EXU.png" group-title="INDIA", Kalaignar TV (New!)
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w2oUBtd.png" group-title="INDIA", Kappa TV (New!)
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EKNSWQU.png" group-title="INDIA", Kasthuri TV (New!)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5hYidf.png" group-title="INDIA", Khabrain Abhi Tak
+https://vidcdn.vidgyor.com/kat-origin/liveabr/kat-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="INDIA", Life Punjabi
+http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Dxq2goB.png" group-title="INDIA", Lok Sabha TV
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2ZvEbQB.png" group-title="INDIA", Lotus News (New!)
+http://51.75.95.11:5080/LiveApp/streams/962725995284705956438804.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o0OxL0P.png" group-title="INDIA", Mangalam TV (New!)
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUagr6J.png" group-title="INDIA", Manorama News (New!)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db17Erd.png" group-title="INDIA", Mastiii (Opt-1) (New!)
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZY1kzi9.png" group-title="INDIA", Mathrubhumi News (New!)
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xm1sD3z.png" group-title="INDIA", Mazhavil Manorama (New!)
+http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vieY15w.png" group-title="INDIA", Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rgJhrXg.png" group-title="INDIA", MK Six (New!)
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OvGmTf6.png" group-title="INDIA", MK Tunes (New!)
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EU8ibyK.png" group-title="INDIA", MK TV (New!)
+http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bHFmUw1.png" group-title="INDIA", MN TV Music (New!)
+http://mntv.livebox.co.in/musichls/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cI0cw7m.png" group-title="INDIA", MNX (New!)
+https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CvBgH38.png" group-title="INDIA", Nagara TV (CA)
+http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8lv3TDz.png" group-title="INDIA", Nav Media (New!)
+http://abr.wmncdn.net/abr/612a5eb791b43209a8eccdde569e8ee1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jVWp0K4.png" group-title="INDIA", NDTV 24x7 (New!)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lOXOb18.png" group-title="INDIA", News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkhGcua.png" group-title="INDIA", News18 Lokmat (New!)
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ECPiGU.png" group-title="INDIA", Pardesi TV (CA)
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vnASwAl.png" group-title="INDIA", Pratidin Time (New!)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q01pMEP.png" group-title="INDIA", Prudent Media (New!)
+https://5a9fe19ea6821.streamlock.net/prudentmedia/livestream3/chunklist_w2110152999.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uarG4Im.png" group-title="INDIA", PTN 24 (CA)
+http://cdn.samtv.ca/ptv24/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YxUBBs6.png" group-title="INDIA", Public Music (New!)
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hzFatTk.png" group-title="INDIA", Punjabi Zindabad
+http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wcr5lhD.png" group-title="INDIA", Puthuyugam TV (New!)
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1HOUzgr.png" group-title="INDIA", Raj Digital Plus (New!)
+http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJijZ7V.png" group-title="INDIA", Rajya Sabha TV
+http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/U94l665.png" group-title="INDIA", Reporter TV (Opt-1) (New!)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gqH4VkZ.png" group-title="INDIA", 24 News Malayalam (New!)
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rBAup75.png" group-title="INDIA", Santhora TV (DE)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9XrxPmm.png" group-title="INDIA", Saral Jeevan
+https://vidcdn.vidgyor.com/saraljeevan-origin/liveabr/saraljeevan-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u1qoF6k.png" group-title="INDIA", Sardari TV (CA)
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RkZeDTN.png" group-title="INDIA", Sur Sagar TV (CA)
+http://sursagar24.dyndns.tv:8080/sstv/720p/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8PPXAC0.png" group-title="INDIA", Suvarna News 24×7 (New!)
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="INDIA", Tamil Vision Int'l (CA) (SD)
+http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="INDIA", Tamil Vision Int'l (CA) (HD)
+http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MHH6UNS.png" group-title="INDIA", Thanthi TV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6OZeVct.png" group-title="INDIA", The Q India (New!)
+https://amg1-i.akamaihd.net/hls/live/784034/Q001/playlist.m3u8?__nn__=5606168722001&hdnea=st=1566232200~exp=1566235800~acl=/hls/live/784034/Q001/*~hmac=4de929fdc0ee53199a11237ee75a695383a82a42623fa92c1376493e5fc91d7b
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="INDIA", Times Now (Opt-1)
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/psZPO9A.png" group-title="INDIA", Times Now (Opt-2)
+http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R5YhXUK.png" group-title="INDIA", TV 16 Toronto (CA)
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4uw68O.png" group-title="INDIA", TV Punjab
+http://cdn.samtv.ca/tvpunjab/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EIpxHel.png" group-title="INDIA", TV9 Telugu (New!)
+http://103.199.161.254/Content/tv9telungu/Live/Channel(TV9Telungu)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZN9Hda.png" group-title="INDIA", Vaanavil TV (Opt-1)
+http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VZN9Hda.png" group-title="INDIA", Vaanavil TV (Opt-2)
+http://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QN0koGL.png" group-title="INDIA", Vanavil Plus (New!)
+http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yQzl6h0.png" group-title="INDIA", Vasanth TV
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed03?e=0&h=a9be0836bc39f96d0a9a958a659dfc1d&bgsecuredir=1
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="INDIA", Venus TV (UK) (Opt-1)
+https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1FRvMEX.png" group-title="INDIA", Venus TV (UK) (Opt-2)
+https://a.jsrdn.com/broadcast/22690/-0800/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFrupeK.png" group-title="INDIA", Y TV (New!)
+http://161.0.157.5/PLTV/88888888/224/3221226832/index.m3u8
+
