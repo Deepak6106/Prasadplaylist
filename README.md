@@ -3725,8 +3725,9 @@ http://l.mirrorace.net/schannel-1000045059-language-hin-file-file.mpd|x-playback
 
 
 
+#EXTM3U
 
-
+#KODIPROP:inputstream.adaptive.license_key=http://tataskytv.indtv.online/tatasky/27552678.mpd
 
 #EXTM3U
 
