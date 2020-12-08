@@ -10932,3 +10932,178 @@ https://m-c06-j2apps.s.llnwi.net/hls/7074.MalaiMurasuTV.in.m3u8
 #EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/bollywood.png" group-title="MX Player - PRASAD", Bollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in_480p/index.m3u8
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/SONY_TV_HD.jpg" group-title="PRASAD 1 | HINDI", Sony TV HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=55553451&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/SET_MAX_HD_TV.jpg" group-title="PRASAD 1 | HINDI", Set Max HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=17959459&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-apac.jpg" group-title="PRASAD 1 | HINDI", Colors APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77773
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_ASIA_TV.jpg" group-title="PRASAD 1 | HINDI", Colors Rishtey Asia
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77791
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_UK_HD_TV.jpg" group-title="PRASAD 1 | HINDI", Colors UK HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=72164639&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_UK_TV.jpg" group-title="PRASAD 1 | HINDI", Colors Cineplex UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87765200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_TV.jpg" group-title="PRASAD 1 | HINDI", Colors Cineplex
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77786
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_TV.jpg" group-title="PRASAD 1 | HINDI", Colors Rishtey
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=30736995&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_APAC_TV.jpg" group-title="PRASAD 1 | HINDI", Colors Rishtey APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77771&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo-us.jpg" group-title="PRASAD 1 | HINDI", BBO US
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=112656656&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg" group-title="PRASAD 1 | HINDI", Star Plus UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=97396328&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-uk.jpg" group-title="PRASAD 1 | HINDI", Star Bharat UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=47235083&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/apka-colors.jpg" group-title="PRASAD 1 | HINDI", Apka Colors
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77777
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-new-hindi.jpg" group-title="PRASAD 1 | HINDI", WOW Kidz-Hindi
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=22148014&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-entertainment-uk.jpg" group-title="PRASAD 1 | HINDI", Sony Entertainment UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77775
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-entertainment-aud.jpg" group-title="PRASAD 1 | HINDI", Sony Entertainment APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77778
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sab-uk.jpg" group-title="PRASAD 1 | HINDI", SAB UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=92891823&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sab-aud.jpg" group-title="PRASAD 1 | HINDI", SAB APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77779
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-new-max-uk.jpg" group-title="PRASAD 1 | HINDI", Set Max UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77772
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-apac.jpg" group-title="PRASAD 1 | HINDI", Zee TV APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77780
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zeetv-new-hd.jpg" group-title="PRASAD 1 | HINDI", Zee TV HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77781
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg" group-title="PRASAD 1 | HINDI", Zee Cinema HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=25027946&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/And-Tv-HD.jpg" group-title="PRASAD 1 | HINDI", And TV HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=20258450&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_Bollywood_TV.jpg" group-title="PRASAD 1 | HINDI", Zee Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=58264595&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-action-new.jpg" group-title="PRASAD 1 | HINDI", Zee Action
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=33819332&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_ETC_Bollywood_TV.jpg" group-title="PRASAD 1 | HINDI", Zee ETC Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=88388434&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg" group-title="PRASAD 1 | HINDI", BBO
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=22429656&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo-uk.jpg" group-title="PRASAD 1 | HINDI", BBO UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=2121222&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/BBO-Classic.jpg" group-title="PRASAD 1 | HINDI", BBO Classic
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=63887852&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mtv-india.jpg" group-title="PRASAD 1 | HINDI", MTV India
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=55205650&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/music-india.jpg" group-title="PRASAD 1 | HINDI", Music India
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77848745&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/songdew-tv.jpg" group-title="PRASAD 1 | HINDI", Songdew
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=99406208&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zoom.jpg" group-title="PRASAD 1 | HINDI", Zoom
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=85315555&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/hare-krishna-tv.jpg" group-title="PRASAD 1 | HINDI", Hare Krishna TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=80070899&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/9xm.jpg" group-title="PRASAD 1 | HINDI", 9XM
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=34576682&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/9x-jalwa.jpg" group-title="PRASAD 1 | HINDI", 9X Jalwa
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=94916297&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zing-tv.jpg" group-title="PRASAD 1 | HINDI", Zing TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=24108312&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sangeet-bhojpuri.jpg" group-title="PRASAD 1 | HINDI", Sangeet Bhojpuri
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=19886885&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/brahma-kumaris.jpg" group-title="PRASAD 1 | HINDI", Brahma Kumaris
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87801719&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/abp-news.jpg" group-title="PRASAD 1 | HINDI", ABP News
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=79505525&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tez-tv.jpg" group-title="PRASAD 1 | HINDI", Tez TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77769820&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/ndtv-india.jpg" group-title="PRASAD 1 | HINDI", NDTV INDIA
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=11953344&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sanskar-tv.jpg" group-title="PRASAD 1 | HINDI", Sanskar TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=19874207&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Krishna_Vani_Tv.jpg" group-title="PRASAD 1 | HINDI", Krishna Vani
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=67411742&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/aajtak.jpg" group-title="PRASAD 1 | HINDI", Aajtak
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=49893677&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/vedic.jpg" group-title="PRASAD 1 | HINDI", Vedic
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=44744432&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Peace_of_Mind_TV.jpg" group-title="PRASAD 1 | HINDI", Peace of Mind
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=61111070&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay.jpg" group-title="PRASAD 1 | HINDI", Samay
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=86078116&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-up.jpg" group-title="PRASAD 1 | HINDI", Samay UP
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=76296846&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-rajasthan.jpg" group-title="PRASAD 1 | HINDI", Samay Rajasthan
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=23358900&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-bihar.jpg" group-title="PRASAD 1 | HINDI", Samay Bihar
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=39889655&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sudarshan-news.jpg" group-title="PRASAD 1 | HINDI", Sudarshan News
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=23908330&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-aalami.jpg" group-title="PRASAD 1 | HINDI", Samay Aalami
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=33450015&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mangalmay-tv.jpg" group-title="PRASAD 1 | HINDI", Mangalmay TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=83371895&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-mp.jpg" group-title="PRASAD 1 | HINDI", Samay MP
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=59800012&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/divya-tv.jpg" group-title="PRASAD 1 | HINDI", Divya TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=96300829&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg" group-title="PRASAD 1 | HINDI", IndiaTV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=34215727&e=.m3u8
+
