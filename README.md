@@ -9527,5 +9527,12 @@ http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=4788
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png" group-title="INDIAN | IPTV", (OFFLINE) MARATHI STAR PARVAH HD
 http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47888
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="WatchIndia | IST", (OFFLINE) Colors HD Marathi
+http://istreamtv.xyz/cdn/watchin/windia.php?uid=RahulVala_6431028&id=ColorsHDMarathi
+
 
 
