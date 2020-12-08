@@ -9535,4 +9535,13 @@ http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=4788
 http://istreamtv.xyz/cdn/watchin/windia.php?uid=RahulVala_6431028&id=ColorsHDMarathi
 
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/386x386/09zeemarathizeemarathihd.png" group-title="Zee5", (OFFLINE) Zee Marathi HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeemarathi
+
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mararhi-usa.png" group-title="Zee5", (OFFLINE) ZEE MARARHI USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=marathiusa
+
+
+
 
