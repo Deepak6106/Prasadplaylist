@@ -9543,5 +9543,45 @@ http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeemara
 http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=marathiusa
 
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) STAR PARVAH HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47888
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) ZEE TALKIES HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47889
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) ZEE MARTHI HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47890
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) COLORS MARATHI HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47891
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMARATH.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) SONY MARATHI
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47892
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/1200px-Sony_Aath_logo.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) SONY AATH
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47893
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/220px-DDSahyadriLogo.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) DD SAHYADRI
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47894
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEE24TAAS.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) ZEE 24 TAAS
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47895
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SANGEETMARAT.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) SANGEET MARATHI
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47896
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/9XJHAKAAS1.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) 9X JHAKAAS
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47897
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/FAKHTMART1.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) FAKHT MARATHI
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=48186
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/TULJABHAVAN1.png" group-title="प्रसाद मराठी 1 | MARATHI", (OFFLINE) TULJA BHAVANI
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=48304
+
 
 
