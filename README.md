@@ -9515,5 +9515,17 @@ http://indtv.online/jiotv/WB.m3u8
 
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png" group-title="TATAIR PL-Server | MARATHI", (OFFLINE) STAR PARVAH HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47888
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png" group-title="TATAIR | MARATHI", (OFFLINE) STAR PARVAH HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47888
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png" group-title="TATAIR S-2 | MARATHI", (OFFLINE) STAR PARVAH HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47888
+
+#EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png" group-title="INDIAN | IPTV", (OFFLINE) MARATHI STAR PARVAH HD
+http://tamilcuisine.online/api/auth/stred/str7.php?uid=RahulVala_6431028&id=47888
+
 
 
