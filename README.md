@@ -9907,503 +9907,499 @@ http://istreamtv.xyz/api/slive/sonyliv.php?uid=RahulVala_6431028&c=6109544933001
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SonyLIV FHD-PRASADTV", (प्रसाद) SONY TV UAE
 http://istreamtv.xyz/api/slive/sonyliv.php?uid=RahulVala_6431028&c=6109542062001
 
-#EXTM3U
+##EXTM3U
 
-#EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Zee5", (prasad) Zee TV HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetvhd
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title=" Zee5", (प्रसाद) Zee TV HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetvhd
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title="Zee5", (prasad) Zee TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetv
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png" group-title=" Zee5", (प्रसाद) Zee TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetv
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title="Zee5", (prasad) &TV HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-tvhd_0
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-tvhd_0/list/386x386/09tvhd_0tvhd.png" group-title=" Zee5", (प्रसाद) &TV HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-tvhd_0
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="Zee5", (prasad) &xplorHD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-209
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title=" Zee5", (प्रसाद) &xplorHD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-209
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="Zee5", (prasad) Zee Cinema HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecinemahd
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title=" Zee5", (प्रसाद) Zee Cinema HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecinemahd
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="Zee5", (prasad) Zee Cinema
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecinema
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title=" Zee5", (प्रसाद) Zee Cinema
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecinema
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title="Zee5", (prasad) &Pictures HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-tvpictureshd
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-tvpictureshd/list/386x386/09tvpictureshdpictureshd.png" group-title=" Zee5", (प्रसाद) &Pictures HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-tvpictureshd
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zing/list/386x386/09zingzing.png" group-title="Zee5", (prasad) Zing
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zing
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zing/list/386x386/09zingzing.png" group-title=" Zee5", (प्रसाद) Zing
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zing
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="Zee5", (prasad) ZEE5 Kids
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-290
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-290/list/386x386/1170x658_ Zee5kid_983708240.png" group-title=" Zee5", (प्रसाद)  Zee5 Kids
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-290
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeyuva/list/386x386/09zeeyuvazeeyuva.png" group-title="Zee5", (prasad) Zee Yuva
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeyuva
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeeyuva/list/386x386/09zeeyuvazeeyuva.png" group-title=" Zee5", (प्रसाद) Zee Yuva
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeyuva
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title="Zee5", (prasad) Zee Thirai
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-224
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title=" Zee5", (प्रसाद) Zee Thirai
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-224
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetelugu/list/386x386/09zeeteluguzeetelugu.png" group-title="Zee5", (prasad) Zee Telugu
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetelugu
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeetelugu/list/386x386/09zeeteluguzeetelugu.png" group-title=" Zee5", (प्रसाद) Zee Telugu
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetelugu
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title="Zee5", (prasad) Zee Tamil
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetamil
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title=" Zee5", (प्रसाद) Zee Tamil
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetamil
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetalkies/list/386x386/09zeetalkieszeetalkies.png" group-title="Zee5", (prasad) Zee Talkies
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetalkies
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeetalkies/list/386x386/09zeetalkieszeetalkies.png" group-title=" Zee5", (प्रसाद) Zee Talkies
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeetalkies
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/386x386/09zeesalaamzeesalaam.png" group-title="Zee5", (prasad) Zee Salaam
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeesalaam
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeesalaam/list/386x386/09zeesalaamzeesalaam.png" group-title=" Zee5", (प्रसाद) Zee Salaam
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeesalaam
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeerajasthannews/list/386x386/09zeerajasthannewszeerajas.png" group-title="Zee5", (prasad) Zee Rajasthan News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeerajasthannews
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeerajasthannews/list/386x386/09zeerajasthannewszeerajas.png" group-title=" Zee5", (प्रसाद) Zee Rajasthan News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeerajasthannews
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-215/list/386x386/09215zeepunjabi.png" group-title="Zee5", (prasad) Zee Punjabi
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-215
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-215/list/386x386/09215zeepunjabi.png" group-title=" Zee5", (प्रसाद) Zee Punjabi
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-215
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/386x386/09zeepunjabharyanahimazeep.png" group-title="Zee5", (prasad) Zee Punjab Haryana Himachal Pradesh
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeepunjabharyanahima
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeepunjabharyanahima/list/386x386/09zeepunjabharyanahimazeep.png" group-title=" Zee5", (प्रसाद) Zee Punjab Haryana Himachal Pradesh
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeepunjabharyanahima
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-241/list/386x386/09241zeepicchar.png" group-title="Zee5", (prasad) Zee Picchar
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-241
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-241/list/386x386/09241zeepicchar.png" group-title=" Zee5", (प्रसाद) Zee Picchar
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-241
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_265145625/list/386x386/09channel_265145625zeenews.png" group-title="Zee5", (prasad) Zee News Uttar Pradesh Uttrakhand
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_265145625
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-channel_265145625/list/386x386/09channel_265145625zeenews.png" group-title=" Zee5", (प्रसाद) Zee News Uttar Pradesh Uttrakhand
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_265145625
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title="Zee5", (prasad) Zee News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeenews
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeenews/list/386x386/09zeenewszeenews.png" group-title=" Zee5", (प्रसाद) Zee News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeenews
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/386x386/09zeemarathizeemarathihd.png" group-title="Zee5", (prasad) Zee Marathi HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeemarathi
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeemarathi/list/386x386/09zeemarathizeemarathihd.png" group-title=" Zee5", (प्रसाद) Zee Marathi HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeemarathi
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemadhyapradeshchat/list/386x386/09zeemadhyapradeshchatzeem.png" group-title="Zee5", (prasad) Zee Madhya Pradesh Chhattisgarh
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeemadhyapradeshchat
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeemadhyapradeshchat/list/386x386/09zeemadhyapradeshchatzeem.png" group-title=" Zee5", (प्रसाद) Zee Madhya Pradesh Chhattisgarh
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeemadhyapradeshchat
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-129/list/386x386/09129zeekeralam.png" group-title="Zee5", (prasad) Zee Keralam
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-129
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-129/list/386x386/09129zeekeralam.png" group-title=" Zee5", (प्रसाद) Zee Keralam
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-129
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeekannada/list/386x386/09zeekannadazeekannada.png" group-title="Zee5", (prasad) Zee Kannada
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeekannada
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeekannada/list/386x386/09zeekannadazeekannada.png" group-title=" Zee5", (प्रसाद) Zee Kannada
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeekannada
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeehindustan/list/386x386/09zeehindustanzeehindustan.png" group-title="Zee5", (prasad) Zee Hindustan
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeehindustan
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeehindustan/list/386x386/09zeehindustanzeehindustan.png" group-title=" Zee5", (प्रसाद) Zee Hindustan
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeehindustan
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-etc/list/386x386/09etczeeetcbollywood.png" group-title="Zee5", (prasad) Zee ETC Bollywood
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-etc
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-etc/list/386x386/09etczeeetcbollywood.png" group-title=" Zee5", (प्रसाद) Zee ETC Bollywood
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-etc
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" group-title="Zee5", (prasad) Zee Classic
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-176
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" group-title=" Zee5", (प्रसाद) Zee Classic
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-176
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemalu/list/386x386/09zeecinemaluzeecinemalu.png" group-title="Zee5", (prasad) Zee Cinemalu
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecinemalu
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeecinemalu/list/386x386/09zeecinemaluzeecinemalu.png" group-title=" Zee5", (प्रसाद) Zee Cinemalu
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecinemalu
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="Zee5", (prasad) Zee Café HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecafehd
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title=" Zee5", (प्रसाद) Zee Café HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeecafehd
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebusiness/list/386x386/09zeebusinesszeebusiness.png" group-title="Zee5", (prasad) Zee Business
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebusiness
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeebusiness/list/386x386/09zeebusinesszeebusiness.png" group-title=" Zee5", (प्रसाद) Zee Business
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebusiness
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="Zee5", (prasad) Zee Bollywood
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeclassic
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title=" Zee5", (प्रसाद) Zee Bollywood
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeclassic
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-216/list/386x386/1170x658_zeebio_1600608309.png" group-title="Zee5", (prasad) Zee Biskope
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-216
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-216/list/386x386/1170x658_zeebio_1600608309.png" group-title=" Zee5", (प्रसाद) Zee Biskope
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-216
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebiharjharkhand/list/386x386/09zeebiharjharkhandzeebiha.png" group-title="Zee5", (prasad) Zee Bihar Jharkhand
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebiharjharkhand
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeebiharjharkhand/list/386x386/09zeebiharjharkhandzeebiha.png" group-title=" Zee5", (प्रसाद) Zee Bihar Jharkhand
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebiharjharkhand
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/386x386/09zeebanglacinemazeebangla.png" group-title="Zee5", (prasad) Zee Bangla Cinema
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebanglacinema
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeebanglacinema/list/386x386/09zeebanglacinemazeebangla.png" group-title=" Zee5", (प्रसाद) Zee Bangla Cinema
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebanglacinema
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebangla/list/386x386/09zeebanglazeebangla.png" group-title="Zee5", (prasad) Zee Bangla
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebangla
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeebangla/list/386x386/09zeebanglazeebangla.png" group-title=" Zee5", (प्रसाद) Zee Bangla
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeebangla
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="Zee5", (prasad) Zee Anmol Cinema
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeanmolcinema
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title=" Zee5", (प्रसाद) Zee Anmol Cinema
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title="Zee5", (prasad) Zee Anmol
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeanmol
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeeanmol/list/386x386/09zeeanmolzeeanmol.png" group-title=" Zee5", (प्रसाद) Zee Anmol
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeanmol
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="Zee5", (prasad) Zee Action
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeaction
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title=" Zee5", (प्रसाद) Zee Action
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zeeaction
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24taas/list/386x386/09zee24taaszee24taas.png" group-title="Zee5", (prasad) Zee 24 Taas
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zee24taas
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zee24taas/list/386x386/09zee24taaszee24taas.png" group-title=" Zee5", (प्रसाद) Zee 24 Taas
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zee24taas
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24kalak/list/386x386/1170x658_1038153274.png" group-title="Zee5", (prasad) Zee 24 Kalak
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zee24kalak
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-zee24kalak/list/386x386/1170x658_1038153274.png" group-title=" Zee5", (प्रसाद) Zee 24 Kalak
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-zee24kalak
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="Zee5", (prasad) WION
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-wion
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title=" Zee5", (प्रसाद) WION
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-wion
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-306/list/386x386/1170x658psd_1968564726.png" group-title="Zee5", (prasad) Vendhar TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-306
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-306/list/386x386/1170x658psd_1968564726.png" group-title=" Zee5", (प्रसाद) Vendhar TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-306
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-258/list/386x386/09258tv9telugu.png" group-title="Zee5", (prasad) TV9 Telugu
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-258
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-258/list/386x386/09258tv9telugu.png" group-title=" Zee5", (प्रसाद) TV9 Telugu
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-258
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="Zee5", (prasad) TV9 Marathi
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-257
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title=" Zee5", (प्रसाद) TV9 Marathi
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-257
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-259/list/386x386/09259tv9kannada.png" group-title="Zee5", (prasad) TV9 Kannada
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-259
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-259/list/386x386/09259tv9kannada.png" group-title=" Zee5", (प्रसाद) TV9 Kannada
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-259
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-260/list/386x386/09260tv9gujarati.png" group-title="Zee5", (prasad) TV9 Gujarati
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-260
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-260/list/386x386/09260tv9gujarati.png" group-title=" Zee5", (प्रसाद) TV9 Gujarati
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-260
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-251/list/386x386/09251tv9bharatvarsh.png" group-title="Zee5", (prasad) TV9 Bharatvarsh
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-251
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-251/list/386x386/09251tv9bharatvarsh.png" group-title=" Zee5", (प्रसाद) TV9 Bharatvarsh
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-251
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-222/list/386x386/09222tv5news.png" group-title="Zee5", (prasad) TV5 News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-222
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-222/list/386x386/09222tv5news.png" group-title=" Zee5", (प्रसाद) TV5 News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-222
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-227/list/386x386/1170x658_1957432816.png" group-title="Zee5", (prasad) TV5 Kannada
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-227
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-227/list/386x386/1170x658_1957432816.png" group-title=" Zee5", (प्रसाद) TV5 Kannada
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-227
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-317/list/386x386/1170x658psd_1932866204.png" group-title="Zee5", (prasad) Time8
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-317
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-317/list/386x386/1170x658psd_1932866204.png" group-title=" Zee5", (प्रसाद) Time8
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-317
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-181/list/386x386/09181theqindiahd.png" group-title="Zee5", (prasad) The Q India HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-181
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-181/list/386x386/09181theqindiahd.png" group-title=" Zee5", (प्रसाद) The Q India HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-181
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-255/list/386x386/09255tez.png" group-title="Zee5", (prasad) Tez
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-255
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-255/list/386x386/09255tez.png" group-title=" Zee5", (प्रसाद) Tez
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-255
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-201/list/386x386/09201suvarnanews.png" group-title="Zee5", (prasad) Suvarna News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-201
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-201/list/386x386/09201suvarnanews.png" group-title=" Zee5", (प्रसाद) Suvarna News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-201
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-271/list/386x386/sugrantv.png" group-title="Zee5", (prasad) Sugran TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-271
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-271/list/386x386/sugrantv.png" group-title=" Zee5", (प्रसाद) Sugran TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-271
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-185/list/386x386/09185sportsflasheshindi.png" group-title="Zee5", (prasad) Sports Flashes - Hindi
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-185
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-185/list/386x386/09185sportsflasheshindi.png" group-title=" Zee5", (प्रसाद) Sports Flashes - Hindi
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-185
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-301/list/386x386/1170x658psd_899351993.png" group-title="Zee5", (prasad) Sounds of ZEE5 - Romance
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-301
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-301/list/386x386/1170x658psd_899351993.png" group-title=" Zee5", (प्रसाद) Sounds of  Zee5 - Romance
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-301
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-300/list/386x386/1170x658psd_1825414407.png" group-title="Zee5", (prasad) Sounds of ZEE5 - Punjabi Beats
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-300
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-300/list/386x386/1170x658psd_1825414407.png" group-title=" Zee5", (प्रसाद) Sounds of  Zee5 - Punjabi Beats
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-300
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-299/list/386x386/1170x658psd_1477247939.png" group-title="Zee5", (prasad) Sounds of ZEE5 - Originals
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-299
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-299/list/386x386/1170x658psd_1477247939.png" group-title=" Zee5", (प्रसाद) Sounds of  Zee5 - Originals
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-299
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-298/list/386x386/1170x658psd_1468258188.png" group-title="Zee5", (prasad) Sounds of ZEE5 - Local Vocal
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-298
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-298/list/386x386/1170x658psd_1468258188.png" group-title=" Zee5", (प्रसाद) Sounds of  Zee5 - Local Vocal
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-298
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-302/list/386x386/1170x658psd_1116886297.png" group-title="Zee5", (prasad) Sounds of ZEE5 - EDM
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-302
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-302/list/386x386/1170x658psd_1116886297.png" group-title=" Zee5", (प्रसाद) Sounds of  Zee5 - EDM
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-302
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-219/list/386x386/09219showbox.png" group-title="Zee5", (prasad) Showbox
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-219
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-219/list/386x386/09219showbox.png" group-title=" Zee5", (प्रसाद) Showbox
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-219
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-163/list/386x386/1170x658_shikshatv.png" group-title="Zee5", (prasad) Shiksha TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-163
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-163/list/386x386/1170x658_shikshatv.png" group-title=" Zee5", (प्रसाद) Shiksha TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-163
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1565694979/list/386x386/09channel_1565694979satsan.png" group-title="Zee5", (prasad) Satsang TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_1565694979
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-channel_1565694979/list/386x386/09channel_1565694979satsan.png" group-title=" Zee5", (प्रसाद) Satsang TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_1565694979
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1144658965/list/386x386/09channel_1144658965sanska.png" group-title="Zee5", (prasad) Sanskar TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_1144658965
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-channel_1144658965/list/386x386/09channel_1144658965sanska.png" group-title=" Zee5", (प्रसाद) Sanskar TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_1144658965
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-284/list/386x386/sadhnatv.png" group-title="Zee5", (prasad) Sadhna TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-284
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-284/list/386x386/sadhnatv.png" group-title=" Zee5", (प्रसाद) Sadhna TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-284
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-313/list/386x386/1170x658psd_120976450.png" group-title="Zee5", (prasad) Sadhna Plus News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-313
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-313/list/386x386/1170x658psd_120976450.png" group-title=" Zee5", (प्रसाद) Sadhna Plus News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-313
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-319/list/386x386/" group-title="Zee5", (prasad) Sadhna News MP/CG
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-319
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-319/list/386x386/" group-title=" Zee5", (प्रसाद) Sadhna News MP/CG
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-319
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-270/list/386x386/saamtv.png" group-title="Zee5", (prasad) Saam TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-270
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-270/list/386x386/saamtv.png" group-title=" Zee5", (प्रसाद) Saam TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-270
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_1422341819/list/386x386/09channel_1422341819republ.png" group-title="Zee5", (prasad) Republic TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_1422341819
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-channel_1422341819/list/386x386/09channel_1422341819republ.png" group-title=" Zee5", (प्रसाद) Republic TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_1422341819
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png" group-title="Zee5", (prasad) Republic Bharat
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-162
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-162/list/386x386/09162republicbharat.png" group-title=" Zee5", (प्रसाद) Republic Bharat
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-162
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-220/list/386x386/09220putiyathalamurai.png" group-title="Zee5", (prasad) Putiya Thalamurai
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-220
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-220/list/386x386/09220putiyathalamurai.png" group-title=" Zee5", (प्रसाद) Putiya Thalamurai
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-220
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-221/list/386x386/09221puthyugamtv.png" group-title="Zee5", (prasad) Puthyugam TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-221
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-221/list/386x386/09221puthyugamtv.png" group-title=" Zee5", (प्रसाद) Puthyugam TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-221
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" group-title="Zee5", (prasad) Polimer News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-203
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-203/list/386x386/09203polimernews.png" group-title=" Zee5", (प्रसाद) Polimer News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-203
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-296/list/386x386/1170x658_419268810.png" group-title="Zee5", (prasad) Non-stop EDM
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-296
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-296/list/386x386/1170x658_419268810.png" group-title=" Zee5", (प्रसाद) Non-stop EDM
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-296
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-206/list/386x386/09206news24.png" group-title="Zee5", (prasad) News24
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-206
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-206/list/386x386/09206news24.png" group-title=" Zee5", (प्रसाद) News24
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-206
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-273/list/386x386/newsx.png" group-title="Zee5", (prasad) News X
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-273
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-273/list/386x386/newsx.png" group-title=" Zee5", (प्रसाद) News X
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-273
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-171/list/386x386/09171newsstateuttarpradesh.png" group-title="Zee5", (prasad) News State Uttar Pradesh Uttrakhand
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-171
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-171/list/386x386/09171newsstateuttarpradesh.png" group-title=" Zee5", (प्रसाद) News State Uttar Pradesh Uttrakhand
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-171
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-172/list/386x386/09172newsstatemadhyaprades.png" group-title="Zee5", (prasad) News State Madhya Pradesh Chhattisgarh
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-172
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-172/list/386x386/09172newsstatemadhyaprades.png" group-title=" Zee5", (प्रसाद) News State Madhya Pradesh Chhattisgarh
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-172
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-170/list/386x386/09170newsnation.png" group-title="Zee5", (prasad) News Nation
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-170
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-170/list/386x386/09170newsnation.png" group-title=" Zee5", (प्रसाद) News Nation
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-170
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-261/list/386x386/09261news9.png" group-title="Zee5", (prasad) News 9
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-261
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-261/list/386x386/09261news9.png" group-title=" Zee5", (प्रसाद) News 9
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-261
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-280/list/386x386/nenews_176594625.png" group-title="Zee5", (prasad) NE News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-280
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-280/list/386x386/nenews_176594625.png" group-title=" Zee5", (प्रसाद) NE News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-280
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-makkaltv/list/386x386/09makkaltvmakkaltv.png" group-title="Zee5", (prasad) Makkal TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-makkaltv
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-makkaltv/list/386x386/09makkaltvmakkaltv.png" group-title=" Zee5", (प्रसाद) Makkal TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-makkaltv
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-305/list/386x386/1170x658psd_69203595.png" group-title="Zee5", (prasad) Living India
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-305
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-305/list/386x386/1170x658psd_69203595.png" group-title=" Zee5", (प्रसाद) Living India
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-305
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title="Zee5", (prasad) Living Foodz
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-livingfoodz
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-livingfoodz/list/386x386/09livingfoodzlivingfoodz.png" group-title=" Zee5", (प्रसाद) Living Foodz
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-livingfoodz
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-166/list/386x386/09166krishnavani.png" group-title="Zee5", (prasad) Krishna Vani
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-166
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-166/list/386x386/09166krishnavani.png" group-title=" Zee5", (प्रसाद) Krishna Vani
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-166
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-285/list/386x386/ishwartv.png" group-title="Zee5", (prasad) Ishwar  TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-285
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-285/list/386x386/ishwartv.png" group-title=" Zee5", (प्रसाद) Ishwar  TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-285
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-282/list/386x386/indiatv.png" group-title="Zee5", (prasad) India TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-282
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-282/list/386x386/indiatv.png" group-title=" Zee5", (प्रसाद) India TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-282
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-indiatoday/list/386x386/09indiatodayindiatoday.png" group-title="Zee5", (prasad) India Today
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-indiatoday
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-indiatoday/list/386x386/09indiatodayindiatoday.png" group-title=" Zee5", (प्रसाद) India Today
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-indiatoday
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-275/list/386x386/indianewsup_1043438544.png" group-title="Zee5", (prasad) India News UP
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-275
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-275/list/386x386/indianewsup_1043438544.png" group-title=" Zee5", (प्रसाद) India News UP
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-275
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-276/list/386x386/indianewsrajasthan.png" group-title="Zee5", (prasad) India News Rajasthan
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-276
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-276/list/386x386/indianewsrajasthan.png" group-title=" Zee5", (प्रसाद) India News Rajasthan
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-276
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-274/list/386x386/1170x658_1666427088.png" group-title="Zee5", (prasad) India News Punjabi Himachal
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-274
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-274/list/386x386/1170x658_1666427088.png" group-title=" Zee5", (प्रसाद) India News Punjabi Himachal
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-274
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-277/list/386x386/indianews_mp.png" group-title="Zee5", (prasad) India News MP
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-277
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-277/list/386x386/indianews_mp.png" group-title=" Zee5", (प्रसाद) India News MP
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-277
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-278/list/386x386/indianewsharyana.png" group-title="Zee5", (prasad) India News Haryana
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-278
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-278/list/386x386/indianewsharyana.png" group-title=" Zee5", (प्रसाद) India News Haryana
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-278
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-279/list/386x386/indianewsgujarati.png" group-title="Zee5", (prasad) India News Gujarat
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-279
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-279/list/386x386/indianewsgujarati.png" group-title=" Zee5", (प्रसाद) India News Gujarat
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-279
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-272/list/386x386/indianews.png" group-title="Zee5", (prasad) India News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-272
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-272/list/386x386/indianews.png" group-title=" Zee5", (प्रसाद) India News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-272
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-183/list/386x386/09183harekrsna.png" group-title="Zee5", (prasad) Hare Krsna
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-183
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-183/list/386x386/09183harekrsna.png" group-title=" Zee5", (प्रसाद) Hare Krsna
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-183
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-229/list/386x386/09229epictv.png" group-title="Zee5", (prasad) Epic TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-229
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-229/list/386x386/09229epictv.png" group-title=" Zee5", (प्रसाद) Epic TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-229
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-207/list/386x386/09207e24.png" group-title="Zee5", (prasad) E24
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-207
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-207/list/386x386/09207e24.png" group-title=" Zee5", (प्रसाद) E24
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-207
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-divyatv/list/386x386/09divyatvdivyatv.png" group-title="Zee5", (prasad) Divya TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-divyatv
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-divyatv/list/386x386/09divyatvdivyatv.png" group-title=" Zee5", (प्रसाद) Divya TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-divyatv
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-245/list/386x386/09245dishpositive.png" group-title="Zee5", (prasad) Dish Positive
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-245
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-245/list/386x386/09245dishpositive.png" group-title=" Zee5", (प्रसाद) Dish Positive
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-245
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddyadagiri/list/386x386/09ddyadagiriddyadagiri.png" group-title="Zee5", (prasad) DD Yadagiri
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddyadagiri
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddyadagiri/list/386x386/09ddyadagiriddyadagiri.png" group-title=" Zee5", (प्रसाद) DD Yadagiri
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddyadagiri
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-dduttarpradesh/list/386x386/09dduttarpradeshdduttarpra.png" group-title="Zee5", (prasad) DD Uttar Pradesh
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-dduttarpradesh
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-dduttarpradesh/list/386x386/09dduttarpradeshdduttarpra.png" group-title=" Zee5", (प्रसाद) DD Uttar Pradesh
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-dduttarpradesh
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddurdu/list/386x386/09ddurduddurdu.png" group-title="Zee5", (prasad) DD Urdu
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddurdu
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddurdu/list/386x386/09ddurduddurdu.png" group-title=" Zee5", (प्रसाद) DD Urdu
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddurdu
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddsahyadri/list/386x386/09ddsahyadriddsahyadri.png" group-title="Zee5", (prasad) DD Sahyadri
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddsahyadri
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddsahyadri/list/386x386/09ddsahyadriddsahyadri.png" group-title=" Zee5", (प्रसाद) DD Sahyadri
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddsahyadri
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddrajasthanjaipur/list/386x386/09ddrajasthanjaipurddrajas.png" group-title="Zee5", (prasad) DD Rajasthan
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddrajasthanjaipur
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddrajasthanjaipur/list/386x386/09ddrajasthanjaipurddrajas.png" group-title=" Zee5", (प्रसाद) DD Rajasthan
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddrajasthanjaipur
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddpunjabi/list/386x386/09ddpunjabiddpunjabi.png" group-title="Zee5", (prasad) DD Punjabi
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddpunjabi
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddpunjabi/list/386x386/09ddpunjabiddpunjabi.png" group-title=" Zee5", (प्रसाद) DD Punjabi
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddpunjabi
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddpodhigai/list/386x386/09ddpodhigaiddpodhigai.png" group-title="Zee5", (prasad) DD Podhigai
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddpodhigai
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddpodhigai/list/386x386/09ddpodhigaiddpodhigai.png" group-title=" Zee5", (प्रसाद) DD Podhigai
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddpodhigai
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddnews/list/386x386/09ddnewsddnews.png" group-title="Zee5", (prasad) DD News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddnews
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddnews/list/386x386/09ddnewsddnews.png" group-title=" Zee5", (प्रसाद) DD News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddnews
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png" group-title="Zee5", (prasad) DD National HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-250
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-250/list/386x386/09250ddnationalhd.png" group-title=" Zee5", (प्रसाद) DD National HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-250
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddmalayalam/list/386x386/09ddmalayalamddmalayalam.png" group-title="Zee5", (prasad) DD Malayalam
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddmalayalam
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddmalayalam/list/386x386/09ddmalayalamddmalayalam.png" group-title=" Zee5", (प्रसाद) DD Malayalam
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddmalayalam
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddmadhyapradesh/list/386x386/09ddmadhyapradeshddmadhyap.png" group-title="Zee5", (prasad) DD Madhya Pradesh
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddmadhyapradesh
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddmadhyapradesh/list/386x386/09ddmadhyapradeshddmadhyap.png" group-title=" Zee5", (प्रसाद) DD Madhya Pradesh
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddmadhyapradesh
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddkisan/list/386x386/09ddkisanddkisan.png" group-title="Zee5", (prasad) DD Kisan
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddkisan
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddkisan/list/386x386/09ddkisanddkisan.png" group-title=" Zee5", (प्रसाद) DD Kisan
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddkisan
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddindia/list/386x386/09ddindiaddindia.png" group-title="Zee5", (prasad) DD India
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddindia
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddindia/list/386x386/09ddindiaddindia.png" group-title=" Zee5", (प्रसाद) DD India
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddindia
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddgirnar/list/386x386/09ddgirnarddgirnar.png" group-title="Zee5", (prasad) DD Girnar
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddgirnar
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddgirnar/list/386x386/09ddgirnarddgirnar.png" group-title=" Zee5", (प्रसाद) DD Girnar
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddgirnar
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddchandana/list/386x386/09ddchandanaddchandana.png" group-title="Zee5", (prasad) DD Chandana
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddchandana
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddchandana/list/386x386/09ddchandanaddchandana.png" group-title=" Zee5", (प्रसाद) DD Chandana
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddchandana
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddbihar/list/386x386/09ddbiharddbihar.png" group-title="Zee5", (prasad) DD Bihar
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddbihar
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddbihar/list/386x386/09ddbiharddbihar.png" group-title=" Zee5", (प्रसाद) DD Bihar
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddbihar
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddbharati/list/386x386/09ddbharatiddbharati.png" group-title="Zee5", (prasad) DD Bharati
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddbharati
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddbharati/list/386x386/09ddbharatiddbharati.png" group-title=" Zee5", (प्रसाद) DD Bharati
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddbharati
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-ddbangla/list/386x386/09ddbangladdbangla.png" group-title="Zee5", (prasad) DD Bangla
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddbangla
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-ddbangla/list/386x386/09ddbangladdbangla.png" group-title=" Zee5", (प्रसाद) DD Bangla
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-ddbangla
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-chardiklatimetvtimet/list/386x386/09chardiklatimetvtimetchar.png" group-title="Zee5", (prasad) Chardikla Time TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-chardiklatimetvtimet
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-chardiklatimetvtimet/list/386x386/09chardiklatimetvtimetchar.png" group-title=" Zee5", (प्रसाद) Chardikla Time TV
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-chardiklatimetvtimet
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-165/list/386x386/09165booglebollywood.png" group-title="Zee5", (prasad) Boogle Bollywood
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-165
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-165/list/386x386/09165booglebollywood.png" group-title=" Zee5", (प्रसाद) Boogle Bollywood
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-165
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title="Zee5", (prasad) Big Magic
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-bigmagic_1786965389
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-bigmagic_1786965389/list/386x386/09bigmagic_1786965389bigma.png" group-title=" Zee5", (प्रसाद) Big Magic
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-bigmagic_1786965389
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-bigganga/list/386x386/09biggangabigganga.png" group-title="Zee5", (prasad) Big Ganga
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-bigganga
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-bigganga/list/386x386/09biggangabigganga.png" group-title=" Zee5", (प्रसाद) Big Ganga
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-bigganga
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-200/list/386x386/09200asianetnews.png" group-title="Zee5", (prasad) Asianet News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-200
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-200/list/386x386/09200asianetnews.png" group-title=" Zee5", (प्रसाद) Asianet News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-200
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-aajtak/list/386x386/09aajtakaajtak.png" group-title="Zee5", (prasad) Aaj Tak
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-aajtak
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-aajtak/list/386x386/09aajtakaajtak.png" group-title=" Zee5", (प्रसाद) Aaj Tak
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-aajtak
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-131/list/386x386/091319xm.png" group-title="Zee5", (prasad) 9XM
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-131
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-131/list/386x386/091319xm.png" group-title=" Zee5", (प्रसाद) 9XM
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-131
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-132/list/386x386/091329xtashan.png" group-title="Zee5", (prasad) 9X Tashan
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-132
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-132/list/386x386/091329xtashan.png" group-title=" Zee5", (प्रसाद) 9X Tashan
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-132
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-134/list/386x386/091349xjhakaas.png" group-title="Zee5", (prasad) 9X Jhakaas
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-134
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-134/list/386x386/091349xjhakaas.png" group-title=" Zee5", (प्रसाद) 9X Jhakaas
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-134
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-133/list/386x386/091339xjalwa.png" group-title="Zee5", (prasad) 9X Jalwa
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-133
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-133/list/386x386/091339xjalwa.png" group-title=" Zee5", (प्रसाद) 9X Jalwa
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-133
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-24ghantatv/list/386x386/0924ghantatv24ghanta.png" group-title="Zee5", (prasad) 24 Ghanta
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-24ghantatv
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-24ghantatv/list/386x386/0924ghantatv24ghanta.png" group-title=" Zee5", (प्रसाद) 24 Ghanta
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-24ghantatv
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" group-title="Zee5", (prasad) &Prive HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-privehd
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" group-title=" Zee5", (प्रसाद) &Prive HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-privehd
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="Zee5", (prasad) &Pictures
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-pictures
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title=" Zee5", (प्रसाद) &Pictures
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-pictures
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="Zee5", (prasad) &flix
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title=" Zee5", (प्रसाद) &flix
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_2105335046
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="Zee5", (prasad) &flix HD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.m3u8?c=andflixhd
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title=" Zee5", (प्रसाद) &flix HD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.m3u8?c=andflixhd
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-theather.png" group-title="Zee5", (prasad) ZEE THEATHER
+http://tamilgo.com/api1cdn/zee5/z5theather.m3u8?c=out&e=.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-theather.png" group-title=" Zee5", (प्रसाद) ZEE THEATHER
-http://tamilgo.com/api1cdn/ Zee5/z5theather.m3u8?c=out&e=.m3u8
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/alpha-etc-punjabi.png" group-title="Zee5", (prasad) Alpha ETC Punjabi
+http://tamilgo.com/api1cdn/zee5/zee6@tv.m3u8?c=etcpnjbiusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/alpha-etc-punjabi.png" group-title=" Zee5", (प्रसाद) Alpha ETC Punjabi
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.m3u8?c=etcpnjbiusa
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-living-usa.jpg" group-title="Zee5", (prasad) Zee Living USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=zlivingusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-living-usa.jpg" group-title=" Zee5", (प्रसाद) Zee Living USA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=zlivingusa
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mundo-hd.png" group-title="Zee5", (prasad) Zee Mundo HD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=mundohd
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mundo-hd.png" group-title=" Zee5", (प्रसाद) Zee Mundo HD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=mundohd
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-world.jpg" group-title="Zee5", (prasad) ZEE WORLD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=world
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-world.jpg" group-title=" Zee5", (प्रसाद) ZEE WORLD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=world
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa.jpg" group-title="Zee5", (prasad) ZeeTV USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=ztvsdusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa.jpg" group-title=" Zee5", (प्रसाद) ZeeTV USA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=ztvsdusa
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa-hd.png" group-title="Zee5", (prasad) ZeeTV USA HD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=ztvhdusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zeetv-usa-hd.png" group-title=" Zee5", (प्रसाद) ZeeTV USA HD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=ztvhdusa
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/tv-hd-usa.png" group-title="Zee5", (prasad) &Tv HD USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=andtvhdusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/tv-hd-usa.png" group-title=" Zee5", (प्रसाद) &Tv HD USA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=andtvhdusa
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zing-usa-vns0vadqz53h.png" group-title="Zee5", (prasad) ZING USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=zingusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zing-usa-vns0vadqz53h.png" group-title=" Zee5", (प्रसाद) ZING USA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=zingusa
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mararhi-usa.png" group-title="Zee5", (prasad) ZEE MARARHI USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=marathiusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mararhi-usa.png" group-title=" Zee5", (प्रसाद) ZEE MARARHI USA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=marathiusa
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-uk.png" group-title="Zee5", (prasad) ZEE CINEMA UK
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=cinemauk
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-uk.png" group-title=" Zee5", (प्रसाद) ZEE CINEMA UK
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=cinemauk
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-usa.png" group-title="Zee5", (prasad) ZEE CINEMA USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=cinemausa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-cinema-usa.png" group-title=" Zee5", (प्रसाद) ZEE CINEMA USA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=cinemausa
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Zee5", (ONLINE) ZING USA
+https://tamilcuisine.online/api/z5/zee5@tv.php?c=0-9-zing
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title=" Zee5", (ONLINE) ZING USA
-https://tamilcuisine.online/api/z5/ Zee5@tv.php?c=0-9-zing
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-canada.png" group-title="Zee5", (prasad) ZEE TV CANADA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=canadahd
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-canada.png" group-title=" Zee5", (प्रसाद) ZEE TV CANADA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=canadahd
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-apac.png" group-title="Zee5", (prasad) ZEE TV APAC
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=apacsea
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-tv-apac.png" group-title=" Zee5", (प्रसाद) ZEE TV APAC
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=apacsea
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/and-tv-sd.png" group-title="Zee5", (prasad) AND TV SD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=andtvsd
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/and-tv-sd.png" group-title=" Zee5", (प्रसाद) AND TV SD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=andtvsd
+#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-smile-usa.png" group-title="Zee5", (prasad) ZEE SMILE USA
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=smileusa
 
-#EXTINF:-1 tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-smile-usa.png" group-title=" Zee5", (प्रसाद) ZEE SMILE USA
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=smileusa
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Zee_Zest.jpg" group-title="Zee5", (prasad) ZEE ZEST HD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=zzesthd
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/75/Zee_Zest.jpg" group-title=" Zee5", (प्रसाद) ZEE ZEST HD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=zzesthd
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/bbc-news-logo-png-bbc-world-channel-logo-11563049882jqyf96g6u7.png" group-title="Zee5", (prasad) BBC World News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-339
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/bbc-news-logo-png-bbc-world-channel-logo-11563049882jqyf96g6u7.png" group-title=" Zee5", (प्रसाद) BBC World News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-339
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-ptunes-7779.jpg" group-title="Zee5", (prasad) Ptunes
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-344
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-ptunes-7779.jpg" group-title=" Zee5", (प्रसाद) Ptunes
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-344
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ek_onkar.svg/1200px-Ek_onkar.svg.png" group-title="Zee5", (prasad) Ek Onkar
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-345
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Ek_onkar.svg/1200px-Ek_onkar.svg.png" group-title=" Zee5", (प्रसाद) Ek Onkar
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-345
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/CSbtKtnORF0Jqda0AH2_T5drYbzLm86WdR_zY1r6QNG7n0bsNAgXRMr2alu42TXjSLXK=h1024-no-tmp_uday_news_live_apk.jpg" group-title="Zee5", (prasad) Uday News
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-346
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/CSbtKtnORF0Jqda0AH2_T5drYbzLm86WdR_zY1r6QNG7n0bsNAgXRMr2alu42TXjSLXK=h1024-no-tmp_uday_news_live_apk.jpg" group-title=" Zee5", (प्रसाद) Uday News
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-346
+#EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fzeezest.jpg" group-title="Zee5", (prasad) Zee Zest HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-348
 
-#EXTINF:-1 tvg-logo="https://cdn.i.haymarketmedia.asia/?n=campaign-india%2Fcontent%2Fzeezest.jpg" group-title=" Zee5", (प्रसाद) Zee Zest HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-348
+#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title="Zee5", (prasad) AND FLIX HD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=andflixhd
 
-#EXTINF:-1 tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/ANDFLIX-HD.jpg" group-title=" Zee5", (प्रसाद) AND FLIX HD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=andflixhd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="Zee5", (prasad) AND PRIVE HD
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=RahulVala_6431028&c=andprivehd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title=" Zee5", (प्रसाद) AND PRIVE HD
-http://tamilgo.com/api1cdn/ Zee5/zee6@tv.php?uid=RahulVala_6431028&c=andprivehd
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title="Zee5", (prasad) &flix HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_2105335046
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-channel_2105335046/list/386x386/09channel_2105335046flix.png" group-title=" Zee5", (प्रसाद) &flix HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-channel_2105335046
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" group-title="Zee5", (prasad) &Prive HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-privéhd
 
-#EXTINF:-1 tvg-logo="https://akamaividz. Zee5.com/resources/0-9-privéhd/list/386x386/09privhdprivehd.png" group-title=" Zee5", (प्रसाद) &Prive HD
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-privéhd
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2020/09/Zee-Vajwa-Channel-Logo.png" group-title="Zee5", (prasad) Zee Vajwa
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-353
 
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2020/09/Zee-Vajwa-Channel-Logo.png" group-title=" Zee5", (प्रसाद) Zee Vajwa
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-353
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bharat_Samachar_Logo.jpg/480px-Bharat_Samachar_Logo.jpg" group-title="Zee5", (prasad) Bharat Samachar
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-354
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Bharat_Samachar_Logo.jpg/480px-Bharat_Samachar_Logo.jpg" group-title=" Zee5", (प्रसाद) Bharat Samachar
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-354
-
-#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/uploads/channels/channel_image1444056726.jpg" group-title=" Zee5", (प्रसाद) ABN Andhra Jyothy
-http://tamilgo.com/api1cdn/ Zee5/ Zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-355
-
-
+#EXTINF:-1 tvg-logo="https://azamtv.co.tz/tan/uploads/channels/channel_image1444056726.jpg" group-title="Zee5", (prasad) ABN Andhra Jyothy
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=RahulVala_6431028&c=0-9-355
 
