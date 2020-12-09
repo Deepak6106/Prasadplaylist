@@ -11107,3 +11107,262 @@ http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=96300829&e=.m3u
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg" group-title="PRASAD 1 | HINDI", IndiaTV
 http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=34215727&e=.m3u8
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Hindi Khabhar
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=hindikhabhar_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) DD Kashir
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddkashir_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) DD Kashir
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddkashir_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) DD Girnar
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddgirnar_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Subhavaartha TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=subhavaarthatv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) STV Haryana News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=stvharyananews_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Maha Movie
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=mahamovie_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Manoranjan Movies
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=manoranjanmovies_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Manoranjan TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=manoranjantv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Mh 1 News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=mh1news_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Mh 1 Shradha
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=mh1shradha_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) MK Six
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=mksix_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Multiplex Cinema
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=multiplexcinema_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Muslim TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=muslimtv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Paras Gold
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=parasgold_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Peace of Mind TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=peaceofmindtv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Prajaa TV Kannada
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=prajaatvkannada_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Public Music
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=publicmusic_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Sadhna TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=sadhnatv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Satsang
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=satsang_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Soham TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=sohamtv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Orange TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=orangetv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Shopping Zone
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=shoppingzone_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) A1 TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=a1tv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Andy Haryana
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=andyharyana_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Ayush TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ayushtv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Bansal News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=bansalnews_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Bharat Samachar
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=bharatsamachar_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Care World
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=careworld_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) CVR Health
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=cvrhealth_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Darshan 24
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=darshan24_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Gulistan News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=gulistannews_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) HBN
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=hbn_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Housefull Movies
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=housefullmovies_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) IBC 24
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ibc24_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) India News UP
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=indianewsup_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Jinvani
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=jinvani_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Kashish News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=kashishnews_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Khabar Fast
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=khabarfast_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Khabrein Abhi Tak
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=khabreinabhitak_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Lord Buddha TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=lordbuddhatv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Bhakti Sagar
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=bhaktisagar_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Mh One Music
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=mhonemusic_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Movie House
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=moviehouse_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) R Plus Gold
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=rplusgold_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Ahlebait TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ahlebaittv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) India Voice
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=indiavoice_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Lotus News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=lotusnews_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) India Today
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=indiatoday_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) DD Kashir
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddkashir_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) DD Kashir
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddkashir_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) DD Girnar
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddgirnar_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Subhavaartha TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=subhavaarthatv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) STV Haryana News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=stvharyananews_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Maha Movie
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=mahamovie_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Manoranjan Movies
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=manoranjanmovies_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Discovery Science English
+http://streamitv.multitvsolution.in/idvo/discoverscienceeng_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Discovery Jeet
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=investigationdiscovery_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Animal Planet English
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=animalplaneteng_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) TLC HD World
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=tlchd_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Discovery Science Hindi
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Discovery Kids Hindi
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=discoverykidshindi_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Discovery Hindi
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=discoveryhindi_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) TLC Hindi
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=tlchindi_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) TLC English
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=tlceng_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Discovery English
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=discoveryeng_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Discovery HD World
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=discoveryhd_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) News Time Bangla
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=newstimebangla_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Divya TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=divyatv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) WOW Cinema
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=wowcinema_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Anjan TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=anjantv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Imayam TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=imayamtv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) India News
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=indianews_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) India News Haryana
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=indianewsharyana_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) India News MP
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=indianewsmp_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) India News Rajasthan
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=indianewsrajasthan_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Kappa TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=kappatv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Madha TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=madhatv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Malai Murasu TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=malaimurasutv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Moon TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=moontv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) News X
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=newsx_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Sarthi TV
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=sarthitv_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Tunes 6
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=tunes6_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) DD NE
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddne_540p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Animal Planet HD World Hindi
+http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=aphdhindi_540p
+
