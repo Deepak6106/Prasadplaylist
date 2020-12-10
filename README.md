@@ -11496,3 +11496,46 @@ http://tamilcuisine.prasad/api/auth/stred/str7.php?uid=Prasadelectric_6532140&id
 #EXTINF:-1 tvg-logo="http://files.rednetcontent.com/chlogo/ary_news.png" group-title="Pakistani", (prasad) ARY News
 http://tamilcuisine.prasad/api/auth/stred/str7.php?uid=Prasadelectric_6532140&id=8949
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://static.india.com/wp-content/uploads/2020/11/Image-4-49.jpg" group-title="PRASAD SPORTS", Sony LIV EN HD
+https://pubads.g.doubleclick.net/ssai/event/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony Six HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=Prasadelectric_6532140&id=94455
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony SIX HD
+https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony Six SD
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony Ten3 HD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony Six HD
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony Live HD
+https://pubads.g.doubleclick.net/ssai/event/oVbzxnh5TEK_ssGRX5WZYw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony Ten 1 HD
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony Ten 2 HD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony TEN1 HD
+http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8?token=istreamtv
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony TEN2 HD
+http://dx3.gcdn.co/TEN2HD/tracks-v1a1/mono.m3u8?token=istreamtv
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony TEN3 HD
+http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8?token=istreamtv
+
+#EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony SKY CRICKET HD
+http://digitalxpress.gcdn.co/live1/skycricket/tracks-v1a1/mono.m3u8?token=istreamtv
+
