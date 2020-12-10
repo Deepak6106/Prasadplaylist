@@ -11539,3 +11539,36 @@ http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8?token=istreamtv
 #EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony SKY CRICKET HD
 http://digitalxpress.gcdn.co/live1/skycricket/tracks-v1a1/mono.m3u8?token=istreamtv
 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/rzYzPHaBKY.png" group-title="JioTV+ | Marathi", () Dnyanganga 10th Marathi
+http://jiotv.live.cdn.jio.com/bpk-tv/Mahawani_Marathi_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/hLVdqADeLW.png" group-title="JioTV+ | Marathi", () IBN Lokmat
+http://jiotv.live.cdn.jio.com/bpk-tv/IBN_Lokmat_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/kzHmmHMGNP.png" group-title="JioTV+ | Marathi", () Colors Marathi HD
+http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/eGAZHQmnRj.png" group-title="JioTV+ | Marathi", () ABP Majha
+http://jiotv.live.cdn.jio.com/bpk-tv/ABP_Majha_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/BchEpKMkAV.png" group-title="JioTV+ | Marathi", () Saam Tv
+http://jiotv.live.cdn.jio.com/bpk-tv/Saam_Tv_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/RxvYFliWkm.png" group-title="JioTV+ | Marathi", () TV9 Maharashtra
+http://jiotv.live.cdn.jio.com/bpk-tv/TV9_Maharashtra_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/fnaNtviHdm.png" group-title="JioTV+ | Marathi", () Sangeet Marathi
+http://jiotv.live.cdn.jio.com/bpk-tv/Sangeet_Marathi_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/bTYRaZmmhF.png" group-title="JioTV+ | Marathi", () Fakt Marathi
+http://jiotv.live.cdn.jio.com/bpk-tv/Fakt_Marathi_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/udYEUSdwWP.png" group-title="JioTV+ | Marathi", () DD Sahayadri
+http://jiotv.live.cdn.jio.com/bpk-tv/DD_Sahayadri_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/GmtRsufgvJ.png" group-title="JioTV+ | Marathi", () 9x Jhakaas
+http://jiotv.live.cdn.jio.com/bpk-tv/9x_Jhakaas_BTS/output/index.mpd|User-Agent=KAIOS
+
