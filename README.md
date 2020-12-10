@@ -11609,3 +11609,37 @@ http://jiotv.live.cdn.jio.com/bpk-tv/CVR_English_MOB/output/index.mpd|User-Agent
 #EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/hTISUIBXJD.png" group-title="prasadTV+ | English", GoodNews Channel
 http://jiotv.live.cdn.jio.com/bpk-tv/GoodNews_Channel_MOB/output/index.mpd|User-Agent=KAIOS
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/rzYzPHaBKY.png" group-title="prasadTV+ | Marathi",  Dnyanganga 10th Marathi
+http://jiotv.live.cdn.jio.com/bpk-tv/Mahawani_Marathi_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/hLVdqADeLW.png" group-title="prasadTV+ | Marathi",  IBN Lokmat
+http://jiotv.live.cdn.jio.com/bpk-tv/IBN_Lokmat_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/kzHmmHMGNP.png" group-title="prasadTV+ | Marathi",  Colors Marathi HD
+http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Marathi_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/eGAZHQmnRj.png" group-title="prasadTV+ | Marathi",  ABP Majha
+http://jiotv.live.cdn.jio.com/bpk-tv/ABP_Majha_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/BchEpKMkAV.png" group-title="prasadTV+ | Marathi",  Saam Tv
+http://jiotv.live.cdn.jio.com/bpk-tv/Saam_Tv_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/RxvYFliWkm.png" group-title="prasadTV+ | Marathi",  TV9 Maharashtra
+http://jiotv.live.cdn.jio.com/bpk-tv/TV9_Maharashtra_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/fnaNtviHdm.png" group-title="prasadTV+ | Marathi",  Sangeet Marathi
+http://jiotv.live.cdn.jio.com/bpk-tv/Sangeet_Marathi_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/bTYRaZmmhF.png" group-title="prasadTV+ | Marathi",  Fakt Marathi
+http://jiotv.live.cdn.jio.com/bpk-tv/Fakt_Marathi_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/udYEUSdwWP.png" group-title="prasadTV+ | Marathi",  DD Sahayadri
+http://jiotv.live.cdn.jio.com/bpk-tv/DD_Sahayadri_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/GmtRsufgvJ.png" group-title="prasadTV+ | Marathi",  9x Jhakaas
+http://jiotv.live.cdn.jio.com/bpk-tv/9x_Jhakaas_BTS/output/index.mpd|User-Agent=KAIOS
+
