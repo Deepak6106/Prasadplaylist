@@ -11539,3 +11539,73 @@ http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8?token=istreamtv
 #EXTINF:-1 tvg-logo="https://www.tentaran.com/wp-content/uploads/2020/10/india-vs-australia-test-odi-t20i-squad-schedule-2020.jpg" group-title="PRASAD SPORTS", Sony SKY CRICKET HD
 http://digitalxpress.gcdn.co/live1/skycricket/tracks-v1a1/mono.m3u8?token=istreamtv
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/WmiWcFeNvB.png" group-title="prasadTV+ | English", Colors Infinity HD
+http://jiotv.live.cdn.jio.com/bpk-tv/Colors_Infinity_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/EbXUrwIEPG.png" group-title="prasadTV+ | English", Comedy Central HD
+http://jiotv.live.cdn.jio.com/bpk-tv/Comedy_Central_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/haLZWWbqvb.png" group-title="prasadTV+ | English", India Science
+http://jiotv.live.cdn.jio.com/bpk-tv/India_Science_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/DYJVsgoNhi.png" group-title="prasadTV+ | English", Hi Dost!
+http://jiotv.live.cdn.jio.com/bpk-tv/Hi_Dost_MOB/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/pAddiiFnJd.png" group-title="prasadTV+ | English", India Today
+http://jiotv.live.cdn.jio.com/bpk-tv/India_Today_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/ZmOyUgFcyj.png" group-title="prasadTV+ | English", CNN NEWS 18
+http://jiotv.live.cdn.jio.com/bpk-tv/CNN_NEWS_18_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/WgejdEikTx.png" group-title="prasadTV+ | English", Republic TV
+http://jiotv.live.cdn.jio.com/bpk-tv/Republic_TV_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/jqWgcTTsqw.png" group-title="prasadTV+ | English", CNBC Tv18 Prime HD
+http://jiotv.live.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/cRUHMAMwOT.png" group-title="prasadTV+ | English", CNBC Tv 18
+http://jiotv.live.cdn.jio.com/bpk-tv/CNBC_Tv_18_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/pbghtDWLIR.png" group-title="prasadTV+ | English", News 9
+http://jiotv.live.cdn.jio.com/bpk-tv/News_9_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/cwwjUbJeeJ.png" group-title="prasadTV+ | English", CNN
+http://jiotv.live.cdn.jio.com/bpk-tv/CNN_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/CDnDymnwdM.png" group-title="prasadTV+ | English", AL Jazeera
+http://jiotv.live.cdn.jio.com/bpk-tv/AL_Jazeera_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/FbyqVdXCVP.png" group-title="prasadTV+ | English", Channel News Asia International
+http://jiotv.live.cdn.jio.com/bpk-tv/Channel_News_Asia_International_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/NWeuxSyzMw.png" group-title="prasadTV+ | English", TV5 Monde
+http://jiotv.live.cdn.jio.com/bpk-tv/TV_5_Monde_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/mqsBFoEUWz.png" group-title="prasadTV+ | English", dw
+http://jiotv.live.cdn.jio.com/bpk-tv/dw_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/qupPmzGZfC.png" group-title="prasadTV+ | English", News X
+http://jiotv.live.cdn.jio.com/bpk-tv/News_X_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/mUqojVHZkI.png" group-title="prasadTV+ | English", History TV18 HD
+http://jiotv.live.cdn.jio.com/bpk-tv/History_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/oPcWNMTjrZ.png" group-title="prasadTV+ | English", Travel XP HD
+http://jiotv.live.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/SPJOQnmPjz.png" group-title="prasadTV+ | English", Sadhguru Television HD
+http://jiotv.live.cdn.jio.com/bpk-tv/Sadhguru_Television_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/PITzFlldNh.png" group-title="prasadTV+ | English", Dnyanganga 12th Science
+http://jiotv.live.cdn.jio.com/bpk-tv/Mahawani_English_BTS/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/dBVfKsFtaf.png" group-title="prasadTV+ | English", CVR English
+http://jiotv.live.cdn.jio.com/bpk-tv/CVR_English_MOB/output/index.mpd|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.wxca.cf/images/j/hTISUIBXJD.png" group-title="prasadTV+ | English", GoodNews Channel
+http://jiotv.live.cdn.jio.com/bpk-tv/GoodNews_Channel_MOB/output/index.mpd|User-Agent=KAIOS
+
