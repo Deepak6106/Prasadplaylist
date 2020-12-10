@@ -11366,3 +11366,85 @@ http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=ddne_540p
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IdeaTV", (PRASAD) Animal Planet HD World Hindi
 http://tamilgo.com/api1cdn/ideatv/ideatv.m3u8?uid=RahulVala_6431028&c=aphdhindi_540p
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="JIO | Marathi", (prasad) BBC Marathi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=BBC_Marathi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="JIO | Marathi", (prasad) ABP Majha
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=ABP_Majha&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" group-title="JIO | Marathi", (prasad) Zee Marathi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Zee_Marathi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="JIO | Marathi", (prasad) Colors Marathi HD
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Colors_Marathi_HD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" group-title="JIO | Marathi", (prasad) Zee Yuva
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Zee_Yuva&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" group-title="JIO | Marathi", (prasad) TV9 Maharashtra
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=TV9_Maharashtra&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="JIO | Marathi", (prasad) Zee 24 Taas
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Zee_24_Taas&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="JIO | Marathi", (prasad) Saam Tv
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Saam_Tv&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png" group-title="JIO | Marathi", (prasad) Sony Marathi SD
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Sony_Marathi_SD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" group-title="JIO | Marathi", (prasad) DD Sahayadri
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=DD_Sahayadri&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" group-title="JIO | Marathi", (prasad) Maiboli
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Maiboli&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png" group-title="JIO | Marathi", (prasad) Rangamanch
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Rangamanch&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="JIO | Marathi", (prasad) Zee Talkies
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Zee_Talkies&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png" group-title="JIO | Marathi", (prasad) Fakt Marathi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Fakt_Marathi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="JIO | Marathi", (prasad) IBN Lokmat
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=IBN_Lokmat&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png" group-title="JIO | Marathi", (prasad) Sangeet Marathi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Sangeet_Marathi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png" group-title="JIO | Marathi", (prasad) 9x Jhakaas
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=9x_Jhakaas&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/InGoa24x7.png" group-title="JIO | Marathi", (prasad) In Goa 24x7
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=InGoa24x7&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MK_News.png" group-title="JIO | Marathi", (prasad) MKN
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=MK_News&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Pravah.png" group-title="JIO | Marathi", (prasad) Star Pravah HD
+http://hotstar.live.cdn.jio.com/hotstar_isl/starpravah/master_800&q=1200&e=.m3u8|user-agent="Hotstar"
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="JIO | Marathi", (prasad) Nick Marathi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Nick_Marathi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Marathi.png" group-title="JIO | Marathi", (prasad) Sonic Marathi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Sonic_Marathi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maharashtra1.png" group-title="JIO | Marathi", (prasad) Maharashtra1
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Maharashtra1&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mahawani_Marathi.png" group-title="JIO | Marathi", (prasad) Dnyanganga 10th Marathi
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Mahawani_Marathi&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png" group-title="JIO | Marathi", (prasad) Sugran
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Sugran&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png" group-title="JIO | Marathi", (prasad) Lokshahi News
+http://tamilgo.com/api1cdn/jiotv/master.m3u8?uid=Prasadelectric_6532140&c=Lokshahi_News&q=1200&e=.m3u8
+
