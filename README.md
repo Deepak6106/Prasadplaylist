@@ -6694,6 +6694,24 @@ http://185.232.53.5:2086/arellano/kgtL965n2Y/91914
 
 
 
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : COLORS MARATHI HD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : SONY MARATHI SD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94812
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : ZEE MARATHI HD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94800
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : STAR PRAVAH HD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94779
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : ZEE TALKIES
+http://185.232.53.5:2086/arellano/kgtL965n2Y/91806
+
 
 
 
