@@ -2659,6 +2659,133 @@ https://bit.ly/2B9teN3sd
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDIA-SPORTS", SONY SIX
 https://bit.ly/3j8sIx7sd
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  IN : COLORS MARATHI HD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94742
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  IN : SONY MARATHI SD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94812
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  IN : STAR PRAVAH HD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94779
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  (ONLINE) IN : ZEE MARATHI HD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/94800
+
+
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", 24/7 : MY WIFE & KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/18234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", 24/7 : THE KARATE KID MOVIES
+http://185.232.53.5:2086/arellano/kgtL965n2Y/99660
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", AL : TRING KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/93193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : DISCOVERY KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : NAT GEO KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92667
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BUMBLEBEETV: COUNTRY BOY KID VIDEOS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/98310
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", DUTCH: RTL TELEKIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92924
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ES : DISCOVERY KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88715
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ES : NAT GEO KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88792
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ES : STARZ KIDS AND FAMILY
+http://185.232.53.5:2086/arellano/kgtL965n2Y/88827
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", GEM: GEM KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/99968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : BABY FIRST TV
+http://185.232.53.5:2086/arellano/kgtL965n2Y/59382
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : BABY TV
+http://185.232.53.5:2086/arellano/kgtL965n2Y/6980
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : BOOMERANG
+http://185.232.53.5:2086/arellano/kgtL965n2Y/2756
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : CARTOON NETWORK
+http://185.232.53.5:2086/arellano/kgtL965n2Y/258
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : CARTOON NETWORK WEST
+http://185.232.53.5:2086/arellano/kgtL965n2Y/15220
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : CARTOONITO
+http://185.232.53.5:2086/arellano/kgtL965n2Y/15395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : DISNEY CHANNEL
+http://185.232.53.5:2086/arellano/kgtL965n2Y/347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : DISNEY JR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/13566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : DISNEY XD
+http://185.232.53.5:2086/arellano/kgtL965n2Y/14943
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : NICK JR
+http://185.232.53.5:2086/arellano/kgtL965n2Y/14950
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : NICK TOONS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/265
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : NICKELODEON
+http://185.232.53.5:2086/arellano/kgtL965n2Y/4081
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : PBS KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/6306
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : TEEN NICK
+http://185.232.53.5:2086/arellano/kgtL965n2Y/47762
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : TVO KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/98912
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", PLEX USA : KIDOODLE TV
+http://185.232.53.5:2086/arellano/kgtL965n2Y/99378
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", PLUTOTV: PLUTO TV KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/98357
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", PLUTOTV: PLUTO TV KIDS ANIMATION
+http://185.232.53.5:2086/arellano/kgtL965n2Y/98537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ROKU: HAPPYKIDS.TV
+http://185.232.53.5:2086/arellano/kgtL965n2Y/99584
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", US : STARZ KIDS & FAMILY
+http://185.232.53.5:2086/arellano/kgtL965n2Y/1132
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", US : STARZ KIDS & FAMILY FHD 1080
+http://185.232.53.5:2086/arellano/kgtL965n2Y/64045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", AL : TRING KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/93193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : DISCOVERY KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : NAT GEO KIDS
+http://185.232.53.5:2086/arellano/kgtL965n2Y/92667
+
+
+
+
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="INDIA-SPORTS", SONY SIX HD
 https://bit.ly/3h6sIXHd
@@ -6064,656 +6191,6 @@ http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21749.mkv
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳📺PRASAD MOVIES🎬🇮🇳 ",  War of the Arrows 2011 IN Multi-Audio
 http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21750.mkv
-
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  IN : COLORS MARATHI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  IN : SONY MARATHI SD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  IN : STAR PRAVAH HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94779
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5*Marathi",  (ONLINE) IN : ZEE MARATHI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94800
-
-
-
-#EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", 24/7 : MY WIFE & KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/18234
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", 24/7 : THE KARATE KID MOVIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99660
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", AL : TRING KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93193
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : DISCOVERY KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/92711
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : NAT GEO KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/92667
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BUMBLEBEETV: COUNTRY BOY KID VIDEOS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/98310
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", DUTCH: RTL TELEKIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/92924
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ES : DISCOVERY KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88715
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ES : NAT GEO KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88792
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ES : STARZ KIDS AND FAMILY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/88827
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", GEM: GEM KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99968
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : BABY FIRST TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/59382
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : BABY TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/6980
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : BOOMERANG
-http://185.232.53.5:2086/arellano/kgtL965n2Y/2756
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : CARTOON NETWORK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/258
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : CARTOON NETWORK WEST
-http://185.232.53.5:2086/arellano/kgtL965n2Y/15220
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : CARTOONITO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/15395
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : DISNEY CHANNEL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/347
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : DISNEY JR
-http://185.232.53.5:2086/arellano/kgtL965n2Y/13566
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : DISNEY XD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/14943
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : NICK JR
-http://185.232.53.5:2086/arellano/kgtL965n2Y/14950
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : NICK TOONS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/265
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : NICKELODEON
-http://185.232.53.5:2086/arellano/kgtL965n2Y/4081
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : PBS KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/6306
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : TEEN NICK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/47762
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", KIDS : TVO KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/98912
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", PLEX USA : KIDOODLE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99378
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", PLUTOTV: PLUTO TV KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/98357
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", PLUTOTV: PLUTO TV KIDS ANIMATION
-http://185.232.53.5:2086/arellano/kgtL965n2Y/98537
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", ROKU: HAPPYKIDS.TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99584
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", US : STARZ KIDS & FAMILY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/1132
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", US : STARZ KIDS & FAMILY FHD 1080
-http://185.232.53.5:2086/arellano/kgtL965n2Y/64045
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", AL : TRING KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/93193
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : DISCOVERY KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/92711
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS special", BR : NAT GEO KIDS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/92667
-
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS MARATHI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY MARATHI SD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR PRAVAH HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94779
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", (ONLINE) IN : ZEE MARATHI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94800
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : & PICTURES HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94737
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : & PRIVE HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91908
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : & TV HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94738
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 24 NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94932
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 24 NEWS LIVE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94933
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 92 NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94934
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 9XM
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94935
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : A-PLUS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94936
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : AAJ ENTERTAINMENT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94937
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : AAJ NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94938
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ABB TAK PK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94940
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : APNA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94941
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ARUJ TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95065
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ARY DIGITAL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94942
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ARY FAMILY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94943
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ARY MUSIK
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94944
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ARY NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94945
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ARY QTV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94946
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ARY ZINDAGI
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94947
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ASIANET HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94739
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ASIANET MOVIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94829
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ASIANET PLUS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94827
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ATV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94948
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : AVT KHYBER
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94949
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : AVT KHYBER NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94950
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : B4U MOVIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91897
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : B4U MUSIC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95074
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : BBC EARTH HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94740
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : BOL ENTERTAINMENT HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94951
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : BOL NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94952
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : CHANNEL 24
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94953
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : CINEPLEX HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94741
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : CITY 41
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94954
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : CITY 42
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94955
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : CITY 42 NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94956
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS BANGLA HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91888
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS GUJRATI
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94744
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91887
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS KANNADA HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94746
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS MARATHI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS SUPER KANNADA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94815
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : COLORS TAMIL HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94814
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : DAWN NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95057
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : DD GIRNER
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91878
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : DUNIYA TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94957
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : DUS NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94971
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : EPIC HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91868
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ETV CINEMA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94822
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ETV HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94748
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ETV LIFE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94821
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ETV PLUS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94820
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : EXPRESS ENTERTAINMENT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94958
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : EXPRESS NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94959
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : FILMAZIA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94960
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : FILMWORLD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94961
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : FLOWER TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94813
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEMINI COMEDY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94809
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEMINI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94749
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEMINI LIFE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94810
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEMINI MOVIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94808
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEO ENTERTAINMENT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94962
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEO KAHANI
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94963
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEO NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94964
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEO SUPER
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94965
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GEO TEZ
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94966
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : GNN NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94967
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : HADI TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95064
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : HBO HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91862
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : HUM HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94968
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : HUM NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94969
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : HUM SITRAY
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94970
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : INDIA NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91859
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : INDIA TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94750
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : JALSA MOVIES HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94751
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : JALWA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94972
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : JAYA MAX
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95085
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : JAYA MOVIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95084
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : JAYA PLUS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95129
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : JAYA TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95083
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : KASHISH
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95053
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : KAY-2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94973
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : KTV HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91856
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : LAHORE NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94974
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : LAHORE RUNG
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94975
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : LOK SABHA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91855
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : MAA GOLD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94752
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : MAA HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94753
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : MAA MOVIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94754
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : MAHA MOVIE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95076
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : MASTI
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91853
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : MTV BEATS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95079
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : NAT GEO WILD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91852
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : NDTV INDIA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95078
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : NEWS ONE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94979
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PASHTO 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94980
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PEACE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95066
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PEACE TV ENGLISH
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91846
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTC CHAK DE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91843
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTC MUSIC
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94817
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTC NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91842
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTC PUNJABI
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91841
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTC PUNJABI GOLD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94818
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTC SIMRAN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94819
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTV GLOBAL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94982
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTV HOME
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94983
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : PTV WORLD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94986
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : RAJ DIGITAL+
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95081
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : RAJ TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95082
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : RAJYA SABHA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91839
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SAMMA NEWS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94988
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SEE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95052
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SET DIA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94755
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91836
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY MARATHI SD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY MAX HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94766
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY PIX HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94767
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY SAB HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94768
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY SIX HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94770
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY TEN 1 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94771
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY TEN 2 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94772
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SONY TEN 3 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94773
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR BHARAT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91833
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR GOLD HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94775
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR GOLD SELECT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94776
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR JALSA HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94777
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR MOVIES SELECT HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94828
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR PLUS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91828
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR PRAVAH HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94779
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS 1 HD 1080 50FPS H.264
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94780
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS 1 HD 1080 H.264
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94781
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS 2 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94784
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS 2 HD 1080 H.264
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94785
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS HINDI 1 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94788
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS SELECT 1 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94789
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS SELECT 2 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94790
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SPORTS TAMIL 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94792
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR SUVARNA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94811
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR VIJAY HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94791
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR VIJAY SUPER
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94807
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : STAR WORLD PREMIERE HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94826
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SUN TV HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94794
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : SURYA HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94795
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : TEN 1 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91817
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : TEN 2 HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91816
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : TEN SPORTS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91814
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : UDAYA HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94796
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : UDAYA MOVIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94833
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : URDU 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94991
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : WASEEB TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/95063
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : WILLOW CRICKET HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94797
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ZEE BANGLA HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94798
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ZEE CAFE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91810
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : & PRIVE HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91908
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : & TV HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94738
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 24 NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94932
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 24 NEWS LIVE TV
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94933
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 92 NEWS HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94934
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : 9XM
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94935
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : A-PLUS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94936
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="🇮🇳TVprasad", IN : ZING
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91914
-
-
-
-
-#EXTM3U
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : COLORS MARATHI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94742
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : SONY MARATHI SD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : ZEE MARATHI HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94800
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : STAR PRAVAH HD
-http://185.232.53.5:2086/arellano/kgtL965n2Y/94779
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="5* marathi", (प्रसाद) IN : ZEE TALKIES
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91806
-
-
-
 
 
 
