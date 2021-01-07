@@ -6195,3 +6195,1660 @@ http://restream.geniptv.com:8080/movie/n_elhafsi_new/hb65h56rtrZX/21750.mkv
 
 
 
+#EXTM3U
+#EXTINF:-1  tvg-id="id" group-title="PRASAD ELECTRONICS 9321169110 tvg-logo="https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png ",मुंबई 9321169110 पाचवड 9011702122 
+https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp
+#EXTINF:-1  tvg-id="id" group-title="पाचवड 9011702122  " "https://od.lk/s/MTBfMTE3MDMwOTc3Xw/res_drawable-xxxhdpi_draw00f1-scale-1.png ",support prasad electronics 9967965440 
+https://od.lk/s/MTBfMTE3NDQxMjk3Xw/video_2020_Oct_19_13_05_35.3gp
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zzestsd/playlist.m3u8
+http://z5amshls.akamaized.net/zzestsd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zzesthd/playlist.m3u8
+http://z5amshls.akamaized.net/zzesthd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
+http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zanmolcnm/playlist.m3u8
+http://z5amshls.akamaized.net/zanmolcnm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/classic/playlist.m3u8
+http://z5amshls.akamaized.net/classic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/action/playlist.m3u8
+http://z5amshls.akamaized.net/action/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zcinemalusd/playlist.m3u8
+http://z5amshls.akamaized.net/zcinemalusd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
+http://z5amshls.akamaized.net/zbanglacnm/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zeetalkies/playlist.m3u8
+http://z5amshls.akamaized.net/zeetalkies/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/ztalkieshd/playlist.m3u8
+http://z5amshls.akamaized.net/ztalkieshd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/andflix/playlist.m3u8
+http://z5amshls.akamaized.net/andflix/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+http://z5amshls.akamaized.net/andflixhd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zeecafesd/playlist.m3u8
+http://z5amshls.akamaized.net/zeecafesd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
+http://z5amshls.akamaized.net/zeecafehd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/andprivehd/tracks-v4a1/playlist.m3u8
+http://z5amshls.akamaized.net/andprivehd/tracks-v4a1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/smileusa/playlist.m3u8
+http://z5amshls.akamaized.net/smileusa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
+http://z5amshls.akamaized.net/ztvme/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/ztvsdusa/playlist.m3u8
+http://z5amshls.akamaized.net/ztvsdusa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/apacsea/playlist.m3u8
+http://z5amshls.akamaized.net/apacsea/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/canadahd/playlist.m3u8
+http://z5amshls.akamaized.net/canadahd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zzesthd/playlist.m3u8
+http://z5amshls.akamaized.net/zzesthd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+http://z5amshls.akamaized.net/zeecinemame/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+http://z5amshls.akamaized.net/andpicshd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+http://z5amshls.akamaized.net/andpicssd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
+http://z5amshls.akamaized.net/cinemausa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+http://z5amshls.akamaized.net/cinemauk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/mundohd/playlist.m3u8
+http://z5amshls.akamaized.net/mundohd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/magic/playlist.m3u8
+http://z5amshls.akamaized.net/magic/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/russia/playlist.m3u8
+http://z5amshls.akamaized.net/russia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/world/playlist.m3u8
+http://z5amshls.akamaized.net/world/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zing/playlist.m3u8
+http://z5amshls.akamaized.net/zing/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/zinguk/playlist.m3u8
+http://z5amshls.akamaized.net/zinguk/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/punjabi/playlist.m3u8
+http://z5amshls.akamaized.net/punjabi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/newsmpcg/playlist.m3u8
+http://z5amshls.akamaized.net/newsmpcg/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/kalak/playlist.m3u8
+http://z5amshls.akamaized.net/kalak/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/biharjharkh/playlist.m3u8
+http://z5amshls.akamaized.net/biharjharkh/playlist.m3u8
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Alwan
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/94.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Aflam
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/97.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Documentary
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/281.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/282.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/283.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Mubasher
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/284.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/808.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera English
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Omroep Zeeland
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1828.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Aljazeera
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3278.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3520.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Cinema
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3521.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Action
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3522.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Classic
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3560.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3562.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3563.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", BANGLA ZEE BANGLA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3585.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", BENGALI ZEE BANGLA CINEMA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3588.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", ENGLISH ZEE CAFE HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3606.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", MARATHI ZEE MARATHI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3640.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", ODIA ZEE KALINGA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3650.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE CINEMA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3658.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3677.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE ANMOL CINEMA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3682.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE ACTION
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3743.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", HINDI ZEE NEWS
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3744.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", TAMIL ZEE TAMIL HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3782.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Zee Aflam
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/97.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Documentary
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/281.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/282.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/283.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Mubasher
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/284.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/808.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera English
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1037.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", Al Jazeera Balkans HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15758.ts
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="zee india", http://z5amshls.akamaized.net/wion/playlist.m3u8
+http://z5amshls.akamaized.net/wion/playlist.m3u8
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="SonyLIV FHD-India Only", SONY SET FHD
+https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SonyLIV FHD-India Only", SONY SAB FHD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="SonyLIV FHD-India Only", SONY PAL
+https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SonyLIV FHD-India Only", SONY SAB FHD
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="SonyLIV FHD-India Only", SONY AATH
+https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SonyLIV FHD-India Only", SONY YAY HIN
+https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_MAX_HD.png" group-title="SonyLIV FHD-India Only", SONY MAX FHD
+https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_wah.png" group-title="SonyLIV FHD-India Only", SONY WAH
+https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyPIx.jpg" group-title="SonyLIV FHD-India Only", SONY PIX FHD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_HD.png" group-title="SonyLIV FHD-India Only", SONY TEN 1 FHD
+https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_HD.png" group-title="SonyLIV FHD-India Only", SONY TEN 2 FHD
+https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN3_HD.png" group-title="SonyLIV FHD-India Only", SONY TEN 3 FHD
+https://pubads.g.doubleclick.net/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN1_SD.png" group-title="SonyLIV FHD-India Only", SONY TEN 1
+https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_TEN2_SD.png" group-title="SonyLIV FHD-India Only", SONY TEN 2
+https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN3HD.jpg" group-title="SonyLIV FHD-India Only", SONY TEN 3
+https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_HD.png" group-title="SonyLIV FHD-India Only", SONY SIX FHD
+https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SONY_SIX_SD.png" group-title="SonyLIV FHD-India Only", SONY SIX
+https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", (ONLINE) MARATHI COLORS MARATHI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3638.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", Colors TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3532.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", Colors TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3533.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", ColorsRishtey
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3534.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", BENGALI COLORS BANGLA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3584.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", GUJARATI COLORS GUJARATI
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3600.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", ENGLISH COLORS INFINITY HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3613.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", ColorsRishtey
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3534.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", HINDI COLORS HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3663.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", TAMIL COLORS TAMIL HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3783.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS india", KANNADA COLORS KANNADA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3836.ts
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Cinema 1
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/519.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Cinema 2
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/522.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", 5 Star
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/875.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1085.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1086.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", STAR TV FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1087.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Handystar TV FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1650.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", C Star HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2120.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Antena Stars
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2335.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Cinestar TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2667.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Cinestar Premiere 1
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2668.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Cinestar Premiere 2
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2669.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", CINESTAR FANTASY
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2671.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", 5 Star
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/875.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Plus
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3531.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Sports 2 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3554.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Sports 1 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3555.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Plus HD UK
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3579.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", BENGALI STAR JALSHA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3591.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", BENGALI STAR JALSHA MOVIES HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3592.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", ENGLISH STAR MOVIES HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3602.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", ENGLISH STAR MOVIES SELECT HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3603.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", ENGLISH STAR WORLD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3619.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", ENGLISH STAR WORLD PREMIER HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3621.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", MARATHI STAR PARVAH HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3639.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", HINDI STAR GOLD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3673.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", HINDI STAR GOLD SELECT HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3674.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", HINDI STAR PLUS HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3675.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", HINDI STAR BHARAT HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3678.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", TAMIL STAR VIJAY HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3780.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", TAMIL STAR VIJAY HD S Back Up
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3790.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", TELUGU STAR MAA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3818.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", TELUGU STAR MAA GOLD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3819.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", KANNADA STAR SUVARNA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3837.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", KANNADA STAR SUVARNA PLUS
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3842.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", SPORTS STAR SPORTS 1 HINDI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3860.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", SPORTS STAR SPORTS 1 ENGLISH HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3862.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", SPORTS STAR SPORTS 2 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3863.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", SPORTS STAR SPORTS SELECT 1 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3864.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", SPORTS STAR SPORTS TAMIL
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3865.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", SPORTS STAR SPORTS SELECT 2 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3870.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", AD Nat Industry Bugatti Veyron Superstar
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/5499.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", AD Nat Industry Bugatti Veyron Superstar
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/5621.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Niko Flight To The Stars
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/5690.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Niko The Way To The Stars
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/5752.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Niko Flight To The Stars
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/5804.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Niko The Way To The Stars
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/5886.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", A Star Is Born - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6069.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Stalked by a Reality Star
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6118.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Better Start Running - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6126.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", A Star Is Born - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6234.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Stalked by a Reality Star - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6269.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Better Start Running - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6275.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", A Star Is Born
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6304.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Better Start Running - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6394.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Rogue One: A Star Wars Story - 2016
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6473.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Wars: The Force Awakens - 2015
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6520.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek Into Darkness - 2013
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6566.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek Beyond - 2016
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6608.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Better Start Running - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6849.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Just Getting Started - 2017
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6879.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Pup Star: World Tour - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6973.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Stalked by a Reality Star - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7087.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek Beyond - 2016
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7240.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", A Star Is Born - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7325.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", The Fault in Our Stars - 2014
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7543.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Starred Up - 2013
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7562.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Solo: A Star Wars Story
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7634.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek Into Darkness - 2013
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7709.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek Beyond - 2016
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7724.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", The Star - 2017
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/8170.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 1: Uzay Macerasi
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/8789.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 2: Bilinmeze Dogru
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/8790.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 3: Sonsuzluk
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/8791.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Film Stars Don't Die in Liverpool - 2017
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/8857.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", A Star Is Born - 2018
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/9140.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Film Stars Don't Die in Liverpool - 2017
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/9193.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Wars Guc Uyaniyor
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/9406.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 1: Uzay Macerasi
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/9566.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 2: Bilinmeze Dogru
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/9567.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 3: Sonsuzluk
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/9568.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Wars: Episode III - Revenge of the Sith - 2005
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/9763.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 1: Uzay Macerasi
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11291.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 2: Bilinmeze Dogru
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11292.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek 3: Sonsuzluk
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11293.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Wars Guc Uyaniyor
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11356.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", The Star
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11569.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Barbi The Princess And The Popstar
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11832.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Barbi The Princess And The Popstar
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12016.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Wars The Last Jedi
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12116.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Solo A Star Wars Story
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12121.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Wars The Last Jedi
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12128.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Solo A Star Wars Story
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12131.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Sobhe Khakestar
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12272.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Superstar - 1999
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12402.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Rogue One A Star Wars Story
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12558.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Pup Star: World Tour
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12609.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Wars
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12683.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek Beyond
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12709.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Pup Star World Tour
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12770.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Pup Star: World Tour
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12810.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Journey to the Christmas Star - 2012
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12922.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Trek Beyond
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12938.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star Cinema 2
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/522.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", 5 Star
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/875.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1085.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Star TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1086.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", STAR TV FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1087.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", Handystar TV FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1650.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="STAR india", C Star HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2120.ts
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI AAJ TAK
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3708.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI NDTV INDIA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3712.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", AAJ News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3501.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", Aajtak TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3539.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI AAJ TAK
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3708.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", Zee News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3563.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI ZEE NEWS
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3744.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI ZEE NEWS UP
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3876.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", Republic Bharat
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3556.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI NEWS 24
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3727.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="NEWS india", HINDI NEWS 18 INDIA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3903.ts
+
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="NEWS india",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/154995154574197104.png" group-title="NEWS india",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="0-9-zee24taas" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zee24taas/list/386x386/09zee24taaszee24taas.png" group-title="NEWS india", प्रसाद  ",Zee 24 Taas
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-zee24taas
+
+#EXTINF:-1 tvg-id="0-9-270" tvg-logo="https://akamaividz.zee5.com/resources/0-9-270/list/386x386/saamtv.png" group-title="NEWS india", प्रसाद  ",Saam TV
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-270
+
+#EXTINF:-1 tvg-id="SaamTV" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/0428.SaamTV.in/1x1/1x/test_pic1555921889633.jpg" group-title="NEWS india",Saam TV
+https://m-c01-j2apps.s.llnwi.net/hls/0428.SaamTV.in.m3u8
+
+#EXTINF:-1 tvg-id="0-9-257" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="NEWS india", प्रसाद  ",TV9 Marathi
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-257
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" group-title="NEWS india",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png" group-title="NEWS india",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://smumcdnems05.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="NEWS india",DD News
+https://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mirror_now_in.png" group-title="NEWS india",Mirror Now
+https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/80vwZaO.png" group-title="NEWS india",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="NEWS india",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="NEWS india",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="NEWS india",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/news24-2.jpg" group-title="NEWS india",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="IN" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/02/154995154574197104.png" group-title="NEWS india",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?hdnts=st=1567723990~exp=1567726990~acl=/*~hmac=40fec7023d1d84b24d1267d9ee0ab92bceff3d35274ebef7be58aaeea1472868&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/Z3PgblG.png" group-title="NEWS india",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="NEWS india",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="0-9-206" tvg-logo="https://akamaividz.zee5.com/resources/0-9-206/list/386x386/09206news24.png" group-title="NEWS india", प्रसाद  ",News24
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-206
+
+#EXTINF:-1 tvg-id="0-9-170" tvg-logo="https://akamaividz.zee5.com/resources/0-9-170/list/386x386/09170newsnation.png" group-title="NEWS india", प्रसाद  ",News Nation
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-170
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum Europe TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3489.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3494.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", UK Hum TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3504.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum Masala
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3505.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", Hum News
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3494.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", UK Hum TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3504.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HUM TV", UK Hum Europe
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3517.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Sky Movies Disney SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/933.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel +1
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1022.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1026.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1236.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1763.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1765.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Veronica Disney XD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1953.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney XD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1957.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1962.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2098.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney XD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2099.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2101.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2191.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2215.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2390.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2392.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Kanal Disney
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2763.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2844.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2849.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disneynature Afrika Kedileri
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11431.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disneynature Afrika Kedileri
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/11460.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", OSN Movies Disney HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15549.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", OSN Disney Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15577.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", OSN Disney XD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15578.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", OSN Disney Junior
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15579.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16382.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16383.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney XD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16384.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16454.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16455.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16506.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Junior HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16512.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney XD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16513.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16527.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="😭😅DISNEY😅😉", Disney XD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16528.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 1 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/599.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 2 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/600.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 4 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/601.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 3 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/602.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sony Movies
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/879.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Movies4Men
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/903.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Action HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/910.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Hits HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/911.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Family HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/913.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Premiere HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/914.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Comedy HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/915.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Thriller HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/919.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Drama Romance HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/920.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Select HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/921.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Greats Superheroes HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/922.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Disney HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/924.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Sci-Fi Horror HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/925.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Action SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/926.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Family SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/928.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Comedy SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/929.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Thriller SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/930.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Greats Superheroes SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/931.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Disney SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/933.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sky Movies Sci-Fi Horror SD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/934.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Rengin Movies TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1350.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Niga Movies HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1394.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 2 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/600.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 4 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/601.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 3 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/602.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Sony Movies
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/879.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Pink Movies
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2644.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", FOX Movies
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2665.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Fox Movies
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2861.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Nollywood Movies
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3192.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", B4U Movies
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3540.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", BENGALI STAR JALSHA MOVIES HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3592.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", ENGLISH STAR MOVIES HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3602.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", ENGLISH STAR MOVIES SELECT HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3603.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", HINDI ENTER 10 MOVIES
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3681.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", HINDI B4U MOVIES
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3684.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", TELUGU GEMINI MOVIES HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3816.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", KANNADA UDAYA MOVIES
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3846.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", MALAYALAM ASIANET MOVIES HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3853.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Top Gear: At the Movies - 2011
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/6677.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Top Gear: At the Movies - 2011
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7616.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Top Gear: At the Movies - 2011
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/7898.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", Fox Movies HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15417.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", OSN Movies First HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15544.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", OSN Movies First +2 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15545.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", OSN Movies HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15546.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", beIN Movies 4 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/601.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="📺LIVE MOVIES", OSN Movies Disney HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15549.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1028.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick JR
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1029.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Toon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1030.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1762.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1954.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Toons
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1955.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Jr
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1958.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Music
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1967.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon Teen
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2095.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2096.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon Junior
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2107.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2216.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2380.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Jr Croatia
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2607.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon Srb
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2608.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2761.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Jr
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2762.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2845.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Jr
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2847.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", OSN Nickelodeon HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15574.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", OSN Nick JR HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15575.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Jr  HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16379.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Toons HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16380.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16381.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16457.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Jr HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16493.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick JR
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1029.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nick Toon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1030.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS NICK👨‍🏫", Nickelodeon
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1762.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MARATHI INDIA🇮🇳", MARATHI COLORS MARATHI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3638.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MARATHI INDIA🇮🇳", MARATHI STAR PARVAH HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3639.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MARATHI INDIA🇮🇳", MARATHI ZEE MARATHI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3640.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MARATHI INDIA🇮🇳", MARATHI SANGEET MARATHI
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3641.ts
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI FOX LIFE HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3653.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI NAT GEO WILD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3655.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI SONY BBC EARTH HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3656.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI SONY PIX HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3657.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ZEE CINEMA HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3658.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI AND PICTURES HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3659.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI AND TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3660.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI CINEPLEX HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3662.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI COLORS HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3663.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI HISTORY TV18 HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3666.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI MINIPLEX HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3667.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI MTV BEATS HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3668.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI NATIONAL GEOGRAPHIC HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3669.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI SONY MAX HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3671.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI SONY SAB HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3672.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI STAR GOLD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3673.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI STAR GOLD SELECT HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3674.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI STAR PLUS HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3675.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ZEE TV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3677.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI STAR BHARAT HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3678.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ENTER 10 MOVIES
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3681.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ZEE ANMOL CINEMA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3682.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ABP NEWS INDIA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3683.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI B4U MOVIES
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3684.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI UTV HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3703.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI AAJ TAK
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3708.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI INDIA TV
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3709.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI SONY MAX 2
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3711.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI NDTV INDIA
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3712.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI NEWS 24
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3727.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ZING
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3733.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI E 24
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3736.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ZEE ACTION
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3743.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI ZEE NEWS
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3744.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", SPORTS STAR SPORTS 1 HINDI HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3860.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI FOX LIFE HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3653.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="HINDI INDIA🇮🇳", HINDI NAT GEO WILD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3655.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1017.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoonito
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1019.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1235.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1767.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1960.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2097.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoonito Italia
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2275.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2381.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2765.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2846.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARTOON", Cartoon Network HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16378.ts
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/940.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/941.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Investigation Discovery
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/942.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Turbo
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/943.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery History
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/945.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Shed
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/949.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Home Health
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/950.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel Turkey HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1118.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1119.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1787.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery World HEVC
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1889.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1972.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery World
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1973.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1974.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Investigon Discovery
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/1976.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2147.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2148.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Family
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2149.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Investigation HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2150.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2497.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery ID
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2524.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2525.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2776.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2777.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/2853.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", ENGLISH DISCOVERY WORLD HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/3617.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", The Discovery
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/12994.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", The Discovery
+http://185.180.14.120:8889/movie/XiiLxuHczK/usZ9WRVNOt/13540.mp4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15379.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15380.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", OSN Discovery HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15558.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Osn Discovery Science
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15559.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", OSN Discovery ID HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15560.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15796.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", ID Investigation Discovery FHD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/15804.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16385.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16386.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Investigation Discovery HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16393.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16438.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16439.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Investigation Discovery HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16440.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Channel HD
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/16485.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Science
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/941.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Investigation Discovery
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/942.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery Turbo
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/943.ts
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DISCOVERY", Discovery History
+http://185.180.14.120:8889/live/XiiLxuHczK/usZ9WRVNOt/945.ts
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Sadhin
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Today
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Sarabela
+http://162.254.149.146:9308/;stream/1/;stream/1
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Goongoon
+http://live.radiogoongoon.com:8888/stream/1/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Amaar
+http://118.179.215.45:8000/;stream/1
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Colours FM
+http://45.64.135.88:8000/stream1
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Jagoo FM
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Abiram
+https://radioabiram.radioca.st/stream?listening-from-radio-garden=1601015157404
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Ekattor
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Bangla Wadio
+http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", SaRaHa
+http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Spice FM
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Traffic FM
+http://as3.digitalsynapsebd.com:8263/;stream.mp3?listening-from-radio-garden=1601016261922
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Big FM
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Awaj FM
+http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio City Hiphop
+http://prclive1.listenon.in:9292/;?listening-from-radio-garden=1601019819282
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", All Sports Bangla
+http://protostar.shoutca.st:9183/;?listening-from-radio-garden=1601020295779
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Retro Bollywood
+http://64.71.79.181:5124/stream?listening-from-radio-garden=1601020369270
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Suno FM 102.
+http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Carnival
+http://94.23.30.114:8195/stream?listening-from-radio-garden=1601014708244
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", FM 87.3 (Ctg)
+http://as2.digitalsynapsebd.com:9244/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", FM 88.8 (Dhaka)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", FM 69.3 (Dhaka)
+http://as3.digitalsynapsebd.com:8582/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio 1
+http://as2.digitalsynapsebd.com:8863/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio 2
+http://as2.digitalsynapsebd.com:9252/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio 4
+http://as2.digitalsynapsebd.com:9244/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio 5
+http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - meethi Mirchi
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Pehla Nasha
+https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", 2B! Radio Sangam Devi Maa
+http://ibadat.out.airtime.pro:8000/ibadat_a
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", 2B! Radio Sangam Ganesha
+http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", 2B! Radio Sangam Gurbani
+http://gurbani.out.airtime.pro:8000/gurbani_a
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", 2B! Radio Sangam Guruvar
+http://iskon2b.out.airtime.pro:8000/iskon2b_a
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", 2B! Radio Sangam Krishna
+http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", 2B! Radio Sangam Shiva
+http://hot.out.airtime.pro:8000/hot_a
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", 2B! Radio Sangam Shri Ram
+http://dard.out.airtime.pro:8000/dard_a
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Bhajans
+https://streamingv2.shoutcast.com/bhajansradioguyana
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Big 95 FM
+https://radioindia.net/radio/sc-bb/icecast.audio
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Bollywood Radio and Beyond
+http://96.31.83.86:8084/;
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Bollywood Radio and Beyond
+http://185.80.220.12:8046/stream
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Harman Radio Australia
+http://harmanradio.net:8000/main_48.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Jesus Alive Radio
+http://stream.zenolive.com/qyb8s75nsceuv
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Apna
+http://ca.rcast.net:8048/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio BollyFm
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio City
+http://prclive1.listenon.in:9302/;
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio City (india) - Hindi
+http://prclive1.listenon.in:9960/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio city Dance
+http://prclive1.listenon.in:8994
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio City Smaran
+http://prclive1.listenon.in:9950/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Dil Apna Punjabi
+http://my.radiodap.ca:9000
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Garam Masala
+http://69.175.94.98:8146/
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Ishara
+http://nickerie.webhop.net:8000/;stream.mp3
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - 90s Hit Songs
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Devraag
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Hindi Retro
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Indies
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Sai Global Harmony Bhajan
+http://stream.radiosai.net:8000
