@@ -8997,5 +8997,422 @@ http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276870
 #EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet Movies
 http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276869
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee 24
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276851
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Anmol
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276850
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Cafe
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276849
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Etc Hd
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276848
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Marathi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276847
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3779
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Punjabi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3729
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE BOLYWOOD HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3742
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE CINEMA
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2246
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE TV HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2652
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Action
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3725
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Bangla Cinema
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94447
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Business
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94439
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Classic
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94491
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Living HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94490
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee News
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94489
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee TV US HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94438
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-apac.jpg" group-title="ZEE | INDIA🇮🇳", Zee TV APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77780
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zeetv-new-hd.jpg" group-title="ZEE | INDIA🇮🇳", Zee TV HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77781
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg" group-title="ZEE | INDIA🇮🇳", Zee Cinema HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=25027946&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_Bollywood_TV.jpg" group-title="ZEE | INDIA🇮🇳", Zee Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=58264595&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-action-new.jpg" group-title="ZEE | INDIA🇮🇳", Zee Action
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=33819332&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_ETC_Bollywood_TV.jpg" group-title="ZEE | INDIA🇮🇳", Zee ETC Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=88388434&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE 24 Ghanta
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193187
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE 24 Kalak
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45484
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE 24 Taas
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45486
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Action HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1353
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE AFLAM
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82572
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Anmol
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=19467
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Anmol Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=65224
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Bangla
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145632
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Bangla Cinema FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192712
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Bihar Jharkhand
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193006
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Bioskop
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197718
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Biskope
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193009
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE BOLLYWOOD HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1351
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Business
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16984
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Cafe HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49561
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Cinema FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1350
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Cinema Inter
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1349
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Cinemalu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45504
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Classic
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=21578
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee ETC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16959
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE ETC Masti TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49552
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Hindustan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145633
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE LIVING HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196084
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE MARATHI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82646
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee MP & Chhattisgarh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247499
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=5047
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Picchar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193069
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Punjab Haryana Himachal Pradesh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193094
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Punjabi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145630
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Rajasthan HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196085
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Rajasthan News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193095
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Salaam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45510
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Salam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16981
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Smile
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198615
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE Talkies HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16957
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE TALKIES MARATHI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=76973
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Tamil HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45505
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Anmol
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276850
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Cafe
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276849
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Etc Hd
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276848
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Marathi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276847
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3779
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", Zee Punjabi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3729
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE BOLYWOOD HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3742
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="ZEE | INDIA🇮🇳", ZEE CINEMA
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2246
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="COLORS | INDIA🇮🇳", COLORS HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2742
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-apac.jpg" group-title="COLORS | INDIA🇮🇳", Colors APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77773
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_ASIA_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Rishtey Asia
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77791
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_UK_HD_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors UK HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=72164639&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_UK_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Cineplex UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87765200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Cineplex
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77786
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Rishtey
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=30736995&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_APAC_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Rishtey APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77771&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/apka-colors.jpg" group-title="COLORS | INDIA🇮🇳", Apka Colors
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77777
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", Aapka Colors
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247492
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS Bangla HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247530
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS CINEPLEX HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49550
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1366
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS Gujarati
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145645
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS Gujrati TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197947
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS Infinity HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145644
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_ASIA_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Rishtey Asia
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77791
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_UK_HD_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors UK HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=72164639&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS Red
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145660
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", COLORS Rishtey
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49547
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-apac.jpg" group-title="COLORS | INDIA🇮🇳", Colors APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77773
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_ASIA_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Rishtey Asia
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77791
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_UK_HD_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors UK HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=72164639&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_UK_TV.jpg" group-title="COLORS | INDIA🇮🇳", Colors Cineplex UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87765200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title"COLORS | INDIA🇮🇳", Rishtey Colors
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193619
+
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR VIJAY HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285933
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports 1 Hindi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276858
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports Select 1 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276857
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports Select 2 Hd
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276856
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports 1 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94437
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports 2 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94436
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports 3 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94435
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports 4 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94434
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Life Ok
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=89314
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star plus HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3766
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Jalsha
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3739
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR PLUS
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2693
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Gold
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94480
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Vijay
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94445
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Bharat
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=134449
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg" group-title="STAR | INDIA🇮🇳", Star Plus UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=97396328&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-uk.jpg" group-title="STAR | INDIA🇮🇳", Star Bharat UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=47235083&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", HUM STAR
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165819
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Punjabi Star
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196099
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR BHARAT HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16614
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR BHARAT UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=62482
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Gold 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197719
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR GOLD FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1070
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Gold Select HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82623
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR GOLD UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=62480
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Jalsha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=12979
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Maa HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82624
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Maa Movies HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193194
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR Movies FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=11511
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Movies HD Middle East
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82558
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR PLUS FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1069
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR PLUS HD UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60347
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Pravah HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193149
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR SPORT 3 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=62584
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports 1 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=3630
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR SPORTS 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=3631
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports 2 Select HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=201082
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Sports Select 1 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82628
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", STAR SPORTS SELECT 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16619
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Suvarna HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193147
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Star Vijay HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=19744
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Stars Ports 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82631
+
 
 
