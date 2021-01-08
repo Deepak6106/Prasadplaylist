@@ -6546,5 +6546,2458 @@ http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193149
 
 
 
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jaya TV UK
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285938
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KTV HD Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285937
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN LIFE Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285936
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN MUSIC HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285935
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN TV HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285934
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR VIJAY HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285933
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aab Tak
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276871
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276870
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276869
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Food Food
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276868
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", India Tv
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276867
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KTV HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276866
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN LIFE Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285936
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN MUSIC HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285935
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN TV HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285934
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR VIJAY HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285933
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aab Tak
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276871
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Six
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276859
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports 1 Hindi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276858
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports Select 1 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276857
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports Select 2 Hd
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276856
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports 1 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94437
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports 2 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94436
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports 3 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94435
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports 4 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94434
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten Sports
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276855
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten Action
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276854
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten Cricket
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276853
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten Golf HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276852
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee 24
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276851
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Anmol
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276850
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Cafe
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276849
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Etc Hd
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276848
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Marathi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276847
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", GEO NEWS
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2727
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", GEO TEZ
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=89319
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Life Ok
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=89314
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTV PRIME
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3714
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2742
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U PLUS
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3747
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Music
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3776
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Movie
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3777
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3779
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Punjabi
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3729
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE BOLYWOOD HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3742
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE CINEMA
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2246
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE TV HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2652
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Action
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3725
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", YUPPTV
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=268343
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", UTV Movies US
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3751
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sun Tv
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3759
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sun Music
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3760
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star plus HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3766
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Jalsha
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3739
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Sab
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3768
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SONY MIX
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94403
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", & Picture HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94405
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3769
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZOOM
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2669
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR PLUS
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2693
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SONY TV HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2687
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SET MAX
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2683
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", RISHTEY
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2678
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTC PUNJABI
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2675
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", JAYA TV
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2720
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DESI CHANNEL
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2739
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", AONE PUNJABI
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2758
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9X TASHAN
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2761
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9X JHAKAAS
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2762
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9X JALWA
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2763
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", & Pictures HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94470
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9xM
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94471
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aaj Tak
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94472
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ABP News
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94475
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ary QTV
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94469
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asia Net Plus
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94461
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94488
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Bindass Play
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94485
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Channel
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94474
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HBO
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94468
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Hum Europe
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94460
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jaya Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94458
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", JayaMax
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94473
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Life OK HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94482
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Living Food
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94476
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MAA Gold
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94456
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MTV India
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94453
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Music India
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94477
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NDTV India
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94452
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTV Sports
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94450
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Pal
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94451
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Pix HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94457
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Six HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94455
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Gold
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94480
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Vijay
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94445
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten 1 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94444
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten 2 HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94443
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten 3
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94442
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Times Now
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94440
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Bangla Cinema
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94447
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Business
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94439
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Classic
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94491
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD News
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=270044
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Living HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94490
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee News
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94489
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee TV US HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94438
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DESI BEATS
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=135692
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", E24
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=135693
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SAB TV
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=134451
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Bharat
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=134449
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sikh Channel
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=257288
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Venus
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=134447
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", AASTHA BHAJAN
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=231023
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/SONY_TV_HD.jpg" group-title="PRASAD | INDIA🇮🇳", Sony TV HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=55553451&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/SET_MAX_HD_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Set Max HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=17959459&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/colors-apac.jpg" group-title="PRASAD | INDIA🇮🇳", Colors APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77773
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_ASIA_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Colors Rishtey Asia
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77791
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_UK_HD_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Colors UK HD
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=72164639&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_UK_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Colors Cineplex UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87765200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Colors Cineplex
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77786
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Colors Rishtey
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=30736995&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Rishtey_APAC_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Colors Rishtey APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77771&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo-us.jpg" group-title="PRASAD | INDIA🇮🇳", BBO US
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=112656656&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/star-new1-plus.jpg" group-title="PRASAD | INDIA🇮🇳", Star Plus UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=97396328&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/life-ok-uk.jpg" group-title="PRASAD | INDIA🇮🇳", Star Bharat UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=47235083&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/apka-colors.jpg" group-title="PRASAD | INDIA🇮🇳", Apka Colors
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77777
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/wow-kidz-new-hindi.jpg" group-title="PRASAD | INDIA🇮🇳", WOW Kidz-Hindi
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=22148014&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-entertainment-uk.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Entertainment UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77775
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-entertainment-aud.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Entertainment APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77778
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sab-uk.jpg" group-title="PRASAD | INDIA🇮🇳", SAB UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=92891823&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sab-aud.jpg" group-title="PRASAD | INDIA🇮🇳", SAB APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77779
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sony-new-max-uk.jpg" group-title="PRASAD | INDIA🇮🇳", Set Max UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77772
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-tv-apac.jpg" group-title="PRASAD | INDIA🇮🇳", Zee TV APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77780
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zeetv-new-hd.jpg" group-title="PRASAD | INDIA🇮🇳", Zee TV HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77781
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Cinema HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=25027946&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/And-Tv-HD.jpg" group-title="PRASAD | INDIA🇮🇳", And TV HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=20258450&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_Bollywood_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=58264595&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zee-action-new.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Action
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=33819332&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee_ETC_Bollywood_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Zee ETC Bollywood
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=88388434&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo.jpg" group-title="PRASAD | INDIA🇮🇳", BBO
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=22429656&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/bbo-uk.jpg" group-title="PRASAD | INDIA🇮🇳", BBO UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=2121222&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/BBO-Classic.jpg" group-title="PRASAD | INDIA🇮🇳", BBO Classic
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=63887852&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mtv-india.jpg" group-title="PRASAD | INDIA🇮🇳", MTV India
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=55205650&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/music-india.jpg" group-title="PRASAD | INDIA🇮🇳", Music India
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77848745&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/songdew-tv.jpg" group-title="PRASAD | INDIA🇮🇳", Songdew
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=99406208&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zoom.jpg" group-title="PRASAD | INDIA🇮🇳", Zoom
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=85315555&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/hare-krishna-tv.jpg" group-title="PRASAD | INDIA🇮🇳", Hare Krishna TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=80070899&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/9xm.jpg" group-title="PRASAD | INDIA🇮🇳", 9XM
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=34576682&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/9x-jalwa.jpg" group-title="PRASAD | INDIA🇮🇳", 9X Jalwa
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=94916297&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/zing-tv.jpg" group-title="PRASAD | INDIA🇮🇳", Zing TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=24108312&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sangeet-bhojpuri.jpg" group-title="PRASAD | INDIA🇮🇳", Sangeet Bhojpuri
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=19886885&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/brahma-kumaris.jpg" group-title="PRASAD | INDIA🇮🇳", Brahma Kumaris
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87801719&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/abp-news.jpg" group-title="PRASAD | INDIA🇮🇳", ABP News
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=79505525&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/tez-tv.jpg" group-title="PRASAD | INDIA🇮🇳", Tez TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77769820&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/ndtv-india.jpg" group-title="PRASAD | INDIA🇮🇳", NDTV INDIA
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=11953344&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sanskar-tv.jpg" group-title="PRASAD | INDIA🇮🇳", Sanskar TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=19874207&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Krishna_Vani_Tv.jpg" group-title="PRASAD | INDIA🇮🇳", Krishna Vani
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=67411742&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/aajtak.jpg" group-title="PRASAD | INDIA🇮🇳", Aajtak
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=49893677&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/vedic.jpg" group-title="PRASAD | INDIA🇮🇳", Vedic
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=44744432&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Peace_of_Mind_TV.jpg" group-title="PRASAD | INDIA🇮🇳", Peace of Mind
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=61111070&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay.jpg" group-title="PRASAD | INDIA🇮🇳", Samay
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=86078116&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-up.jpg" group-title="PRASAD | INDIA🇮🇳", Samay UP
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=76296846&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-rajasthan.jpg" group-title="PRASAD | INDIA🇮🇳", Samay Rajasthan
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=23358900&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-bihar.jpg" group-title="PRASAD | INDIA🇮🇳", Samay Bihar
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=39889655&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/sudarshan-news.jpg" group-title="PRASAD | INDIA🇮🇳", Sudarshan News
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=23908330&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-aalami.jpg" group-title="PRASAD | INDIA🇮🇳", Samay Aalami
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=33450015&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/mangalmay-tv.jpg" group-title="PRASAD | INDIA🇮🇳", Mangalmay TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=83371895&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/samay-mp.jpg" group-title="PRASAD | INDIA🇮🇳", Samay MP
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=59800012&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/divya-tv.jpg" group-title="PRASAD | INDIA🇮🇳", Divya TV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=96300829&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/india-tv.jpg" group-title="PRASAD | INDIA🇮🇳", IndiaTV
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=34215727&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", & Explor HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196116
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", & Now
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82513
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", &FLIX HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45506
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", &PICTURES HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16958
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", &Prive HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49557
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", &TV FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16964
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", &Xplor HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197953
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", (Sri Lanka) Hiru TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166784
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 3 Tamil TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60420
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 1st India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=159102
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 1st India News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145639
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 4tv News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82576
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 5aab TV Punjabi FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198613
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 7S Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82491
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 7S Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221436
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 8xm HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82577
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 92 News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165774
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 92 News Plus HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198744
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9X Jalwa
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45465
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9X Jhakaas
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165802
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9X Tashan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45455
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", 9XM
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45483
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aaj Tak
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192199
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", AAJ TAK NEWS HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60594
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aakaash Aath
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193186
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aapka Colors
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247492
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aastha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145647
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aastha Bhajan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193031
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ABN Andhra Jyothy
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193196
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ABP Ananda
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=159103
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ABP Asmita
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193071
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ABP Majha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=162126
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ABP NEWS HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16962
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ABP Sanjha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196118
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Akaal Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165767
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Akaram Mix
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51836
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", AKD Calcutta News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166369
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Alph etc Punjabi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196119
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Amar Ujala
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49610
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Amrita TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82497
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANB News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193085
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANGEL TV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196120
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANIMAL PLANET HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=17485
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANIMAL PLANET HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220124
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANIMAL PLANET HD World
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192993
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANIMAL PLANET HD World
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220142
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANIMAL PLANET HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1370
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ANIMAL PLANET HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220109
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", AONE Punjabi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165812
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", AONE TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49627
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", APKA Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196121
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Apna Punjab
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49620
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Arihant
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193203
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ARY Family
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145663
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ARY MUSIK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165787
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ARY MUSIK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221350
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ARY ONE WORLD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165808
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ARY ZINDAGI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165772
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82579
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet Movie
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=157463
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=163276
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet Plus
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193206
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Assam Talks
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=162127
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ATN Bangla
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145649
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Australia Plus
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192982
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", AVT KHYBER
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165798
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ayush TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82500
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U AFLAM
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82580
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Bhojpuri TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197946
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Kadak
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49556
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1369
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Movies APAC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=71071
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1368
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221372
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", B4U PLUS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1367
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Balle Balle
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49555
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Bangla TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165795
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Bansal News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165400
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", BBC Toronto
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49648
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", BBC World
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192978
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Bflix Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193037
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Bhagti Sagar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196123
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Bharat Samachar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193034
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Bhojpuri Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193007
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Big Ganga
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49573
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Big Magic
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82583
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", BIG MAGIC Movies OK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49548
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", BOLLYWOOD CLASSIC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=73791
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", BOLLYWOOD NOW
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=21932
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", British Muslim
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198743
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Brits Asia
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=71067
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Calcutta News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193192
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Canada One
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49606
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Captain News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193038
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CAPTAIN TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196124
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Care World TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166381
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Cartoon Network
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82584
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Cartoon Network
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220064
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CBeeBies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192992
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CBeeBies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220711
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Channel Divya
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82511
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Channel News Asia
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192979
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Channel One News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247503
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Channel WIN
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=172318
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Channel Y
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49586
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Chardikla Time TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49637
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CINE VOICE HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49604
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Cinema TV India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247515
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CNBC Awaaz
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49583
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CNBC TV 18
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192198
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CNBC TV18 Prime News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196126
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CNN
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192977
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CNN News18
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=163266
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Bangla HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247530
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS CINEPLEX HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49550
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1366
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Gujarati
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145645
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Gujrati TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197947
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Infinity HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145644
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Kannada Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193117
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Kannada HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193108
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS MARATHI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82642
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Red
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145660
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Rishtey
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49547
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Super
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193118
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Super Kannada TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197948
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS Tamil HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82590
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", COLORS TV INDIA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192068
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", CTVN AKD Plus
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166385
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", D Tamil
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193208
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DABANGG
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165800
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Dangal
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82589
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DAWN NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165790
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Bangla
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45488
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Bharati
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193040
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Chandana
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82593
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Girnar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145648
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Girner
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82594
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD INDIA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165806
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Kashir
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193043
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Kisan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45473
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Malayalam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45499
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD National HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192197
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=21668
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD North East
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193045
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Podhigai
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193047
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Punjabi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193048
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Rajasthan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193049
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Retro
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192954
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Sahyadri
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45479
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Saptagiri
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193050
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Sports
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=56153
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Uttar Pradesh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193051
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DD Yadagiri
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193055
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DESI Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49641
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Desi Plus
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49618
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Dhamaal
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82510
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Dheeran TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51826
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", dia Today
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82521
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", dia TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82520
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Dighvijay 24x7 News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193052
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DIL SE
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165784
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Dillagi TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196128
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82595
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220515
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=73792
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220503
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Kids
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192987
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Kids
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220579
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery KIDS HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82683
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery KIDS HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220518
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Science HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82596
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Science HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220516
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Science HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1363
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Science HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220377
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Turbo
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82597
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Discovery Turbo
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220517
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Dishum
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165817
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Disney
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192985
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Disney
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221292
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Disney Junior
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192990
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Disney Junior
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221193
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Divyavani TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166373
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", DW
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192072
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", E24
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193086
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", EET TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51818
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Enter 10 TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197944
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Enterr10
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193025
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Epic
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192950
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ETV Andhra Pradesh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193193
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ETV Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193198
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ETV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193103
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ETV Life
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193201
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ETV Plus
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193101
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ETV Telengana
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193197
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", EUROSPORT 1 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192964
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", EUROSPORT HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220350
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Fakt Marathi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193017
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Fastway TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49605
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Fateh TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166370
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", First India Rajasthan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193010
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Flowers
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193148
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", FO WORLD CORONA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197534
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", FOOD FOOD TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1362
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", FOX Life HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193057
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", FOX Life HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220676
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", France 24
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192980
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Gabruu TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49603
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Gaunda Punjab TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49640
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", GDNS LUDHIANA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49639
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", GEMINI Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165794
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Gemini TV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193105
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", GEO NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=174169
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Geo TV FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193646
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Global Sanjh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49617
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", GNN NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165807
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Good Times
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192997
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Goodnews TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=159106
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", GUBRU TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49638
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Gujarat Samachar TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193092
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Gulistan News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193107
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Gurbaani TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49647
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Gurbani Healing
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82518
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Harvest 24/7
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166374
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Harvest TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166372
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Harvest TV USA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198220
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HBO HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82603
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Hiru TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82519
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", History TV18 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192994
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", History TV18 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220952
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HM TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193056
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HolyGod TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60424
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Hope Channel India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=159108
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Housefull Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165804
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HULCHUL TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49630
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HUM EUROPE
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=168912
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HUM Masala
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145658
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HUM STAR
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165819
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HUM TV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196132
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", HUM World
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=63399
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", IBC 24
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193013
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ibc Bakthi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196133
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", IBC Comedy
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45428
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", IBC Kids
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60411
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", IBC Siluvai
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51841
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", IBC Tamil
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51823
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", In Goa 24x7
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193019
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", India 24x7
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247498
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", India News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192967
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", India News Gujrat
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196134
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", India Today
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16970
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", India Today News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49587
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", India TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49577
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Indradhanu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193058
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", INH 24X7
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193014
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", InSync
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193165
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Investigation Discovery
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193169
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Investigation Discovery
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220580
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", iON TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198746
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", iPlus TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247505
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", IQRA Bangla
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=121139
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Isaiaruvi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193205
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ishwar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193059
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ishwar Bhakti TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166380
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Islam Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=121142
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", J Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145638
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jalsha Movies HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193158
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", JANTA TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60348
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jaya Max
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51824
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jaya Movie
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145643
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jaya Plus
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193207
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jaya TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145637
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jeevan TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166377
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jhanjar Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82522
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jhanjar Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221437
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jhanjar Religious
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49613
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jinvani Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193061
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", JK Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247501
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jus Hindi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247496
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kalaignar TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193204
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kalinga TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193062
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kanak News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193063
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kanshi TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145661
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kappa TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193109
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kathyani TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247506
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kaumudy TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82530
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Khabar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247512
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KHALISTAN TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49645
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Khalsa Channel HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196138
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Khushboo Bangla
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247529
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Kite Victers
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193083
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KTV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=36442
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KVTV LIVE
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197667
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KVTV MAIN
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197668
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KVTV PLUS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197666
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", LAHORE NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165818
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Lakshya TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196139
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Life OK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=71068
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Life Punjabi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49601
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", LIVING FOODZ
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1361
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Living India News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=159107
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Lok Sabha TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82532
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MAA Gold
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196141
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Maa HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196142
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MAA Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192715
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Madani Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=121144
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Madha TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193042
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MahaMovies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82608
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Makkal TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193119
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Malai Murasu Seithigal
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193066
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Malai Murasu TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166384
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Mangalam TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192075
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Manjari
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193076
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Manorama News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192076
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MANORANJAN Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192200
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Manoranjan TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193176
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Mantavya News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=159109
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Mastiii
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=76958
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Mazhavil Manorama HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193067
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Media One
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51851
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Mega TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193209
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MH One Shraddha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193064
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MH1 NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165792
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Mirror Now
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193096
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MK Six
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198221
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MK Tunes
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198222
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MN+ HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192961
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MNX HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192962
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Movies Now
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=169118
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Movies OK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=71069
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MTV Beats HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193068
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MTV HD+
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145628
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", MTV India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193647
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Murasu TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193120
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Music India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145654
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Music India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221451
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Nambikkai TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166382
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NAMDHAR TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49646
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Namma TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193070
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NAT GEO HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49562
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NAT GEO HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220832
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NAT GEO Wild HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49566
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NAT GEO Wild HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220833
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NDTV 24x7
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=21664
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NDTV India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166390
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NDTV News 24
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192141
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NDTV Profit
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166388
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NDTV Profit Prime
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192976
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Nepal 1
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193160
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192714
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Assam North East
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247521
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Bihar Jharkhand
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247507
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247511
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Kannada
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247522
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 MP Chhattisgarah
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247508
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 MP TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197951
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Punjab Haryana Himachal
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247520
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Punjab TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197949
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Rajasthan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247509
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Tamilnadu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196111
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 Up TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197950
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News 18 UP Uttakhrand
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247510
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NEWS 24
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16601
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News Live
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193089
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News Nation
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192968
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News State MP CG
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192972
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News State UP Uttarakhand
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192970
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News11 Bharat
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192973
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News18 Bihar Jharkhand
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=163274
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News18 Gujarati
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193127
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News18 Lokmat
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82543
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", News18 Tamil Nadu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193210
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Nick HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82611
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Nick HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221601
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Nick Junior
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221192
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NOOR TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=174172
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", NTV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=174171
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ntv Telugu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165796
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", OTV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193072
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Patrika TV Rajasthan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193178
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PCNE Chinese
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198741
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Peace of Mind
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193074
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Peace TV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82613
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PEACE TV URDU
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198614
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", People
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51821
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PITAARA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145652
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Pogo
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192986
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Polimer News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=163279
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Polimer TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193202
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Prag News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193075
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Prajaa Kannada TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51847
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Pratidin Time
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198224
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Prime Canada TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192144
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Primeplus HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196109
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTC News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193154
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTC Punjabi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82616
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTC Punjabi Gold TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197742
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTV Home
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165785
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTV NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165786
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTV PARDESI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49642
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PTV Sports
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165777
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Public Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192145
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Public Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221498
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Punjabi Star
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196099
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Punjabi TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49600
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", PUNJABI ZINDABAAD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49635
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Puthiya Thalaimurai
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193035
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Puthiya Thalimurai
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196100
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", R.Bharat
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192966
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raj Digital Plus
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60418
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raj Musix
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193137
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raj Musix Telugu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193140
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", RAJ NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197939
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raj News 24x7
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193648
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raj News Malayalam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193141
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raj News Telugu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193200
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raj TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193125
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Rajya Sabha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82618
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Rang
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193090
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Raunak Punjab Dee
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196102
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Republic Bharat
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49582
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Republic News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82620
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Republic TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192975
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Rishtey
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165793
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Rishtey Cineplex
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=71074
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Rishtey Colors
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193619
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Rishtey Europe
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=19741
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Romedy Now HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51876
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ROZE NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165816
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", RSTV RajyaSabha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82552
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ruposhi Bangla
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247527
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Russia Today
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192983
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SAAM Marathi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196103
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Saam TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166387
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SAB TV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=20649
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sadhna News Madhya Pradesh/Chhattisgarh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166391
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sadhna Plus News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166394
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sadhna Prime News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247502
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sadhna TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166392
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sahara One
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247493
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sahara Samay
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247494
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sahara Samay Bihar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196105
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sahara Samay Up TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197942
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sakshi TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193164
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sandesh News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145664
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sangat TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165765
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sanjha Punjab
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49624
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sankara TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166407
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sanskar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51882
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Santhora Short Flim
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51833
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Santhora TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51835
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SARDARI TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82554
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sarv Dharam Sangam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166791
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Satsang TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45463
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SAUDI EKHBARIYA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165815
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SET
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192952
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Set Max
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=63397
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SHAN PUNJABI TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49628
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Showbox
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192998
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Shubh TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193073
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Shubhsandesh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82557
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sikh Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82556
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SikhTV Punjabi HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198605
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sivan TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51842
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SKY ARTS HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=62479
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Soham
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247504
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sonic nickelodeon
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192988
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sonic nickelodeon
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221624
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony AATH
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193021
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Action
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=48706
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony BBC Earth HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192995
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony BBC Earth HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=220364
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Channel
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1072
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Christmas HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16200
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Entertainment HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=63395
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony ESPN HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16636
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony ESPN HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221700
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Marathi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193097
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Max 2
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=4862
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Max FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1359
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Mix HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1358
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Pal
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193645
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony PIX HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49539
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony SAB HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1073
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony SAB HD USA
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=201081
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony SIX HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=4853
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony TEN 1 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=74893
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Ten 1 HEVC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197940
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony TEN 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=56190
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Ten 2 HEVC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197743
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony TEN 3
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=56191
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony TV UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=23551
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony WAH
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165801
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony Yay
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192991
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sony YAY HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1355
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR BHARAT HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16614
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR BHARAT UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=62482
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Gold 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197719
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR GOLD FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1070
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Gold Select HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82623
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR GOLD UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=62480
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Jalsha
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=12979
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Maa HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82624
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Maa Movies HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193194
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR Movies FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=11511
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Movies HD Middle East
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82558
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR PLUS FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1069
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR PLUS HD UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60347
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR SPORT 3 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=62584
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports 1 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=3630
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR SPORTS 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=3631
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports 2 Select HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=201082
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Sports Select 1 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82628
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR SPORTS SELECT 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16619
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Suvarna HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193147
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Star Vijay HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=19744
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Stars Ports 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82631
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Subharti TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193002
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Subhavaartha TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166397
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Subrang TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82563
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUCH TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165814
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sudarshan News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193077
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Sun TV HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=76969
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Surya Bhojpuri
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193008
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SURYA TV Malayam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196094
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Suvarna News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=51844
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SVBC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=166383
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SVBC 2
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193079
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Swaraj Express SMBC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193093
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", T News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193024
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tamil Vision
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=60423
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tamil Visionternational
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82561
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TANGY PUNJABI TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196096
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tarang Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193134
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tarang Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221501
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Acting Adda
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193171
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Beauty
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193172
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Fun Learn Junior
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221194
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Gujarati Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193124
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Hits
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192956
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Hollywood Local
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193174
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Javed Akhtar
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193173
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Kannada Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193104
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Seniors
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193177
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Shorts TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193168
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Show Bizz
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192958
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tata Sky Smart Manager
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193181
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TEN 1 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16622
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TEN 2 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16623
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TEN 3 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16621
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TEN Golf
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196097
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten Sports
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82635
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Ten Sports 3 HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82633
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Tez News TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192196
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Thanthi TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45437
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", The Q
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247518
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Times Now HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=76961
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TLC HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192996
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TLC HINDI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197661
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Total TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247500
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Travelxp HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82636
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Travelxp HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221066
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TRUCKING TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49632
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV Asia
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247495
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV Max
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197665
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV PUNJAB HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196089
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV5 Kannada
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193065
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV5 Monde Asie
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192981
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV84
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82564
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV84 Punjabi HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192070
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV9 Gujarati
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193152
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV9 Kannada
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193060
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV9 Marathi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193016
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", TV9 Telugu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=163256
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", UTV Bindass
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192953
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", UTV Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145655
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", V6 News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193029
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vaanavil TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82566
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vaani TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247513
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vasanth TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193036
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vasantham TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82569
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vedic
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193080
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Velicham TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=159110
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Venus TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165770
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", VENUS UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196090
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vision Punjab Gurbani
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196091
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vision Punjab Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196092
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vision Punjab Music
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=221508
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Vision Punjab TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196093
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", VTV Gujarati
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193081
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", VTV NEWS GUJARATI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197658
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", WAQT NEWS
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165799
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", WB
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192960
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Willow Cricket HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165776
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", WION
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192999
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", WOW Cinema TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197945
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE 24 Ghanta
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193187
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE 24 Kalak
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45484
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE 24 Taas
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45486
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Action HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1353
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE AFLAM
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82572
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Anmol
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=19467
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Anmol Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=65224
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Bangla
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145632
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Bangla Cinema FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192712
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Bihar Jharkhand
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193006
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Bioskop
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197718
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE BOLLYWOOD HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1351
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Business
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16984
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Cafe HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49561
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Cinema FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1350
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Cinema Inter
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1349
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Cinemalu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45504
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Classic
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=21578
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee ETC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16959
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE ETC Masti TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49552
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Hindustan
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145633
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Kannada
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145631
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE LIVING HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196084
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Madhya Pradesh Chattisgarh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193026
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE MARATHI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82646
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee MP & Chhattisgarh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247499
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=5047
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Punjab Haryana
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=165797
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Punjab Haryana Himachal Pradesh
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193094
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Punjabi
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145630
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Rajasthan HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196085
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Rajasthan News
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193095
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Salaam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45510
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Salam
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16981
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Smile
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=198615
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE Talkies HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=16957
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE TALKIES MARATHI
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=76973
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Tamil HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45505
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee Telugu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=21561
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Zee TV APAC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192195
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE TV FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1348
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", ZEE TV UK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=196086
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", KTV HD Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285937
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN LIFE Tamil
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285936
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN MUSIC HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285935
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", SUN TV HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285934
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", STAR VIJAY HD
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285933
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Aab Tak
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276871
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276870
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Asianet Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=276869
+
 
 
