@@ -9414,5 +9414,133 @@ http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=19744
 #EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="STAR | INDIA🇮🇳", Stars Ports 2 HD
 http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82631
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", ZEE CINEMA
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=2246
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Bangla Cinema
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94447
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_UK_TV.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Colors Cineplex UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87765200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_TV.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Colors Cineplex
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77786
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Cinema HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=25027946&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Bhojpuri Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193007
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", CINE VOICE HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49604
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Cinema TV India
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=247515
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", COLORS CINEPLEX HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49550
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Bangla Cinema
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94447
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_UK_TV.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Colors Cineplex UK
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=87765200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Colors_Cineplex_TV.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Colors Cineplex
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=77786
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/480/270/languages/Zee-Cinema-HD.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Cinema HD APAC
+http://tamilgo.com/api1cdn/ytv/yupp.php?uid=RahulVala_6431028&id=25027946&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Tata Sky Kannada Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193104
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", WOW Cinema TV
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=197945
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Anmol Cinema
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=65224
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Bangla Cinema FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192712
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Cinema FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1350
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Zee Cinema Inter
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1349
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", ZEE Cinemalu
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=45504
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", UTV Movies US
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3751
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", B4U Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94488
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Jaya Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94458
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", B4U Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1369
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", B4U Movies APAC
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=71071
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Bflix Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193037
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", BIG MAGIC Movies OK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=49548
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", UTV Movies US
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=3751
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", B4U Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94488
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Jaya Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94458
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", B4U Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=1369
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", MAA Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192715
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", MahaMovies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82608
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", MANORANJAN Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=192200
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Movies Now
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=169118
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Movies OK
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=71069
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", B4U Movies
+http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=94488
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", STAR Movies FHD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=11511
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", Star Movies HD Middle East
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82558
+
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="🇮🇳CINEMA |MOVIES 🇮🇳", UTV Movies
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145655
+
 
 
