@@ -6517,5 +6517,34 @@ https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Sai Global Harmony Bhajan
 http://stream.radiosai.net:8000
 
+#EXTINF:-1 tvg-id="0-9-zeemarathi" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeemarathi/list/386x386/09zeemarathizeemarathihd.png" group-title="मराठी ",Zee Marathi HD
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-zeemarathi
+#EXTINF:-1 tvg-id="0-9-257" tvg-logo="https://akamaividz.zee5.com/resources/0-9-257/list/386x386/09257tv9marathi.png" group-title="मराठी ",TV9 Marathi
+http://tamilgo.com/api1cdn/zee5/zee5@tv.m3u8?uid=Prasadelectric_6532140&c=0-9-257
+#EXTINF:-1 tvg-id="marathiusa" tvg-name=ZEE MARARHI USA"group-title="मराठी ", tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mararhi-usa.png"parent-code=1234" audio-track="IN",ZEE MARARHI USA	
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=Prasadelectric_6532140&c=marathiusa
+#EXTINF:-1 tvg-id="SangeetMarathi" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/3724.SangeetMarathi.in/1x1/1x/test_pic1552392961420.jpg" group-title="मराठी ",Sangeet Marathi
+https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in.m3u8
+#EXTINF:-1 tvg-id="ShemarooMarathibana" tvg-logo="https://qqcdnpicweb.mxplay.com/media/images/7072.ShemarooMarathibana.in/1x1/1x/test_pic1594370246744.jpg" group-title="मराठी ",Shemaroo Marathibana
+https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZGeTNabXBOSlhXeUphangyNURNUFJYN1JMSnZ2UTEzNGVfeWFWaFM1N0RiQjJrN29pTUc2WlVrT2VMMEpDRU9DQ0d6ZGpkM2ZraWtuc1U3VDNXVmt2blByblFHUXFTajNiOVhlX1luVUNfSlh1cUFaaDF6WnlpZ3B6TXByUWFLcE5jOEd4MkRncmRQZlpNUHZodnp5WXkyRGtTdlNXeWppckdjbDNXay1WUk9Db2dES3gtdFhEV1dkamNIRzZtUjI2a19MUDJiNzE0MDJtSF9MTF9lZ3A2SDFacjlhVTdkRXBleTBja0I4Q1REeEEtNmhQVmJyc2FwSUhJMW9OQ2RCTVlfaDFTblRfOXRKSWl1ZVY1TTlrVEtnVk5Pakx4M1h5WDJQdUdDS3VjbGQxMWwxRWpHTXZXQkRYZmlSekJES05la3Z1aWdjcHdlWWd4akNMQnBuUHhDaXY4ZWloakNOck1aQ2pzdDRYN19YemRJMllPbjF5TVdONFR6RTUyZmYwUmtQXzNjd1Z3RjliR1RCZktnOEV1Y1NiRG1oNmV3SFQ4WjBDWGFZb0Z4UFBERzRSTlZ0VTJQaEpzajRMX3hsR2N4d20xWEZSaWREQVRCVDIwLU8wdWdMOFh6a1RwNGw1bTktb3ZUUHltciZjb250ZXh0VHlwZT1ub25lJmlkPTgxNDE5MDkiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzbWFyYXRoaV9kYXNoIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1qSTFmRnkzWm1wTkpYV3lKYWp4MjVETVBSWDdSTEp2dlExMzRlX3lhVmhTNTdEYkIyazdvaU1HNlpVa09lTDBKQ0VPQ0NHemRqZDNma2lrbnNVN1QzV1Zrdm5Qcm5RR1FxU2ozYjlYZV9ZblVDX0pYdXFBWmgxelp5aWdwek1wclFhS3BOYzhHeDJEZ3JkUGZaTVB2aHZ6eVl5MkRrU3ZTV3lqaXJHY2wzV2stVlJPQ29nREt4LXRYRFdXZGpjSEc2bVIyNmtfTFAyYjcxNDAybUhfTExfZWdwNkgxWnI5YVU3ZEVwZXkwY2tCOENURHhBLTZoUFZicnNhcElISTFvTkNkQk1ZX2gxU25UXzl0SklpdWVWNU05a1RLZ1ZOT2pMeDNYeVgyUHVHQ0t1Y2xkMTFsMUVqR012V0JEWGZpUnpCREtOZWt2dWlnY3B3ZVlneGpDTEJwblB4Q2l2OGVpaGpDTnJNWkNqc3Q0WDdfWHpkSTJZT24xeU1XTjRUekU1MmZmMFJrUF8zY3dWd0Y5YkdUQmZLZzhFdWNTYkRtaDZld0hUOFowQ1hhWW9GeFBQREc0Uk5WdFUyUGhKc2o0TF94bEdjeHdtMVhGUmlkREFUQlQyMC1PMHVnTDhYemtUcDRsNW05LW92VFB5bXIiLCJ1ZGlkIjoiMmEzYjBlNWNkMDM2NDdjY2E0YTI3Y2M2NzI1YzUyNjYiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=Hv5fKZoe9jmMliExuYd4XkE%2bjZM%3d&sessionId=1fab1c33-e772-cac2-7cda-27390b40c4c3:9ee5b31e-40f7-2d42-861f-d03f5276e8fa&clientTag=html5:v0.53.3&referrer=aHR0cHM6Ly92b290LmNvbS9wY2NoYW5uZWwvY29sb3JzLW1hcmF0aGktaGQvNzkzOTMw
+#EXTINF:-1 tvg-id="755" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="मराठी ",Colors Marathi HD
+https://livevoot-i.akamaihd.net/dash/live/828522/colorsmarathi/master.mpd
+
+#EXTINF:-1 tvg-id="marathiusa" tvg-name=ZEE MARARHI USA"group-"मराठी ", tvg-logo="http://www.tamilcuisine.online/istream/uploads/tv_image/sm/zee-mararhi-usa.png"parent-code=1234" audio-track="IN",ZEE MARARHI USA	
+http://tamilgo.com/api1cdn/zee5/zee6@tv.php?uid=Prasadelectric_6532140&c=marathiusa
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/RxDWXjMeIO.png" group-title="मराठी ",  Nick Marathi
+https://botallen.live/j/Nick_Marathi/master.m3u8?signature=d1344c4dd4c2d0c95d82c9a479da0737399f75fc&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
+
+#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/SIWKhJHwzf.png" group-title="मराठी ",  Sonic Marathi
+https://botallen.live/j/Sonic_Marathi/master.m3u8?signature=11718ab294234545e0ee4e67384dd8491c38a454&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
+#EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="मराठी ",(ONLINE) Star Pravah HD
+http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193149
+
+
+
 
 
