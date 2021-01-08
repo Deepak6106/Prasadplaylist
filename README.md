@@ -6548,8 +6548,6 @@ http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=193149
 
 #EXTM3U
 
-#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
 
 #EXTINF:-1 tvg-logo="https://www.tamilgo.com/tv/uploads/user_image/1.jpg" group-title="PRASAD | INDIA🇮🇳", Jaya TV UK
 http://tamilgo.com/api/stb/sltv/sltv.php?uid=RahulVala_6431028&id=285938
