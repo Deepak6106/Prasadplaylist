@@ -2688,56 +2688,6 @@ http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61797
 http://185.71.64.115:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61798
 
 
-#EXTM3U
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/SewJoaeUcv.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Jio KIDS
-https://botallen.live/j/Jio_KIDS/master.m3u8?signature=e35f5ebd705631faacbb8a45346ddd8e701539a2&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/FnJpgPxXzw.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Sonic Hindi
-https://botallen.live/j/sonic_Hindi/master.m3u8?signature=5f68f2ff73dd7865ab22dc0091a05e316628f706&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/fKMnzXvUKZ.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Discovery Kids 2
-https://botallen.live/j/Discovery_Kids_2/master.m3u8?signature=d1042f3c58bbc1c6cea81bca3b4a26f86d65c117&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/RxDWXjMeIO.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Nick Marathi
-https://botallen.live/j/Nick_Marathi/master.m3u8?signature=d1344c4dd4c2d0c95d82c9a479da0737399f75fc&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/yXbhLadCcC.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Nick Hindi
-https://botallen.live/j/Nick_Hindi/master.m3u8?signature=d1d7762efd359158f4f83ef44cefa429a90200ea&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/PEzDoJqMzW.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  CN HD+ English
-https://botallen.live/j/CN_HD_English/master.m3u8?signature=0c51dc0e33fd9b7ba5c1f454a40f21cf4c65565c&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/WRCMGeeSkQ.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Cartoon Network Hindi
-https://botallen.live/j/Cartoon_Network_Hindi/master.m3u8?signature=9a926987046baea5ef4b77841fced64167abdaad&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/rTXzJGLpKN.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Pogo Hindi
-https://botallen.live/j/Pogo_Hindi/master.m3u8?signature=1b4c3e06998967ae1a30bc1eb663136449ea3e8d&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/JTDaCYHEPa.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Nick HD+
-https://botallen.live/j/Nick_HD_Plus_BTS/master.mpd?signature=6e32291ee584e2d4b1952db430d6f3bf700bdc52&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/SIWKhJHwzf.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Sonic Marathi
-https://botallen.live/j/Sonic_Marathi/master.m3u8?signature=11718ab294234545e0ee4e67384dd8491c38a454&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/AmhKpSTAlV.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Nickelodeon
-https://botallen.live/j/Nickelodeon/master.m3u8?signature=e2e8238e2161a3551ae0d71cc6964175efdc01ac&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/FnJpgPxXzw.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Sonic Hindi
-https://botallen.live/j/sonic_Hindi/master.m3u8?signature=5f68f2ff73dd7865ab22dc0091a05e316628f706&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
-#EXTINF:-1 tvg-logo="https://assets.botallen.live/images/j/fKMnzXvUKZ.png" group-title="cartoon 👨‍🏫🙆‍♀️🚣‍♂️",  Discovery Kids 2
-https://botallen.live/j/Discovery_Kids_2/master.m3u8?signature=d1042f3c58bbc1c6cea81bca3b4a26f86d65c117&unique=a551a8cc140e175908c9d4667774cb38|User-Agent=KAIOS
-
 
 
 #EXTM3U 
