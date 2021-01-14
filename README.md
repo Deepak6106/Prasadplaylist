@@ -9384,4 +9384,87 @@ http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=82558
 http://tamilgo.com/api1cdn/stb/tatasky.php?uid=RahulVala_6431028&id=145655
 
 
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Cinema FHD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4002
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Cinema IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3967
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Cinema IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Cinema Inter IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Action HD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Anmol Cinema IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3970
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee TV HD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee TV IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/4000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee TV UK IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672458
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Anmol IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5566
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Bangla IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5592
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Business IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5570
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee News IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Telugu IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5593
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Alwan IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/10630
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", ZEE living (USA) IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Theatre HD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Omroep Zeeland NL
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11409
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Cinema IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3967
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Cinema IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/3968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ZEE international", Zee Alwan AR
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8960
+
+#EXTM3U
+
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS international", (prasad) Colors [UK] FHD VIP IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/672308
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS international", (prasad) Colors HD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/651513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS international", (prasad) Colors [B] HD IN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/5579
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="COLORS international", (prasad) Colors TV UK
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16881
+
 
